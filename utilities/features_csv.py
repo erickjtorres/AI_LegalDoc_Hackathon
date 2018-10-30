@@ -21,6 +21,7 @@ def to_csv(docs, labels):
     print('----Done finding Cookies!----')
 
     #provided by Dixon
+    #smog is useless!!!
     # smog_index = smog(docs)
     fog_index = fog(docs)
     print('----Done fog index!----')

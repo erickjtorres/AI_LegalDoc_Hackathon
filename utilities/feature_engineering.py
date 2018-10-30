@@ -70,25 +70,18 @@ def stem(word):
     new_word = stemmer.stem(word)
     return new_word
 
-def find_list(docs, word):
+def find_list(docs, keyword):
     """Creates a list of similar words and finds if those words exist in the corpus. Returns a dict"""
     dict_ = {}
     matcher = PhraseMatcher(nlp.vocab)
-    terminology_list = find_similar([word])
-    patterns = [nlp(text) for text in terminology_list]
-    matcher.add('TerminologyList',  *patterns)
-    for iD in docs:
-        texts = nlp(docs[iD])
-        for sents in texts.sents:
-            sents = sents.as_doc()
-            matches = matcher(sents)
-            #looks at data because personal is not important in this case its an "amod" of data
-            if len(matches) > 0 and (iD not in dict_ or dict_[iD] == 0):
-                dict_[iD] = 1
+    terminology_list = find_similar([keyword])
+    for word in terminology_list:
+        dict_temp = find_words(docs, word)
+        for iD in dict_temp:
+            if (iD not in dict_ or (dict_[iD] == 0 and dict_temp[iD] == 1)):
+                dict_[iD] = dict_temp[iD]
             elif iD in dict_:
                 dict_[iD] = dict_[iD]
-            else:
-                dict_[iD] = 0
     return dict_
 # # helper function to phrase_matcher()
 # def found_match(matcher, doc, i, matches):
@@ -109,14 +102,13 @@ def phrase_matcher(docs, lst_words, keyword=['personal data']):
     terminology_list = keyword
     patterns = [nlp(text) for text in terminology_list]
     matcher.add('TerminologyList',  *patterns)
-
     for iD in docs:
         texts = nlp(docs[iD])
-        for sents in texts.sents:
-            sents = sents.as_doc()
-            matches = matcher(sents)
+        for sent in texts.sents:
+            sent = sents.as_doc()
+            matches = matcher(sent)
             #looks at data because personal is not important in this case its an "amod" of data
-            if len(matches) > 0 and sents[matches[0][1]+1].head.text in lst_words and (iD not in dict_ or dict_[iD] == 0):
+            if len(matches) > 0 and sent[matches[0][1]+1].head.text in lst_words and (iD not in dict_ or dict_[iD] == 0):
                 dict_[iD] = 1
             elif iD in dict_:
                 dict_[iD] = dict_[iD]
@@ -135,17 +127,17 @@ def find_associated(word, docs):
     """Returns a list of words that are associated with a word in sentences belonging to texts of a corpus"""
     associated = []
     matcher = PhraseMatcher(nlp.vocab)
-    terminology_list = [keyword]
+    # terminology_list = []
     patterns = nlp(word)
     matcher.add('TerminologyList',*patterns)
 
     for iD in docs:
         texts = nlp(docs[iD])
-        for sents in texts.sents:
-            sents = sents.as_doc()
-            matches = matcher(sents)
-            if len(matches) > 0 and doc[matches[0][1]+1].head.text not in associated:
-                associated.append(doc[matches[0][1]+1].head.text)
+        for sent in texts.sents:
+            sent = sent.as_doc()
+            matches = matcher(sent)
+            if len(matches) > 0 and sent[matches[0][1]+1].head.text not in associated:
+                associated.append(sent[matches[0][1]+1].head.text)
     return associated
 
 #Another idea i had was to check if these words and similar existed in the same sentence of personal data
