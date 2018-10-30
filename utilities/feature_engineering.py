@@ -48,6 +48,8 @@ def find_similar(lst_words):
         try:
             #turn the words into a syssets object
             syn = wordnet.synsets(word)[0]
+            new_words.append(stem(word))
+            new_words.append(word)
             #find the lemmas
             lemmas = syn.lemmas()
         except:
@@ -62,6 +64,32 @@ def find_similar(lst_words):
                 new_words.append(form.synset().name().split('.')[0])
     return set(new_words)
 
+def stem(word):
+    """Returns the an array with the removed stem of the word"""
+    stemmer = PorterStemmer()
+    new_word = stemmer.stem(word)
+    return new_word
+
+def find_list(docs, word):
+    """Creates a list of similar words and finds if those words exist in the corpus. Returns a dict"""
+    dict_ = {}
+    matcher = PhraseMatcher(nlp.vocab)
+    terminology_list = find_similar([word])
+    patterns = [nlp(text) for text in terminology_list]
+    matcher.add('TerminologyList',  *patterns)
+    for iD in docs:
+        texts = nlp(docs[iD])
+        for sents in texts.sents:
+            sents = sents.as_doc()
+            matches = matcher(sents)
+            #looks at data because personal is not important in this case its an "amod" of data
+            if len(matches) > 0 and (iD not in dict_ or dict_[iD] == 0):
+                dict_[iD] = 1
+            elif iD in dict_:
+                dict_[iD] = dict_[iD]
+            else:
+                dict_[iD] = 0
+    return dict_
 # # helper function to phrase_matcher()
 # def found_match(matcher, doc, i, matches):
 #     #there has to be a smarter way of gaining access to variables bellow
@@ -88,8 +116,10 @@ def phrase_matcher(docs, lst_words, keyword=['personal data']):
             sents = sents.as_doc()
             matches = matcher(sents)
             #looks at data because personal is not important in this case its an "amod" of data
-            if len(matches) > 0 and sents[matches[0][1]+1].head.text in lst_words and iD not in dict_:
+            if len(matches) > 0 and sents[matches[0][1]+1].head.text in lst_words and (iD not in dict_ or dict_[iD] == 0):
                 dict_[iD] = 1
+            elif iD in dict_:
+                dict_[iD] = dict_[iD]
             else:
                 dict_[iD] = 0
     return dict_
@@ -158,11 +188,12 @@ def reading_ease(docs):
         dict[iD] = flesch_reading_ease(docs[iD])
     return dict
 
-def smog(docs):
-    dict = {}
-    for iD in docs:
-        dict[iD] = smog_index(docs[iD])
-    return dict
+#smog index is useless
+# def smog(docs):
+#     dict = {}
+#     for iD in docs:
+#         dict[iD] = smog_index(docs[iD])
+#     return dict
 
 def fog(docs):
     dict = {}
