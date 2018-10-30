@@ -1,0 +1,457 @@
+|Hosting and Domains |PEC and Certified Services |Data Center Solutions |Cloud
+Privacy Policy pursuant to Article 13 of (EU) Regulation No. 679/2016 ("GDPR")
+Aruba S.p.a. (hereinafter "Aruba") protects the confidentiality of personal data and guarantees its necessary protection against any event that may put it at risk of violation. As provided for by European Union Regulation No. 679/2016 (hereinafter "GDPR") and Article 13 in particular, please find below the information required by law relating to the processing of your personal data.
+
+SECTION I Who we are and what data we process (Article 13, paragraph 1 (a), Article 15 (b) GDPR)
+
+Aruba S.p.a., represented pro tempore with registered offices at Via San Clemente, 53 Ponte San Pietro (BG) Italy, acts as the Data Controller and can be reached at privacy@staff.aruba.it and collects and/or receives information relating to you, such as:
+
+Category of data
+
+Examples of types of data
+
+Contact details
+
+First name, last name, physical address, nationality, residential province and city, landline telephone number and/or cell number, fax, tax ID number, email address(es)
+
+Banking information
+
+IBAN and banking/postal account information (except for Credit Card number)
+
+Internet traffic data
+
+Logs, originating IP address
+
+Aruba does not require you to supply so-called "private" data, that is, according to the provisions of the GDPR (Art. 9), personal data that identifies race or ethnicity, political opinions, religion or philosophy, or any union affiliation, nor any genetic or biometric information used to uniquely identify a physical person, data associated with health or one's sex life, or sexual orientation. In the event the services requested from Aruba require the processing of this data, you will first receive specific notification with a request for your consent.
+The Data Controller has nominated a Data Protection Officer (DPO) who can be contacted for any information or requests: email: dpo@staff.aruba.it Telephone number : +39 0575/0505 For any information or requests, please contact the following address privacy@staff.aruba.it Telephone number +39 0575/0505
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone number 05750505 | Fax 0575862000
+
+| VAT Registration Number 01573850516 | Tax ID Code 04552920482 | Administrative Economic Index [REA] BG 434483 | C.S.  4,000,000 fully paid up
+
+|1
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domains |PEC and Certified Services |Data Center Solutions |Cloud
+SECTION II
+Why we need your data (Art. 13, paragraph 1 GDPR) The data is used by the Data Controller to fulfill the registration request and for the supply contract on the preselected Service and/or Product purchase, to manage and execute the contact requests forwarded by you, offer assistance, fulfill legal and regulatory obligations demanded of the Data Controller in accordance with the activities performed. In no case will Aruba resell any of your personal information to third parties nor use it for any purpose not stated. In particular, your data will be processed for:
+a) registration and contact information, and/or informational materials Your personal data is processed to implement preliminary actions and those following a registration request, to manage information and contact requests, and/or to send informational materials, as well as to satisfy any and all other obligations arising herewith. The legal basis for this processing is to provide the services relating to a request for registration, information and contact, and/or the sending of informational materials, and to comply with legal requirements.
+b) administering the contractual relationship Your personal data is processed to implement preliminary actions and those following the purchase of a Service and/or a Product, to manage the applicable order, to perform the Service itself and/or for production and/or shipping of the purchased Product, the associated invoicing and payment management, handling of any returns and/or notifications to the support service and performance of the support itself, fraud prevention, as well as fulfillment of any and all other requirements arising from the contract. The legal basis for this processing is to provide the services relating to the contractual relationship and to comply with legal requirements.
+c) promotional activities on Services/Products that are similar to those you have purchased (Clause 47 GDPR) The Data Controller, even without your explicit consent, may use the contact information you provided for direct sales of its own Services/Products, limited to those Services/Products that are similar to the ones included in the sale, unless you specifically refuse.
+d) business promotional activities on Services/Products that are different from the ones you purchased Your personal data may also be processed for business promotional purposes, for market research studies involving the Services/Products that the Data Controller offers, but only if you have authorized this processing and have not opposed it. This processing may occur by the following automated methods:
+- email; - sms; - telephone contact and may occur: 1. if you have not withdrawn your consent for the use of your data; 2. if processing is done through contact with a telephone operator, and you are not registered on the non-
+call registry as outlined in Presidential Decree No. 178/2010; The legal basis for this processing is the consent you initially granted for the processing itself, which you may freely withdraw at any time (see Section III).
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone number 05750505 | Fax 0575862000
+
+| VAT Registration Number 01573850516 | Tax ID Code 04552920482 | Administrative Economic Index [REA] BG 434483 | C.S.  4,000,000 fully paid up
+
+|2
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domains |PEC and Certified Services |Data Center Solutions |Cloud
+e) digital security The Data Controller, in line with the provisions of Clause 49 of the GDPR and through its providers (third parties and/or recipients), processes your personal data involving traffic only to the extent strictly necessary and proportional to guarantee security of the networks and the information. This means the capacity of a network or information system to block, at a given level of security, any unforeseen events or illegal or malicious acts that would compromise the availability, authenticity, integrity and confidentiality of the personal data stored or transmitted. The Data Controller will immediately notify you if there is any risk of violation of your data, except for any obligations noted in the provisions of Art. 33 GDPR associated with notifications of personal data violations. The legal basis for this processing is to comply with legal requirements and the legitimate interests of the Data Controller in undertaking processing for the purpose of protecting corporate assets and the security of the Aruba Group's offices and systems.
+f) profiling
+Your personal data may also be processed for profiling purposes (such as analyzing the transmitted data and the pre-selected Services/Products, suggesting advertising messages and/or business offers in line with user selections) exclusively when you have given explicit and informed consent. The legal basis for this processing is the consent you initially granted for the processing itself, which you may freely withdraw at any time (see Section III).
+g) fraud prevention (Clause 47 and Art. 22 GDPR) � Your personal data, except for private data (Art. 9 GDPR) or legal information (Art. 10 GDPR) will be processed to allow controls for monitoring purposes and prevention of fraudulent payments. This processing will be done by software systems that run automated checks and will be carried out prior to negotiating Services/Products; � a negative result on these checks will render the transaction impossible; you can, in any case, express your opinion, obtain an explanation or dispute the decision by outlining your reasons to the Customer Support Department or to the contact privacy@staff.aruba.it; � personal data collected only for anti-fraud purposes, which differs from the data needed for the proper performance of the service requested, shall be immediately deleted upon termination of the verification phase.
+h) protection of minors The Services/Products offered by the Controller are reserved for those entities legally able, based on national regulations, to satisfy contractual obligations. The Controller, to prevent illegal access to its own services, implements preventive measures to protect its own interests, such as checking tax identification numbers or, when necessary for specific Services/Products, the accuracy of the identification data on the identification documents issued by the applicable authorities.
+Communication to third parties and categories of recipients (Article 13, paragraph 1 GDPR) Your personal data is communicated mainly to third parties and/or recipients whose activity is necessary to perform the activities relating to the contract established, and to meet certain legal requirements, such as:
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone number 05750505 | Fax 0575862000
+
+| VAT Registration Number 01573850516 | Tax ID Code 04552920482 | Administrative Economic Index [REA] BG 434483 | C.S.  4,000,000 fully paid up
+
+|3
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domains |PEC and Certified Services |Data Center Solutions |Cloud
+
+Categories of recipients
+
+Purposes
+
+Companies belonging to the Aruba S.p.A. Group Fulfillment of administrative and accounting
+
+("Aruba Group")
+
+requirements as well as those connected with the
+
+contractual services,
+
+Third party providers and companies belonging to the Aruba S.p.A. Group*
+
+Performance of services (assistance, maintenance, delivery/shipping of products, performance of additional services, providers of networks and electronic communication services) associated with the requested service
+
+Credit and electronic payment institutions, Managing deposits, payments, reimbursements
+
+banks/post offices
+
+associated with the contractual service
+
+External professionals/consultants and consulting firms Fulfillment of legal requirements, exercising rights, protecting contractual rights, credit recovery
+
+Financial Administration, Public Agencies, Legal Authorities, Supervisory and Oversight Authorities
+
+Fulfillment of legal requirements, protection of rights; lists and registries held by Public Authorities or similar agencies based on specific regulations relating to the contractual service
+
+Formally mandated subjects or those with recognized Legal representatives, administrators, guardians, etc. legal rights
+
+* The Controller requires its own third party providers and Data Processors to adhere to security measures that are equal to those adopted for you by restricting the Data Processor's scope of action to processing directly related to the requested service.
+The Controller will not transfer your personal data to countries where the GDPR is not applicable (countries outside the EU) except where specifically indicated otherwise, in which case you will be notified first, and if necessary asked for your consent.
+The legal basis for this processing is fulfillment of the services outlined in the established contract, compliance with legal obligations, and the legitimate interests of Aruba S.p.a. to perform the processing necessary for these purposes.
+
+SECTION III
+
+What happens when you do not provide your identification information as needed to perform the requested service? (Article 13, paragraph 2 (e) GDPR)
+
+The collection and processing of your personal data is necessary to fulfill the service requests as well as to perform the Service and/or supply the requested Product. Should you fail to provide your personal data as expressly required within the order form or the registration form, the Data Controller will not be able to carry out the processing associated with managing the requested services and/or the contract and the Services/Products associated with them, nor fulfill the operations dependent on them.
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone number 05750505 | Fax 0575862000
+
+| VAT Registration Number 01573850516 | Tax ID Code 04552920482 | Administrative Economic Index [REA] BG 434483 | C.S.  4,000,000 fully paid up
+
+|4
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domains |PEC and Certified Services |Data Center Solutions |Cloud
+What happens when you do not provide the consent for processing personal data for the business promotion activities on Services/Products that are different from those purchased?
+When you do not give your consent to the processing of your personal data for these purposes, the processing will not be implemented for these specific purposes, but it will not affect the performance of the requested services or those for which you have already given your consent, if requested. In the event you have given consent and later withdraw it or oppose the processing for business promotional activities, your data will no longer be processed for these activities, although this will not create negative effects or consequences for you or the services requested.
+How we process your data (Article 32, GDPR)
+The Controller makes use of appropriate security measures to preserve the confidentiality, integrity and availability of your personal data, and requires the same security measures from third party providers and the Processors.
+Where we process your data
+Your data is stored in hard copy, electronic and remote archives located in countries where the GDPR is applicable (EU countries).
+How long is your data stored? (Article 13, paragraph 2 (a) GDPR) Unless you explicitly express your own desire to remove it, your personal data will be stored until required for the due purposes for which it was collected. In particular, the data will be stored for the entire duration of your registration and in any case for no longer than a maximum period of 12 (twelve) months of inactivity, that is, within this time period, there have been no Services and/or Products purchased using this registration. For data provided to the Controller for the purposes of business promotion for services other than those you have already purchased, for which you initially gave consent, it will be stored for 24months, except when such consent is withdrawn. For data provided to the Controller for the purposes of profiling, it will be stored for 12 months, again except when consent has been withdrawn. It is also important to add that, should the user forward to Aruba personal data that has not been requested or that is unnecessary for the purposes of performing the services requested, or for the performance of services strictly connected thereto, Aruba cannot be considered controller of this data and will proceed to delete it as soon as possible. Regardless of your determination to remove the data, your personal information will be, in any case, stored according to the terms outlined in current law and/or national regulations, for the exclusive purpose of guaranteeing specific requirements, applicable to certain Services (for example, but not limited to, Certified Electronic Mail, Digital Signature, Digital Preservation - refer to the associated section). Furthermore, personal data will in any case be stored to comply with obligations (e.g. tax and accounting purposes) which may continue even after termination of the contract (Art. 2220 Civil Code); for these purposes, the Controller shall retain only the data necessary to complete these activities. For those cases where the rights arising from the contract and/or registration are used in the courts, your personal data, exclusively required for these purposes, shall be processed for the time necessary to complete them.
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone number 05750505 | Fax 0575862000
+
+| VAT Registration Number 01573850516 | Tax ID Code 04552920482 | Administrative Economic Index [REA] BG 434483 | C.S.  4,000,000 fully paid up
+
+|5
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domains |PEC and Certified Services |Data Center Solutions |Cloud
+
+What are your rights? (Articles 15 - 20 GDPR)
+
+You have the right to obtain the following from the Data Controller:
+
+a) confirmation on whether your personal data is being processed and if so, to obtain access to your personal data and the following information:
+
+1.
+
+the purposes of the processing;
+
+2.
+
+the categories of personal data in question;
+
+3.
+
+the recipients or categories of recipients that have received or will receive your personal data,
+
+in particular if these recipients are in third party countries or are international organizations;
+
+4.
+
+when possible, the anticipated storage period of your personal data or, if not possible, the
+
+criteria used to determine this period;
+
+5.
+
+whether you have the right to ask the Data Controller to correct or delete your personal data
+
+or the limits on processing your personal data or to oppose the processing of the data;
+
+6.
+
+the right to lodge a complaint with a supervisory authority;
+
+7.
+
+in the event the data is not collected from you, all of the information available regarding its
+
+origin;
+
+8.
+
+whether there is an automated decision process, including profiling, and, at least in these cases,
+
+significant information on the logic used, as well as the importance and consequences to you for this
+
+processing.
+
+9.
+
+the suitable guarantees provided by the third party country (outside EU) or international
+
+organization to protect any transferred data
+
+b) the right to obtain a copy of the personal data processed, again given that this right does not affect the rights and freedoms of others; for extra copies requested by you, the Data Controller may assign a reasonable fee based on administrative costs.
+
+c) the right to edit any of your incorrect personal data from the Data Controller without unjustified delay
+
+d)the right to have your personal data deleted by the Data Controller without unjustified delay, if there are the reasons outlined in the GDPR, Article 17, including, for example, if the data is no longer needed for processing or if the data is considered illegal, and again, if there are no conditions outlined by law; and in any case, if the processing is not justified by another equally legitimate reason;
+
+e) the right to obtain limits on the processing from the Data Controller, in those cases outlined in Art. 18 of the GDPR, for example where you have disputed the correctness, for the period necessary for the Data Controller to verify the data's accuracy. You must be notified, within an appropriate time, even when the suspension period has passed or the cause of limiting the processing has been eliminated, and therefore the limitation itself has been withdrawn;
+
+f) the right to obtain information from the Data Controller on the recipients who have received the requests for any corrections or deletions or limits on the processing implemented, except when this is impossible or would create a disproportionate effort.
+
+g) the right to receive your personal data in a structured format, commonly used and readable by automatic devices as well as the right to forward this data to another Data Controller without obstruction from the original Data Controller, in those cases outlined by Art. 20 of the GDPR, and the right to obtain direct forwarding of your personal data from one Data Controller to another, if technically feasible.
+
+For further information and to send your request, contact the Data Controller at privacy@staff.aruba.it . To guarantee that the rights noted above are exercised by you and not by unauthorized third parties, the Data Controller may require you to provide other information necessary for this purpose.
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone number 05750505 | Fax 0575862000
+
+| VAT Registration Number 01573850516 | Tax ID Code 04552920482 | Administrative Economic Index [REA] BG 434483 | C.S.  4,000,000 fully paid up
+
+|6
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domains |PEC and Certified Services |Data Center Solutions |Cloud
+How and when can you oppose the processing of your personal data? (Art. 21 GDPR) For reasons associated with your particular situation, you may at any time oppose the processing of your own personal data if it is based on legitimate reasons or if it is done for business promotional activities, by sending a request to the Data Controller at privacy@staff.aruba.it. You have the right to have your own personal data deleted if the Data Controller has no legitimate reason prevailing over such request, and in any case, where you have opposed the processing for business promotional activities.
+Who can you lodge a complaint with? (Art. 15 GDPR) Without prejudice to any other ongoing administrative or judicial action, you may lodge a complaint with the applicable supervisory authority of the Italian territory (Italian Personal Data Protection Authority), that is, with the agency that performs its duties and exercises its rights within the member country where the GDPR violation occurred. Any updates to this information shall be communicated in a timely manner and through suitable means, and will be notified to you if the Data Controller processes your data for purposes other than those outlined in this privacy policy prior to proceeding and after you have given your consent, if necessary.
+SECTION IV
+This section gives you specific information on the processing of your personal data for each of the Services outlined below.
+
+ARUBA.IT HOSTING SERVICES
+
+Communications to third parties and categories of recipients
+Within the sphere of performing the services to register a domain name with an extension (TLD) that does not fall within the list below
+
+.at
+
+.ee
+
+.hr
+
+.lv
+
+.se
+
+.be
+
+.es
+
+.hu
+
+.mt
+
+.si
+
+.bg
+
+.eu
+
+.ie
+
+.nl
+
+.sk
+
+.cz
+
+.fi
+
+.it
+
+.pl
+
+.uk
+
+.de
+
+.fr
+
+.lt
+
+.pt
+
+.dk
+
+.gr
+
+.lu
+
+.ro
+
+personal data, for those purposes strictly relating to the service, shall be disclosed to third parties (Registration Authorities and associated accredited entities) with locations in countries where the GDPR is not applicable (countries outside the EU) and in any case where there is a provision of suitable level of data protection by the European Commission.
+Furthermore, you are hereby notified that the registration of a domain name includes inputting your own personal data within a publicly accessible registry ("Whois") stored at the applicable Registration Authority for the selected extension, except when you have requested that your personal data be hidden according to the methods outlined by the applicable Registration Authority, or per the contractual conditions associated with the Service.
+The legal basis for this processing is fulfillment of the services outlined in the established contract, compliance with legal obligations, and the legitimate interests of Aruba S.p.a. to perform the processing necessary for these purposes.
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone number 05750505 | Fax 0575862000
+
+| VAT Registration Number 01573850516 | Tax ID Code 04552920482 | Administrative Economic Index [REA] BG 434483 | C.S.  4,000,000 fully paid up
+
+|7
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domain |Certified Email [PEC] and Certified Services |Data Center Solutions |Cloud
+ARUBA.IT CLOUD SERVICES
+Communications to third parties and categories of recipients Within the exclusive realm of fulfilling the "Cloud - Domain center" Service, which allows registration of a domain name, personal data, for those purposes strictly relating to the registration of the domain itself, shall be forwarded to third parties (Registration Authorities and associated accredited entities) with locations in countries where the GDPR is not applicable (countries outside the EU) and in any case where there is a provision of suitable level of data protection by the European Commission.
+Furthermore, you are hereby notified that the registration of a domain name includes inputting your own personal data within a publicly accessible registry ("Whois") stored at the applicable Registration Authority for the selected extension, except when you have requested that your personal data be hidden according to the methods outlined by the applicable Registration Authority, or per the contractual conditions associated with the Service.
+The legal basis for this processing is fulfillment of the services outlined in the established contract, compliance with legal obligations, and the legitimate interests of Aruba S.p.a. to perform the processing necessary for these purposes.
+OFFICE 365 SERVICES
+Communications to third parties and categories of recipients
+Within the realm of providing the "Office 365" Service, your personal data may be forwarded to third parties with locations in countries where the GDPR is not applicable (countries outside the EU), and in any case, where a suitable provision is in place governing the level of data protection by the European Commission or which have, in any case, provided all of the guarantees indicated in Art. 46 GDPR.
+The legal basis for this processing is fulfillment of the services outlined in the established contract, compliance with legal obligations, and the legitimate interests of Aruba S.p.a. to perform the processing necessary for these purposes.
+E-SECURITY SERVICES/PRODUCTS
+Who we are (Art. 13, paragraph 1, (a), Art. 15, (b), Art. 26 GDPR) If you have chosen to purchase one or more Services/Products, including "E-Security," such as Certified Electronic Mail (PEC), Digital Signature, Digital Preservation - E-invoicing for PA (DocFly), Timestamp, and SimCard or SmartCard readers in the formats indicated on the site www.pec.it, unless otherwise indicated herein, Aruba S.p.A., with offices in Ponte San Pietro (BG) Italy, Via San Clemente no. 53, and Aruba PEC S.p.A., with offices in Ponte San Pietro (BG) Italy, Via San Clemente no. 53, represented by their legal representatives pro tempore, operate as Joint Data Controllers and can be reached via email privacy@staff.aruba.it.
+These Joint Data Controllers have jointly established that for these Services/Products, all information relating to the processing of the personal data provided to you and displayed in the previous Sections of this privacy policy shall remain valid.
+The Joint Data Controllers have designated the Data Protection Officer (DPO) as outlined in Section I of this privacy policy as the contact point for any information. The Data Protection Officer's contact information is as follows: e-mail: dpo@staff.aruba.it
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone 05750505 | Fax 0575862000
+
+| VAT Number 01573850516 | Tax ID Code04552920482 | Administrative Economic Index [REA] [ BG 434483 | Share Capital. 4,000,000 fully paid up
+
+|8
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domain |Certified Email [PEC] and Certified Services |Data Center Solutions |Cloud
+
+Telephone: +39 0575/0505
+For any of the following services, furthermore, in addition to what is outlined in the previous Sections, the Joint Data Controllers will provide you with the following information:
+
+Certified Electronic Mail what data we process (Article 13, paragraph 1 (a), Article 15 (b) GDPR)
+
+Category of data
+
+Examples of types of data
+
+Contact details Internet traffic data
+
+Copy of identification document PEC message LOGs
+
+how long is your data stored? (Article 13, paragraph 2 (a) GDPR)
+
+In regard to the provisions of the applicable laws, the personal data outlined below shall be stored for the period indicated:
+
+Type of data
+
+Term
+
+Copy of identification document
+
+in accordance with the provisions outlined in Section III
+
+PEC message LOGs
+
+30 months from the message date
+
+Certification Authority Services (digital signature, qualification certificates) what data we process (Article 13, paragraph 1 (a), Article 15 (b) GDPR)
+
+Category of data
+
+Examples of types of data
+
+Contact details Internet traffic data
+
+Applicant data and registration documents, qualification certificate data and data found in the qualification certificate
+Audit trail LOGs
+
+How long is your data stored? (Article 13, paragraph 2 (a) GDPR)
+In regard to the provisions of the applicable laws, the personal data outlined below shall be stored for the period indicated:
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone 05750505 | Fax 0575862000
+
+| VAT Number 01573850516 | Tax ID Code04552920482 | Administrative Economic Index [REA] [ BG 434483 | Share Capital. 4,000,000 fully paid up
+
+|9
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domain |Certified Email [PEC] and Certified Services |Data Center Solutions |Cloud
+
+Type of data
+
+Term
+
+Applicant data and registration documents, 20 (twenty) years qualification certificate data and data found in the qualification certificate
+
+Data from audit trail and certificate life cycles
+
+20 (twenty) years
+
+DocFly - Digital Preservation/ E-invoicing for PA what data we process (Article 13, paragraph 1 (a), Article 15 (b) GDPR)
+
+Category of data
+
+Examples of types of data
+
+Internet traffic data
+
+Audit LOGs
+
+How long is your data stored? (Article 13, paragraph 2 (a) GDPR)
+In regard to the provisions of the applicable laws, the personal data outlined below shall be stored for the period indicated:
+
+Type of data
+
+Term
+
+Audit LOGs
+
+in accordance with the provisions outlined in Section III
+
+SECTION V
+COOKIES General information, deactivation and cookie management
+Cookies are data sent from the website and stored by the internet browser in your computer or other device (for example, tablet or cellphone). Technical and third party cookies may be installed from our internet site or associated subdomains. In any event, you can manage, that is, request general deactivation or deletion of the cookies by changing the settings on your web browser. However, this deactivation may delay or block access to some parts of the site. Settings to manage or deactivate cookies can change depending on the internet browser used. Therefore, to get more information on the methods by which these operations are completed, we advise you to consult the manual for your specific device or the "Help" function for your specific web browser.
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone 05750505 | Fax 0575862000
+
+| VAT Number 01573850516 | Tax ID Code04552920482 | Administrative Economic Index [REA] [ BG 434483 | Share Capital. 4,000,000 fully paid up
+
+| 10
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domain |Certified Email [PEC] and Certified Services |Data Center Solutions |Cloud
+
+Below are links that explain how to manage or disable cookies for the most common web browsers:
+- Internet Explorer: http://windows.microsoft.com/it-IT/internet-explorer/delete-manage-cookies - Google Chrome: https://support.google.com/chrome/answer/95647 - Mozilla Firefox: http://support.mozilla.org/it/kb/Gestione%20dei%20cookie - Opera: http://help.opera.com/Windows/10.00/it/cookies.html - Safari: https://support.apple.com/kb/PH19255
+
+Technical cookies The use of technical cookies, that is, those cookies needed to transmit communications over electronic communication networks, or those cookies that are strictly necessary for the provider to fulfill the service requested by the customer, allows our website to be used securely and efficiently. Session cookies can be installed to allow access and permanence within the portal's reserved area as an authenticated user. Technical cookies are essential for our website to work properly and are used to allow users to navigate normally and have the possibility of using the advanced services available on our website. The technical cookies used are considered session cookies, stored exclusively for the navigation period up until the browser is closed, while persistent cookies are saved in the user's device until they expire or are deleted by the user. Our site uses the following technical cookies: � Technical navigation or session cookies, used to manage normal navigation and user authentication;
+� Functional technical cookies, used to memorize user personalization, such as, for example, language;
+� Technical analytic cookies, used to recognize the way in which the user utilizes our website, in order to evaluate and improve functionality.
+Third party cookies Third party cookies may be installed: these are analytic and profiling cookies from Google Analytics, Google Doubleclick, Criteo, Rocket Fuel and Facebook. These cookies are sent to our website by these external third party websites. Third party analytic cookies are used to identify information on the behavior of users on the website. Identification is done anonymously to monitor services and improve the site's usability. Third party profiling cookies are used to create profiles associated with the users, to propose publicity messages in line with the choices made by the users themselves. The use of these cookies is governed by the regulations established by the third parties themselves, and therefore Users are asked to review the privacy information and information on managing or disabling the cookies published on the following web pages:
+For Google Analytics cookies: - privacy policy: https://www.google.com/intl/it/policies/privacy/ - information to manage or disable cookies: https://support.google.com/accounts/answer/61416?hl=it
+For Google Doubleclick cookies: - privacy policy: https://www.google.com/intl/it/policies/privacy/ - information to manage or disable cookies: https://www.google.com/settings/ads/plugin
+For Criteo cookies: - privacy policy: http://www.criteo.com/it/privacy/ - information to manage or disable cookies: http://www.criteo.com/it/privacy/
+For Facebook cookies: - privacy policy: https://www.facebook.com/privacy/explanation
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone 05750505 | Fax 0575862000
+
+| VAT Number 01573850516 | Tax ID Code04552920482 | Administrative Economic Index [REA] [ BG 434483 | Share Capital. 4,000,000 fully paid up
+
+| 11
+
+Vers. 2.0 of 21/5/18
+
+|Hosting and Domain |Certified Email [PEC] and Certified Services |Data Center Solutions |Cloud
+- information to manage or disable cookies: https://www.facebook.com/help/cookies/
+For CrazyEgg cookies: - privacy policy: https://www.crazyegg.com/privacy/ - information to manage or disable cookies: https://www.crazyegg.com/cookies/
+For Rocket Fuel cookies: - privacy policy: http://rocketfuel.com/it/privacy/ - information to manage or disable cookies: http://rocketfuel.com/it/cookie-policy/ For Youtube cookies: - privacy policy: https://www.youtube.com/intl/it/yt/about/policies/#community-guidelines - information to manage or disable cookies: https://support.google.com/accounts/answer/61416?hl=it
+For Yahoo cookies: - privacy policy and information to manage or disable cookies: https://policies.yahoo.com/ie/it/yahoo/privacy/euoathnoticefaq/
+For Bing cookies: - privacy policy and information to manage or disable cookies: https://privacy.microsoft.com/itit/privacystatement
+Profiling cookies Profiling cookies may be installed by the Data Controller(s) using so-called web analytics software. These are similar to those used to prepare detailed reports and real time analyses relating to information on: website visitors, originating search engines, key words used, user language, and most visited pages.
+They can also collect information and data such as IP address, nationality, city, date/time, device, browser, operating system, screen resolution, navigation origin, pages visited and number of pages, visit duration, and number of visits made.
+This data may be forwarded to each of the Aruba Group companies in accordance with and within the limits established by current law and by the provisions outlined in this Privacy Policy.
+***
+
+Aruba S.p.A. | Via San Clemente n.53 Ponte San Pietro 24036 BG | PEC aruba@aruba.pec.it |Websitearuba.it | Telephone 05750505 | Fax 0575862000
+
+| VAT Number 01573850516 | Tax ID Code04552920482 | Administrative Economic Index [REA] [ BG 434483 | Share Capital. 4,000,000 fully paid up
+
+| 12
+
+Vers. 2.0 of 21/5/18
+
+

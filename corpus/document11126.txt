@@ -1,0 +1,48 @@
+This is one of ten monthly alerts, counting down to the date when GDPR applies.
+
+3 months to go
+
+GDPR Privacy Policy Checklist
+
+If your company is a data controller under the GDPR (for US companies, follow this flowchart), then your company will need to update its privacy policy or privacy notice. Under the GDPR privacy policies must contain more detailed disclosures, while also being understandable and accessible. Even under the current privacy laws, EU regulators have demonstrated they will enforce rules on transparency in privacy disclosures. On February 16, 2018, a Belgian court threatened to fine Facebook US $125 million for failure to disclose its personal data collection practices. These fines may be steeper after May 25th since the GDPR increases the maximum penalties.
+
+Use the checklist below to identify the key disclosure requirements for privacy policies.
+
+Information about processing of personal data
+Purpose of processing
+Legal basis for processing (e.g., consent, performance of a contract, necessary for the purposes of the legitimate interests of the data controller)
+Legitimate interests of the controller (if any)
+Whether automated decision-making, including profiling, will take place (this includes details of the significance and the potential consequences of such processing for the individual)
+Details about collection and use of personal data
+Categories of personal data collected
+Recipients or categories of recipients that receive personal data
+Any transfers of personal data to countries outside of the EEA (and the applicable safeguards in place)
+Data retention policy (i.e., how long the data will be stored for or the criteria used to determine that period)
+Any automated processing of personal data that will take place (including profiling) and how decisions will be made, the significance and any consequences of such processing
+Whether provision of personal data is part of a statutory or contractual requirement and possible consequences if individual refuses to provide personal data
+
+Existence of individual rights Right of access to personal data
+Right to rectification of personal data held where it is incorrect or incomplete
+Right of erasure of personal data ("right to be forgotten") if certain grounds are met
+Right to restrict/suspend processing of personal data
+Right to complain to a supervisory authority
+Additional rights that may apply in certain instances: · Right of data portability (if processing is based on
+consent and automated means) · Right to withdraw consent at any time (if processing
+is based on consent) · Right to object to processing (if processing is based
+on legitimate interests) · Right to object to processing of personal data for
+direct marketing purposes
+Contact information Name and contact details for data controller (and any representative)
+Name and contact details for data protection officer ("DPO"), if a DPO is appointed
+
+Contact Us
+If you have questions about the checklist or for additional information on the GDPR, contact Ted Claypoole at ted.claypoole@ wbd-us.com, Orla O'Hannaidh at orla.ohannaidh@wbd-us.com, or Darryl Webb at darryl.webb@wbd-uk.com, or any member of our GDPR Compliance Task Force.
+
+"Womble Bond Dickinson," the "law firm" or the "firm" refers to the network of member firms of Womble Bond Dickinson (International) Limited, consisting of Womble Bond Dickinson (UK) LLP and Womble Bond Dickinson (US) LLP. Each of Womble Bond Dickinson (UK) LLP and Womble Bond Dickinson (US) LLP is a separate legal entity operating as an independent law firm. Womble Bond Dickinson (International) Limited does not practice law. Please see www.womblebonddickinson.com/us/legal-notice for further details.
+
+womblebonddickinson.com
+
+GDPR | 0218_9467
+
+©2018 Womble Bond Dickinson (US) LLP
+
+

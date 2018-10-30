@@ -1,0 +1,614 @@
+Plain Language Principles and Thesaurus
+ for Making HIPAA Privacy Notices More Readable
+
+Prepared for the Health Resources and Services Administration, 
+ in consultation with the Office for Civil Rights, and other offices and agencies
+ within the U.S. Department of Health & Human Services, Washington, D.C.,
+
+and plain language specialists.
+
+
+Section I - Principles for Writing HIPAA Notices of Privacy Practices in 
+ Plain English
+
+
+Principles for Plain Language Privacy Notices
+Introduction
+You are writing a HIPAA Privacy Notice. Your dilemma is: It's a legal document that must meet the intent and letter of the law, but it also has to be in Plain Language. If you use these Principles you will:
+- be able to write it more quickly and easily, - have fewer revisions and editions.
+These Principles are intended as an aid to writers of Privacy Notices and are not necessarily a guarantee to meet all of the legal requirements of HIPAA. This guidance is intended solely to provide some helpful hints for making a notice of privacy practices more readable. It does not create any binding requirements for how a notice of privacy practices must be phrased or structured.
+The Principles are presented in a "progressive format." That is, the Plain Language process is arranged to flow from the most general to the more detailed. There are advantages to using the same format in your Privacy Notice. Sections in the Principles are:
+Section 1. Introduction and preamble (an overview) Section 2. Principles (Individual principles) Section 3. Examples for each principle using HIPAA
+content. (Details) Section 4. Appendices (Very specific details)
+The Privacy Rule encourages, but does not require, writers to develop a "layered" notice. The Preamble to the Final Modification of August 14, 2002, Federal Register page 53243, says that a two layered notice would satisfy notice requirements. The first layer would be a short notice that summarizes individual's rights and other information. The second layer would be longer and include all the elements required by the Rule.
+2
+
+
+It is possible to combine the "layered" format with the "progressive" format, by using the elements of the "progressive" approach in the second, longer, layer.
+It is important to remember that the Notice must include all the elements that the Rule requires. You can find the details in the Rule. If you are using the progressive approach the required elements can be integrated in the relevant parts. The required elements are:
+� Header with specific language � Uses and disclosures � Separate statements for certain uses and disclosures � Individual rights � Covered entity's duties � Complaints � Contact
+The basis for the Principles is a mix of well known advice for Plain Language. This "mix" is outlined in Suitability Assessment of Materials (SAM).1 Other resources in health care communication can be found at most State Health Departments.
+Principles:
+1. The Content of the Notice:
+The HIPAA rules tell us the topics that must be in the Notice. A special highlighted header on the purpose is also required. But the Notice writer is free to arrange the order of the topics. And the rules allow and encourage that other topics may be added. You may want to place topics in the order of your patients' interest - with the most interesting topic first. After the required statement, the order may be:
+a) A preamble, including "What good is this Notice to me?" (Examples)
+b) What is a health care record? (Examples.) c) Patient Rights. (Examples)
+3
+
+
+d) Who can see your record without asking you? (Examples)
+e) Who can't see your record unless you give a written OK? (Examples)
+A. Preamble:
+A preamble is helpful before giving the HIPAA content. The reasons:
+- Many won't see any personal benefits of the Privacy policy.
+- The very concept of health care records and privacy may not be familiar. (An explanation and visual
+may be needed to clarify.) - Many won't grasp why and what they are asked to
+sign and what use they can or should make of the Privacy Notice.
+Appendix A gives an example of a preamble that covers these points.
+Appendix B gives the text of the rules that describes in detail what to include, how to deliver, and other things about the notice.
+2. Making the Notice easy to read and understand:
+The HIPAA rules do not set a goal for readability level, but many States have set goals for health care print materials.2 These range from 4th to 6th grade levels. In comparison, many draft Privacy Notices written to date are about 16th grade (college grad level). (Note: The average readability of this Principles document is at the 8th grade level.)
+You would like the readability of your Notice to be compatible with the reading skill level of your patient population. The average reading skill of adult Americans is about 9th grade level. For people over 65, and for most
+4
+
+
+minority groups, the average skill levels are lower than 9th grade. (See Ref. 5 for reading skills by age, gender, ethnic set.)
+
+It is clearly the intent of the rules that patients be able to read and understand the Notice. A suitable readability level is essential, but that is only one of the necessary factors for understanding. Because of the complexity of the Notice content, examples are needed to explain what is meant by many of the privacy statements. In fact, Section 164.520(b) of the rules requires that at least one example be given for certain types of disclosures.
+
+A. To make the Notice easier to read:
+- Use a conversational style. It is almost always easier to read narrative than more formal styles of writing. (The rules are written in formal/legal style: you must translate them.) For the first draft, write it as you would say it. Tip: If you find it hard to do this, try running a tape recorder while you tell a person the Notice content as best you can from memory or from a simple list of topics. Then transcribe and edit the tape. For example:
+
+More Formal Language
+
+Conversational Style
+
+Covered entities must describe If you think there is the right of patients to make something wrong or amendment of a protected health missing in your health record if patient believes the record, you can ask that it health information is incorrect be changed. or incomplete.
+- Use common words. Common words are better known to the public and are often shorter. (Common words are used in the example, above right.) A Thesaurus of more common words for those found in HIPAA is in Section II. (For these Principles we use OK vs authorization, rules vs regulations, health care records vs protected medical records, etc.)
+
+5
+
+
+- Use shorter sentences. Keep the average sentence to about 15 words or less. Try bullets for short lists. (For example, in these Principles the average sentence length is between 15 and 20 words.)
+- Avoid hyphens and compound words. These increase readability level. For example: self insured vs self-insured; any one vs anyone.
+- Give examples to explain "problem" words. Problem words - if you use them -are often those that describe a concept, a category, or a value judgment (CCVJ). Some words and phrases may be both a category and concept depending on the context. If you use these kinds of words, add an explanation or example to define them. Here are just a few of the problem CCVJ words found in HIPAA:
+
+Concept disclosures access authorization activities
+
+Category
+
+Value Judgment
+
+disclosures required by law adequate notice
+
+business associates
+
+material changes
+
+covered entity
+
+significant number
+
+self-insured groups
+
+reasonable effort
+
+For example: "disclosures" usually means showing your health care records to someone outside this organization. This can be to another doctor treating you, or those paying for your treatment, and others.
+
+For example: "disclosures required by law" means "When the law demands that we show your health record to other people we will do so. For example, we will report communicable diseases to the appropriate health authorities as required by law. When the law allows us to show your health record to other people, we will show it when there are good reasons to do so. For example, to assist those conducting worthwhile research."
+
+For example: "significant number" means -% or more of the population speaks only some other language.
+
+6
+
+
+- Use lower case rather than all capital letters . Research tells us that text in all CAPS is harder and slower to read, and harder to understand. The reason: Besides looking at the letters in a word, we recognize words by their shape. For example, " try" and "medical" are easier to recognize and read than TRY AND MEDICAL.
+With all CAPS the height of the letters is the same, so we lose "shape of the words" as a reading cue. This slows reading speed. For many, by the time they get to the end of a sentence, they may have forgotten what they read earlier in that sentence. Suggested remedy: To give emphasis or prominence, use bold and larger font size with lower case letters (except where grammar calls for a capital letter).
+- Assessing readability: After drafting your Notice, assess its readability level using one of the many formulas available.
+B. To improve understanding and to make it "look" easier to read:
+The rules do not specify layouts, fonts, and other factors that can make the Notice look easy to read. But if it looks hard to read, many patients won't want to read it, won't bother to read it. And they won't understand it. Many draft Notices written to date have long lists of items. These look hard to grasp and to remember - and they are. Here are ways to make it look easy to read and easier to understand:
+- Allow more white space by using wider margins. Double column of text (like a newspaper format) can also give a more open look. These layout devices will also shorten the line lengths to be closer to 50 to 60 letters and spaces. That is easiest to read.
+- "Chunk" long lists into smaller bites. Chunking makes the information look less formidable, and helps the reader better understand and remember. Look for logical
+7
+
+
+groupings within the long list. Then place these items under suitable descriptive sub headers. Appendix C gives an example of chunking of one group of HIPAA topics.
+- Consider visuals as well as text in your Notice. The legal nature of the HIPAA content and the absence of visuals in the rules do not in any way limit the use of visuals especially for examples. Visuals can be used to explain a number of the HIPAA concepts. For example, consider the stated HIPAA concept phrase: "a health care record." Rough sketches of visuals that might be included for explanation are:
+
+Figure 1. Your health care record can be all of these:
+
+(Show a doctor holding up an x-ray to a light box.)
+An x-ray
+
+(A file folder with
+
+(Two sketches of
+
+lots of papers in. A
+
+desk-top computers,
+
+slot for "Name"___
+
+with image on screens.
+
+on the cover.)
+
+Show lightning flash
+
+between computers to
+
+show linkage.)
+
+A folder of papers
+
+A computer file
+
+-Use large fonts and high contrast. Older readers tend to need larger font sizes. Use at least 12 point font for your Notice. And they need high contrast between ink and paper. For example, black ink on white paper, or black on light yellow paper. Do not use high gloss paper. It has a higher glare.
+
+- Give the context first, before giving the new information. With the context first, it is easier to associate the information with things we already know. If the context is last, we must carry in short term memory all of the preceding information until we get to the end of the sentence. By then, we may have forgotten much of the information that went before.
+
+8
+
+
+Original: Context last - Harder to read: (in italics)
+"We will also provide your physician or a subsequent health care provider with copies of various reports that should assist with your treatment once you are discharged from this hospital."
+Rewritten: Context first - Easier to read:
+"Once you are discharged from this hospital, your physician or other health care providers will be treating you. We will give copies of your health records to doctors and other health providers to help them in treating you."
+C. Use Visuals that explain and clarify:
+Readers should be aware that the Privacy Rule does not require the use of visuals, however, the research tells us that visuals help us understand, and they are a great help to memory. (We remember the face - a visual, but not the name - words). Visuals also "lighten" the page appearance and make it more inviting. For the Privacy Notice, simple visuals could be the examples that clarify the meaning of:
+- sharing of your record by doctors and nurses treating you
+- paying for treatment - running the hospital or clinic - telling about other health benefits and services - reminding you of appointments - telling you about treatment choices - including you in the hospital directory - telling family and friends
+ - others
+
+- Use simple line drawings. These work best because they convey the image without background clutter. They are also less costly to make and can be made and revised quickly. Even stick figure icons can greatly improve memory.
+9
+
+
+- Cue the viewer: The patient needs to quickly grasp what to look at in the picture. For example, if the visual is to show one doctor disclosing a patient record to another for treatment, consider adding an arrow pointing to the folder they are both sharing. The words, "talking about your record" might be added to the arrow.3
+- Use action captions: A short, action caption tells what the visual is all about - its key point. For example, if a visual showed an appointment slip, a caption might say something like, "To remind you when to come back."
+With few exceptions, it is best to include a caption with each visual and always locate the caption in the same place with respect to the visual. If the layout of the text and visuals on the page clearly associates the two, then the adjacent text may serve as the caption.
+3. Make it suitable for the culture:
+First impressions: First impressions do count on how we accept new things. The rules say nothing about a cover page for the Notices. This gives you, the writer, a chance to create a cover that projects a culture friendly image. Although this is not required by the Privacy rule, you will find it helpful to make sure that your notice responds to the culture of the readers. For example, for a Native American population, consider a cover visual showing a Native American patient. The cover might also show a doctor holding or using a health care record. For a mix of ethnic groups (often the case) show a mix of people from ethnic groups on the cover.
+- Match the logic, language, experience of the culture: Write your Notice with these three factors in mind. (But to really know if your draft notice is culturally suitable, you will need to pretest your Notice with a small sample of typical adults from that culture. One-to-one pretesting is recommended. Appendix D outlines a pretesting protocol.)
+10
+
+
+- Logic: Each culture has its own logic with respect to health. For example: It is the logic of many ethnic groups that "the doctor knows best" and their logic and belief is never to question such an authority figure - even if they think their record is wrong. One remedy: The Notice may have to take pains to make such questioning easy for the patient (perhaps by modeling some questions) and/or show by example (a visual?) that it is OK to do so.
+It is logical to think in the here and now, rather than future possibilities. Thus, it may be hard to grasp the logic of showing a patient's health record to a funeral director, or to law enforcement. (Does it mean I'm going to die, or be arrested?) For these, and other less likely disclosures, consider grouping them under a sub-header and adding a short explanation. For example: "When law demands or allows us to we would show your health record to other people. Sometimes when there are good reasons to do so, we could show them."
+- Language: Although many words and terms used in regulations such as HIPAA need translation for any culture, care must be taken so that terms are correctly used. Many words are best explained by an example. For example: "Health Oversight Authorities" such as health inspectors, and other government people who check our hospitals and clinics."
+Metaphors can be misleading in any culture. For example, one draft Notice says that the health record serves "as a tool for education of health care professionals." But in millions of minds, tools are things like hammers, saws, drills. They may think, how could the pieces of paper be like those?
+- Experience: The content of the Notices presupposes a number of special skills in literacy, problem solving, and experience. That is, the reader has to be able to do certain tasks or have some prior knowledge or experience.
+11
+
+
+For example, the tasks and experience needed for patients to exercise their right to limit disclosure of some part of their health care records include:
+1. Understanding that they have a right to do this, and the limits of that right.
+2. Have experience with the process and carry out the required actions. (Write a request, know who to send it to, etc.)
+3. Know how to verify that their request was honored, and protest if it was not.
+For each of the Patient Rights, consider doing a simple task analysis similar to that shown above. That will help you to see if your patient population is likely to have the needed experience and skills to exercise those rights. If they do not, then we suggest that additional helpful advice be included. This may be in the Notice itself or in a supplementary piece. Insight into the skills of the US population as a whole, as well as that of several minority groups can be obtained from the National Adult Literacy Survey (NALS).4
+4. For those with very limited reading skills
+Even the most carefully prepared Privacy Notices are likely to be over the heads of about twenty percent of the adult American population. A copy of the Notice may be given to the patient with the hope that someone at home will read and explain it. Another option is to "tell" the Notice content or use another media. This might be a talk, an audio tape, a pictorial series, or a video tape. For some, an interactive web site may be suitable.5 This is not a requirement of the rule, but is something you may want to consider.
+12
+
+
+In all these media, many of the Principles in the pages above will apply. Some new principles must be added:
+- For factual content, limit the audio tape or video to no more than about eight minutes. Five minutes is better. Otherwise listeners forget most of the facts.
+- Use a story as the fabric to allow you to over-weave the factual HIPAA content. People can remember the factual information better in the context of a story.
+- In the audio or video, refer to the written Privacy Notice document. Tell or show how it is a key document, and how to use it.
+Conclusion: There is no really easy way to produce a highly suitable Privacy Notice for all populations. The cultures and the subjects are too complex for it to be easy. But you can use the above Principles to make the work less frustrating and more effective. Also, your Privacy Notice will be understood by a greater number of your patient population.
+13
+
+
+Section II - Thesaurus of Plain Language Words and Phrases for HIPAA Notices of Privacy Practices
+14
+
+
+This thesaurus of plain language privacy words and phrases is designed to help you write HIPAA notices that will be more readable and understandable. This document identifies technical and legal language that might be hard for most people to understand, and suggests more common words and phrases. But because the same word may have different meanings, not every plain language word or phrase will work for every writer.
+
+You have to deal with both regulatory and language issues in writing your privacy notices. These suggested words and phrases do not give you legal protection, so you should have a lawyer review your final version. While this Thesaurus does not provide a legal safe harbor, it will help you comply with HIPAA's plain language requirements.
+
+Privacy notice words and phrases
+
+Plain language words and phrases
+
+A ...abide by... We will accommodate all reasonable requests.
+The information on or accompanying the bill will include information...
+
+...agree to...
+We will meet/agree to all reasonable requests.
+Your bill will include information...
+
+accrediting agency agency...
+
+...reviewing agency; licensing
+
+acknowledged
+
+accepted; recognized; approved
+
+adverse events
+
+injuries; bad reactions
+
+...after the delivery of treatment...
+
+...after you've been treated...
+
+alternative
+
+choice
+
+amend
+
+change
+
+...appropriate government authority...
+
+...government department...
+
+assist
+
+help
+
+...as soon as reasonably practicable...
+
+...as soon as we can...
+
+15
+
+
+Privacy notice words and phrasesPlain language words and phrases
+
+attorney
+
+lawyer
+
+audit
+
+review; inspect; look at
+
+authorization
+
+your written permission; your written approval
+
+...authorized public or private entity to assist in disaster relief...
+
+...government agency or charity authorized 
+ to help with disaster relief...
+
+
+...authorizing disclosures
+
+...allowing us to share information...
+
+
+B ...before any costs are incurred...
+C certify ...collaborating with... ...collect and maintain... committed ...communication source... communicates The use or disclosure will be made in compliance with the law. comply with the rule us to do... ...coordination or management of care...
+
+...before we do anything that has a cost attached...
+confirm in writing ...working with... ...get and keep... promised ...source of information... tells; let you know Your health information will be used or shared according to the law.
+obey the rule; doing what it tells
+...coordinating your care; making sure you get the care you need...
+
+16
+
+
+Privacy notice words and phrasesPlain language words and phrases
+
+correctional institution
+
+jail or prison
+
+...contact you at work instead of at home or vice versa...
+
+...contact you at work or home...
+
+...court order, subpoena, warrant, summons or similar process...
+
+...court order; legal demand...
+
+covered entities
+
+Health plans, health care clearinghouses that process your health information and your health care providers (such as doctors, hospitals and clinics) that have to comply with these privacy rules.
+
+D ...deceased person...
+
+...dead person; someone who died...
+
+...de-identified information...
+
+...information that does not identify you or tell who you are...
+
+demographic
+
+personal statistics; personal information
+
+...designee of this facility...
+
+...employee who has been identified; employee that we have identified
+
+determine(s)
+
+decide(s)
+
+...disclose information...
+
+...share information; give; tell...
+
+...disclosures we will make...
+
+...information we will share...
+
+E effective date
+...employee review activities...
+
+...takes effect on... ... employee review (evaluations)...
+
+17
+
+
+Privacy notice words and phrasesPlain language words and phrases
+
+...employees, staff and other hospital work personnel...
+
+...hospital personnel; people who at the hospital...
+
+enable
+
+...allow; make possible...
+
+ensure
+
+...make sure...
+
+entities
+
+facilities; institutions; organizations
+
+...established protocols...
+
+...has rules...
+
+evaluate
+
+measure; rate
+
+examination
+
+exam
+
+...exercise your rights...
+
+...use your rights...
+
+...except as described...
+
+...except...
+
+...exceptions, restrictions, and limits...
+
+...limits...
+
+...experienced adverse events...
+
+...been injured or hurt...
+
+F ...facility planning and marketing... ...family can be notified about your condition, status and location... ...family member or personal representative
+...file a written complaint...
+...filing a complaint...
+18
+
+
+...business planning...
+...your family can be told about your health and where you are...
+...family member who is your legal representative for health care...
+...write or e-mail a letter of complaint...
+...complaining...
+
+Privacy notice words and phrases ...for the purpose...
+
+Plain language words and phrases ...to...
+
+G ...governmental entity or agency...
+
+...to (from, for, etc., as appropriate) the government...
+
+H ...health care operations...
+
+...health care operations, including management of organization or facility...
+
+health care professionals
+
+...people who care for you; doctors, nurses; and others who care for you
+
+..health information we have is incorrect...
+
+...health information is wrong...
+
+We may disclose protected health information to a health oversight agency for activities
+authorized by law, such as audits,
+investigations, and inspections.
+
+We can share your health information with agencies that audit, investigate, and inspect health programs for the public's health.
+
+...health record is physical property...
+
+...health record belongs to...
+
+hereby
+
+Do Not Use
+
+honor
+
+follow, abide by
+
+We may use and disclose medical information We may share your medical information
+
+about you for hospital operations.
+
+to run the hospital.
+
+I ...identifiable information...
+
+...personal information that can identify you...
+
+19
+
+
+Privacy notice words and phrases ...identify or locate a suspect, fugitive, material witness or missing person...
+...in an emergency situation... incomplete incorrect ...Indian Health Service facility...
+indicate ...individually identifiable health information... individual(s) ...individual right... ...information is kept by or for the hospital...
+ ...information on or accompanying the bill...
+ ...inmate of a correctional institution... inspect and receive a copy
+...in the following instances...
+
+Plain language words and phrases ...to identify or find someone who is a suspect, fugitive, material witness, or missing person ...in an emergency... lacking wrong ...Indian Health Service/IHS clinic or hospital... tell us
+ ...information about your health care that
+ identifies you...
+ patient(s)
+ ...a person's right...
+ ...hospital keeps the information...
+
+...information with your bill...
+
+...prisoner...
+ get a copy...ask for a copy...see and get a
+ copy ...in these cases...
+
+20
+
+
+Privacy notice words and phrases J ...judicial administrative proceeding... case...
+K
+L law enforcement
+legal options legal requirements Licensure
+M maintained ...make new provisions effective... material change ...may otherwise be at risk for... contracting or spreading the disease or condition. medications ...members of the clergy...
+monitor
+
+Plain language words and phrases
+...legal proceeding such as a court
+police, FBI Officers, and others who enforce laws legal choices the law being licensed
+kept ...make changes effective... significant change ...might catch your disease or spread it...
+. drugs; medicines clergy, for example, priest, minister or rabbi... review; track
+
+21
+
+
+Privacy notice words and phrases N ...next of kin... notify ...not required to agree...
+O ..obligations we have... observations obtain a paper copy obtaining ...other duties authorized by law... them to
+...other purposes permitted or required by law... otherwise
+P ...past, present or future physical or mental health and related health care
+ services...
+ ...pertaining to victims of a crime... physical property physician
+
+Plain language words and phrases
+...close relatives tell you/tell us ...don't have to agree...
+...our responsibilities... ...reports... get a copy getting ...other duties that the law allows perform... ...other purposes that the law allows or requires... if not
+...all your health services...
+
+...being a crime victim... property of; belongs to doctor
+
+22
+
+
+Privacy notice words and phrases ...plan for future care or treatment... ...policies, procedures, practices... ...post marketing surveillance information... ...potentially endangering... ...private insurance payers... procurement ...protected health information...
+...protect the privacy of your health information... protocols ...provide your treatment... ...provided consent... provider
+...providing assistance with your health care... provisions ...psychotherapy information compiled in a reasonable, or use in, reasonable anticipation, or use in a civil, criminal, or administrative proceeding...
+
+Plain language words and phrases ...care plan... ...our rules and standards... ...study drug safety... ...possibly hurting... ...insurance company... getting ...personal medical information that is protected by the rule... ...protect your health information...
+rules ...treat you... ...given consent/permission... doctor, nurse, or other provider of health care ...helping you (with your health care)... ...arranging for... ...psychotherapy notes that might be used in a court case or another legal proceeding...
+
+23
+
+
+Privacy notice words and phrases Q
+R rebuttal regulation ...release information... religious affiliation ...request a correction/amendment...
+...request a restriction... ...we are required to abide... restrictions revised revision ...revoke your written authorization...
+S ...submit your request in writing... ...substantial communication barrier... ...suspected violation...
+
+Plain language words and phrases
+response; answer; contradict rule ...give out your information... religion ...ask us to change; ask us to correct... ...ask us not to ... ...we must... limits new; changed change ...withdraw; take back; tell us not to...
+...write a letter... ...communication problem... ..possible violation...
+
+24
+
+
+Privacy notice words and phrases T thereof ...to support business activities services; of your doctor's practice...
+...training of medical students... ...treatment alternatives and options... ...treatment and services you receive... ...types of uses and disclosures...
+U ...unable to agree to a requested restriction... ...understanding utilization review activities... ...under the custody of law enforcement... ...unless otherwise permitted or required by law as described below... ...upon your request... ...use or disclose... ...undertaking utilization review activities..
+
+Plain language words and phrases
+Do Not Use ...for your doctor's business business services your doctor buys to run his practice... ...training medical students... ...treatment choices... ...care you receive; your care... ...how we share; with whom we share; and how the information is used
+...can't agree with your request...
+...reviewing health services...
+...in legal custody...
+...unless allowed or required by law... ...if you ask... ...use or give out; share; release... ...reviewing our work...
+
+25
+
+
+Privacy notice words and phrases V
+W ...when required to do so by federal, state, or local law... ...where we can make improvements in our care and services... written complaint ...you must do so in writing...
+X, Y, Z
+
+Plain language words and phrases
+...when required by law; when the law requires... ...how we can improve our care... a letter or e-mail ...write a letter or e-mail...
+
+26
+
+
+Appendix A - Example of a Preamble for a Direct
+ Treatment Provider
+
+This Privacy Notice tells you about your rights about your health care records. You get a copy of this Privacy Notice to keep for yourself. You can look at this copy anytime to see what use is made of your health care records and who gets to see them. A new government rule requires that we give you this Privacy Notice to sign.
+Our policy has always been to keep your records safe. Your records are usually kept in a folder of papers with your name on it. Your records can also be stored in a computer. Your records tell what treatments and tests you have had, and what decisions the doctors have made. (Note: A figure could be inserted here to graphically show what the health care records may look like.)
+This Privacy Notice is in four parts: 1. What your health care records are, and Your Rights about those records, 2. Who can see them without your written OK. 3. Who can not see them unless you give a written OK. 4. Our policies to protect health care records.
+27
+
+
+Appendix B
+ Section 164.520 - Notice of Privacy Practices for Protected Health Information
+
+Standards for Privacy of Individual Identifiable Information 
+ (45 CFR Part 160 and 164)
+
+28
+
+
+Appendix C - Chunking of long lists
+
+Long list from Privacy Rule (Allowable Disclosures)
+
+Revised list with chunking (Allowable Disclosures)
+
+- provide for your treatment - information for payment - health care operations - business associates - directory - notifications - communicate with family - interpreters - research - funeral director - procurement organizations - marketing - appointment reminders - treatment alternatives - Food and Drug Administration - workers compensation - public health - correctional institutions - law enforcement - member of the military - health oversight authorities - non-violation notices - disclosures by whistle blowers - investigation, audits
+
+For your medical treatment and payment - provide for your treatment - tell you of treatment alternatives - appointment reminders - evaluate your care - information for payment - business associates
+For your personal reasons - communicate with your family - notify people - be listed in a directory - for workers compensation - get an interpreter for you - notify a funeral director
+For other reasons that help improve health - research - procurement organizations - marketing - public health - Food and Drug Administration
+
+Other special uses - law enforcement request - correctional institutions - members of the military - non-violation of notice - disclosure by whistle blower - investigation or audits
+
+29
+
+
+Appendix D - A simple protocol for Pretesting draft Privacy
+ Notices
+
+The purpose of pretesting is to find any problem areas in the draft Privacy Notice while it is still in draft form. The problems can then be addressed before wide use of the Notice.
+The following steps outline how to pretest on an individual basis. These steps can be carried out in less than one week time.
+1. Decide what are the most important concepts and pieces of information in your draft Privacy Notice. What is most important for the reader to know and understand how to do? (For some, that might be to understand the concept of their medical record, and the fact that they can have a say in who sees it.)
+2. Write open ended questions that would show that readers understand these key concepts and pieces of information. For example, "Tell me what you understand your medical record to be. What is it?" (At least 5 questions, but not more than 10.) Prepare a sheet(s) that lists the questions and spaces to record - verbatim - the readers' responses.
+3. Write a brief description that explains to the test givers the purpose and process of the pretest. Test givers might start out by explaining that the writers of the Notice are trying to make the Privacy Notice easy to understand. "We'd like you to read the Notice, and then we will ask you a few questions about what you have read. It will take only a few minutes. There is no right or wrong, we want to know what you understand about the Notice."
+4. Sample size and recording responses: Select a sample size of at least 30 individuals. Ideally, they would consist of 10 each from three different parts of your patient population.
+5. Analyze the responses, and make appropriate changes in the draft Notice and/or provide supplementary instruction as needed.
+30
+
+
+References 1. Doak, Doak, Root. Teaching patients with low (or any) literacy skills. J.B.Lippincott Co., Philadelphia, Pa. 1996, pp 49-58. 2. Matthews TL, Sewell JC. State Official's Guide to Health Literacy. 2002. The Council of State Governments, PO Box 11910, Lexington, Ky. 40578-1910. 3. Wileman RE, Visual Communicating. Educational Technology Publications, Englewood Cliffs, NJ, 07632, 1993, p. 24. Also, Ref. 1, Ch. 7. 4. Kirsch IS, Jungeblut A, Jenkins l, Kolstad A. Adult Literacy in America. National Center for Educational Statistics, US Dept. Of Educ. Wash D.C., Sept. 1993. 5. Beyond the Brochure: Alternative approaches to effective health communication. 1993. AMC Cancer Research Center, 1600 Pierce St., Denver, CO, 80214. (In cooperation with the Centers for Disease Control and Prevention. Agreement No. U50/CCU806186-03)
+31
+
+
+

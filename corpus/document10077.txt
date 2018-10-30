@@ -1,0 +1,319 @@
+Privacy notices
+An explanation of privacy notices
+May 2018
+
+Contents
+
+Version history
+
+3
+
+Summary
+
+4
+
+1. The purpose of a Privacy Notice
+
+5
+
+2. What a privacy notice should contain
+
+6
+
+3. Suggested wording and layout
+
+7
+
+3.1 Categories of information processed
+
+7
+
+3.2 Why personal data is collected
+
+8
+
+3.3 Collection of personal data
+
+10
+
+3.4 Storing personal data
+
+11
+
+3.5 Who data is shared with
+
+11
+
+3.6 Why data is shared
+
+11
+
+3.7 Requesting access to personal data and contact information
+
+11
+
+3.8 How the government uses personal data
+
+12
+
+4. Privacy notice options
+
+14
+
+4.1 Layered approach
+
+14
+
+4.2 Child friendly notice
+
+14
+
+Annex A ­ Example school privacy notice
+
+15
+
+Annex B - Errata
+
+21
+
+Version history
+
+The version history shows when the version was released. Any "Change History" is contained at the end of the document Annex B - Errata
+
+Version 1.0
+
+Author Kirsty Knox
+
+Date May 2018
+
+Summary
+This document explains the importance of using a privacy notice to educational establishments and local authorities. It contains information to explain what a privacy notice is, when it should be issued and what information we would expect it to contain.
+It is important to note that this document provides tips and guidance only. It does not constitute formal legal guidance, a school / local authority is ultimately responsible for its own data protection procedures and compliance with legislation.
+As you will process personal data (personal data is all the data that relates to an identified or identifiable living individual) that isn't solely for use within departmental data collections, this information must be expanded and amended to reflect local needs and circumstances.
+An example school's pupil privacy notice is provided at Annex A. Please note: this is only an example and, as such, is NOT exhaustive and MUST be reviewed and amended to reflect the type of school and to meet local circumstances.
+
+1. The purpose of a Privacy Notice
+Providing accessible information to individuals about the use of personal information (data) is a key element of General Data Protection Regulation (GDPR) and sets a legal framework with which education settings and local authorities must comply.
+All education settings and local authorities are data controllers and data processors in their own right and, as such, they have a duty to inform pupils, staff and parents how they process the data that is within their control.
+· Data controller - The organisation who (either alone or in common with other people) determine the purpose for which, and the manner in which data are processed.
+· Data Processor - A person or organisation who process data on behalf of and on the orders of a controller
+For the purposes of data protection legislation, the terms `process', `processed' or `processing' apply to any activity involving the personal data, such as:
+· collecting · storing · sharing · destroying Please note: this list is not exhaustive The most common way to provide information is through a privacy notice. The privacy notice is a document that is used to set out the data controller's policies on how they process the data that is within their control and would be expected to meet the requirements outlined in section 2 of this guide.
+It is recommended that the notice is made available on the school website for pupils and parents and must be made available or highlighted as part of any data collection process at the start of each school year - ensuring it is easily accessible at all times.
+For new staff members it is recommended that the privacy notice is included as part of an induction pack and is available on the staff notice board / intranet. Existing staff members must be made aware of the privacy notice at the start of each school year.
+For more information on privacy notices and the changes required as a result of GDPR, please see the ICO (Information Commissioners Office) website: https://ico.org.uk/fororganisations/guide-to-data-protection/privacy-notices-transparency-and-control/.
+
+2. What a privacy notice should contain
+A good privacy notice will:
+· be written in clear language the data subject will understand · be truthful and in no way misleading · contain the following sections:
+o the categories of data collected / processed o why the data is collected (purpose) o how the data is used (processed) o the lawful basis for processing the data (where applicable) o how the data is stored and how long for, and how security is ensured o who / which organisations data is shared with and why o what those organisations will do with the data o individuals rights over their data (including right of access) o contact details (for queries) · highlight any changes made to the way the personal data is processed · be easily accessible to pupils / parents / staff
+This list is not exhaustive and settings / local authorities are expected to tailor the notice to meet their own business needs ­ covering any elements that are specific to them.
+
+3. Suggested wording and layout
+Due to the large number of statutory data collections from schools and local authorities to the Department for Education (DfE), we work closely with legal advisors and the ICO to maintain a number of suggested text documents. These documents contain examples of the relevant sections required, a proposed format and are available online here: https://www.gov.uk/government/publications/data-protection-and-privacy-privacy-notices.
+The documents must be reviewed and amended to reflect local needs and circumstances, as you will process data that is not solely for use within statutory data collections. Whilst privacy notices should be updated as need occurs, best practice suggests an annual review should also be undertaken ­ referring to the latest documentation on GOV.UK as part of the review process.
+Where settings wish to know more about privacy notices, the ICO website provides full details and can be found at https://ico.org.uk/for-organisations/guide-to-dataprotection/privacy-notices-transparency-and-control/.
+Using the resources available, settings will be able to establish which elements to include within their privacy notice. For more information on the suggested elements, please see the following sections and the example school notice at Annex A.
+3.1 Categories of information processed
+You will process a large number of individual data items for your pupils and / or staff members. Under GDPR, you are expected to share the categories of information that you process.
+Data items are extremely detailed, and to think them through it helps to group them together into data item groups. Similarly, with over 1,000 systems in use in the education sector, grouping into overarching themes can help provide focus.
+As indicated within the Data Protection toolkit for schools, grouping data items about pupils into the following areas was found to be the most workable set of data item groups:
+· admissions · attainment · attendance · behaviour · exclusions · personal identifiers, contacts and pupil characteristics · identity management/authentication · catering and free school meal management
+
+· trips and activities · medical information and administration · safeguarding and special educational needs
+Please note: this list is not exhaustive, it must be amended depending on the type of data you process (pupil / child or staff).
+Best practice suggests that within your privacy notice, you include the category of data, along with an example of the data, to identify to the data subject what types of data fall into that category. Examples include:
+· personal identifiers, contacts and characteristics (such as, name, unique pupil number, contact details and address)
+· attendance (such as sessions attended, number of absences and reason for absence)
+· staff contract information (such as, hours worked, job role and salary information) · information relating to episodes of being a child in need (such as referral
+information, assessment information, Section 47 information, Initial Child Protection information and Child Protection Plan information)
+Understandably, this list - following issue - may not capture all data items collected or held at a later point in time. Therefore, it is useful to state that the list is not exhaustive and provide a location where a maintained data asset register or current privacy notice can be found. This could be on a website or widely accessible noticeboard.
+You must review and amend the suggested text to reflect local needs and circumstances, as you will process data that isn't solely for use within data statutory collections.
+3.2 Why personal data is collected
+As an educational setting or local authority, you will collect individual pupil / staff data for a number of reasons. You must state these reasons within your privacy notice.
+Your privacy notice must include: · the purposes of the processing, as well as, · the lawful basis for processing
+3.2.1 Purpose:
+Best practice suggests listing the purposes of processing in a clear, understandable way and, for this type of data, it is sufficient to state:
+This information is used to: · provide the child with an education
+
+· allocate the correct teaching resource · provide any additional support · to ensure safety of pupils whilst in your care Please note: this list is not exhaustive.
+You should then consider which lawful basis best fits the purposes (see section 3.2.2). You might consider that more than one basis applies, in which case you should identify and document all of them.
+3.2.2 Lawful basis
+GDPR states that you must include the lawful bases for collecting and using personal data for general purposes. This must include a basis from Article 6, and, where the data processed is a `special category' a basis from Article 9 is also required.
+GDPR specifically defines `special category' as data relating to:
+· racial or ethnic origin · political opinions · religious or philosophical beliefs · trade-union membership · health or sex life Data relating to criminal offences is also afforded similar special protection.
+For more information, see the ICO website: https://ico.org.uk/for-organisations/guide-tothe-general-data-protection-regulation-gdpr/lawful-basis-for-processing/ and the Data protection toolkit for schools.
+Within education, we do process some sensitive information about children that is not set out in the legislation as a `special category personal data'. Notably information about children's services interactions, free school meal status, pupil premium eligibility, elements of special educational need information, safeguarding information and some behaviour data. We consider it best practice that when considering security and business processes about such data, that they are also treated with the same `high status' as the special categories set out in law.
+As well as using this information for your own needs, some of your data is also shared outside, most frequently with the local authority (where applicable) to support their business needs and the Department for Education (DfE) due to legal obligation / data collection requirements.
+
+Most data collected specifically for the DfE is required under legislation and this legislation meets the collection requirement under the GDPR `legal obligation' as to why the setting collects this data. Most other data that schools need to collect, besides that for which they have a legal obligation, will fall under the lawful basis of `public task'.
+Where the lawful basis is legal obligation or public task, you should list any relevant legislation that supports the basis of the obligation or task.
+Data subjects need to know which data is being collected on which basis, so they understand how to exercise their rights. This is where a layered privacy notice can be useful - see 4.1. However, you do not need to list the lawful bases for each category or type of data you collect ­ only for the different purposes that you collect it, which should make it more manageable.
+Please note: the vast majority of schools' processing will not be done on the basis of consent. Consent should not be relied upon for any processing essential for a school performing public tasks and for data in a learner's Education Record.
+Where schools collect rare data on the basis of consent (example ­ use of pupil photos on websites, social media) best practice indicates this should be explained in a separate privacy notice covering that type of processing, at the point at which consent is being obtained.
+3.3 Collection of personal data
+You should explain how you would usually collect information regarding your pupils / children / staff members, examples include:
+· registration forms · medication forms · Common Transfer Files (CTFs) from previous schools · staff contract information · child protection plans
+Please note: Where data is collected within a mandatory data collection process, some specific items might be voluntary in nature. This must be drawn to the attention of the parent / guardian / staff member at the point of collection to comply with data protection legislation.
+Where voluntary data items are lawfully shared with the Department, whilst it is not possible for the individual to opt out of the DfE specified data collection, where they have exercised their right to decline to provide such data items, the information should be returned using the code `refused'. This applies to certain items of personal data which must be self-declared by the data subject (for example, ethnicity).
+
+Some key information is required due to being `essential for school / local authority operational use'. An example being, parental information ­ It is not mandatory but it is essential. You may wish to highlight this at the point of collection.
+3.4 Storing personal data
+To comply with data protection legislation, you must clearly define your individual data retention and data security policies. As different types of data are held in school and local authority systems for different timescales, you can attach a document or link to your website for more information.
+More information on data retention is available in the Department's Data Protection toolkit for schools document.
+3.5 Who data is shared with
+We would expect you to list all instances of routine data sharing. This is data shared on a regular basis. Any instances of one off transfers or ad-hoc requests do not need to be listed, however; any such sharing must also have a lawful reason.
+3.6 Why data is shared
+This section allows you to expand on why you routinely share information with the list of named recipients. Use this section to list the reasons for sharing and any relevant legislation that allows the sharing of the data.
+With regard to statutory data collections to the DfE, best practice indicates you state the relevant legislation for each data collection you participate in: each data collection or census guide contains the current legislation detailing the lawful basis for collection https://www.gov.uk/education/data-collection-and-censuses-for-schools
+Schools will also wish to be mindful of the pupil registration regulations, which define the information, required to be held in the schools admissions and attendance registers.
+To satisfy data subjects, it is also useful to include information on how data is transferred and provide links to data retention policies of the recipient where relevant / available.
+3.7 Requesting access to personal data and contact information
+Under data protection legislation, parents, pupils and staff have the right to request access to information about them that you hold. They also have the right to:
+
+· object to processing of personal data that is likely to cause, or is causing, damage or distress
+· prevent processing for the purpose of direct marketing · object to decisions being taken by automated means · in certain circumstances, have inaccurate personal data rectified, blocked, erased
+or destroyed; and · a right to seek redress, either through the ICO, or through the courts
+You should state how they would request such data from you. Ensuring you provide full details for your administrator / local data protection officer, including their name, address and contact details.
+A privacy notice must mention the right to complain to the ICO. It is advisable to include a link to the ICO concerns page as a further contact point where a complaint in relation to the processing of personal data cannot be resolved locally - https://ico.org.uk/concerns/
+3.8 How the government uses personal data
+This section is intended to further advise pupils, parents and staff members why their data is shared with the Department and what happens to it following that transfer.
+The Department for Education (DfE) collects personal data from educational settings and local authorities via various statutory data collections. Each data collection or census guide contains the legislation detailing the lawful basis for collection: https://www.gov.uk/education/data-collection-and-censuses-for-schools
+This data is used for many purposes, with some of the main functions being:
+· school and local authority funding, which is calculated based upon the numbers of children and their characteristics in each setting
+· informing `short term' education policy monitoring and school accountability and intervention (for example, school GCSE results or Pupil Progress measures)
+· supporting `longer term' research and monitoring of educational policy (for example how certain subject choices go on to affect education or earnings beyond school)
+3.8.1 National Pupil Database (NPD)
+A section on NPD has been added to the suggest texts at the request of the ICO to further explain where, and how, the DfE holds a large proportion of data.
+Much of the data about pupils in England is held by the DfE in the NPD. It is stored in electronic format for statistical purposes. The information is used by the DfE for longitudinal studies of educational performance and by the Education and Skills Funding Agency (ESFA) to determine funding.
+
+3.8.2 Sharing by the Department
+This information explains that third parties are able to request access to the data directly from the Department. It is typically more efficient for these organisations to access centrally held data in the first instance rather than contact individual schools / local authorities directly.
+The law allows the Department to share personal data with certain third parties, including those fighting or identifying crime (such as the Home Office and Police).
+For information about which organisations the Department has provided pupil information, (and for which project), please visit the following website: https://www.gov.uk/government/publications/dfe-external-data-shares
+
+4. Privacy notice options
+4.1 Layered approach
+The format of the privacy notice is determined by the educational setting / local authority and, where the notice appears `too long', it is acceptable to change the format to a layered approach.
+This is where by the key information is present in the notice with other important information readily available elsewhere such as your website or an accessible noticeboard.
+4.2 Child friendly notice
+The suggested text documents have been produced on the understanding that they are to be read by older pupils, parents / guardians and staff members.
+For children who are unable to read and understand their data protection rights documentation, we would expect the parent / guardian to act on behalf of their child with respect to the notice - as they would with a subject access request. However, where you feel it is of benefit to your establishment or local authority, you may wish to create child friendly version. This can be useful when teaching children about personal data.
+ICO guidance on children and the GDPR can be found here https://ico.org.uk/fororganisations/guide-to-the-general-data-protection-regulation-gdpr/applications/children/
+
+Annex A ­ Example school privacy notice
+This is a non-exhaustive example of a school privacy notice ­ this must be amended to suit local business needs and circumstances. The amendment of this example must cover all data processed by the school.
+Privacy Notice (How we use pupil information)
+The categories of pupil information that we process include:
+· personal identifiers, contacts and characteristics (such as name, unique pupil number, contact details and address)
+· characteristics (such as ethnicity, language, and free school meal eligibility) · safeguarding information (such as court orders and professional involvement) · special educational needs (including the needs and ranking) · medical and administration (such as doctors information, child health, dental
+health, allergies, medication and dietary requirements) · attendance (such as sessions attended, number of absences, absence reasons
+and any previous schools attended) · assessment and attainment (such as key stage 1 and phonics results, post 16
+courses enrolled for and any relevant results) · behavioural information (such as exclusions and any relevant alternative provision
+put in place)
+This list is not exhaustive, to access the current list of categories of information we process please see [link to website]
+Why we collect and use pupil information
+The personal data collected is essential, in order for the school to fulfil their official functions and meet legal requirements.
+We collect and use pupil information, for the following purposes:
+a) to support pupil learning b) to monitor and report on pupil attainment progress c) to provide appropriate pastoral care d) to assess the quality of our services e) to keep children safe (food allergies, or emergency contact details) f) to meet the statutory duties placed upon us
+Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing pupil information are:
+
+· for the purposes of (a), (b), (c) & (d) in accordance with the legal basis of Public task: collecting the data is necessary to perform tasks that schools are required to perform as part of their statutory function
+· for the purposes of (e) in accordance with the legal basis of Vital interests: to keep children safe (food allergies, or medical conditions)
+· for the purposes of (f) in accordance with the legal basis of Legal obligation: data collected for DfE census information o Section 537A of the Education Act 1996 o the Education Act 1996 s29(3) o the Education (School Performance Information)(England) Regulations 2007 o regulations 5 and 8 School Information (England) Regulations 2008 o the Education (Pupil Registration) (England) (Amendment) Regulations 2013
+In addition, concerning any special category data:
+· conditions a, b, c and d of GDPR - Article 9
+Collecting pupil information
+We obtain pupil information via registration forms at the start of each academic year. In addition, when a child joins us from another school we are sent a secure file containing relevant information.
+Pupil data is essential for the schools' operational use. Whilst the majority of pupil information you provide to us is mandatory, some of it is provided to us on a voluntary basis. In order to comply with GDPR we will inform you at the point of collection, whether you are required to provide certain pupil information to us or if you have a choice in this.
+Storing pupil data
+We hold pupil data securely for the set amount of time shown in our data retention schedule. For more information regarding our data retention schedule and how we keep your data safe, please visit [link to website]
+Who we share pupil information with
+We routinely share pupil information with:
+· school that the pupil attends after leaving us · our local authority · youth support services (pupils aged 13+) · the Department for Education (DfE)
+
+Why we routinely share pupil information
+We do not share information about our pupils with anyone without consent unless the law and our policies allow us to do so.
+Youth support services
+Pupils aged 13+
+Once our pupils reach the age of 13, we also pass pupil information to our local authority and / or provider of youth support services as they have responsibilities in relation to the education or training of 13-19 year olds under section 507B of the Education Act 1996.
+This enables them to provide services as follows:
+· youth support services · careers advisers
+The information shared is limited to the child's name, address and date of birth. However where a parent or guardian provides their consent, other information relevant to the provision of youth support services will be shared. This right is transferred to the child / pupil once he/she reaches the age 16.
+Pupils aged 16+ We will also share certain information about pupils aged 16+ with our local authority and / or provider of youth support services as they have responsibilities in relation to the education or training of 13-19 year olds under section 507B of the Education Act 1996.
+This enables them to provide services as follows:
+· post-16 education and training providers · youth support services · careers advisers Data is securely transferred to the youth support service via a secure file transferring system and is stored within local authority software.
+For more information about services for young people, please visit our local authority website [link to website]
+Department for Education
+We are required to share information about our pupils with the Department for Education (DfE) either directly or via our local authority for the purpose of data collections, under:
+· Section 537A of the Education Act 1996 · the Education Act 1996 s29(3)
+
+· the Education (School Performance Information)(England) Regulations 2007 · regulations 5 and 8 School Information (England) Regulations 2008 · the Education (Pupil Registration) (England) (Amendment) Regulations 2013
+All data is transferred securely and held by DfE under a combination of software and hardware controls, which meet the current government security policy framework. For more information, please see `How Government uses your data' section.
+Requesting access to your personal data
+Under GDPR, parents and pupils have the right to request access to information about them that we hold. To make a request for your personal information, or be given access to your child's educational record, contact Mrs Data Protection Officer on 0123 456789 or email data.protection@ourschool.com
+You also have the right to:
+· object to processing of personal data that is likely to cause, or is causing, damage or distress
+· prevent processing for the purpose of direct marketing · object to decisions being taken by automated means · in certain circumstances, have inaccurate personal data rectified, blocked, erased
+or destroyed; and · a right to seek redress, either through the ICO, or through the courts
+If you have a concern about the way we are collecting or using your personal data, you should raise your concern with us in the first instance or directly to the Information Commissioner's Office at https://ico.org.uk/concerns/
+Contact
+If you would like to discuss anything in this privacy notice, please contact:
+· Mrs Data Protection Officer on 0123 456789 or email data.protection@ourschool.com
+· Our local authority (website link)
+
+How Government uses your data
+The pupil data that we lawfully share with the DfE through data collections:
+· underpins school funding, which is calculated based upon the numbers of children and their characteristics in each school.
+· informs `short term' education policy monitoring (for example, school GCSE results or Pupil Progress measures).
+· supports `longer term' research and monitoring of educational policy. (for example how certain subject choices go on to affect education or earnings beyond school)
+Data collection requirements
+To find out more about the data collection requirements placed on us by the Department for Education (for example; via the school census) go to https://www.gov.uk/education/data-collection-and-censuses-for-schools
+The National Pupil Database (NPD)
+Much of the data about pupils in England goes on to be held in the National Pupil Database (NPD).
+The NPD is owned and managed by the Department for Education and contains information about pupils in schools in England. It provides invaluable evidence on educational performance to inform independent research, as well as studies commissioned by the Department.
+It is held in electronic format for statistical purposes. This information is securely collected from a range of sources including schools, local authorities and awarding bodies.
+To find out more about the NPD, go to https://www.gov.uk/government/publications/national-pupil-database-user-guide-andsupporting-information.
+Sharing
+The law allows the Department to share pupils' personal data with certain third parties, including:
+· schools · local authorities · researchers · organisations connected with promoting the education or wellbeing of children in
+England · other government departments and agencies · organisations fighting or identifying crime
+For more information about the Department's NPD data sharing process, please visit:
+
+https://www.gov.uk/data-protection-how-we-collect-and-share-research-data
+Organisations fighting or identifying crime may use their legal powers to contact DfE to request access to individual level information relevant to detecting that crime. Whilst numbers fluctuate slightly over time, DfE typically supplies data on around 600 pupils per year to the Home Office and roughly 1 per year to the Police.
+For information about which organisations the Department has provided pupil information, (and for which project) or to access a monthly breakdown of data share volumes with Home Office and the Police please visit the following website: https://www.gov.uk/government/publications/dfe-external-data-shares
+To contact DfE: https://www.gov.uk/contact-dfe
+
+Annex B - Errata
+
+Version Change history
+
+1.0
+
+Document created
+
+Date 08/05/2018
+
+© Crown copyright 2018
+This publication (not including logos) is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+
+To view this licence:
+
+visit
+
+www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+
+email psi@nationalarchives.gsi.gov.uk
+
+write to Information Policy Team, The National Archives, Kew, London, TW9 4DU
+
+About this publication: enquiries www.education.gov.uk/contactus download www.gov.uk/government/publications
+
+Reference: DFE-00151-2018
+
+Follow us on Twitter: @educationgovuk
+
+Like us on Facebook: facebook.com/educationgovuk
+
+

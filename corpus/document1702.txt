@@ -1,0 +1,540 @@
+SSE Airtricity Privacy Notice
+
+At SSE, we're committed to ensuring your privacy is protected. This privacy notice applies to the SSE Airtricity Retail business, which is operated by the following data controllers: SSE Airtricity is a trading name of SSE Airtricity Limited, SSE Airtricity Energy Supply (NI) Limited and  SSE Airtricity Gas Supply (NI) Limited which are members of the SSE Group. SSE Airtricity Home Energy Services is our dedicated Boiler & Home Services Division. When we refer to "SSE", "we", "us", and "our", we mean any of those data controllers, as appropriate. By "you" or "your" we mean any individual, sole trader and/or partnership that receives services from us, uses our website or otherwise interacts with the SSE Airtricity Retail business. Please read this notice carefully as it provides important information about how we handle your personal information and the steps you can take to control it. If you have any questions, comments or concerns about any aspect of this notice, please contact us using the details set out in section 11.
+
+This privacy notice is divided into the following sections: 1. What information do we collect and how do we do it? 2. How do we use your personal information? 3. How do we use your sensitive personal information? 4. What information do we receive from third party sources? 5. Legal bases for processing 6. Who do we share your personal data with? 7. How is your personal information transferred outside of the EEA? 8. How long do we hold your personal information? 9. How will we change this privacy notice? 10. What choices and rights do you have in relation to your personal information? 11. How can you contact us?
+
+1.
+
+What information do we collect and how do we do it?
+
+We, or third parties on our behalf, collect your personal information when you use our website, communicate
+
+with us by phone, letter, email, social media or in person, receive our products and/or services, or request to
+
+join schemes which you are eligible for.
+
+We may collect the following personal information and we refer to this as "personal information" throughout
+
+this notice:
+
+· your name;
+
+· billing address;
+
+· supply address;
+
+· telephone numbers;
+
+· e-mail addresses;
+
+· date of birth;
+
+· details of a secondary contact (e.g. name, phone number & billing address);
+
+· energy usage (e.g. meter readings and units of gas and electricity used over a period);
+
+· financial information (e.g. bank account details);
+
+· credit history;
+
+· personal requirements and lifestyle, including details of any vulnerabilities;
+
+· permissions (e.g. we will record if you have consented to marketing);
+
+· your preferences (e.g. if you would prefer paperless billing);
+
+· if you are a home owner or renter;
+
+· survey responses;
+
+· information about any other accounts you hold for gas and/or electricity, including the name of the
+
+supplier and payment methods;
+
+· for electricity customers, your Meter Point Reference Number (MPRN) to identify your electricity supply;
+
+· for gas customers, your Gas Point Reference Number (GPRN) for ROI and (SMPN) for NI, that identifies
+
+your gas supply;
+
+· details necessary for an SEAI Grant in ROI and details necessary for an NISEP Grant in NI;
+
+· if you visit our website, we store your IP address, the browser software you use and your behaviour on our
+
+website (for example, the pages that you click on). This information is collected through cookies. More
+
+information about how we use cookies can be found in our cookies policies on the relevant website;
+
+· if you engage with us through social media, we collect your name and store a link to your relevant social
+
+media profile, which we combine with details of your previous correspondence with us;
+
+· if we, or third party suppliers, carry out a home visit, we may collect personal information about you or a
+
+member of your household from that visit. E.g. we may record information that has been supplied to us and obtained fairly about you or a member of your household who may benefit from Priority Services; · if we suspect that someone has committed fraud or stolen energy, e.g. by tampering with a meter or diverting the energy supply, we will record that information; and/or · if you register an account for services with us, we create and record customer ID numbers for you and record the date of your application. We need this personal information so we can provide services and/ or products to you. If you don't provide us with that personal information you may not be able to access certain products and/or services.
+
+2.
+
+How do we use your personal information?
+
+2.1 We, or third parties on our behalf, collect, use and store the personal information collected about you to:
+
+(a) Provide, or obtain on your behalf, relevant products and/or services, benefits, and rewards;
+
+(b) Respond to any enquiries or issues you have;
+
+(c) Identify you;
+
+(d) Detect and prevent crime, fraud or loss;
+
+(e) Contact you, or authorised third parties, about our services and/or products, such as sending you
+
+information when you sign up or change tariffs, service announcements and administrative messages;
+
+(f)
+
+Train our staff and improve our products and services, which may mean that we monitor and record
+
+communications that we have with you including phone conversations, emails, SMSs and web or
+
+video chats;
+
+(g) Conduct, and contact you in relation to, market research e.g. through customer satisfaction surveys
+
+and questionnaires;
+
+(h) Obtain government funding for the supply of energy efficiency measures to individuals;
+
+(i)
+
+Identify offers and advice tailored to your needs or lifestyle;
+
+(j)
+
+Ensure the health and safety of you, our staff and contractors;
+
+(k) Make decisions about the products and/or services and terms and conditions that we can offer to you
+
+e.g. if you ask for certain tariffs we will assess if anything prevents us from offering that tariff to you;
+
+(l)
+
+Make personal projections about the amount of energy you are likely to use in each period;
+
+(m) Use information collected from your visit to our website for administrative purposes; for
+
+troubleshooting, data analysis, testing, research and statistical and survey purposes; to ensure content
+
+is presented in an effective manner; and to enable you to participate in interactive features;
+
+(n) Respond to or resolve any enquiries or requests that you may have from social media;
+
+(o) Enable internal corporate reporting, business administration, adequate insurance coverage, the
+
+security of company facilities, research and development, and to identify and implement business
+
+efficiencies;
+
+(p) Comply with any procedures, laws and regulations which apply to us ­ including where we
+
+reasonably consider it is in our (or others) legitimate interests to comply; and
+
+(q) Establish, exercise or defend our legal rights ­ including where we reasonably consider it is in our (or
+
+others) legitimate interests.
+
+2.2 Marketing Communications With your consent, we may contact you in writing, by phone and via email or SMS with information on products, services and rewards that we, other companies within the SSE group, and occasionally our carefully selected partners identified at the time we collect your information, offer. We may use third parties to send marketing communications. Unless you have asked us not to, we may also use your email address to show you digital advertisements via your social media newsfeed, on search engine results pages, or on other websites. Unless you have asked us not to, we may profile your data to provide you with marketing and offers that are relevant to you. If you opt out of profiling we will still run analysis that includes your data, but any decisions or marketing output that result from that analysis will not be used to market to you. You will be sent generic marketing that may not be relevant to you. To opt out of receiving marketing messages, or to object to our use of profiling for direct marketing purposes, contact us at any time using the details in section 11.
+
+3.
+
+How do we use your sensitive personal information?
+
+We treat the information that we collect about your (or a member of your household's) requirements for your
+
+welfare (e.g. due to age, health, disability or financial circumstances) as being particularly sensitive. We will use
+
+this information in the following ways:
+
+(a) ensure your welfare and the welfare of other householders e.g. ensuring network operators do not
+
+stop your supply and can respond appropriately during a major incident or emergency. To do this, we
+
+will share this information with network operators;
+
+(b) provide products and/or services to you in the most appropriate way e.g. if you require large print or
+
+braille communications;
+
+(c) manage staff and third party contractors; and (d) provide you with the most appropriate customer experience where you attend an SSE event. With your consent, we may also share this information with the following individuals or organisations:
+(a) social services, charities, healthcare and other support organisations; and/or (b) other relevant organisations, such as emergency responders or local authorities, which may be able
+to provide support.
+
+4.
+
+What information do we receive from third party sources?
+
+We also receive your personal information from the following third party sources:
+
+(a) Other energy suppliers ­ where you are joining SSE from another supplier we may receive
+
+information relating to outstanding debt on your account in line with relevant market guidelines;
+
+(b) Network Operators - including meter readings and equipment and when you ask to switch your
+
+account to us. We may also receive details of suspected fraud or energy theft for the purposes of
+
+identifying and preventing fraud or crime;
+
+(c) Credit reference or fraud prevention agencies ­ More information can be found at 6(n) and 6(o)
+
+below;
+
+(d) Debt Collection Agencies ­ in relation to debt associated with your utility account;
+
+(e) Data providers ­ we collect information from third party data providers, including aggregated geo-
+
+demographic and lifestyle data, and combine this with account information to conduct statistical
+
+analysis. These customer insights help us to plan our marketing activities and conduct market
+
+research and business development;
+
+(f)
+
+Councils, local authorities or housing associations ­ we may receive your name, address and
+
+contact details where they would like carbon-saving measures applied to your property under
+
+relevant government funding schemes;
+
+(g) Letting agents, landlords, cohabitants or previous tenants ­ if you have recently moved into a rental
+
+property that we supply energy to or if that third party introduces you to SSE, for the purposes of
+
+setting up your account;
+
+(h) CRU (Commission for Regulation of Utilities) in Republic of Ireland and UR (Utility Regulator)
+
+in Northern Ireland ­ as a regulated entity, we may receive your personal information from our
+
+regulators, to satisfy our regulatory obligations;
+
+(i)
+
+Law enforcement agencies (such as An Garda Siochana and the
+
+PSNI) to identify and prevent fraud or crime;
+
+(j)
+
+SSE group companies - for internal administrative purposes such as ensuring consistent delivery of
+
+our services to customers; and
+
+(k) Third party introducers (such as price comparison websites) to set up an account for you and to
+
+provide the services that you have requested.
+
+5.
+
+Legal Bases for Processing
+
+We've assessed that the legal bases for using your personal information as set out in this notice are as follows:
+
+(a) Contract ­ our use of your personal information is necessary to perform our obligations under any
+
+contract we have with you; or
+
+(b) Legal Obligations ­ our use of your personal information is necessary for complying with our legal
+
+obligations; or
+
+(c) Our Legitimate Interests ­ to:
+
+(i)
+
+Run, grow and develop our business;
+
+(ii) Detect and prevent fraud;
+
+(iii) Enhance the security of our network and information systems;
+
+(iv) Ensure that our own processes, procedures and systems are as efficient as possible;
+
+(v) Better understand how people interact with our website;
+
+(vi) Analyse and enhance the information that we collect;
+
+(vii) Determine the effectiveness of our promotional campaigns and advertising; and
+
+(viii) Enhance, modify, personalise or otherwise improve our services and communications for the
+
+benefit of our customers.
+
+If you have concerns about the processing activities based on our legitimate interests, please see
+
+section 11.
+
+Consent ­ We rely on your consent to use your personal information to send you marketing
+
+information by post, phone, mobile phone, email or SMS. If you later change your mind, you may
+
+withdraw your consent by contacting us using the details in section 11 and we will stop using your
+
+information in this way.
+
+6.
+
+Who do we share your personal information with?
+
+We will share your personal information with the following categories of third parties:
+
+(a) our third-party suppliers, partners and sub-contractors that provide, review and/or receive services
+
+in relation to our website, services and/or products, which include: payment processors; suppliers
+
+of technical, support and installation services; insurers; logistics providers; security providers; cloud
+
+services providers; research agencies; and if you are entitled to claim government funding for energy
+
+efficiency measures, installers, energy performance assessors and sales advisers.
+
+(b) any company that is a member of the SSE group;
+
+(c) where appropriate, family members or cohabitants, previous tenants, landlords, or letting agents
+
+who/which may require information about you or your premises, or who introduced you to SSE;
+
+(d) if we're under a duty to disclose your information to comply with any legal obligation, government
+
+or law enforcement officials as may be required to meet national security or law enforcement
+
+requirements or prevent illegal activity;
+
+(e) other energy suppliers if you choose to leave us, we'll share your information with the other suppliers
+
+to assist the switching process, including energy usage and any debts on the account. We may also
+
+share your personal information where they carry out services for us, e.g. if they carry out meter
+
+readings at your property for us;
+
+(f)
+
+regulators or other legally appointed bodies (such as CRU/UR) for legal or regulatory purposes, e.g.
+
+if requested we may send your information to CRU to prove that you qualify for relevant government
+
+funded schemes;
+
+(g) companies or partner organisations which provide services in relation to, or use information as part
+
+of, market research;
+
+(h) third parties that help us with advertising and marketing. For example, we share limited personal
+
+information with the following third parties who serve advertising on their platforms on our behalf:
+
+Amazon, Viant, Facebook and Google Adwords;
+
+(i)
+
+relevant gas transporters, metering agents or network operators;
+
+(j)
+
+debt collection and tracing agents if we provide you with services and you fail to make payments;
+
+(k) authorised third parties or named account holders on any account you hold with us;
+
+(l)
+
+if we sell, merge, or perform any internal re-organisations in relation to any of our (or any third party's)
+
+business or assets, the personal information will be one of the transferred assets to the relevant buyer
+
+and/or new data controller of such business or assets;
+
+(m) any third party where required to:
+
+(i)
+
+enforce or apply our terms and conditions or any other agreement or to respond to any
+
+claims, to protect our rights or the rights of a third party, to protect the safety of any person or
+
+to prevent any illegal activity; and
+
+(ii) protect the rights, property or safety of SSE, our staff, customers or others.
+
+(n) credit reference agencies
+
+If you are a Home Energy customer based in Northern Ireland, where it is necessary to credit check
+
+you, we will supply your personal information to credit reference agencies (CRAs) and they will give us
+
+information about you, such as about your financial history. We do this to assess creditworthiness and
+
+product suitability, check your identity, manage your account, trace and recover debts and prevent
+
+criminal activity. We will also continue to exchange information about you with CRAs on an on-going
+
+basis, including about your settled accounts and any debts not fully repaid on time. CRAs will share
+
+your information with other organisations. The identities of the CRAs, and the ways in which they use
+
+and share personal information, are explained in more detail at www.experian.co.uk/crain/index.html.
+
+If you are a Business Energy customer (in Northern Ireland and/or the Republic of Ireland), where it is
+
+necessary to credit check your business, we will supply your business information to credit reference
+
+agencies (CRAs) and they will give us information about your business, such as about your business'
+
+financial history. We do this to assess creditworthiness and product suitability, check your identity,
+
+manage your account, trace and recover debts and prevent criminal activity. We will also continue
+
+to exchange information about your business with CRAs on an on-going basis. CRAs may share this
+
+information with other organisations.
+
+The use of credit reference agencies is not in use for domestic Electricity/Gas (Home Energy)
+
+customers in the Republic of Ireland.
+
+(o) fraud prevention agencies
+
+(i)
+
+To help us identify fraud and energy theft, we will give details of your account to fraud
+
+prevention agencies who will use the information to check public and other databases they
+
+hold and may provide information to us to help identify fraud and energy theft. Checks will be
+
+performed on a regular basis whilst you hold an account with us.
+
+(ii) If we suspect or can confirm theft of energy has occurred, a record will be kept by fraud
+
+prevention agencies which may include sensitive information about alleged criminal offences.
+
+The fraud prevention agencies may provide the information to other energy companies to
+
+help identify fraud and detect energy theft but only in limited circumstances where you have
+
+accounts with them. Where theft has been identified, your account terms may change, but
+
+we will notify you separately if this is the case.
+
+7.
+
+How is your personal information transferred outside of the EEA?
+
+7.1 We, or a third party who we share personal information with, may host, store and handle that personal
+
+information outside of the European Economic Area (EEA).
+
+7.2 We will only permit this to happen if adequate safeguards have been put in place to protect your personal
+
+information. This means that we will:
+
+(a) ensure that the country in which your personal information will be handled has been deemed
+
+"adequate" by the European Commission under Article 45 of the General Data Protection Regulation
+
+(GDPR);
+
+(b) include standard data protection clauses approved by the European Commission for transferring
+
+personal information outside the EEA into our contracts with those third parties (these are the clauses
+
+approved under Article 46.2 of the GDPR); or
+
+(c) (in the case of transfers from the EEA to the USA), ensure that the recipient of the personal
+
+information has certified with the US-EU Privacy Shield Framework, as permitted by Article 46.2 of the
+
+GPDR.
+
+8.
+
+How long do we hold your personal information?
+
+8.1 We keep your personal information for no longer than is necessary of the purposes for which the personal
+
+information is processed. The length of time we retain it for depends on the purposes for which we use it
+
+and/or as required to comply with applicable laws and to establish, exercise or defend our legal rights.
+
+8.2 This means that some of your personal information will be kept for a short time e.g. we may keep copies of
+
+correspondence and complaints for up to three years following resolution. Other information may be kept
+
+for a longer period, e.g. we keep your contact details for a period of up to seven years after your account has
+
+settled (but for a shorter period if that is possible).
+
+9.
+
+How will we change this privacy notice?
+
+We may update our privacy notice from time to time. Any changes we make to our privacy notice in the
+
+future will be posted on the SSE Airtricity website and, where appropriate, notified to you by post or email.
+
+10. What choices and rights do you have in relation to your personal information?
+
+10.1 You may contact us using the contact details provided in section 11 to request that we:
+
+(a) confirm whether your personal information is being processed;
+
+(a) provide you with further details about how we process your personal information;
+
+(b) provide you with a copy of any personal information which we hold about you;
+
+(c) where we rely on your consent as a legal basis to justify using your personal information, withdraw
+
+your consent to that use;
+
+(d) consider any valid objection to the processing of your personal information (including the right to
+
+object to processing where we are relying on our legitimate interests as a legal basis for processing);
+
+(e) ask us to update or delete personal data which we hold about you;
+
+(f)
+
+restrict the way that we process your personal data;
+
+(g) provide you with a copy of your data in a machine-readable format. Where technically feasible we
+
+will consider any valid request to transfer your personal data relating to an energy account to a third-
+
+party provider of services (data portability); and
+
+(h) where we carry out automated decision-making that has legal or similarly significant effects on you,
+
+ensure that we manually review that decision, provide an explanation of that decision and/or consider
+
+your appeal of that decision.
+
+10.2 We will consider all those requests. However, certain personal information may be exempt from those
+
+requests in certain circumstances, which may include needing to keep processing your personal information
+
+for our legitimate interests or to comply with a legal obligation.
+
+10.3 If an exemption applies, we will tell you this when responding to your request. We may ask you to provide us
+
+with information necessary to confirm your identity before responding.
+
+11. How can you contact us? 11.1 If you would like to contact us in relation to your rights or if you are unhappy with how we've handled your
+information, you may contact us by sending a letter:
+Republic of Ireland Data Protection Specialist SSE Airtricity, Red Oak South, South County Business Park, Leopardstown, Dublin 18, D18 W688
+
+Northern Ireland: Data Protection Specialist SSE Airtricity, 3rd Floor Millennium House, 17-25 Great Victoria Street, Belfast BT2 7AQ or sending an email to irelanddataprotection@sse.com 11.2 If you would like to contact our Data Protection Officer, you may do so using the following details: Email: dpo@legal.sse.com Phone: 0345 070 7378 Postal: Data Protection Officer, c/o Executive Complaints Team, Grampian House, 200 Dunkeld Road, Perth PH1 3GH 11.3 If you're not satisfied with our response to any complaint or believe our processing of your information does not comply with data protection law, you can make a complaint to the relevant Data Protection Office: Republic of Ireland: Data Protection Commissioner Dublin Office; 21 Fitzwilliam Square Dublin 2 D02 RD28 Portarlington Office Canal House Station Road Portarlinton R32 AP23 Co. Laois Northern Ireland: Information Commissioner's Office 51 Adelaide St, Belfast BT2 8FE
+SSE_AIR_PRIVACYNOTICE_GENERIC_V1
+
+

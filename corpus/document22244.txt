@@ -1,0 +1,58 @@
+Dorset Care Record's Privacy Notice
+Please read this notice to find out why we need your information and how it will be used by the Dorset Care Record Partnership.
+What is a `privacy notice'?
+A `privacy notice' is a statement issued by an organisation or jointly by organisations which explains how personal and confidential information about patients, service users, staff and visitors is collected, used and shared. This may also be called a privacy statement, fair processing statement or privacy policy. This privacy notice is issued by Dorset Care Record Partnership.
+How we will use and look after your information
+By issuing this privacy notice, we demonstrate our commitment to openness and accountability. We recognise the importance of protecting personal confidential information in all that we do and take care to meet our legal requirements.
+Who will be controlling your information?
+The Dorset Care Record (DCR) is a partnership supported by NHS Dorset Clinical Commissioning Group, Dorset County Hospital, Poole Hospital, Royal Bournemouth and Christchurch Hospital, Dorset Healthcare, Dorset County Council, Borough of Poole, Bournemouth Borough Council and the South Western Ambulance Trust.
+All partners are signatories to the Dorset Information Sharing Charter (DiSC) which provides partner agencies with a robust foundation for the lawful, secure and confidential sharing of personal information between themselves and other public, private or voluntary sector organisations that they work with.
+Each partner has a legal duty to protect your personal information. We take confidentiality very seriously and are committed to ensuring all personal information within the DCR is managed in accordance with the relevant legalisation and adhere to the principles of the charter to ensure your information is safe, secure and confidential.
+Please go to www.dorsetforyou.com/disc for further information on the DiSC
+Why do we need your information?
+The health and social care professionals who work with you to provide your care will keep records about the treatment and support you receive. Having this information available in one record will enable these professionals to work together and share vital information about your health and wellbeing needs. Health and social care professionals will be able to use the information to assess your needs and decide the most appropriate treatment or support for you. It is important that the DCR has up to date and accurate information about your health and care to ensure you receive the best quality care possible.
+All personal information within the DCR is only used respectfully and confidentially to promote the health and wellbeing of the person.
+What is the lawful basis for sharing your information?
+The following outlines the legal basis that will be used to allow us to share your information within the DCR.
+ Health and Social Care Act 2012
+
+ Health and Social Care (Safety and Quality) Act 2015
+ Duty to share information (Part 9 of the Health and Social Care Act 2012)
+ This section applies to information about an individual that is held by a relevant health or adult social care commissioner or provider known as the relevant person.
+ This relevant person must ensure that the information is disclosed to-- o Persons working for the relevant person, and o Any other relevant health or adult social care commissioner or provider with whom the relevant person communicates about the individual
+ Data Protection Act 1998
+Principle 1 (Fair and Lawful processing)
+ Schedule 2 - The processing is necessary for the exercise of any other functions of a public nature exercised in the public interest by any person.
+ Schedule 3 -The processing is necessary for medical purposes and is undertaken by--. o A health professional, or. o A person who in the circumstances owes a duty of confidentiality which is equivalent to that which would arise if that person were a health professional.
+NB "medical purposes" includes the purposes of preventative medicine, medical diagnosis, medical research, the provision of care and treatment and the management of healthcare services.
+How will your information be used and accessed?
+Personal information contained in the DCR will only ever be used for your direct care and support.
+Only health and social care professionals directly involved in your care are allowed to access personal records within the DCR and all activity is monitored and recorded.
+The information within your Dorset Care Record is used to provide you with the most appropriate care and support that you need. The information within the DCR helps professionals to make better decisions about your care and ensure it is safe and effective.
+What type of personal information will be used?
+ Name, address and contact details  A list of diagnosed conditions  Future and past appointments  A list of medications you are taking  Any allergies or alerts you may have  Results of tests and investigations you are undergoing  Any referrals, letters and other clinical correspondence you may have
+Who will see and share your information?
+
+Only health and social care professionals directly involved in your care will be able to access your record. This may include nurses and admin staff but they only see the information necessary for your specific needs. All access to the DCR is logged and checked to maintain security of your information.
+Your information will not be shared with anyone who is not providing you with direct care or support and will never be made available to any third party.
+Under the Data Protection Act 1998, you have the right to request access to the information held about you as well as who has accessed your information and can request this by contacting the professional providing you with care or treatment.
+How long will your information be kept for?
+Your personal information will be kept for up to 8 years after death which is in line with legal guidance in order to inform the best quality care and treatment. All information stored will be managed under controlled conditions and in line with legislation.
+You have the right to withdraw your consent for health and social care professionals to access and use the information held about you in the DCR. This will not affect the quality of treatment that you received but may result in delays to your treatment where information is not immediately available to health and social care professionals providing your care
+Do we use your information in other ways?
+As well as using your information to care for you, your information can help to improve the way we provide health and social care in Dorset. As the DCR develops, we may use the information within it to analyse trends in population health to help us identify better ways to treat patients and provide care and support. Using the information in this way is sometimes called `secondary use' or `secondary processing'.
+In order to use the data in this way, it will be extracted from the DCR and stored in a physically separate database. In extracting and storing the data, all patient identifiers will be removed from the data. NHS numbers will be encrypted in the extract so that they cannot be read. This process is called `pseudonymisation'. The extract will use structured or coded data, for things like allergies and prescribed drugs. It will not include information typed in by hand, so there is no possibility of it containing references to family members or other people.
+It will not be possible to identify any person by looking at the `pseudonymised' data.
+How will we use this extract?
+Data in our secondary use extract will be used by health and social care organisations in Dorset to plan how health and care services will be delivered in future. For example, services may be planned based on what types of diseases are being recorded, how many are being managed in general practice and how many are being referred to hospital.
+Security of the data extract will meet the same standards as for the DCR itself, and access will be restricted to information and intelligence staff within the DCR partner organisations, including Public Health Dorset, our shared public health service.
+Data in the extract will never be shared with commercial companies like drug manufacturers.
+When will you start extracting the data to use in this way?
+The most important way in which the DCR will be used is to support health and care professionals to care for you. We will not start to extract any data for secondary use in the early stages of the DCR until we have gained experience and confidence in how it works.
+What if you have opted out of the Dorset Care Record?
+
+If you have opted out of the DCR your data will not be included when the data is extracted for secondary use. What if you want to opt out of `Secondary use' only? If you want clinical staff to be able to see information on the DCR to support your care, but do not want it to be included when the data is extracted for secondary use, please speak to the professional providing your care.
+How can you contact us with queries or concerns about this privacy notice, or wish to make a complaint.
+If you have any queries, concerns or you wish to complain regarding the information we hold about you or you have a question regarding this privacy notice, then please contact us.
+
+

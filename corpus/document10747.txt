@@ -1,0 +1,200 @@
+Privacy notice for employees - GDPR
+1 Purpose of the Document
+All companies within Rosti are committed to protecting the privacy and security of your personal data.
+Rosti is made up of different legal entities, details of which can be found at the end of this notice. This privacy statement is issued on behalf of the Rosti group so when we mention "Rosti", "we", "us" or "our" in this privacy statement, we are referring to the relevant company in the Rosti group responsible for processing your data. Each site is a "data controller". This means that we are responsible for determining how we hold and use personal information about you. According to the General Data Protection Regulation (EU 2016/679) (GDPR) we, as data controller, are required to notify you of the information contained in this privacy notice.
+This privacy notice describes why and how we collect and use personal information about you during and after your working relationship with us, with whom we might share it and how long we usually keep it. This also makes you aware of your rights under the GDPR.
+In general, GDPR applies to all employees that are EU citizens or whose personal data is being processed by a Rosti entity based in the EU.
+This notice applies to current and former employees, workers and contractors. This notice does not form part of any contract of employment or other contract to provide services. We may update this notice at any time but if we do so, we will inform you and provide an updated copy of this notice on RostiNet.
+It is important that you read and understand this notice. If you have questions or do not understand it fully, please seek additional information from your local Personal Data Protection (PDP) Coordinator in HR, Rosti's Data Protection Officer (dpo@rosti.com) or via Q&A in site Rosti Personal Data Protection.
+2 Personal information we collect about you
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+We will collect, store, and use the following categories of personal information about you as listed below.
+Personal basic data:
+· personal contact details such as name, title, addresses, telephone numbers, and personal email addresses
+· date of birth · gender · emergency contact information · marital status and dependents (if required by legislation) · government-issued identification numbers, such as national ID number or national
+insurance number · bank account details
+1  10 Rosti Privacy Notice for employees ­ GDPR · 2018-05-25
+
+· nationality · languages · photo · copy of your passport or identity card
+Data related to employment relationship:
+· work contact details · type of contract, contract details, employment ID number · title, position description, working history and records, working location, years of
+services · salary, benefits, tax and pension-related information and historical records · performance-related data, such as your objectives, performance discussions and
+assessment records, feedback and tests results · qualifications and personal development related data, such as records of development
+discussions and competence assessments, learning and development records, certificates, licenses and vocational records, records of career and succession planning · information about working hours, vacation and absences · recruitment history ­ CV details, previous work experiences and educational background, certificates, licenses and vocational records, information of general interests, membership to associations, any information you have provided us during the interviews, information gathered from reference persons whose contact details you have provided to us · leaving date and your reason for leaving · copy of driving licence (if relevant for your position) · information related to immigration, right-to-work and residence status · travelling and travel expenses related data as well as user account details · information relating to misconducts and disciplinary actions, background check reports and security data · data related to incident reporting, including time and place of accident and "near misses" at work, description of the respective incident including information relating to the persons involved in such incidents and the effects the incidence has had on these persons (including also limited health related data), consequences of the incident including data relating to insurance reports and other proceedings · information relating to specific assignments e.g. meeting records, project reports etc. · user logs and access control related information, including physical access to Rosti premises · CCTV footage and other information obtained through electronic means such as swipe card records · information about your use of our information and communications systems and other Rosti's assets, e.g. outlook, computers, servers etc.
+We may also collect, store and use the following "special categories" of more sensitive personal information which will be collected and used only if and to extent a local legislation requires.
+Sensitive data we may collect about you:
+· information about your religion · trade union membership · information about your health, including any medical condition, health and sickness
+records, including:
+2  10 Privacy notice for employees ­ GDPR · Version 1 · 2018-05-16
+
+· where it is needed for determination of working capacity based on health conditions
+· records of regular health examination · sick-leave records · where you leave employment and the reason for leaving is determined to be ill-
+health, injury or disability, the records relating to that decision · where you leave employment and the reason for leaving is related to your health,
+information about that condition needed for pensions and permanent health insurance purposes · biometric data · information about criminal background
+
+3 Grounds for collecting and using your data
+We primarily based our processing of your personal data (see categories of personal information in "The kind of information we hold about you" above) in order for us to perform our contract obligations as an employer ("Contractual obligations") and to enable us to comply with legal obligations ("Legal obligations").
+In some cases we process your personal information based on our legitimate interests ("Legitimate interests"), when your interests and fundamental rights do not override those interests. Our main and general legitimate interest is to continue to develop our business, both qualitatively and quantitatively, and improve the performance of Rosti. We have listed purposes and grounds for processing your personal data in table below.
+
+Entering or performing employment contract, determine the terms on which you work for Rosti, management of employment contract, amendment agreements, appendixes and other contracts related to employment relation.
+
+Contractual obligations
+
+Checking if you are legally entitled to work in the country where we operate and your resident status.
+
+Legal obligations
+
+Payments of agreed compensation (salary, bonuses) and as applicable deducting tax, mandatory social contributions and national insurance contributions in accordance with local legislation.
+
+Contractual obligation Legal obligations
+
+Making decisions about salary reviews and compensation package based on Rosti salary review processes and best Contractual obligations practises.
+
+Providing the contractually agreed bonuses and benefits or complementary benefits awarded to you according to company Contractual obligations policy.
+
+Inviting you to participate in long term incentives provided by a group company, if applicable.
+
+Legitimate interests
+
+Enrolling you in a pension arrangement in accordance with statutory automatic enrolment duties. Liaising with your pension Contractual obligations provider and any other provider of employee benefits
+
+3  10 Privacy notice for employees ­ GDPR · Version 1 · 2018-05-16
+
+Attendance monitoring, vacation, absence and sick/leave Contractual obligations
+
+administration.
+
+Legal obligation
+
+Determining performance requirements, setting individual targets, conducting regular performance reviews and assessments, managing performance records and analytics in accordance with Rosti's performance and development processes.
+
+Legitimate interests
+
+Assessment of qualification and competences in the role you are signed for and for talent and succession management, including decisions about career and promotions according to our HR routines.
+
+Legitimate interests
+
+Employees development - composition of overall and individual development programs, arrangement of trainings and development activities, including on-boarding trainings, certification and licences administration according to Rosti's performance and development processes.
+
+Legitimate interests
+
+Your participation in recruitments ­ conducting recruitment process, arranging interviews and testing, making a decision on appointment according to Rosti recruitment policy.
+
+Legitimate interests
+
+Travel management ­ arrangement of accommodation and flights, managing travel expenses reports and payments, arranging visa invitations and/or visas.
+
+Legal obligation Legitimate interest
+
+Working health & safety (H&S) management ­ trainings on H&S, distribution of individual protective equipment, monitoring safety behaviour, administrating SAFER's and other H&S related records, in case of work accidents investigation and reporting to relevant authorities, arrangement of health examinations if applicable and complying with other health and safety obligations coming from local legislation.
+Processing the termination of employment - making arrangements for the termination, administration of relevant documents, reporting to relevant authorities if required by local legislation.
+Assurance of network and information security, including access management to prevent unauthorised access to our computers and electronic communications systems and preventing malicious software distribution.
+Monitoring your use of our information and communication systems and other Rosti assets to ensure compliance with our IT policies.
+Assurance of security of Rosti's facilities and assets, and Rosti's employees personal belongings via monitoring swipe card records (or biometric data readers) and surveillance cameras (CCTV).
+Equal opportunities monitoring and to prevent discrimination.
+
+Legitimate interest Legal obligation
+Contractual obligation Legal obligations
+Legal obligations Legitimate interests
+Legal obligations Legitimate interests Legal obligations Legitimate interests
+Legal obligations Legitimate interests
+
+4  10 Privacy notice for employees ­ GDPR · Version 1 · 2018-05-16
+
+To prevent fraud or other criminal activities (especially antibribery).
+Gathering evidence for possible grievance or disciplinary hearings.
+Making decisions about your continued employment or engagement.
+Dealing with legal disputes involving you, or other employees, workers and contractors, including accidents at work.
+To conduct data analytics studies to review and better understand employee retention and turnover rates.
+To carry out our contractual obligations with customers and suppliers. E.g. personal data included in purchase orders, quality documentations, email correspondences and contracts between us and a customer.
+
+Legal obligations Legitimate interests Legal obligations Legitimate interests Legal obligations Legitimate interests Legal obligations Legitimate interests
+Legitimate interests
+Legal obligations Legitimate interests
+
+Some of the above grounds for processing will overlap and there may be several grounds which justify our use of your personal information.
+
+4 Change of purpose
+We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and explain the legal basis which allows us to do so.
+Please note that we may process your personal information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+5 If you fail to provide personal information
+If you fail to provide certain information when requested, we may not be able to comply with contractual obligations and perform the contract we have entered into with you (such as paying you, reporting your taxes, or providing a benefit), or we may be prevented from complying with our legal obligations (such as to ensure the health and safety of our workers).
+
+6 How the personal information is collected
+Rosti Employee
+We collect personal information about you from you directly during contracting employment relationship.
+We collect personal information about you also through the application and recruitment process either directly from you, or from a recruitment service providers or consultants if they were involved. We sometimes collect additional information from third parties including former employers, authorities or other information providers. To get further information on how we collect information please contact the DPO or HR at your Rosti entity.
+
+5  10 Privacy notice for employees ­ GDPR · Version 1 · 2018-05-16
+
+We will collect additional personal information in the course of job-related activities throughout the period of you working for us.
+Subject to the applicable laws, information may be obtained through background checks, security clearances and other similar information sources deemed necessary due to the nature and security requirements related to the open position in question.
+Agency worker We collect personal information about you from the agency you are working for. If the situation so requires, we collect certain data from you directly, e.g. bank details, data needed in relation with work incidents etc.
+For further information, please contact the DPO or HR at your Rosti entity.
+Subject to the applicable laws, information may be obtained through background checks, security clearances and other similar information sources deemed necessary due to the nature and security requirements related to the open position in question.
+7 Automated decision making
+You will not be subject to decisions that will have a significant impact on you based solely on automated decision-making. There will always be human intervention into decisions based on automated processing, including automated analytics, testing, profiling.
+However if this position changes, or there is a need and lawful base to do so, we will notify you in writing.
+8 Personal information sharing
+We share your personal information with other entities in Rosti group as part of our regular reporting activities on company performance, in the context of a business reorganisation or restructuring exercise, for system maintenance support and hosting of data.
+We share your personal information with different governmental authorities, institutions or agencies (or similar), or insurance companies where required by law for the purpose of their regulatory tasks. We may also need to share your personal information with a regulator or to otherwise comply with the law.
+We share your personal data with third-party service providers processing data on behalf of Rosti. To get further information on how we collect information please contact the DPO or HR at your Rosti entity.. In such cases your personal data are safeguarded by Data Processing Agreements, committing outsourced service providers to process your personal data for specified purposes and in accordance with our instructions, comply with GDPR and apply appropriate security measures to protect your personal information in line with our policies. We do not allow our third-party service providers to use your personal data for their own purposes.
+We may share your personal information with other third parties, e.g. service providers, suppliers, customers and business partners to fulfil our contractual obligations. In such cases we limit personal data shared to absolute minimum required.
+We will share your personal information with other entities in our group as part of our regular reporting activities on company performance, in the context of a business reorganisation or group restructuring exercise, for system maintenance support and hosting of data. In this
+6  10 Privacy notice for employees ­ GDPR · Version 1 · 2018-05-16
+
+situation we will, so far as possible, share anonymised data with the other parties before the transaction is completed.
+We may share your personal information with other third parties, for example in the context of the possible sale or restructuring of the business. In this situation we will, so far as possible, share anonymised data with the other parties before the transaction is completed. Once the transaction is completed, we will share your personal data with the other parties if and to the extent required under the terms of the transaction.
+9 Transferring information outside the EU
+As an international company, if necessary, we will transfer the personal information we collect about you to Rosti entities in China, Malaysia and/or Turkey.
+If you are a part of our management team, sales organisation or sourcing organisation, we will transfer name, email address, telephone number, job position, place of work, country and other business related data, such as personal data included in purchase orders, quality documentations, email correspondences, contracts and other agreements between the customer/supplier and Rosti. In addition, we will transfer related business documentations to a Rosti site or to customers or suppliers, strictly in order to perform our contract with such customers or suppliers.
+We secure that appropriate safeguards are in place which provide adequate levels of protection of your personal data as required by applicable data protection laws. All transfers outside the EU not made to countries which are considered by the European Commission to provide an adequate level of protection of personal information are safeguarded with agreement based on Standard Contractual Clauses based approved by European Commission or such other mechanisms as have been recognised or approved by the relevant authorities from time to time. If you have questions about the transfer, please contact our data protection officer.
+10 Data Security
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed.
+We limit access to your personal data to those employees, agents, contractors and other third parties on a need-to-know basis, i.e. who need the access in order to fulfil the tasks and duties relating to service provision. All service providers are permitted to process your personal data based on our instructions, they are subject to a duty of confidentiality, and they are required to be compliant and demonstrate the compliance with Personal Data Protection.
+Our IT systems are protected against unauthorised access with various level of controlled and password protected access rights.
+When transferring or disclosing your personal data the safety measures vary based on the sensitivity of the data and may include e.g. strong identification of the recipient and encryption of the transferred information.
+Any sensitive information (such as health-related information or any sensitive data required by local legislation) will usually be used separately from other personal data, and access rights to such sensitive personal data are granted only with weighty reasons to persons making decisions, usually HR representatives, direct manager and direct manager's manager.
+7  10 Privacy notice for employees ­ GDPR · Version 1 · 2018-05-16
+
+We have implemented procedures to deal with any actual or suspected data security breach and will notify you and any applicable authority about breach where we are legally required to do so.
+We are avoiding personal data collection and usage in paper format. If so required, the paper documents and copies will be always stored in locked-up premises.
+Our IT organisation together with our DPO monitor the safety and integrity of the personal data protection on regular basis and have implemented technical measures to prevent and detect any safety breaches that may threaten your personal data.
+11 Data Retention
+We only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+Details of retention periods for different aspects of your personal information are available in our retention policy which is available on RostiNet. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+Once you are no longer an employee, worker or contractor of the company we will retain and securely destroy your personal information in accordance with our data retention policy and applicable laws and regulations.
+12 Your rights in connection with personal information
+Under certain circumstances, you have the right to: · Request access to your personal information. This enables you to receive a copy of the personal information we hold about you and to check that we are collecting and using it lawfully.
+· Request correction of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+· Request erasure of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to use it. You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing (see below).
+· Object to processing of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground.
+· Request the restriction of collecting and using your personal information. This enables you to ask us to suspend the usage of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+· Request the data portability of your personal information to another party. · Right to lodge a complaint to supervisory authority.
+8  10 Privacy notice for employees ­ GDPR · Version 1 · 2018-05-16
+
+· Right to withdraw the consent. In circumstances where you have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time.
+You can exercise your rights: · to review, verify, correct or request erasure of your personal information, object to the processing of your personal data, request that we transfer your basic personal information to another party or withdraw the consent, please contact with [position] in writing. · to lodge the complaint to supervisory authorities, please contact directly the Data Protection Authority of you location country or Swedish Data Protection Authority (Sw. Datainspektionen, www.datainspektionen.se).
+In order to meet your request we may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal information is not disclosed to any person who has no right to receive it. Exercising your rights is free from charges. However, we have right at our sole discretion to refuse to fulfil or charge a reasonable fee for fulfilling of several similar consecutive requests or requests that are manifestly unfounded or excessive. We are also entitled to decline requests on statutory grounds in which cases we will inform you of such decline including the grounds for the decline.
+13 Your duty to inform us of changes
+It is important that the personal information we hold about you is accurate and current. Please keep us informed if your personal information changes during your working relationship with us.
+14 Changes to this privacy notice
+We reserve the right to update this privacy notice at any time, and we will provide you with a new privacy notice when we make any substantial updates.
+15 How to contact us
+If you have any questions about how we process your personal data, please feel free to contact our data protection officer by sending an email to dpo@rosti.com. The following legal entities are a part of the Rosti group
+· Rosti Group AB, company no. 556308-9456, a company organised and existing under the laws of Sweden with registered office at Anna Lindhs plats 4, 211 19 Malmö, Sweden, telephone: +46 40 204 701
+· Rosti GP AB, company no. 556307-6685, a company organised and existing under the laws of Sweden, with registered office at Baldersvägen 35, SE-332 35 Gislaved, Sweden, telephone: +46 371 846 50.
+9  10 Privacy notice for employees ­ GDPR · Version 1 · 2018-05-16
+
+· Rosti GP Germany GmbH, company no. HRB 21813, a company organised and existing under the laws of Germany with registered office at Heilbronner Straße 18, DE01189 Dresden, Germany, telephone: +49 351 40 46 00.
+· Rosti UK Ltd, company no. 09847166, company organised and existing under the laws of England with registered office at Bridge Works, Stamford Bridge, York, YO41 1AL, United Kingdom, telephone: +44 1759 371551
+· Rosti Business Development Ltd, company no. 11192743, company organised and existing under the laws of England with registered office at Centrix Keys Business Village, Keys Park Road, Hednesford, Cannock, United Kingdom, WS12 2HA, telephone: +46 40 204 701.
+· Rosti Integrated Manufacturing Solutions (Suzhou) Limited, a company organised and existing under the laws of China with registered office at 1 Huazheng Street Suzhou Industrial Park Jiangsu Province 215026, People's Republic of China, telephone:+86 512 6295 2000.
+· Rosti IMS Sdn. Bhd., company no. 982244 T, a company organised and existing under the laws of Malaysia with its registered address at Suite 7E, Level 7, Menara Ansar, 65 Jalan Trus, 8000 Johor Bahru, Johor, Malaysia, telephone: +60 197 232 322.
+· Rosti Poland Sp. z o.o., company no. KRS 0000371393, a company duly organized and existing under the laws of Poland with its registered address at ul. Myliwska 18, 15-569 Bialystok, Poland, telephone: +48 85 678 3500.
+· Rosti Romania S.R.L, 56476 (Prahova), a company organised and existing under the laws of Romania with its registered address at Strada Principala Ploiesti West Park, Cldirea SE, 107025 Aricestii Rahtivani, România, telephone: +40 037 498 2080
+· Tebplast Plastik Sanayi ve Ticaret Anonim irketi, company no. 148/4 (Istanbul) a company organised and existing under the laws of Turkey with its registered address at Beylikdüzü Osb Mh. Bakir-Prinç San. Sit. Sardunya Cd. No:1, Istanbul, Turkey, telephone: +90 (212) 875 11 75-76
+10  10 Privacy notice for employees ­ GDPR · Version 1 · 2018-05-16
+
+

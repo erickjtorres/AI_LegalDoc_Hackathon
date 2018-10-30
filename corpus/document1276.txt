@@ -1,0 +1,79 @@
+PRIVACY POLICY
+Last updated: May 24 ,2018
+Reflectly ("we" or "us" or "our") respects the privacy of our users ("user" or "you"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the "App") or our website www.reflectly.io, www.reflect.ly, www.reflectly.app (collectively, the "Site"). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APP.
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the App after the date such revised Privacy Policy is posted.
+This Privacy Policy does not apply to the third-party online/mobile store from which you install the App or make payments, including any in-game virtual items, which may also collect and use data about you. We are not responsible for any of the data collected by any such third party.
+COLLECTION OF YOUR INFORMATION
+We may collect information about you in a variety of ways. The information we may collect via the App depends on the content and materials you use, and includes:
+Personal Data
+We collect and store all personal information related to your App profile, which you voluntarily give us either upon sign-up or through continued use of the App:
+ First and last name  Nickname  Email address  Birthday  Demographic location  Timezone  Photos uploaded
+
+Derivative Data and Uploaded Media
+Information our servers automatically collect when you access the App, such as your native actions that are integral to the App, actions taken when creating entries, editing entries and uploading media to the App. As such, we may also request access to your device's photo roll or camera in order for us to upload your media to the App. Any media uploaded in this fashion, will be collected and stored on our servers. If you wish to change our access or permissions, you may do so in your device's settings.
+Facebook Permissions
+The App may - if you choose to sign in with Facebook - access your Facebook basic account information, including your name, email, gender, birthday, current city, and profile picture URL, as well as other information that you choose to make public. We may also request access to other permissions related to your account, such as friends, check-ins, and likes, and you may choose to grant or deny us access to each individual permission. For more information regarding Facebook permissions, refer to the Facebook Permissions Reference page.
+Data From Social Networks
+User information from social networking sites, such as Facebook, including your name, your social network username, location, gender, birth date, email address, profile picture, and public data for contacts, if you connect your account to such social networks. This information may also include the contact information of anyone you invite to use and/or join the App.
+Geo-Location Information
+We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using the App, to provide location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
+Mobile Device Access
+We may request access or permission to certain features from your mobile device, including your mobile device's reminders, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+
+Mobile Device Data
+Device information such as your mobile device ID number, model, and manufacturer, version of your operating system, phone number, country, location, and any other data you choose to provide.
+Push Notifications
+We may request to send you push notifications regarding your account or the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
+Data From Contests, Giveaways, and Surveys
+Personal and other information you may provide when entering contests or giveaways and/or responding to surveys.
+USE OF YOUR INFORMATION
+Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the App to:
+ Generate a personal profile about you to make future visits to the App more personalized.
+ Monitor and analyze usage and trends to improve your experience with the App.  Notify you of updates to the App or Site.  Request feedback and contact you about your use of the App.  To improve our website and product (we continually strive to improve Reflectly and
+the website based on your feedback)  We may periodically send promotional emails about new products, special offers or
+other information which we think you may find interesting using the email address which you have provided.
+We will also require you to link either your iTunes Account, ApplePay Account or Google Play Account with our App if you wish to purchase one of our Premium subscriptions. This does not give us access to your credit card or banking information, but is needed so that we can process your purchases/subscriptions.
+
+DISCLOSURE OF YOUR INFORMATION
+We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
+We will not sell, distribute, or lease your personal information to unrelated third parties unless we have your permission or are required by law to do so. We may need to send your personal information to our third-party vendors, who are under contractual obligations to keep this information confidential. We may also use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. Finally, if we ever sell Reflectly ApS, or participate in a merger or consolidation, and our User data is one of the assets involved in the sale, your personal information will be part of this sale or transfer. We may also disclose your personal information:
+ To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+ To enforce or apply our Terms of Use and other agreements, including for billing and collection purposes.
+ If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Reflectly ApS, our customers, or others. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+TRACKING TECHNOLOGIES
+Cookies and Web Beacons
+We may use cookies, web beacons, tracking pixels, and other tracking technologies on the App to help customize the App and improve your experience. For more information on how we use cookies, please refer to our Cookie Policy posted on the App, which is incorporated into this Privacy Policy. By using the App, you agree to be bound by our Cookie Policy.
+Website Analytics
+We may also partner with selected third-party vendors, such as Google Analytics, Facebook Business Manager, to allow tracking technologies and remarketing services on the App through the use of first party cookies and third-party cookies, to, among other things, analyze and track users' use of the App, determine the popularity of certain content, and better understand online activity. By accessing the App or our Site, you consent to the
+
+collection and use of your information by these third-party vendors. You are encouraged to review their privacy policy and contact them directly for responses to your questions. We do not transfer personal information to these third-party vendors. However, if you do not want any information to be collected and used by tracking technologies, you can visit the third-party vendor or Network Advertising Initiative Opt-Out Tool or D igital Advertising Alliance Opt-Out Tool.
+You should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser's cookies files may also clear certain opt-out cookies, plug-ins, or settings.
+THIRD-PARTY WEBSITES
+The App may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the App, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the App. You should exercise caution and look at the privacy statement applicable to the website in question.
+SECURITY OF YOUR INFORMATION
+We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+
+CHILDREN UNDER THE AGE OF 13
+Our service is not intended for children under 13 years of age. No one under the age of 13 may provide any personal information to, or on, the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website, or on or through any of its features/functionality, make any purchases through the Website, use any of the interactive or public comment features that may be available on this Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or username you may use. If we learn that we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at hello@reflect.ly.
+CONTROLS FOR DO-NOT-TRACK FEATURES
+Most web browsers and some mobile operating systems include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.
+OPTIONS REGARDING YOUR INFORMATION
+Account Information
+You can review and change your personal information by logging into your profile through the website or App and visiting your account profile page or settings page. You may also send us an e-mail at hello@reflect.ly to request access to, correct or delete any personal information that you have provided to us. We may not be able to delete your personal information except by also deleting your user account. We also may not accommodate a request to change information if we believe the change would violate any law or legal requirement, or cause the information to be incorrect. Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our
+
+files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.
+Emails and Communications
+If you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out by:
+ Contacting us using the contact information provided below.  Clicking the opt-out button at the bottom of any promotional email you
+receive.
+If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly.
+NOTICE TO USERS FROM THE EUROPEAN ECONOMIC AREA
+If you are visiting and using the Services from the European Economic Area ('EEA'), please be aware that you are sending information (including personal data) to the United States where our partner platform's servers are located. Our partners and/or staff operating outside the EEA may process this information. The information may then be transferred within the United States or back out of the United States to other countries outside of your country of residence, depending on the type of information and how we store it. These countries (including the United States) may not necessarily have data protection laws as comprehensive or protective as those in your country of residence; however, our collection, storage and use of your personal data will at all times continue to be governed by this Privacy Policy. BY SUPPLYING YOUR PERSONAL INFORMATION TO US YOU EXPRESSLY AGREE TO THE TRANSFER OF YOUR PERSONAL INFORMATION OUT OF THE EEA, AND TO THE PROCESSING OF YOUR INFORMATION IN THE U.S., SUBJECT TO THIS PRIVACY POLICY.
+YOUR CONSENT
+By using our site or app, you consent to our privacy policy.
+
+CONTACT US
+If you have questions or comments about this Privacy Policy, please contact us at:
+Reflectly Balticagade 16 DK-8000 Aarhus hello@reflect.ly
+
+

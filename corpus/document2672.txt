@@ -1,0 +1,140 @@
+Ten steps to develop a multilayered privacy notice
+Prepared by leading lawyers and experts in privacy with The Center for Information Policy Leadership
+
+Foreword
+Experts agree that good privacy begins with effective transparency. Transparency requires privacy notices that are easy to understand, facilitate comparison, and are actionable. Privacy notices must also comply with legal requirements that may differ from country to country, and jurisdiction to jurisdiction. Research on how people learn has shown that for notices to be easy to read and understand, they must be short, use plain language, and be presented in a common format. Complete notices tend to be longer and more complex, so it is impossible to have both sets of requirements in one document. A multilayered notice is made up of a condensed notice that contains all the key factors in a way that is easy to understand and is actionable, and a complete notice with all the legal requirements. A growing number of privacy officials and experts agree that multilayered notices meet the transparency objective. Corporate and government sponsored research shows that multilayered notices build both trust and compliance. The work of the European Article 29 Working Party gives us confidence that layering a privacy notice is legally complaint.
+The purpose of this ten step guide is to help privacy practitioners in organizations of all sizes to assess their privacy notices and build effective multilayered notices, if appropriate.
+After several years of testing and development, the international privacy community has begun to adopt multilayered privacy notices that make it easy for consumers to understand how their information is used and protected, and to compare companies' privacy policies. These new notices also encourage compliance and make it possible for organizations to use the same privacy notices worldwide. While there are still differences of opinion on notice content, we are at a point where organizations may feel comfortable using the notices discussed in this ten step guide to develop an easy to read and compare privacy notice, compliant with the emerging standard.
+The guide begins with background on multilayered notices and a discussion of why you might like to change or update your notice. It then provides the reader with ten steps that can be followed by organizations of all sizes when developing multilayered privacy notices. Finally, the guide provides the reader with resources available on the internet for reference when developing a multilayered notice.
+Background
+With the growth of the internet in the 1990s, more and more organizations began publishing privacy notices. The complexity of the notices began to mirror the increasing complexity of information practices. Consumers found these notices confusing, and policymakers began to realize that the notices were failing to give the individual a clear picture of how their information would be used. Organizations had conflicting goals of creating notices that were easy to understand, complete, and compliant. By 2003, privacy leaders were beginning to discuss a concept called layered notices. A layered notice would be a short notice in a common template format, combined with a longer complete notice. This concept was endorsed by the 25th International Data Protection Conference, held in Sydney, Australia in 2003.
+This basic concept was explored further at a workshop in Berlin in March 2004. The workshop, attended by data protection commissioners, other government officials, European consumer leaders and business, led to the Berlin Memorandum. The memorandum called for multilayered notices to be made up of as many as three layers. The additional layer would be a very short notice designed for use on portable digital devices, coupons and other places where space would be very limited. The Berlin Memorandum was discussed by the European Union's Article 29 Working Party, which adopted a common position endorsing multilayered notices in December 2004.
+The Australian Data Protection Commissioner recommended this evolving norm in a 2005 review of the Australian private sector privacy law. The Australian government subsequently adopted a layered notice
+
+
+on its website. The Ontario Information Commissioner, working with the Ontario Bar Association, used layered notices as the basis for their new health care privacy notices. The US Postal Service adopted a multilayered notice in July 2005. The Data Protection Commissioners of New Zealand and British Columbia became the first Data Protection Agencies to publish condensed notices in November 2005. Example USPS notice
+The first layered notices began appearing on US business websites in 2003. Companies began publishing multilayered notices in different languages in 2005. There are now condensed notices in over forty languages, including Arabic, Chinese, French, German, Korean, Japanese, Polish, and Russian. This guide follows the recommendations in the European Union (EU) Article 29 common position of December 2004, which has gained wide acceptance within and outside the EU. This structure is as follows.  Layer 1 - The short notice: the very minimum, for example, when space is very limited, providing
+only the identity of the data controller, contact details, and the purposes of processing.  Layer 2 - The condensed notice: covering the basics in less than a page, ideally using subheadings,
+and covering Scope; Personal information collected; Uses and sharing; Choices (including any access options); Important information; How to contact us.
+
+
+ Layer 3 - The full notice.
+Why create a multilayered notice?
+Privacy notices must be kept current. When updating the notice, organizations should strongly consider the multilayered approach. Multilayered notices are a big `win' for organizations, consumers, and regulators. Companies win because multilayered notices easily build consumer trust. Research conducted in Hong Kong, Germany, the United Kingdom, and the United States shows that consumers prefer the templatebased condensed notice to longer text-based notices. The US Postal Service changed its notice when the template-based notice scored highest in a survey of public trust. Consumers like multilayered notices because they like information that is clear, graphically appealing, and easy to compare. Companies also win because regulators in Europe and the Asia Pacific regions have agreed on the core concepts that need to be covered in short and condensed notices. This results in a single notice that can be translated into many languages, rather than a notice with different text for each country. This makes web notices much easier. P&G, MSN, and IBM have all published their web-based notices in more than 40 different languages. Example P&G French notice
+
+
+Data protection authorities like multilayered notices because they increase public understanding of privacy and data protection -- a clear goal for regulation. Many regulators also believe that multilayered notices will result in increased compliance with existing notice requirements. The bottom line is that all parties win when privacy notices are easy to read and understand.
+Creating a multilayered notice
+Creating a privacy notice should not be viewed as an intimidating process. Developing a multilayered notice is no more difficult than a full legally compliant notice. If an organization has already created a full legally compliant notice, they can skip the first 5 steps below and move directly to creating a condensed notice in step 6. Good practice principles would suggest a legal review before publishing any notice.
+The ten steps
+Step 1 Determine what your company does with personal data Catalogue the organization's collection, use, sharing, protection, and destruction of information that is about individuals. There are many means of doing this. You could start with the data and map its flows throughout the organization. You could also begin with the uses, and determine the data needed to fulfill those uses. An organization must understand its data flows before creating notices.  What personally identifiable data is collected directly from individuals, from transactions with indi-
+viduals, or from third parties?  Where is that information collected?  How is the information used by the organization?  Is it shared with third parties? If so, with whom, and for what purposes?  How long is the information kept? How is it destroyed?  How is the information secured?  What choices does the individual have related to that use, retention, and sharing of information?  Does the consumer have opportunities to access and make corrections related to the information,
+either because of requirements in law or policy in the organization? The OECD, the US Direct Marketing Association, and many other organizations have websites, guides, and online tools that may help you develop your full notice.
+Step 2 Determine whether your company's treatment of personal data is legally compliant Review the laws, regulations, industry codes, contracts, and corporate promises that cover the collection and use of personally identifiable information to make sure the processes mapped meet legal expectations.  Is the data or use covered by law or industry codes of conduct?  Is there a contract in place to limit data use?
+
+
+ Is the data limited by consumers' choices exercised either directly with the organization or with third parties?
+ Does the law require special notifications or disclosures to consumers? If so, how must those notifications or disclosures be addressed?
+Step 3 Develop and test an internal privacy policy that reflects how your company treats personal data
+Write an internal information policy to describe the processes. Make sure that the employees covered by the policy understand it.
+ The internal policy should match the organization's culture. Write it in a way that matches the organization's identity standards, bearing in mind plain language.
+ Test the policy with the legal department and other senior stakeholders.
+ Test with line managers to make sure the internal policy actually reflects corporate behavior.
+ Finally, test with employees to make sure they understand the policies. This testing should be done in a way that actually tests current compliance.
+Step 4 Use that internal policy to create the organization's complete external privacy policy
+Make sure the external policy is consistent with the practices in step 1. This is the long, complete policy that meets all compliance requirements.
+ Have you included all the legal requirements in the complete notice? If you are using the complete notice in many countries, it might have special sections to address particular national requirements.
+ Have you included every significant use and sharing? Don't forget to mention if you use outside vendors, agents, and processors.
+ Have you discussed information security? While the condensed notice doesn't require a security section, almost all complete notices should.
+Step 5 Test and revise the full privacy notice
+Test the language and structure of the complete external policy to make sure it is understood by the target audience.
+ Is the long notice in language that most individuals would understand? Just because the notice is long doesn't mean it should be hard to read. You should not need a university education to understand the notice. Keep the sentences simple and easy to read. Consistently use the same words to mean the same thing. This will also help translation.
+Test the notice directly with consumers. This testing need not be costly. You can test a notice on your organization's website. Once you have tested the notice you should revise it based on the research, and then retest.
+Step 6 Create the condensed notice
+Summarize the main elements of the complete policy in the six categories of the condensed notice. Use language that is easy to understand. If possible, take sentences directly from the full notice. This will help with consistency. You should compare the condensed and complete notices to make sure that
+
+
+nothing has been left out of the condensed notice that is important or would be beyond the reasonable expectations of individuals.  Scope
+Who is covered by the notice? The organization collecting the information? A family of companies? An entire industry? The scope should be defined clearly in as few sentences as possible. You should avoid long lists of affiliates - that detail should be in the longer notice.
+Example
+Scope
+This statement applies to XYZ company Web Sites Worldwide.
+ Personal information collected
+This section should describe the types of information collected from the individual, from transactions with the individual, and from third parties about the individual. You should mention information gained from third parties such as credit bureaus or credit referencing services used to make decisions about the individual. You should also mention if you use cookies, if they are linked to personally identifiable information.
+Example
+Personal information
+ We collect information you choose to provide during your registration.  We use common internet technologies, such as cookies and beacons, on our websites and
+emails.  We sometimes obtain additional information about you from other sources, such as your demo-
+graphics and lifestyle information.  For more information about our information collection practices, please click here.
+ Uses and sharing
+This section discusses how the organization uses the information it collects. The organization should describe its own uses, uses by affiliated parties not listed in the scope, and non-affiliated sharing. The organization should list its own uses first, followed by affiliates and then non-affiliated third parties.
+There has been a great deal of discussion about whether to mention sharing with vendors and agents in the condensed notice. Discussions with consumer, business, and data protection agency privacy leaders have led to a consensus that, in most cases, sharing with vendors and agents should be covered in the long notice. Any use and sharing that would be beyond the reasonable expectations of individuals, however, should be highlighted in the condensed notice.
+
+
+Example
+Uses
+ We use personal information to provide you with information and samples you request, and to help us develop new products and services that meet your needs.
+ We do not share your personal information with other marketers unless we have asked for and obtained your explicit consent. If you do not provide your consent, we will not share your information.
+ We will use personal information you provide only for purposes consistent with the reason you provided it.
+ When we temporarily provide personal information to companies that perform services for us, such as to send you email or samples, we require those companies to protect the information in the same manner as XYZ. These service companies cannot use your personal information for any other purpose than the reason you provided it to XYZ.
+ Choices
+This section would include choices the individual has relating to the information collected and used. In some instances the choices are consents, while in other instances they are opt-outs. In many jurisdictions the consumer has the right to request access to information and request corrections or deletions. These choices should be in this section.
+Example
+Choices
+ You may access personal information that we hold about you. You can ask us to correct any errors or delete the information we have about you.
+ You may opt-out of any further contact from us.  To protect your privacy and the privacy of others, we may have to verify that you are who you say
+you are before we can give you access to, or change, information about you.
+ Important information
+Every organization has factors unique to its management of personally identifiable information. Some organizations have seal programs, while other organizations have special protections for information. This section is where organizations would place seals and other important facts. You could also mention special legal requirements in a particular jurisdiction, or information about where a person can complain.
+
+
+Example Important information
+BBBOnline reviews and enforces our compliance with this privacy notice. XYZ participates in the EU/Department of Commerce Safe Harbor Program.
+ How to contact us The last section gives the individual information on how to contact the organization for a complete notice, to ask questions, and to exercise choices. Many organizations give the individual more than one way to contact the organization.
+Example How to contact us E-mail: privacy@xyz.com. By post: XYC, Privacy Office, 475 Morningside Drive, Rochester, NY 12345. To see our full privacy policy, click here.
+Step 7 Harmonize the full and condensed notices together Now that you have developed the condensed notice it is time to go back and look at the full notice to see if there are any format changes to make them consistent. In some countries, many consumers will want to see the full notice. The complete and condensed notice must work together whether the complete notice will be available from a click-through on-line, or on request off-line.  Does the complete notice need to be reorganized so that topics are in the same order as the con-
+densed notice?  On-line, do you want to hyperlink the complete and condensed notice?  Are there words and phrases that need to be made consistent?  Do the two notices reflect the same organizational identity?
+Step 8 Create the short notice If the organization collects information over a hand-held computer, mobile phone, or with coupons, you should now develop the short notice for these applications. The short notice must contain three items of information.  Who is collecting the information?  What is the primary use for the information? You should also include non-primary uses that would
+be beyond the reasonable expectations of the consumer.
+
+
+ Can you contact the organization easily for the condensed or complete notice? For example, maybe through a phone number, e-mail address or a message saying `text 123 for more information.'
+Step 9 Review and test the multilayered notices
+It is important to see whether the target audience understands how the three layers work together. This may be through consumer research on your website. Finally, you should read through the notices again to make sure that there is nothing in the complete notice that would be beyond the reasonable expectations of the consumer, that has been left out of the condensed notice. In some jurisdictions, this lack of consistency might be perceived as deliberate deception.
+ Do the layers work together?
+ Are there important facts that have been left out of the notice?
+ Are all the notices consistent? Would the reader be surprised reading the full notice after reading the condensed notice?
+Step 10 Publish your new multilayered notice
+Make sure the various layers are published in the correct locations. All employees with consumer contact must be aware of the notice layers and how to provide a complete notice when asked.
+ Have your consumer affairs staff been educated on the various notice layers?
+ Can they explain your policies to the intended audiences?
+ Have you placed the various layers where they legally must be placed, as well as where you want them placed to build trust?
+Resources
+For more information and for the documents referenced in this paper, please visit the Center for Information Policy Leadership at www.informationpolicycenter.com. You will also find useful information at:
+1 Direct Marketing Association Privacy Policy Generators www.the-dma.org/privacy/privacypolicygenerator.shtml
+2 BBBOnLine www.bbbonline.org/reliability/privacy/
+3 OECD Privacy Statement Generator www.oecd.org/sti/privacygenerator
+© 2007 The Center for Information Policy Leadership at Hunton & Williams LLP. Attorney advertising materials. The content of this paper is strictly the view of the Center for Information Policy Leadership and does not represent the opinion of either its individual members or Hunton & Williams LLP. The Center does not provide legal advice. These materials have been prepared for informational purposes only and are not legal advice, nor is this information intended to create an attorney-client or similar relationship. Whether you need legal services and which lawyer you select are important decisions that should not be based solely upon these materials. Please do not send us confidential information. Contact: Martin E. Abrams, Executive Director, The Center for Information Policy Leadership, 1900 K Street, NW, Washington, DC 20006-1109, (202) 955-1627, mabrams@hunton.com.
+
+
+Portfolio of condensed notices
+Government of Australia
+10
+
+Portfolio of condensed notices
+Chase (English)
+11
+
+Portfolio of condensed notices
+MSN (Japanese)
+12
+
+Portfolio of condensed notices
+IBM (Slovenia)
+13
+
+Portfolio of condensed notices
+Lenovo (German)
+14
+
+

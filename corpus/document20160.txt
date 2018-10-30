@@ -1,0 +1,44 @@
+QCon Privacy Notice
+This Privacy Notice describes how QCon collects, uses and discloses information, and what choices you have with respect to the information. Updates in this version of the Privacy Policy reflect changes in data protection law.
+Applicability Of This Privacy Policy
+This Privacy Policy applies to any QCon services and activities like the QCon websites, at-event lead scanning, NFC voting, etc.
+How We Use Information
+Anonymous information
+In addition to personal information, certain anonymous information about your visit is automatically captured when you visit QCon websites through Google Analytics. We use Google Analytics to understand how the website is used and improve our services. You can read more about how Google Analytics safeguards privacy h ere.
+Personally Identifiable Information
+We request personally identifiable information for the following purposes:
+ To register for an event.  To send e-mail newsletters and/or third party announcements.  To customize your experience at a QCon event.  To provide you with recommendations for future events.
+If you physically opt-in in having your NFC conference badge scanned at an exhibitor booth then that exhibitor will be getting access to information like your name, email, company name, etc, and might choose to contact you with a promotional message.
+If you use your NFC badge for voting we might choose to follow-up with you and ask questions that would help us improve future events. If you prefer your vote to be anonymous, there is an option for logged-in users to do so--feel free to ask the conference staff for assistance.
+
+Identifying The Data Controller And Processor
+Data protection law in certain jurisdictions differentiates between the "controller" and "processor" of information. In general, QCon is the controller of user private data. In the case you allow exhibitors to scan your NFC badge then these exhibitors might become joint controllers for that specific case.
+Use of cookies
+You can read more about how we use cookies on the "Cookies" footer link on a conference site (example) .
+Social Plugins on Our Site
+We may use social plugins on QCon websites and may include icons that allow you to interact with third party social networks such as LinkedIn, Twitter and Facebook. For example, you may "like" us or a book on Facebook or follow us or Tweet about us on Twitter. The third party social plugin may set a cookie when your browser creates a connection to the servers of such social networks and the plugin may transmit your data to the social networks. Your use of these social plugins is subject to the privacy policies of the third party social networks.
+Behavioural Recommendations
+In some cases we might decide to deliver content recommendations or targeted advertising to people who visit our website. This could work by showing you content recommendations or ads that are based on your browsing patterns, the way you have interacted with our site, or the topics you are interested in.
+Use of Email
+If you have given us your email for purposes of communication or promotion, we will use your data to contact you or send promotional emails relating to your interests. You may revoke your consent to being contacted by email for promotional purposes any time, by clicking on an unsubscribe link.
+Further, with your consent, we may make use of email tracking technology to obtain data on if you open an email or if you click on links in an email. This data will be used only in automated ways to help improve future marketing messaging and/or to prioritize follow ups based on perceived communications relevance. Without your consent, we will not make use of personal data unique to you, such as your IP address, your device and browser information, or the time and number of times you open an email or click on a link.
+
+Your Rights
+Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to your Information, as well as to seek to update, delete or correct this Information, etc.
+In more detail you can:
+ You can stop receiving promotional email or postal communications from QCon by following the instructions in those messages,
+ You have the right to withdraw your consent for the processing of your personal data by QCon,
+ You have the right to have your personal data erased,  In some instances you have the right to have your personal data transferred to another
+company and QCon will make every reasonable effort to comply with your request.  You have the right to raise any concerns to the processing or use of your personal data
+by QCon to an appropriate data protection authority,  You have the right to review personal data QCon hold on you if this does not impact on
+other individual's rights and freedoms.
+You can usually do this using the settings or by directly contacting us at: privacy@c4media.com.
+Retention Period
+We will not retain personal information longer than necessary to fulfill the purposes for which it is processed. Because the circumstances may vary depending on the context and the services, retention period time might vary too.
+It is your right to request changes to your data, or even request erasure at: privacy@c4media.com.
+How to contact us
+If you want to request information about our privacy policy you can email us or write to:
+C4Media Inc. (QCon), 325-2275 Lake Shore Boulevard West, Toronto, Ontario, Canada, M8V 3Y3
+Or emails us at: p rivacy@c4media.com
+
+

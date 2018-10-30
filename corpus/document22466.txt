@@ -1,0 +1,367 @@
+Minnesota Notice of Privacy Practices
+Your Information. Your Rights. Our Responsibilities. OCTOBER 2014
+Minnesota Department of Health, Office of Health Information Technology | www.health.state.mn.us/e-health | MN.eHealth@state.mn.us
+
+Table of Contents
+Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2 Table 1: Legal References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3 Minnesota Model Notice of Privacy Practices . . . . . . . . . . . . . . . . . . . . . . . . . . .4 Your Rights  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .4 Your Choices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5 Our Uses and Disclosures  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .6 Our Responsibilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8 Changes to the Terms of this Notice  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .8 Other Instructions for Notice  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .8
+
+Acknowledgements
+
+The Minnesota Department of Health thanks the many members of the Minnesota e-Health Initiative and the Minnesota e-Health Privacy and Security workgroup for their time, leadership and expertise in developing and endorsing this piece.
+
+Minnesota e-Health Privacy and Security Workgroup Co-Chairs
+
+Laurie Beyer-Kropuenske, JD
+
+LaVonne Wieland, RHIA, CHP
+
+Director, Information Policy Analysis Division
+
+System Director Compliance & Privacy Compliance
+
+Minnesota Department of Administration
+
+HealthEast Care System
+
+Other Advisors and Project Support Stacie Christensen, Information Policy Analysis Division, Minnesota Department of Administration Bob Johnson, Office of Health Information Technology, Minnesota Department of Health Lisa Moon, Office of Health Information Technology, Minnesota Department of Health Emily Parks, Information Policy Analysis Division, Minnesota Department of Administration
+
+1
+
+Introduction
+
+This document provides a model Notice of Privacy Practices (NPP), based on the U .S . Department o Health and Human Services Model NPP and has been adapted to include Minnesota specific requirements . has been endorsed by the Minnesota e-Health Privacy Security Workgroup and Minnesota e-Health Initiative and is meant to be a tool that can be adapted by providers and health care organizations to help meet their patient notification and education needs .
+
+In 2014, the Minnesota Department of Health (MDH), in consultation with the e-Health Advisory Committee convened the Minnesota e-health Privacy and Security workgroup to provide materials and resources to health and health care providers to aid in implementing more robust privacy and security programs throughout the state .The work is ongoing, and available resources are online at http://www .health .state .mn .us/e-health vacy/ .
+
+This document is adapted from the U.S. Department of Health & Human Services (HHS) Model Notice of Privacy Practices
+
+and includes an overlay of Minnesota's additional legal requirements. Minnesota's additional legal requirements are in italic text.
+
+Additional information is in parentheses. http://www.healthit.gov/providers-professionals/model-notices-privacy-practices
+
+2
+
+Legal References to Minnesota Model Notice of Privacy Practices
+
+TABLE 1: Legal References - Includes numbered sections that correspond to the Minnesota Model Notice of Privacy Practices with the relevant federal and state legal references .
+
+# Included Information
+
+Federal HIPAA Rule
+
+Minnesota Law
+
+1 Header
+
+45 C.F.R. § 164.520 (b)(1)(i)
+
+2 "Your Rights"
+
+45 C.F.R. § 164.520 (b)(1)(iv)
+
+3 Copy of medical record
+
+45 C.F.R. § 164.520 (b)(1) (iv)(C) Minn. Stat. § 144.292 subd. 6
+
+Request to amend
+
+4
+
+medical record
+
+45 C.F.R. § 164.520 (b)(1) (iv)(D)
+
+5
+
+Request confidential communications
+
+45 C.F.R. § 164.520 (b)(1) (iv)(B)
+
+6
+
+Request to limit use/sharing of TPO
+
+45 C.F.R. § 164.520 (b)(1) (iv)(A) Minn. Stat. § 144.293 subd. 2
+
+List of those with whom
+
+7
+
+we've shared information
+
+45 C.F.R. § 164.520 (b)(1) (iv)(E)
+
+8 Copy of this privacy notice
+
+45 C.F.R. § 164.520 (b)(1) (iv)(F)
+
+9 File a complaint
+
+45 C.F.R. § 164.520 (b)(1) (vi)
+
+10 Request us not to share
+
+45 C.F.R. § 164.520 (b)(1) (iv)(A)
+
+11 Will never share without permission 45 C.F.R. § 164.520 (b)(1) (ii)(E)
+
+12 Fundraising
+
+45 C.F.R. § 164.520 (b)(1) (iii)(A)
+
+13 Uses & disclosures for TPO
+
+45 C.F.R. § 164.520 (b)(1) (ii)(A)
+
+Minn. Stat. § 144.293, subd. 2 and 5
+
+14 Other uses and disclosures
+
+45 C.F.R. § 164.520 (b)(1) (ii)(B)
+
+15 Public health and safety
+
+45 C.F.R. § 164.512 (b)
+
+16 Research
+
+45 C.F.R. § 164.512 (i)
+
+Minn. Stat. § 144.295 subd. 1
+
+17 Comply with the law
+
+45 C.F.R. § 164.512 (a)
+
+Minn. Stat. § 144.293 subd. 2
+
+18 Organ and tissue donation
+
+45 C.F.R. § 164.512 (h)
+
+Minn. Stat. § 525A.14
+
+19 Medical Examiner
+
+45 C.F.R. § 164.512 (g)
+
+Minn. Stat. § 390.11 subd. 7 (a)
+
+20
+
+Workers' comp, law enforcement, government
+
+45 C.F.R. § 164.512 (l)
+
+Minn. Stat. § 144.293, subd. 2
+
+21 Respond to legal actions
+
+45 C.F.R. § 164.512 (e)
+
+Minn. Stat. § 144.293 subd. 2
+
+22 Other state law
+
+45 C.F.R. § 164.520 (b)(1) (ii)(C) Minn. Stat. §§ 13.386, 254A.09
+
+23 Our responsibilities
+
+45 C.F.R. § 164.520 (b)(1) (v)
+
+24 Maintain privacy & security
+
+45 C.F.R. § 164.520 (b)(1) (v)(A)
+
+25 Inform of breach
+
+45 C.F.R. § 164.520 (b)(1) (v)(A)
+
+26 Follow notice practices
+
+45 C.F.R. § 164.520 (b)(1) (v)(B)
+
+27 Changes to the terms of notice
+
+45 C.F.R. § 164.520 (b)(1) (v)(C)
+
+28 Effective date
+
+45 C.F.R. § 164.520 (b)(1) (viii)
+
+29
+
+Name and contact of Privacy Official
+
+45 C.F.R. § 164.520 (b)(1) (vii)
+
+List of entities covered 30 by the notice
+
+Not required to be included.
+
+LEGAL REFERENCES TO MINNESOTA MODEL NOTICE OF PRIVACY PRACTICES
+
+3
+
+Minnesota Department of Health, Office of Health Information Technology
+
+www.health.state.mn.us/e-health
+
+|
+
+MN.eHealth@state.mn.us
+
+Minnesota Notice of Privacy Practices
+
+This document is adapted from U.S. Department of Health and Human Services Model Notice of Privacy Practices that includes an overlay of Minnesota's additional legal requirements. It is intended to be adapted
+by health care providers to suit their individual needs. Minnesota's legal requirements are in italic text.
+Covered Entity's Name Covered Entity's Address Website, Privacy Official's Phone, Email Address Other Contact Information
+Your Information. Your Rights. Our Responsibilities.
+
+1 Header
+Your Rights
+2 "Your Rights" 3 Copy of
+medical record
+4 Request to amend medical record
+5 Request confidential communications
+4
+
+This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.
+When it comes to your health information, you have certain rights. This section explains your rights and some of our responsibilities to help you .
+Receive an electronic or paper copy of your medical record · You can ask to see or copy an electronic or paper copy of your medical record
+and other health information we have about you .Ask us how to do this . · We will provide a copy or a summary of your health information within a
+reasonable time . · If you ask to see or receive a copy of your record for purposes of reviewing current
+medical care, we may not charge you a fee. [Minn. Stat. § 144.292 subd. 6] · If you request copies of your patient records of past medical care, or for certain
+appeals, we may charge you specified fees. [Minn. Stat. § 144.292 subd. 6]
+Ask us to correct your medical record · You can ask us to correct health information about you that you think is incorrect or
+incomplete .Ask us how to do this . · We may say "no" to your request, but we'll tell you why in writing within 60 days .
+Request for us to contact you confidentially · You can ask us to contact you in a specific ay (for example, home or office phone)
+or to send mail to a different address . · We will say "yes" to all reasonable requests .
+MODEL NOTICE OF PRIVACY PRACTICES Minnesota Department of Health, Office of Health Information Technology www.health.state.mn.us/e-health | MN.eHealth@state.mn.us
+
+6 Request to limit use/ sharing of TPO
+7 List of those with whom we've shared information
+8 Copy of this privacy notice
+9 File a complaint
+Your Choices
+10 Request us not to share
+5
+
+Ask us to limit what we use or share · You can ask us not to use or share certain health information for treatment, payment,
+or our operations (TPO) .We are not required to agree to your request, and we may say "no" if it would affect your care . · If you pay for a service or health care item out-of-pocket in full, you can ask us not to share that information for the purpose of payment or our operations with your health insurer .We will say "yes" unless a law requires us to share that information . Minnesota Law requires consent for disclosure of treatment, payment, or operations information. [Minn. Stat. § 144.293 subd. 2]
+Get a list of those with whom we've shared information · You can ask for a list (accounting) of the times we've shared your health information
+for six years prior to the date you ask, who we shared it with, and why . · We will include all the disclosures except for those about treatment, payment, and
+health care operations, and certain other disclosures (such as any you asked us to make) . We'll provide one accounting a year for free but will charge a reasonable, cost-based fee if you ask for another one within 12 months .
+Get a copy of this privacy notice You can ask for a paper copy of this notice at any time, even if you have agreed to receive the notice electronically .We will provide you with a paper copy promptly .
+File a complaint if you feel your rights are violated · You can complain if you feel we have violated your rights by contacting us using the
+information on page 1 . · You can file a complaint with the U .S . Department of Health and Human Services
+Office for Civil Rights by sending a letter to 200 Independence Avenue, S .W ., Washington, D .C . 20201, calling 1-877-696-6775, or visiting www.hhs.gov/ocr/privacy/hipaa/complaints/. · We will not retaliate against you for filing a complaint
+For certain health information, you can tell us your choices about what we share. If you have a clear preference for how we share your information in the situations described below, talk to us .Tell us what you want us to do, and we will follow your instructions . In these cases, you have both the right and choice to tell us NOT to: · Share information with your family, close friends, or others involved in your care · Share information in a disaster relief situation · Include your information in a hospital directory If you are not able to tell us your preference, for example if you are unconscious, we may go ahead and share your information if we believe it is in your best interest. We may also share your information when needed to lessen a serious and imminent threat to health or safety.
+MODEL NOTICE OF PRIVACY PRACTICES Minnesota Department of Health, Office of Health Information Technology www.health.state.mn.us/e-health | MN.eHealth@state.mn.us
+
+11 Will never share without permission
+
+In these cases we never share your information unless you give us written permission: · Marketing purposes · Sale of your information · Most sharing of psychotherapy notes Minnesota Law also requires consent for most other sharing purposes.
+
+12 Fundraising
+
+In the case of fundraising: · We may contact you for fundraising efforts, but you can tell us not to contact
+you again .
+
+Our Uses and Disclosures
+
+13 Uses & disclosures for TPO
+
+How do we typically use or share your health information? We typically use or share your health information in the following ways . We need your consent before we disclose protected health information for treatment, payment, and operations purposes, unless the disclosure is to a related entity, or the disclosure is for a medical emergency and we are unable to obtain your consent due to your condition or the nature of the medical emergency. [Minn. Stat. § 144.293, subd. 2 and 5] Treat you We can use your health information and share it with other professionals who are treating you only if we have your consent. We can only release your health records to health care facilities and providers outside our network without your consent if it is an emergency and you are unable to provide consent due to the nature of the emergency. We may also share your health information with a provider in our network.
+[Minn. Stat. § 144.293, subd. 2 and 5]
+Example: A doctor treating you for an injury asks another doctor about your overall health condition.
+Run our organization We can use and share your health information to run our practice, improve your care, and contact you when necessary . We are required to obtain your consent before we release your health records to other providers for their own health care operations.
+[Minn. Stat. § 144.293, subd. 2 and 5]
+Example: We use health information about you to manage your treatment and services.
+Bill for your services We can use and share your health information to bill and get payment from health plans or other entities only if we obtain your consent. [Minn. Stat. § 144.293, subd. 2 and 5] Example: We give information about you to your health insurance plan so it will pay for your services.
+
+MODEL NOTICE OF PRIVACY PRACTICES
+
+6
+
+Minnesota Department of Health, Office of Health Information Technology www.health.state.mn.us/e-health | MN.eHealth@state.mn.us
+
+14 Other uses and disclosures
+15 Public health and safety
+16 Research
+17 Comply with the law
+18 Organ and tissue donation
+19 Medical Examiner
+20 Workers' comp, law enforcement, government
+7
+
+How else can we use or share your health information? We are allowed or required to share your information in other ways ­ usually in ways that contribute to the public good, such as public health and research . We have to meet many conditions in the law before we can share your information for these purposes . For more information see: www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html.
+Help with public health and safety issues We can share health information about you for certain situations such as: · Preventing disease · Helping with product recalls · Reporting adverse reactions to medications · Reporting suspected abuse, neglect, or domestic violence · Preventing or reducing a serious threat to anyone's health or safety
+Do research We can use or share your information for health research if you do not object. [Minn. Stat. § 144.295 subd. 1]
+Comply with the law We will share information about you if state or federal laws require it, including with the Department of Health and Human Services if it wants to see that we're complying with federal privacy law . [Minn. Stat. § 144.293 subd. 2]
+Respond to organ and tissue donation requests We can share health information about you with organ procurement organizations only with your consent. [Minn. Stat. § 525A.14]
+Work with a medical examiner or coroner We can share health information with a coroner and medical examiner when an individual dies . We need consent to share information with a funeral director. [Minn. Stat. § 390.11 subd. 7 (a)]
+Address workers' compensation, law enforcement, and other government requests We can use or share health information about you: · For workers' compensation claims · For law enforcement purposes or with a law enforcement official with your
+consent, unless required by law. [Minn. Stat. § 144.293, subd. 2] · With health oversight agencies for activities authorized by law · For special government functions such as military, national security, and presidential
+protective services with your consent, unless required by law. [Minn. Stat. § 144.293, subd. 2]
+MODEL NOTICE OF PRIVACY PRACTICES Minnesota Department of Health, Office of Health Information Technology www.health.state.mn.us/e-health | MN.eHealth@state.mn.us
+
+21 Respond to legal actions
+
+Respond to lawsuits and legal actions
+We can share health information about you in response to a court or administrative order, or in response to a subpoena . (NOTE TO PROVIDER: Minnesota may require a court order; however, providers should consult with legal counsel upon receipt of these types of documents .) [Minn. Stat. § 144.293 subd. 2]
+
+22 Other state law
+
+Other State Law
+The Privacy Rule requires you to describe any state or other laws that require greater limits on disclosures . For example, "We will never share any substance abuse treatment records without your written permission ." Insert this type of information here . If no laws with greater limits apply to your entity, no information needs to be added . ("In Minnesota, we need your consent before we disclose protected health information for treatment, payment, and operations purposes, unless the disclosure is to a related entity, or the disclosure is for a medical emergency and we are unable to obtain your consent.") [Minn. Stat. §§ 13.386, 254A.09]
+
+23 Our Responsibilities
+
+24 Maintain privacy & security
+
+We are required by law to maintain the privacy and security of your protected health information .
+
+25 Inform of breach
+
+We will let you know promptly if a breach occurs that may have compromised the privacy or security of your information .
+
+26 Follow notice practices
+
+We must follow the duties and privacy practices described in this notice and give you a copy of it .
+We will not use or share your information other than as described here unless you tell us we can in writing . If you tell us we can, you may change your mind at any time . Let us know in writing if you change your mind .
+For more information see: www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html.
+
+Changes to the Terms of this Notice
+
+27 Changes to the terms of notice
+
+We can change the terms of this notice, and the changes will apply to all information we have about you . The new notice will be available upon request, in our office, and on our web site .
+
+Other Instructions for Notice
+
+28 Effective date
+
+Insert Effective Date of this Notice
+
+MODEL NOTICE OF PRIVACY PRACTICES
+
+8
+
+Minnesota Department of Health, Office of Health Information Technology www.health.state.mn.us/e-health | MN.eHealth@state.mn.us
+
+29 Name and contact of Privacy Official
+30 List of entities covered by the notice
+
+Insert name or title of the privacy official (or other pr vacy contact) and his/her email address and phone number .
+NOTE TO PROVIDER: If your entity is part of an OHCA (organized health care arrangement) that has agreed to a joint notice, use this space to inform your patients of how you share information within the OHCA (such as for treatment, payment, and operations related to the OHCA) . Also, describe the other entities covered by this notice and their service locations . For example, "This notice applies to Grace Community Hospitals and Emergency Services Incorporated which operate the emergency services within all Grace hospitals in the greater Dayton area ."
+
+MODEL NOTICE OF PRIVACY PRACTICES
+
+Minnesota Department of Health, Office of Health Information Technology
+
+9
+
+www.health.state.mn.us/e-health | MN.eHealth@state.mn.us
+
+

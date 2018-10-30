@@ -1,0 +1,112 @@
+Siemens Business Partner Privacy Notice
+
+Protecting the security and privacy of personal data of contact persons (each a "Business Partner Contact") at our customers, suppliers, vendors and partners (each a "Business Partner") is important to Siemens Aktiengesellschaft, Wittelsbacherplatz 2, 80333 Munich, Germany and its affiliated companies (together "Siemens"). Therefore, Siemens processes personal data in compliance with applicable laws on data protection and data security.
+
+1.
+
+Categories of personal data processed, purpose of the processing and legal basis
+
+In the context of the business relationship with Siemens, Siemens may processes personal data for the following purposes:
+
+x Communicating with Business Partners about products, services and projects of Siemens or Business Partners, e.g. by responding to inquiries or requests;
+x Planning, performing and managing the (contractual) relationship with Business Partners; e.g. by performing transactions and orders of products or services, processing payments, performing accounting, auditing, billing and collection activities, arranging shipments and deliveries, facilitating repairs and providing support services;
+x Administrating and performing customer surveys, marketing campaigns, market analysis, sweepstakes, contests, or other promotional activities or events;
+x Maintaining and protecting the security of our products, services and websites, preventing and detecting security threats, fraud or other criminal or malicious activities;
+x Ensuring compliance with legal obligations (such as record keeping obligations), Business Partner compliance screening obligations (to prevent white-collar or money laundering crimes), and Siemens policies or industry standards; and
+x Solving disputes, enforce our contractual agreements and to establish, exercise or defend legal claims.
+
+For the aforementioned purposes, Siemens may process the following categories of personal data:
+x Contact information, such as full name, work address, work telephone number, work mobile phone number, work fax number and work email address,;
+x Payment data, such as data necessary for processing payments and fraud prevention, including credit/debit card numbers, security code numbers and other related billing information;
+x Further information necessarily processed in a project or contractual relationship with Siemens or voluntarily provided by the Business Partner Contact, such as orders placed, payments made, requests, and project milestones;
+x Information collected from publicly available resources, integrity data bases and credit agencies; and
+x If legally required for Business Partner compliance screenings: information about relevant and significant litigation or other legal proceedings against Business Partners.
+
+The processing of personal data is necessary to meet the aforementioned purposes including the performance of the respective (contractual) relationship with Business Partners. Unless indicated otherwise, the legal basis for the processing of personal data is Article 6 (1) (b) or (f) of the General Data Protection Regulation or - if explicitly provided by Business Partner Contacts ­ the consent (Article 6 (1) (a) of the General Data Protection Regulation).
+If Siemens does not collect the respective personal data, the purposes described may not be met by Siemens.
+
+Page 1 of 3
+
+2.
+
+Transfer and disclosure of personal data
+
+Siemens may transfer personal data to other Siemens companies, but only if and to the extent such transfer is strictly required for the purposes mentioned above.
+
+If legally permitted to do so, Siemens may transfer personal data to courts, law enforcement authorities, regulators or attorneys if necessary to comply with the law or for the establishment, exercise or defense of legal claims.
+
+Siemens commissions service providers (so-called data processors), such as hosting or IT maintenance service providers, which only act upon instructions of Siemens and are contractually bound to act in compliance with applicable data protection law.
+
+Recipients of personal data may possibly be located in countries outside of the European Economic Area ("third countries"), in which applicable laws do not offer the same level of data protection as the laws of the respective individual's home country.
+
+In such cases and unless permitted otherwise by applicable law, Siemens takes measures to implement appropriate and suitable safeguards for the protection of personal data by other means.
+
+x We share personal data with Siemens companies in third countries only if they have implemented the Siemens Binding Corporate Rules (,,BCR") for the protection of personal data. Further information about the Siemens BCR can be found here.
+
+x We transfer personal data to external recipients in third countries only in case the respective recipient (i) entered into EU Standard Contractual Clauses with Siemens, (ii) implemented Binding Corporate Rules in its organization or (iii) ­ in case of US recipients ­ the recipient is certified under the Privacy Shield. Affected individuals may request further information and copies of the safeguards implemented from the contact indicated in Section 6 below.
+
+3.
+
+Retention Periods
+
+Unless explicitly indicated otherwise at the time of the collection of Business Partner Contact's personal data (e.g. within a consent form accepted by Business Partner Contact), we erase personal data if the retention of the personal data is no longer necessary in relation to the purposes for which they were collected or otherwise processed and no statutory retention obligations under applicable law (such as tax or commercial law) require us to further retain personal data.
+
+4.
+
+Right to withdraw consent
+
+In case a Business Partner Contact declared its consent for the processing of certain personal data by Siemens, the Business Partner Contact has the right to withdraw the consent at any time with future effect, i.e. the withdrawal of the consent does not affect the lawfulness of processing based on the consent before its withdrawal. In case consent is withdrawn, Siemens may only further process the personal data where there is another legal ground for the processing.
+
+5.
+
+Right of access to and rectification or erasure of personal data, restriction of processing, right to
+
+object to processing and right to data portability
+
+Under applicable data protection law an affected Business Partner Contact may - provided that the
+
+respective legal pre-conditions are met - have the right to:
+
+(i)
+
+obtain from Siemens confirmation as to whether or not personal data concerning the Business
+
+Partner Contact are being processed, and where that is the case, access to the personal data;
+
+(ii) obtain from Siemens the rectification of inaccurate personal data;
+
+(iii) obtain from Siemens the erasure of Business Partner Contact's personal data;
+
+(iv) obtain from Siemens restriction of processing regarding the Business Partner Contact's personal
+
+data;
+
+(v) obtain from Siemens a copy of personal data, which the Business Partner Contact actively
+
+provided, in a structured, commonly used and machine-readable format and to request from
+
+Page 2 of 3
+
+Siemens that we transmit those data to another recipient selected by the Business Partner Contact; and (vi) object, on grounds relating to the Business Partner Contact's particular situation, to processing of personal data.
+
+6.
+
+Data Privacy Contact
+
+The Siemens Data Privacy Organization provides support with any data privacy related questions, comments, concerns or complaints or in case a Business Partner Contact wish to exercise any of its data privacy related rights as mentioned in Section 5 above. The Siemens Data Privacy Organization may be contacted at: dataprotection@siemens.com.
+
+The responsible Chief Data Privacy Officer of Siemens AG is:
+
+Achim Köhler Siemens AG Legal and Compliance Compliance LC CO DP St.-Martin-Str. 76 81541 Munich, Germany mailto:a.koehler@siemens.com
+
+The Siemens Data Privacy Organization will always use best efforts to address and settle any requests or complaints brought to its attention. In addition, there is always the possibility to approach the competent data protection authority with requests or complaints.
+
+The data protection authority competent for Siemens AG, Germany is:
+
+Landesamt für Datenschutzaufsicht Promenade 27 (Schloss) 91522 Ansbach, Germany Web: http://www.lda.bayern.de
+
+A list of national data protection authorities is available here.
+
+Page 3 of 3
+
+

@@ -1,0 +1,67 @@
+1. UC Statement of Privacy Values
+Overview The UC Statement of Privacy Values first declares privacy as an important value of the University of California. It then defines what the two forms of privacy are, and explains that they must be balanced with one another and with other values and obligations of the University. To give context, the values of academic and intellectual freedom are highlighted as fundamental to an educational and research institution; and the values of transparency and accountability are highlighted as fundamental to a public institution. Finally, a summary of elements that the University strives to balance appropriately is given.
+The UC Statement of Privacy Values The University of California respects the privacy of individuals. Privacy plays an important role in human dignity and is necessary for an ethical and respectful workplace. The right to privacy is declared in the California Constitution. Privacy consists of (1) an individual's ability to conduct activities without concern of or actual observation and (2) the appropriate protection, use, and release of information about individuals. The University must balance its respect for both types of privacy with its other values and with legal, policy, and administrative obligations. Academic and intellectual freedoms are values of the academy that help further the mission of the University. These freedoms are most vibrant where individuals have autonomy: where inquiry is free because it is given adequate space for experimentation and the ability to speak and participate in discourse within the academy is possible without intimidation. Transparency and accountability are values that form the cornerstone of public trust. Access to information concerning the conduct of business in a public university and an individual's access to information concerning him/herself is a right of every citizen as stated in the California Constitution. Thus, the University continually strives for an appropriate balance between:
+· ensuring an appropriate level of privacy through its policies and practices, even as interpretations of privacy change over time;
+· nurturing an environment of openness and creativity for teaching and research; · being an attractive place to work; · honoring its obligation as a public institution to remain transparent, accountable, and
+operationally effective and efficient; and · safeguarding information about individuals and assets for which it is a steward.
+UCSTATEMENT OF PRIVACY VALUES 1
+
+2. UC Privacy Principles
+The proposed UC Privacy Principles are derived from the UC Statement of Privacy Values and from established privacy principles, such as the Organisation for Economic Co-operation and Development (OECD) Guidelines on the Protection of Privacy and Transborder Flows of Personal Data1 and the Federal Trade Commission's (FTC) Fair Information Privacy Practice Principles.2 The UC Privacy Principles are intended to guide policies and practice in conjunction with well-understood information security objectives of protecting the confidentiality, integrity, and availability of information resources.
+The UC Privacy Principles consist of principles that address both autonomy privacy and information privacy, as follows:
+Autonomy Privacy Principles
+Members of the University community are expected to uphold autonomy privacy, which is the ability of an individual to exercise a substantial degree of control over one's expressions, associations, and general conduct without unreasonable oversight, interference, or negative consequences. In the University setting, autonomy privacy is closely associated with the concepts of academic freedom, free speech, and community. The following proposed autonomy principles are intended to capture our culture of openness, transparency, ethical behavior, and respect for others:
+
+Free inquiry
+
+The University is guided by First Amendment principles and is committed to encouraging its members to exercise free discourse without fear of reprisal or intimidation, subject to the privacy and safety of other individuals or University resources.
+
+Respect for
+
+The University is committed to respecting the privacy of individuals, including their
+
+individual privacy interactions with others, and expects University members to esteem each other's
+
+privacy and well-being.
+
+Surveillance
+
+The University is guided by Fourth Amendment principles regarding surveillance of persons or places, whether in person on campus or electronically, and is committed to balancing the need for the safety of individuals and property with the individuals' reasonable expectation of privacy in a particular location.
+
+1 http://www.oecd.org/document/18/0,3343,en_2649_34255_1815186_1_1_1_1,00.html 2 http://www.ftc.gov/reports/privacy3/fairinfo.shtm
+UC PRIVACY PRINCIPLES 2
+
+Information Privacy Principles
+The University is committed to providing individuals with a reasonable degree of control over the collection, use, and disclosure of information about themselves. The following principles provide guidance to the University for incorporating information privacy into its policies and practices:
+
+Privacy by design
+
+The University is committed to building privacy protections that embody the additional principles stated below into its business processes and information systems associated with the collection, use, and disclosure of information about individuals and about confidential information for which individuals are responsible. Business processes and information systems initiatives, revisions, or upgrades will be evaluated for consistency with the UC Privacy Principles and compliance with associated policies.
+
+Transparency and notice
+
+The University demonstrates its commitment to transparency by giving individuals reasonable advance notice of its information policies and practices for collecting, using, disclosing, retaining, and disposing of information about individuals.
+The University expects its members to collect, use, disclose, and retain only the minimum amount of information about individuals as necessary for the specified purpose and to appropriately dispose of such information in accordance with the University's records-retention schedules.
+The University expects its members who collect information about individuals to publish privacy notices that clearly inform individuals about the purposes (how information will be used or disclosed as permitted or required by law) and the scope of information collected.
+
+Choice
+
+Prior to collecting, using, disclosing, or retaining information about individuals, the University expects its members to provide individuals, whenever possible, with the ability to choose whether to and by what means to provide their information.
+However, when the information about the individual is necessary to deliver a service or benefit or to participate in an activity, the individual may be required to provide the information in order to receive the service or benefit or to participate.
+
+Information review and correction
+
+Unless prohibited by law, the University is committed to providing individuals with a way to review the information about themselves that they have provided or permitted to be collected, as well as a procedure to request the correction of inaccuracies and one to perform the correction if appropriate.
+
+UC PRIVACY PRINCIPLES 3
+
+Information protection
+Accountability
+
+The University demonstrates its commitment to protecting information about individuals under its stewardship by providing appropriate employee training and by implementing privacy and information security controls.
+The University expects every individual to be aware of and accountable for complying with these principles and actively supporting the University's commitment to respect the privacy of individuals.
+The University demonstrates its commitment to these principles by investigating reported violations of information privacy principles and policies and, as appropriate, taking corrective measures.
+
+UC PRIVACY PRINCIPLES 4
+
+

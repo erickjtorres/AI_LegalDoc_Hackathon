@@ -1,0 +1,5 @@
+id,is_minor,is_how_collect,is_geo-location,email,is_vendor,is_not_sell,is_sell,is_share,is_not_share,is_cookies,gunning_fog,smog_index,avg_sentence_length,flesch_reading_ease,dale_chall_readability_score,score
+1060,0,0,0,1,0,0,0,1,0,1,52.365797112827806,3.1,125.91129032258064,53.66,6.25,1
+1069,0,0,0,1,0,0,0,1,0,1,52.365797112827806,3.1,125.91129032258064,53.66,6.25,2
+1071,0,0,0,1,0,0,0,0,0,0,64.38437775265469,3.1,155.95348837209303,23.16,7.74,3
+1074,0,0,0,1,0,0,0,0,0,0,43.292450692734064,3.1,103.22939068100358,76.68,5.12,4

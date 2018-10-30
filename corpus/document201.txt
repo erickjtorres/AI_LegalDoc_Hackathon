@@ -1,0 +1,374 @@
+Data Protection Policy
+
+DATA PROTECTION POLICY | FOREWORD
+
+2
+
+Foreword
+Ladies and Gentlemen,
+In the information age, we offer customers the means to be always connected, even in their cars. This requires data to be collected and processed. Yet, regardless whether in the car, in vehicle maintenance or when selling a vehicle, we adhere to this principle: When storing and transmitting data, we must ensure a high level of data protection and data security. That goes for information pertaining to our customers, prospects, business partners and employees. Because data protection is people protection.
+We want Daimler to not only stand for safe cars but also set the standard in data protection. For that reason, we view it as our duty, as an international corporation, to comply with the various legal regulations around the world that govern the collection and processing of personal data. Our top priority is to ensure universally applicable, worldwide standards for handling personal data. For us, protecting the personal rights and privacy of each and every individual is the foundation of trust in our business relationships.
+Our Corporate Data Protection Policy lays out strict requirements for processing personal data pertaining to customers, prospects, business partners and employees. It meets the requirements of the European Data Protection Directive and ensures compliance with the principles of national and international data protection laws in force all over the world. The policy sets a globally applicable data protection and security standard for our company and regulates the sharing of information between our Group companies. We have established seven data protection principles ≠ among them transparency, data economy and data security ≠ as our guideline.
+Our managers and employees are obligated to adhere to the Corporate Data Protection Policy and observe their local data protection laws. As the Chief Officer Corporate Data Protection, it is my duty to ensure that the rules and principles of data protection at Daimler are followed around the world.
+My staff and I will be pleased to answer any questions you have about data protection and security at Daimler.
+
+Dr. Joachim Riess Chief Officer Corporate Data Protection
+
+DATA PROTECTION POLICY | CONTENTS
+
+3
+
+Contents
+
+I. Aim of the Data Protection Policy
+
+4
+
+II. Scope and amendment of the Data Protection Policy
+
+4
+
+III. Application of national laws
+
+5
+
+IV. Principles for processing personal data
+
+5
+
+1. Fairness and lawfulness
+
+5
+
+2. Restriction to a specific purpose
+
+5
+
+3. Transparency
+
+5
+
+4. Data reduction and data economy
+
+6
+
+5. Deletion
+
+6
+
+6. Factual accuracy; up-to-date data
+
+6
+
+7. Confidentiality and data security
+
+6
+
+V. Reliability of data processing
+
+7
+
+1. Customer and partner data
+
+7
+
+1.1 Data processing for a contractual relationship
+
+7
+
+ 1.2 Data processing for advertising purposes
+
+7
+
+ 1.3 Consent to data processing
+
+7
+
+ 1.4 Data processing pursuant to legal authorization
+
+7
+
+ 1.5 Data processing pursuant to legitimate interest
+
+8
+
+ 1.6 Processing of highly sensitive data
+
+8
+
+ 1.7 Automated individual decisions
+
+8
+
+ 1.8 User data and internet
+
+8
+
+2. Employee data
+
+9
+
+2.1 Data processing for the employment relationship
+
+9
+
+ 2.2 Data processing pursuant to legal authorization
+
+9
+
+ 2.3 Collective agreements on data processing
+
+9
+
+ 2.4 Consent to data processing
+
+9
+
+ 2.5 Data processing pursuant to legitimate interest
+
+10
+
+ 2.6 Processing of highly sensitive data
+
+10
+
+ 2.7 Automated decisions
+
+10
+
+ 2.8 Telecommunications and internet
+
+11
+
+VI. Transmission of personal data
+
+11
+
+VII. Contract data processing
+
+12
+
+VIII. Rights of the data subject
+
+13
+
+IX. Confidentiality of processing
+
+14
+
+X. Processing security
+
+14
+
+XI. Data protection control
+
+14
+
+XII. Data protection incidents
+
+15
+
+XIII. Responsibilities and sanctions
+
+15
+
+XIV. Chief Officer of Corporate Data Protection
+
+16
+
+XV. Definitions
+
+16
+
+DATA PROTECTION POLICY | I. AIM OF THE DATA PROTECTION POLICY | II. SCOPE AND AMENDMENT OF THE DATA PROTECTION POLICY
+
+4
+
+I. Aim of the Data Protection Policy
+As part of its social responsibility, the Daimler Group is committed to international compliance with data protection laws. This Data Protection Policy applies worldwide to the Daimler Group and is based on globally accepted, basic principles on data protection. Ensuring data protection is the foundation of trustworthy business relationships and the reputation of the Daimler Group as an attractive employer. The Data Protection Policy provides one of the necessary framework conditions for cross-border data transmission1 among the Group companies. It ensures the adequate level of data protection prescribed by the European Union Data Protection Directive2 and the national laws for cross-border data transmission, including in countries that do not yet have adequate data protection laws3.
+II.Scope and amendment of the Data Protection Policy
+This Data Protection Policy applies to all companies of the Daimler Group, i.e. Daimler AG, all of its dependent Group companies, affiliated companies and their employees. "Dependent" in this instance means that Daimler AG may enforce the adoption of this Data Protection Policy directly or indirectly, on the basis of voting majority, majority management representation, or by agreement. The Data Protection Policy extends to all processing of personal data4. In countries where the data of legal entities is protected to the same extent as personal data, this Data Protection Policy applies equally to data of legal entities. Anonymized5 data, e.g. for statistical evaluations or studies, is not subject to this Data Protection Policy.
+Individual Group companies are not entitled to adopt regulations that deviate from this Data Protection Policy. Additional data protection policies can be created in agreement with the Chief Officer Corporate Data Protection only if required by applicable national laws. This Data Protection Policy can be amended in coordination with the Chief Officer Corporate Data Protection under the defined procedure for amending policies. The amendments will be reported immediately to the Daimler Group companies using the process for amending policies. Amendments that have a major impact on compliance with the Data Protection Policy must be reported annually to the data protection authorities that issue approval for this Data Protection Policy as Binding Corporate Rules.
+The latest version of the Data Protection Policy can be accessed with the data privacy information at Daimler AG's website: www.daimler.com.
+
+1 See XV. 2 Directive 95/46/EC of the European Parliament and the Council on the protection of individuals with regard
+to the processing of personal data and on the free movement of such data; available at http://ec.europa.eu/justice_home/fsj/privacy/law/index_en.htm#guideline 3 See XV. 4 See XV. 5 See XV.
+
+DATA PROTECTION POLICY | III. APPLICATION OF NATIONAL LAWS | IV. PRINCIPLES FOR PROCESSING PERSONAL DATA
+
+5
+
+III. Application of national laws
+This Data Protection Policy comprises the internationally accepted data privacy principles without replacing the existing national laws. It supplements the national data privacy laws. The relevant national law will take precedence in the event that it conflicts with this Data Protection Policy, or it has stricter requirements than this Policy. The content of this Data Protection Policy must also be observed in the absence of corresponding national legislation. The reporting requirements for data processing under national laws must be observed.
+Each company of the Daimler Group is responsible for compliance with this Data Protection Policy and the legal obligations. If there is reason to believe that legal obligations contradict the duties under this Data Protection Policy, the relevant Group company must inform the Chief Officer Corporate Data Protection. In the event of conflicts between national legislation and the Data Protection Policy, Daimler AG will work with the relevant Group company to find a practical solution that meets the purpose of the Data Protection Policy.
+IV. Principles for processing personal data
+1. Fairness and lawfulness When processing personal data, the individual rights of the data subjects6 must be protected. Personal data must be collected and processed in a legal and fair manner.
+2. Restriction to a specific purpose Personal data can be processed only for the purpose that was defined before the data was collected. Subsequent changes to the purpose are only possible to a limited extent and require substantiation.
+3. Transparency The data subject must be informed of how his/her data is being handled. In general, personal data must be collected directly from the individual concerned. When the data is collected, the data subject must either be aware of, or informed of:
+ª The identity of the Data Controller7 ª The purpose of data processing ª Third parties8 or categories of third parties to whom the data might be transmitted
+
+6 See XV. 7 See XV. 8 See XV.
+
+DATA PROTECTION POLICY | IV. PRINCIPLES FOR PROCESSING PERSONAL DATA
+
+6
+
+4. Data reduction and data economy Before processing personal data, you must determine whether and to what extent the processing of personal data is necessary in order to achieve the purpose for which it is undertaken. Where the purpose allows and where the expense involved is in proportion with the goal being pursued, anonymized or statistical data must be used. Personal data may not be collected in advance and stored for potential future purposes unless required or permitted by national law.
+5. Deletion Personal data that is no longer needed9 after the expiration of legal or business process-related periods must be deleted. There may be an indication of interests that merit protection or historical significance of this data in individual cases. If so, the data must remain on file until the interests that merit protection have been clarified legally, or the corporate archive has evaluated the data to determine whether it must be retained for historical purposes.
+6. Factual accuracy; up-to-dateness of data Personal data on file must be correct, complete, and ≠ if necessary ≠ kept up to date. Suitable steps must be taken to ensure that inaccurate or incomplete data are deleted, corrected, supplemented or updated.
+7. Confidentiality and data security Personal data is subject to data secrecy. It must be treated as confidential on a personal level and secured with suitable organizational and technical measures to prevent unauthorized access, illegal processing or distribution, as well as accidental loss, modification or destruction.
+
+9 See XV.
+
+DATA PROTECTION POLICY | V. RELIABILITY OF DATA PROCESSING | 1. CUSTOMER AND PARTNER DATA
+
+7
+
+V. Reliability of data processing
+Collecting, processing and using personal data is permitted only under the following legal bases. One of these legal bases is also required if the purpose of collecting, processing and using the personal data is to be changed from the original purpose.
+1. Customer and partner data
+1.1 Data processing for a contractual relationship Personal data of the relevant prospects, customers and partners can be processed in order to establish, execute and terminate a contract. This also includes advisory services for the partner under the contract if this is related to the contractual purpose. Prior to a contract ≠ during the contract initiation phase ≠ personal data can be processed to prepare bids or purchase orders or to fulfill other requests of the prospect that relate to contract conclusion. Prospects can be contacted during the contract preparation process using the information that they have provided. Any restrictions requested by the prospects must be complied with. For advertising measures beyond that, you must observe the following requirements under V.1.2.
+1.2 Data processing for advertising purposes If the data subject contacts a Daimler Group company to request information (e.g. request to receive information material about a product), data processing to meet this request is permitted.
+Customer loyalty or advertising measures are subject to further legal requirements. Personal data can be processed for advertising purposes or market and opinion research, provided that this is consistent with the purpose for which the data was originally collected. The data subject must be informed about the use of his/her data for advertising purposes. If data is collected only for advertising purposes, the disclosure from the data subject is voluntary. The data subject10 shall be informed that providing data for this purpose is voluntary. When communicating with the data subject, consent shall be obtained from him/her to process the data for advertising purposes. When giving consent, the data subject should be given a choice among available forms of contact such as regular mail, e-mail and phone (Consent, see V.1.3).
+If the data subject refuses the use of his/her data for advertising purposes, it can no longer be used for these purposes and must be blocked from use for these purposes. Any other restrictions from specific countries regarding the use of data for advertising purposes must be observed.
+1.3 Consent to data processing Data can be processed following consent by the data subject. Before giving consent, the data subject must be informed in accordance with IV.3. of this Data Protection Policy. The declaration of consent must be obtained in writing or electronically for the purposes of documentation. In some circumstances, such as telephone conversations, consent can be given verbally. The granting of consent must be documented.
+1.4 Data processing pursuant to legal authorization The processing of personal data is also permitted if national legislation requests, requires or allows this. The type and extent of data processing must be necessary for the legally authorized data processing activity, and must comply with the relevant statutory provisions.
+10 See XV.
+
+DATA PROTECTION POLICY | 1. CUSTOMER AND PARTNER DATA
+
+8
+
+1.5 Data processing pursuant to legitimate interest Personal data can also be processed if it is necessary for a legitimate interest of the Daimler Group. Legitimate interests are generally of a legal (e.g. collection of outstanding receivables) or commercial nature (e.g. avoiding breaches of contract). Personal data may not be processed for the purposes of a legitimate interest if, in individual cases, there is evidence that the interests of the data subject merit protection, and that this takes precedence. Before data is processed, it is necessary to determine whether there are interests that merit protection.
+1.6 Processing of highly sensitive data Highly sensitive11 personal data can be processed only if the law requires this or the data subject has given express consent. This data can also be processed if it is mandatory for asserting, exercising or defending legal claims regarding the data subject. If there are plans to process highly sensitive data, the Chief Officer Corporate Data Protection must be informed in advance.
+1.7 Automated individual decisions Automated processing of personal data that is used to evaluate certain aspects (e.g. credit worthiness) cannot be the sole basis for decisions that have negative legal consequences or could significantly impair the data subject. The data subject must be informed of the facts and results of automated individual decisions and the possibility to respond. To avoid erroneous decisions, a test and plausibility check must be made by an employee.
+1.8 User data and internet If personal data is collected, processed and used on websites or in apps, the data subjects must be informed of this in a privacy statement and, if applicable, information about cookies. The privacy statement and any cookie information must be integrated so that it is easy to identify, directly accessible and consistently available for the data subjects.
+If use profiles (tracking) are created to evaluate the use of websites and apps, the data subjects must always be informed accordingly in the privacy statement. Personal tracking may only be effected if it is permitted under national law or upon consent of the data subject. If tracking uses a pseudonym, the data subject should be given the chance to opt out in the privacy statement.
+If websites or apps can access personal data in an area restricted to registered users, the identification and authentication of the data subject must offer sufficient protection during access.
+
+11 See XV.
+
+DATA PROTECTION POLICY | 2. EMPLOYEE DATA
+
+9
+
+2. Employee data
+2.1 Data processing for the employment relationship In employment relationships, personal data can be processed if needed to initiate, carry out and terminate the employment agreement. When initiating an employment relationship, the applicants' personal data can be processed. If the candidate is rejected, his/her data must be deleted in observance of the required retention period, unless the applicant has agreed to remain on file for a future selection process. Consent is also needed to use the data for further application processes or before sharing the application with other Group companies.
+In the existing employment relationship, data processing must always relate to the purpose of the employment agreement if none of the following circumstances for authorized data processing apply.
+If it should be necessary during the application procedure to collect information on an applicant from a third party, the requirements of the corresponding national laws have to be observed. In cases of doubt, consent must be obtained from the data subject.
+There must be legal authorization to process personal data that is related to the employment relationship but was not originally part of performance of the employment agreement. This can include legal requirements, collective regulations with employee representatives, consent of the employee, or the legitimate interest of the company.
+2.2 Data processing pursuant to legal authorization The processing of personal employee data is also permitted if national legislation requests, requires or authorizes this. The type and extent of data processing must be necessary for the legally authorized data processing activity, and must comply with the relevant statutory provi sions. If there is some legal flexibility, the interests of the employee that merit protection must be taken into consideration.
+2.3 Collective agreements on data processing If a data processing activity exceeds the purposes of fulfilling a contract, it may be permissible if authorized through a collective agreement. Collective agreements are pay scale agreements or agreements between employers and employee representatives, within the scope allowed under the relevant employment law. The agreements must cover the specific purpose of the intended data processing activity, and must be drawn up within the parameters of national data protection legislation.
+2.4 Consent to data processing Employee data can be processed upon consent of the person concerned. Declarations of consent must be submitted voluntarily. Involuntary consent is void. The declaration of consent must be obtained in writing or electronically for the purposes of documentation. In certain circumstances, consent may be given verbally, in which case it must be properly documented. In the event of informed, voluntary provision of data by the relevant party, consent can be assumed if national laws do not require express consent. Before giving consent, the data subject must be informed in accordance with IV.3. of this Data Protection Policy.
+
+DATA PROTECTION POLICY | 2. EMPLOYEE DATA
+
+10
+
+2.5 Data processing pursuant to legitimate interest Personal data can also be processed if it is necessary to enforce a legitimate interest of the Daimler Group. Legitimate interests are generally of a legal (e.g. filing, enforcing or defending against legal claims) or financial (e.g. valuation of companies) nature.
+Personal data may not be processed based on a legitimate interest if, in individual cases, there is evidence that the interests of the employee merit protection. Before data is processed, it must be determined whether there are interests that merit protection.
+Control measures that require processing of employee data can be taken only if there is a legal obligation to do so or there is a legitimate reason. Even if there is a legitimate reason, the proportionality of the control measure must also be examined. The justified interests of the company in performing the control measure (e.g. compliance with legal provisions and internal company rules) must be weighed against any interests meriting protection that the employee affected by the measure may have in its exclusion, and cannot be performed unless appropriate. The legitimate interest of the company and any interests of the employee meriting protection must be identified and documented before any measures are taken. Moreover, any additional requirements under national law (e.g. rights of co-determination for the employee representatives and information rights of the data subjects) must be taken into account.
+2.6 Processing of highly sensitive data Highly sensitive personal data can be processed only under certain conditions. Highly sensitive data is data about racial and ethnic origin, political beliefs, religious or philosophical beliefs, union membership, and the health and sexual life of the data subject. Under national law, further data categories can be considered highly sensitive or the content of the data categories can be filled out differently. Moreover, data that relates to a crime can often be processed only under special requirements under national law.
+The processing must be expressly permitted or prescribed under national law. Additionally, processing can be permitted if it is necessary for the responsible authority to fulfill its rights and duties in the area of employment law. The employee can also expressly consent to processing.
+If there are plans to process highly sensitive data, the Chief Officer Corporate Data Protection must be informed in advance.
+2.7 Automated decisions If personal data is processed automatically as part of the employment relationship, and specific personal details are evaluated (e.g. as part of personnel selection or the evaluation of skills profiles), this automatic processing cannot be the sole basis for decisions that would have negative consequences or significant problems for the affected employee. To avoid erroneous decisions, the automated process must ensure that a natural person evaluates the content of the situation, and that this evaluation is the basis for the decision. The data subject must also be informed of the facts and results of automated individual decisions and the possibility to respond.
+
+DATA PROTECTION POLICY | 2. EMPLOYEE DATA | VI. TRANSMISSION OF PERSONAL DATA
+
+11
+
+2.8 Telecommunications and internet Telephone equipment, e-mail addresses, intranet and internet along with internal social networks are provided by the company primarily for work-related assignments. They are a tool and a company resource. They can be used within the applicable legal regulations and internal company policies. In the event of authorized use for private purposes, the laws on secrecy of telecommunications and the relevant national telecommunication laws must be observed if applicable.
+There will be no general monitoring of telephone and e-mail communications or intranet/ internet use. To defend against attacks on the IT infrastructure or individual users, protective measures can be implemented for the connections to the Daimler network that block technically harmful content or that analyze the attack patterns. For security reasons, the use of telephone equipment, e-mail addresses, the intranet/internet and internal social networks can be logged for a temporary period. Evaluations of this data from a specific person can be made only in a concrete, justified case of suspected violations of laws or policies of the Daimler Group. The evaluations can be conducted only by investigating departments while ensuring that the principle of proportionality is met. The relevant national laws must be observed in the same manner as the Group regulations.
+VI. Transmission of personal data
+Transmission of personal data to recipients outside or inside the Daimler Group is subject to the authorization requirements for processing personal data under Section V. The data recipient must be required to use the data only for the defined purposes.
+In the event that data is transmitted to a recipient outside the Daimler Group to a third country12 this country must agree to maintain a data protection level equivalent to this Data Protection Policy. This does not apply if transmission is based on a legal obligation. A legal obligation of this kind can be based on the laws of the domiciliary country of the Group company transmitting the data. In the alternative, the laws of the domiciliary country of the Group company can acknowledge the purpose of data transmission based on the legal obligation of a third country.
+If data is transmitted by a third party to a Daimler Group company, it must be ensured that the data can be used for the intended purpose.
+If personal data is transferred from a Group company with its registered office in the European Union/European Economic Area13 to a Group company with its registered office outside of the European Economic Area (third country), the company importing the data is obligated to cooperate with any inquiries made by the relevant supervisory authority in the country in which the party exporting the data has its registered office, and to comply with any observations made by the supervisory authority with regard to the processing of the transmitted data. The same applies to data transmission by Group companies from other countries. If they are part of an international certification system for binding corporate rules on data protection, they must ensure cooperation with the relevant auditing offices and agencies. Participation in such certification systems must be agreed with the Chief Officer Corporate Data Protection.
+
+12 See XV. 13 See XV.
+
+DATA PROTECTION POLICY | VI. TRANSMISSION OF PERSONAL DATA | VII. DATA PROCESSING ON BEHALF
+
+12
+
+In the event that a data subject claims that this Data Protection Policy has been breached by the Group company located in a third country that is importing the data, the Group company located in the European Economic Area that is exporting the data undertakes to support the party concerned, whose data was collected in the European Economic Area, in establishing the facts of the matter and also asserting his/her rights in accordance with this Policy against the Group company importing the data. In addition, the data subject is also entitled to assert his or her rights against the Group company exporting the data. In the event of claims of a violation, the company exporting the data must document to the data subject that the company importing the data in a third country (in the event that the data is further processed after receipt) did not violate this Data Protection Policy.
+In the case of personal data being transmitted from a Group company located in the European Economic Area to a Group company located in a third country, the data controller transmitting the data shall be held liable for any violations of this Policy committed by the Group company located in a third country with regard to the data subject whose data was collected in the European Economic Area, as if the violation had been committed by the data controller transmitting the data. The legal venue is the responsible court where the company exporting the data is located.
+VII. Contract data processing
+Data processing on Behalf means that a provider is hired to process personal data, without being assigned responsibility for the related business process. In these cases, an agreement on Data Processing on Behalf must be concluded with external providers and among companies within the Daimler Group. The client retains full responsibility for correct performance of data processing. The provider can process personal data only as per the instructions from the client. When issuing the order, the following requirements must be complied with; the department placing the order must ensure that they are met.
+1.The provider must be chosen based on its ability to cover the required technical and organizational protective measures.
+2.The order must be placed in writing. The instructions on data processing and the responsibilities of the client and provider must be documented.
+3.The contractual standards for data protection provided by the Chief Officer Corporate Data Protection must be considered.
+4.Before data processing begins, the client must be confident that the provider will comply with the duties. A provider can document its compliance with data security requirements in particular by presenting suitable certification. Depending on the risk of data processing, the reviews must be repeated on a regular basis during the term of the contract.
+
+DATA PROTECTION POLICY | VII. DATA PROCESSING ON BEHALF | VIII. RIGHTS OF THE DATA SUBJECT
+
+13
+
+5.In the event of cross-border contract data processing, the relevant national requirements for disclosing personal data abroad must be met. In particular, personal data from the European Economic Area can be processed in a third country only if the provider can prove that it has a data protection standard equivalent to this Data Protection Policy. Suitable tools can be: a.Agreement on EU standard contract clauses for contract data processing in third countries with the provider and any subcontractors. b.Participation of the provider in a certification system accredited by the EU for the provision of a sufficient data protection level. c.Acknowledgment of binding corporate rules of the provider to create a suitable level of data protection by the responsible supervisory authorities for data protection.
+VIII. Rights of the data subject
+Every data subject has the following rights. Their assertion is to be handled immediately by the responsible unit and cannot pose any disadvantage to the data subject.
+1.The data subject may request information on which personal data relating to him/her has been stored, how the data was collected, and for what purpose. If there are further rights to view the employer's documents (e.g. personnel file) for the employment relationship under the relevant employment laws, these will remain unaffected.
+2.If personal data is transmitted to third parties, information must be given about the identity of the recipient or the categories of recipients.
+3.If personal data is incorrect or incomplete, the data subject can demand that it be corrected or supplemented.
+4.The data subject can object to the processing of his or her data for purposes of advertising or market/opinion research. The data must be blocked from these types of use.
+5.The data subject may request his/her data to be deleted if the processing of such data has no legal basis, or if the legal basis has ceased to apply. The same applies if the purpose behind the data processing has lapsed or ceased to be applicable for other reasons. Existing retention periods and conflicting interests meriting protection must be observed.
+6.The data subject generally has a right to object to his/her data being processed, and this must be taken into account if the protection of his/her interests takes precedence over the interest of the data controller owing to a particular personal situation. This does not apply if a legal provision requires the data to be processed.
+Additionally, every data subject can assert the rights under III. Para. 2, IV., V., VI., IX., X and XIV. Para. 3 as a third-party beneficiary if a company that has agreed to comply with the Data Protection Policy does not observe the requirements and violates the party's rights.
+
+DATA PROTECTION POLICY | IX. CONFIDENTIALITY OF PROCESSING | X. PROCESSING SECURITY | XI. DATA PROTECTION CONTROL
+
+14
+
+IX. Confidentiality of processing
+Personal data is subject to data secrecy. Any unauthorized collection, processing, or use of such data by employees is prohibited. Any data processing undertaken by an employee that he/she has not been authorized to carry out as part of his/her legitimate duties is unauthorized. The "need to know" principle applies. Employees may have access to personal information only as is appropriate for the type and scope of the task in question. This requires a careful breakdown and separation, as well as implementation, of roles and responsibilities.
+Employees are forbidden to use personal data for private or commercial purposes, to disclose it to unauthorized persons, or to make it available in any other way. Supervisors must inform their employees at the start of the employment relationship about the obligation to protect data secrecy. This obligation shall remain in force even after employment has ended.
+X. Processing security
+Personal data must be safeguarded from unauthorized access and unlawful processing or disclosure, as well as accidental loss, modification or destruction. This applies regardless of whether data is processed electronically or in paper form. Before the introduction of new methods of data processing, particularly new IT systems, technical and organizational measures to protect personal data must be defined and implemented. These measures must be based on the state of the art, the risks of processing, and the need to protect the data (determined by the process for information classification). In particular, the responsible department can consult with its Information Security Officer (ISO) and data protection coordinator. The technical and organizational measures for protecting personal data are part of Corporate Information Security management and must be adjusted continuously to the technical developments and organizational changes.
+XI. Data protection control
+Compliance with the Data Protection Policy and the applicable data protection laws is checked regularly with data protection audits and other controls. The performance of these controls is the responsibility of the Chief Officer Corporate Data Protection, the data protection coordinators, and other company units with audit rights or external auditors hired. The results of the data protection controls must be reported to the Chief Officer Corporate Data Protection. Daimler AG's Supervisory Board must be informed of the primary results as part of the related reporting duties. On request, the results of data protection controls will be made available to the responsible data protection authority. The responsible data protection authority can perform its own controls of compliance with the regulations of this Policy, as permitted under national law.
+
+DATA PROTECTION POLICY | XII. DATA PROTECTION INCIDENTS | XIII. RESPONSIBILITIES AND SANCTIONS
+
+15
+
+XII. Data protection incidents
+All employees must inform their supervisor, data protection coordinator or the Chief Officer Corporate Data Protection immediately about cases of violations against this Data Protection Policy or other regulations on the protection of personal data (data protection incidents)14. The manager responsible for the function or the unit is required to inform the responsible data protection coordinator or the Chief Officer Corporate Data Protection immediately about data protection incidents.
+In cases of ªimproper transmission of personal data to third parties, ª improper access by third parties to personal data, or ª loss of personal data the required company reports (Information Security Incident Management) must be made immediately so that any reporting duties under national law can be complied with.
+XIII. Responsibilities and sanctions
+The executive bodies of the Group companies are responsible for data processing in their area of responsibility. Therefore, they are required to ensure that the legal requirements, and those contained in the Data Protection Policy, for data protection are met (e.g. national reporting duties). Management staff are responsible for ensuring that organizational, HR, and technical measures are in place so that any data processing is carried out in accordance with data protection. Compliance with these requirements is the responsibility of the relevant employees. If official agencies perform data protection controls, the Chief Officer Corporate Data Protection must be informed immediately.
+The relevant executive bodies must inform the Chief Officer Corporate Data Protection as to the name of their data protection coordinator. Organizationally speaking, in agreement with the Chief Officer Corporate Data Protection, this task can be performed by a data protection coordinator for multiple companies or plants. The data protection coordinators are the contact persons on site for data protection. They can perform checks and must familiarize the employees with the content of the data protection policies. The relevant management is required to assist the Chief Officer Corporate Data Protection and the data protection coordinators with their efforts. The departments responsible for business processes and projects must inform the data protection coordinators in good time about new processing of personal data. For data processing plans that may pose special risks to the individual rights of the data subjects, the Chief Officer Corporate Data Protection must be informed before processing begins. This applies in particular to extremely sensitive personal data. The managers must ensure that their employees are sufficiently trained in data protection. Improper processing of personal data, or other violations of the data protection laws, can be criminally prosecuted in many countries and result in claims for compensation of damage. Violations for which individual employees are responsible can lead to sanctions under employment law.
+
+14 See XV.
+
+DATA PROTECTION POLICY | XIV. CHIEF OFFICER OF CORPORATE DATA PROTECTION | XV. DEFINITIONS
+
+16
+
+XIV.Chief Officer of Corporate Data Protection
+The Chief Officer Corporate Data Protection, being internally independent of professional orders, works towards the compliance with national and international data protection regulations. He is responsible for the Data Protection Policy, and supervises its compliance. The Chief Officer Corporate Data Protection is appointed by the Daimler AG Board of Management. In general, Group companies that are legally obligated to appoint a data protection officer will appoint the Chief Officer Corporate Data Protection. Specific exceptions have to be agreed upon with the Chief Officer Corporate Data Protection.
+The data protection coordinators shall promptly inform the Chief Officer Corporate Data Protection of any data protection risks.
+Any data subject may approach the Chief Officer Corporate Data Protection, or the relevant data protection coordinator, at any time to raise concerns, ask questions, request information or make complaints relating to data protection or data security issues. If requested, concerns and complaints will be handled confidentially.
+If the data coordinator in question cannot resolve a complaint or remedy a breach of the Policy for data protection, the Chief Officer Corporate Data Protection must be consulted immediately. Decisions made by the Chief Officer Corporate Data Protection to remedy data protection breaches must be upheld by the management of the company in question. Inquiries by supervisory authorities must always be reported to the Chief Officer Corporate Data Protection.
+Contact details for the Chief Officer Corporate Data Protection and staff are as follows: Daimler AG, Chief Officer Corporate Data Protection, HPC 0518, 70546 Stuttgart, Germany E-mail: mbox_datenschutz@daimler.com Intranet: http://intra.corpintra.net/cdp
+XV. Definitions
+ª D ata is anonymized if personal identity can never be traced by anyone, or if the personal identity could be recreated only with an unreasonable amount of time, expense and labor.
+ª C onsent is the voluntary, legally binding agreement to data processing. ªData protection incidents are all events where there is justified suspicion that personal data
+is being illegally captured, collected, modified, copied, transmitted or used. This can pertain to actions by third parties or employees. ªData subject under this Data Protection Policy is any natural person whose data can be processed. In some countries, legal entities can be data subjects as well. ª T he European Economic Area (EEA) is an economic region associated with the EU, and includes Norway, Iceland and Liechtenstein.
+
+DATA PROTECTION POLICY | XV. DEFINITIONS
+
+17
+
+ªHighly sensitive data is data about racial and ethnic origin, political opinions, religious or philosophical beliefs, union membership or the health and sexual life of the data subject. Under national law, further data categories can be considered highly sensitive or the content of the data categories can be structured differently. Moreover, data that relates to a crime can often be processed only under special requirements under national law.
+ª P ersonal data is all information about certain or definable natural persons. A person is definable for instance if the personal relationship can be determined using a combination of information with even incidental additional knowledge.
+ª P rocessing personal data means any process, with or without the use of automated systems, to collect, store, organize, retain, modify, query, use, forward, transmit, disseminate or combine and compare data. This also includes disposing of, deleting and blocking data and data storage media.
+ªProcessing personal data is required if the permitted purpose or justified interest could not be achieved without the personal data, or only with exceptionally high expense.
+ªData Controller is the legally independent company of the Daimler Group, whose business activity initiates the relevant processing measure.
+ª A sufficient level of data protection in third countries is acknowledged by the EU Commission if the core of personal privacy, as unanimously defined in the member countries of the EU is adequately ensured. When making its decision, the EU Commission accounts for all circumstances that play a role in data transmission or a category of data transmission. This includes the opinions under national law and relevant applicable professional standards and security measures.
+ªThird countries under the Data Protection Policy are all nations outside the European Union/ EEA. This does not include countries with a data protection level that is considered sufficient by the EU Commission.
+ªThird parties are anyone apart from the data subject and the Data Controller. In a case of Data Processing in Behalf data processors in the EU are not third parties under the data protection laws, because they are assigned by law to the responsible entity.
+ªTransmission is all disclosure of protected data by the responsible entity to third parties.
+
+Daimler AG Mercedesstraﬂe 137 70327 Stuttgart Germany www.daimler.com
+
+

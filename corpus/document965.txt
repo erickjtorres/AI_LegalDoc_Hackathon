@@ -1,0 +1,97 @@
+Privacy Notice
+25 May 2018
+
+Who are we? This privacy notice ("Privacy Notice") is provided by members of Invesco Ltd's group of companies ("Invesco Group") listed in section "How can you contact us?" below (collectively "Invesco", "we", "our" and "us"). We are each controllers of your personal data under applicable data protection laws which may include, from 25 May 2018, the General Data Protection Regulation ("GDPR"). We, as controllers, determine why and how we collect and use your personal data.
+What is the purpose of this Privacy Notice? When you, your client or the organisation you represent invest in a fund, receive our services or otherwise interact with us, we collect information about you which constitutes personal data under applicable laws. Personal data means any information about an identified or identifiable natural person. This Privacy Notice explains how we collect, use, share and protect your personal data. Please read this Privacy Notice carefully to understand what we do with your personal data. We may change this Privacy Notice from time to time and if we make any material changes, then we will make the updated Privacy Notice available to you on our websites or by other means. The date at the top of this Privacy Notice indicates when this Privacy Notice was last updated. In certain circumstances, we may provide supplemental privacy notices which should be read together with this Privacy Notice.
+Whose personal data do we collect? We collect and process personal data about individuals who may be current, prospective or former (i) individual investors (shareholders) and where relevant, their spouses/civil partners, (ii) individual intermediaries (e.g. financial advisers), clients and vendors, (iii) representatives, directors, officers, authorised signatories, employees, agents and ultimate beneficial owners of corporate intermediaries, shareholders, institutional investors, clients and vendors and (iv) any other individual (outside the Invesco Group) with whom we interact (collectively "you").
+What kind of personal data do we collect about you? We collect from you personal data such as your name, date of birth, residential address, private and business contact details, passport number, bank account details, debit card details, details of your investments, transaction and/or income information, country of residence for tax purposes, as well as any other personal data we ask you to provide in our application forms, related documents and/or on our websites, or which you choose to share with us.
+How do we collect your personal data? We may collect your personal data when you (i) provide it to us in an application form, related documents and/or on our website; (ii) provide it to us in correspondence and conversations with our representatives and intermediaries; (iii) make transactions in a fund, such as when you purchase shares from us; and (iv) provide your personal data to us in response to our anti-money laundering (AML), counter-terrorist financing (CTF) and know-your-customer (KYC) requests or (v) otherwise interact with us. If you use our websites, we may also collect certain information automatically from your computer or device. This information (e.g. cookies, IP addresses) may be considered personal data under applicable laws. Our online privacy notice and cookies policy is available on our websites and provide you with further information about how we use your personal data we collect online.
+
+Do we collect personal data about you from third parties? We also may collect your personal data such as your name, residential address, and other contact or authentication information from third party sources e.g. from your financial adviser, the organisation you represent, credit reference agencies, authorities, other legal entities and individuals (e.g. if you are not a shareholder, then from the shareholder) and publicly accessible sources, including publicly available profiles and databases e.g. to establish and verify your identity to carry out AML, CTF and KYC checks, find out your contact details if we are unable to contact you or liaise with you in relation to our products and services.
+How will we use your personal data? This section of this Privacy Notice explains for what purposes we use your personal data and on which legal bases we rely, to ensure that we process your personal data lawfully. Our legal bases for collecting and using your personal data will include:
+a)to perform our contract with you when you act as an intermediary or invest in a fund e.g. to (i) verify your identity, (ii) open your account, (iii) manage and administer your holdings in your account, including processing your subscriptions and redemptions, maintaining the shareholder registers and providing financial and other information to you;
+b)to comply with our legal obligations, including those laid down in tax, company or other laws applicable to us, including for the purposes of complying with the Foreign Account Tax Compliance Act (FATCA) and the OECD Common Reporting Standard for Automatic Exchange of Financial Account Information (CRS) as well as AML and CTF laws and regulations, screening against sanctions lists and recording calls and electronic communications relating to transactions;
+c)to pursue our or a third party's (e.g. our affiliates, service providers, agents or delegates) legitimate interests, such as: (i) recovering debts owed by you to us; (ii) mitigating business and operational risks; (iii) complying with internal policies; (iv) sharing your personal data with our affiliates within the Invesco Group for internal administrative and other legitimate business purposes, including to provide our products and services and to market to you; (v) investigating, detecting and preventing fraud and other crime; (vi) ensuring network and information security; (vii) purchasing services from and sharing your personal data with third parties which support us in providing our services to you; (viii) recording and monitoring calls and electronic communications for record keeping, security, quality, staff training and other business purposes; (ix) informing you about the Invesco Group's products and services, conferences, marketing events or anything else that we think may be of interest to you or the organisation you represent; (x) providing our products and services to you or the organisation you represent, including maintaining the relationship and otherwise interacting with you; (xi) undertaking business analysis and market research relevant to our business; (xii) developing and improving our products and services; (xiii) protecting the Invesco Group's interests, including establishing, exercising and defending legal rights and claims; and (xiv) ensuring that our affiliates, service providers, agents and delegates can also comply with their domestic and foreign legal and regulatory obligations. When evaluating whether legitimate interests can be relied on as a legal basis for the processing activities described above, a balancing test is carried out to ensure that our use of your personal data will not be overridden by your interests or fundamental rights and freedoms;
+
+d)if you are a politically exposed person and we need to use personal data about your political opinions or trade union membership to allow you to invest in a fund, we will rely on the legal basis that this information is manifestly made public by you or is necessary for reasons of substantial public interest on the basis of applicable laws; and
+e)in certain circumstances and subject to applicable laws, your consent, however we will make this clear to you at the time of collection of your personal data, and you will have the right to withdraw your consent at any time.
+What are the consequences if you fail to provide us with the requested personal data? If we ask you to provide us with your personal data to comply with a legal requirement, or to allow us to enter into or perform a contract with you, we will advise you (e.g. in an application form or otherwise) whether you are obliged to provide the personal data as well as of the possible consequences if you fail to do so. For example, if you do not correctly complete all relevant sections of an application form and/or provide us with the correct information e.g. for AML, CTF, KYC or tax purposes or about the source of your wealth, we may reject or delay the processing of your application and/or suspend holdings/payments until the relevant information is received to our satisfaction.
+
+As we operate globally, your personal data may be transferred to countries outside the European Economic Area, including the United States, India and Hong Kong. Where the level of protection of personal data in those countries has not been deemed adequate by the European Commission, we put standard data protection clauses in place (as approved by the European Commission) or where we use third parties, we may rely on other appropriate transfer mechanisms they have implemented (e.g. EU-US Privacy Shield, binding corporate rules) to provide appropriate safeguards to ensure that your personal data will remain adequately protected in accordance with applicable data protection laws. You can obtain a copy of the standard data protection clauses at https://ec.europa.eu/info/law/law-topic/ data-protection/data-transfers-outside-eu/model-contractstransfer-personal-data-third-countries_en and contact us by using the contact details provided below for further information about other appropriate transfer mechanisms we may rely on.
+How do we protect your personal data? To protect the security of your personal data, we implement appropriate technical and organisational security measures which include physical and technical security safeguards and a governance model that ensures that adequate policies, procedures and controls are in place within our organisations.
+
+Who do we share your personal data with? We may share your personal data for the purposes described in this Privacy Notice with our affiliates within the Invesco Group, intermediaries, service providers, agents and delegates, such as administrators, transfer agents, depositaries, distributors, investment advisers, paying agents, registrars, credit reference agencies, auditors, other professional advisers and information technology service providers (and their affiliates, service providers, agents and delegates). Where we use third parties who process your personal data on our behalf as a processor (e.g. administrators, transfer agents, registrars, information technology service providers), we ensure they do so in accordance with our instructions and that they put appropriate technical and organisational security measures in place to adequately protect your personal data. Where we share your personal data with our service providers, we may allow them (e.g. depositaries, banking service providers, paying agents, transfer agents) to process your personal data as controllers under their privacy notices solely for the purposes of providing their services to us, complying with their own (and their affiliates', service providers', agents' and delegates') legal and regulatory obligations or pursuing their legitimate interests as described above in this Privacy Notice, but strictly in connection with the provision of their services to us and in accordance with applicable laws. In certain circumstances, we or they may inform you about how you can access their privacy notices, which will give you further information as to how they use your personal data and how you can exercise your rights in relation to your personal data.
+We may disclose your personal data for the purposes set out in this Privacy Notice to other third parties e.g. the police, courts, governmental agencies, tax and other regulatory authorities, where we are legally obliged to do so or in our reasonable opinion such disclosure is necessary to comply with applicable laws and legal processes, support an investigation or to protect our rights and interests.
+
+How long do we hold your personal data for? We may retain your personal data as long as it remains necessary in relation to the purposes we collected the information for. When determining the appropriate retention period, we consider the risks of the processing, our contractual, legal and regulatory obligations, internal data retention policies and our legitimate business interests as described in this Privacy Notice.
+What are your rights in relation to the personal data we hold about you? Subject to the conditions prescribed in applicable laws, you have the right: (i) to access, rectify or request erasure of your personal data; (ii) to ask us to restrict the processing of it; and (iii) to request the portability of it.
+Subject to the conditions prescribed in applicable laws, you have the right (i) to object, on grounds relating to your particular situation, to the processing of your personal data which is based on our or a third party's legitimate interests; and (ii) to object to the processing of your personal data for direct marketing purposes.
+You can exercise these rights by contacting us using the contact details provided below.
+You also have the right to lodge a complaint with a supervisory authority about our use of your personal data in the country of your habitual residence, place of work or place of the alleged infringement if you consider that our processing of your personal data infringes the GDPR.
+How can you contact us? If you have any questions or concerns about our use of your personal data, please contact us in writing by using the contact details provided below or at emea.privacy@invesco.com
+
+We may also share your personal data with a potential buyer in connection with any proposed purchase, merger or acquisition of any part of our business.
+
+ControllerContact details
+
+Atlantic Wealth Management LimitedPerpetual Park, Perpetual Park Drive, Henley-On-Thames, Oxfordshire, RG9 1HH, United Kingdom
+
+Invesco Administration Services LimitedPerpetual Park, Perpetual Park Drive, Henley-On-Thames, Oxfordshire, RG9 1HH, United Kingdom
+
+Invesco Asset Management (Schweiz) AGTalacker 34, CH-8001 Zurich, Switzerland
+
+Invesco Asset Management Deutschland GmbHAn der Welle 5, D-60322 Frankfurt am Main,Germany
+
+Invesco Asset Management LimitedPerpetual Park, Perpetual Park Drive, Henley-On-Thames, Oxfordshire, RG9 1HH, United Kingdom
+
+Invesco Asset Management Österreich Rotenturmstrasse 16-18, A-1010 Vienna, Austria Branch of Invesco Asset Management Deutschland GmbH
+
+Invesco Asset Management S.A (France) Swedish FilialStureplan 4c/4th Floor, Stockholm 11435, Sweden  Invesco Asset Management S.A.18 rue de Londres, 75009 Paris, France
+
+Invesco Asset Management S.A. Belgian Branch235 Avenue Louise, B-1050, Brussels, Belgium  Invesco Asset Management S.A. Sede SecondariaVia Bocchetto, 6, 20123 Milano, Italy  Invesco Asset Management S.A. Sucursal en EspañaCalle Goya 6/ 3rd Floor, 28001 Madrid, Spain
+
+Invesco Asset Management S.A. Dutch BranchVinoly Building, Claude Debussylaan 26, 1082 MD Amsterdam, Netherlands
+ Invesco Continental Europe Holdings S.A. 37A Avenue J.F. Kennedy, L-1855 Luxembourg  Invesco Fund Managers LimitedInvesco Perpetual Administration Centre, PO Box 11150,
+Chelmsford, CM99 2DL, United Kingdom
+
+Invesco Global Asset Management DACRegistered Office, Central Quay, Riverside IV, Sir John Rogerson's Quay, Dublin 2, Ireland
+ Invesco Holding Company LimitedPerpetual Park, Perpetual Park Drive, Henley-On-Thames,
+Oxfordshire, RG9 1HH, United Kingdom
+
+Invesco International LimitedPO Box1588, Orviss House, 17a Queen Street, St Helier, Jersey, JE4 2PH
+ Invesco Investment Management Limited32 Molesworth Street, Dublin 2, D02 Y512, Ireland  Invesco Management GmbHSendlinger Strasse 12, 80331 Muenchen, Germany 
+Invesco Management S.A.3 7A Avenue J.F. Kennedy, L-1855 Luxembourg
+
+Invesco Markets II plc
+
+32 Molesworth Street, Dublin 2, D02 Y512, Ireland
+
+Invesco Markets II plc32 Molesworth Street, Dublin 2, D02 Y512, Ireland
+
+Invesco Markets III plcCentral Quay, Riverside IV, Sir John Rogerson's Quay, Dublin 2, Ireland
+
+Invesco Markets plcBeaux Lane House, Mercer Street Lower, Dublin 2, Ireland
+
+
+
+Invesco Markets plc
+
+32 Molesworth Street, Dublin 2, D02 Y512, Ireland
+
+Invesco Pension Trustees LimitedPerpetual Park, Perpetual Park Drive, Henley-On-Thames, Oxfordshire, RG9 1HH, United Kingdom
+
+Invesco Perpetual (Nominees) LimitedPerpetual Park, Perpetual Park Drive, Henley-On-Thames, Oxfordshire, RG9 1HH, United Kingdom
+
+Invesco Perpetual Life LimitedPerpetual Park, Perpetual Park Drive, Henley-On-Thames, Oxfordshire, RG9 1HH, United Kingdom
+
+Invesco Physical Markets plcPinnacle 2, Eastpoint Business Park, Dublin 3  Invesco Real EstateSendlinger Strasse 12 Zweigniederlassung der Invesco Asset Management80331 Muenchen Deutschland GmbH
+
+ControllerContact details Invesco Real Estate Limited - Paris Branch5th Floor, 16-18, rue de Londres, 75009 Paris, France  Invesco Real Estate Management S.a.r.l37A Avenue J.F. Kennedy, L-1855 Luxembourg Invesco Real Estate sroPraha City Center, Klimentská 46, 110 00 Prague 1, Czech
+Republic  Invesco Real Estate UK Residential S.a.r.l37A Avenue J.F. Kennedy, L-1855 Luxembourg Invesco Real Estate Value Add S.a.r.l37A Avenue J.F. Kennedy, L-1855 Luxembourg Invesco Real Estate, s.r.o. Sp. z o.o.ul. Królewska 18/ 7th floor, 00-103 Warszawa, Poland  Invesco UK LimitedPerpetual Park, Perpetual Park Drive, Henley-On-Thames,
+Oxfordshire, RG9 1HH, United Kingdom Invesco UK Services LimitedPerpetual Park, Perpetual Park Drive, Henley-On-Thames,
+Oxfordshire, RG9 1HH, United Kingdom Invesco Zodiac FundsC/O Invesco Management S.A. 37a Avenue J.F Kennedy, L-1855 Luxembourg, Luxembourg  IRE-UK Resi Bedford S.a.r.lL-1855, Luxembourg 37A J F Kennedy Luxembourg IRE-UK Resi Bracknell S.a.r.l51 Avenue J.F. Kennedy L-1855 Luxembourg IRE-UK Resi Crawley S.a.r.l51 Avenue J.F. Kennedy L-1855 Luxembourg IRE-UK Resi Exeter S.a.r.l51 Avenue J.F. Kennedy L-1855 Luxembourg IRE-UK Resi Stevenage S.a.r.l51 Avenue J.F. Kennedy L-1855 Luxembourg IVZ Finance DACCentral Quay, Riverside IV, Sir John Rogerson's Quay, Dublin 2,
+Ireland IVZ Immobilien Verwaltungs GmbH51 Avenue J.F. Kennedy L-1855 Luxembourg Sermon Lane Nominees Limited51 Avenue J.F. Kennedy L-1855 Luxembourg Short-Term Investments Company (Global Series) PlcCentral Quay, Riverside IV, Sir John Rogerson's Quay, Dublin 2,
+Ireland Société d'investissement à capital variable (The SICAV) Vertigo Building - Polaris 2-4 rue Eugène Ruppert, L-2453 Luxembourg Source CSOP Markets plc32 Molesworth Street, Dublin 2, D02 Y512, Ireland
+0122/63784/PDF/220518
+
+

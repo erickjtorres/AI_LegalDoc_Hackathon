@@ -1,0 +1,214 @@
+National Fraud Initiative in Scotland
+Privacy notice
+Prepared for Audit Scotland June 2018
+
+Audit Scotland is a statutory body set up in April 2000 under the Public Finance and Accountability (Scotland) Act 2000. We help the Auditor General for Scotland and the Accounts Commission check that organisations spending public money use it properly, efficiently and effectively.
+
+Contents
+National Fraud Initiative (NFI) - privacy notice............................................................................ 4 Audit Scotland data matching exercises ............................................................................ 4 Legal basis ........................................................................................................................ 4 Data transferred outside the European Economic Area (EEA) .......................................... 5 Bodies required to provide data for matching .................................................................... 5 Access by individuals to data included in data matching ................................................... 6 The data that is matched and the reasons for matching it.................................................. 6 Retention of data ............................................................................................................... 7 Code of Data Matching Practice ........................................................................................ 7 Role of the Information Commissioner............................................................................... 7 Personal data handling arrangements - complaints or queries .......................................... 8
+Appendix 1 Personal data ............................................................................................................ 9 Appendix 2 The main match types and the organisations to which they apply (NFI 2018/19)11
+
+National Fraud Initiative in Scotland
+
+Page 3
+
+National Fraud Initiative (NFI) - privacy notice
+
+National Fraud Initiative (NFI) - privacy notice
+
+1. This notice sets out how we will use personal data that is submitted to Audit Scotland for the purpose of the National Fraud Initiative (NFI) in Scotland and any other data matching exercises conducted by Audit Scotland. Details of the personal data we process is included in Appendix 1.
+Audit Scotland data matching exercises
+2. Audit Scotland conducts data matching exercises to assist in the prevention and detection of fraud and other crime. This is one of the ways in which Audit Scotland meets its responsibility of promoting economy, efficiency and effectiveness in the use of public money.
+3. Data matching involves comparing sets of data, such as the payroll or benefits records of a body, against other records held by the same or another body. The data is usually personal information. The data matching allows potentially fraudulent claims and payments to be identified but the inclusion of personal data within a data matching exercise does not mean that any specific individual is under suspicion. Where a match is found it indicates that there is an inconsistency which requires further investigation. No assumption can be made as to whether there is fraud, error or other explanation until an investigation is carried out. The exercise can also help bodies to ensure that their records are up to date.
+4. The processing of data by Audit Scotland (in practice the processing is undertaken by the Cabinet Office on Audit Scotland's behalf) in a data matching exercise is carried out under the powers in Part 2A of the Public Finance and Accountability (Scotland) Act 2000. It does not require the consent of the individuals concerned under the Data Protection Act 2018.
+5. All bodies participating in Audit Scotland's data matching exercises receive a report of matches. Bodies should investigate the matches, so as to detect instances of fraud, over- or under-payments and other errors, to take remedial action and update their records accordingly.
+6. Since 2000, the NFI has led to the detection of fraud and overpayments totalling around £129.2 million in Scotland. Across the UK, since 1996, all such exercises undertaken by the Cabinet Office (and its predecessor, the Audit Commission) have led to the detection of fraud and overpayments over £1.69 billion.
+Legal basis
+7. Under the powers of Part 2A of the Public Finance and Accountability (Scotland) Act 2000, Audit Scotland may carry out data matching exercises for the purpose of assisting in the prevention and detection of fraud or other crime and in the apprehension and prosecution of offenders (the `permitted purposes').
+
+Page 4
+
+National Fraud Initiative in Scotland
+
+National Fraud Initiative (NFI) - privacy notice
+8. Audit Scotland may require certain persons to provide data for data matching exercises. These persons include all the bodies to which the Auditor General for Scotland (AGS) or the Accounts Commission appoints auditors, licensing boards, and officers, office holders and members of these bodies or boards.
+9. Other persons or bodies may participate in Audit Scotland's data matching exercises on a voluntary basis. Where they do so, the statute states that there is no breach of confidentiality and generally removes other restrictions in providing the data to Audit Scotland.
+10. The requirements of the current data protection legislation continue to apply.
+11. Audit Scotland may disclose the results of data matching exercises where this assists the purpose of the matching (see 7.1) above, including disclosure to bodies that have provided the data and to the auditors appointed by the AGS and the Accounts Commission.
+12. Audit Scotland may disclose both data provided for data matching and the results of data matching to the AGS, the Accounts Commission, the Cabinet Office, or any of the other UK audit agencies specified in Section 26D of the Public Finance and Accountability (Scotland) Act 2000, for the purposes described at (7.1) above.
+13. Wrongful disclosure of data obtained for the purposes of data matching by any person is a criminal offence.
+14. Audit Scotland may impose reasonable charges on any body participating in a data matching exercise.
+15. Audit Scotland must prepare and publish a Code of Practice with respect to data matching exercises. All bodies conducting or participating in its data matching exercises, including Audit Scotland itself, must have regard to the Code.
+16. Audit Scotland may report publicly on its data matching activities.
+Data transferred outside the European Economic Area (EEA)
+17. Audit Scotland does not send personal data collected during the NFI outside the EEA.
+Bodies required to provide data for matching
+18. Currently, Audit Scotland requires the following bodies to provide data for the NFI in Scotland: · Councils · Other specified local government bodies · Health bodies · Scottish Public Pensions Agency (SPPA) · Student Awards Agency for Scotland (SAAS) · Other specified central government bodies (CG) · Specified colleges
+
+National Fraud Initiative in Scotland
+
+Page 5
+
+National Fraud Initiative (NFI) - privacy notice
+19. Audit Scotland also provides its own and the Accounts Commission's payroll data.
+Access by individuals to data included in data matching
+20. Individuals whose data is included in a data matching exercise have rights under current data protection legislation. The participating body, as part of the Code of Data Matching Practice 2018, will have provided individuals with a privacy notice containing information required by data protection legislation.
+21. Individuals' usual rights of access to data held about them may be limited as a consequence of exemptions from current data protection legislation where disclosure would be likely to prejudice the prevention or detection of a crime or the apprehension or prosecution of an offender. This determination should be made on a case-by-case basis by the participating body in receipt of the request for information. This means that individuals may be refused full access to information about them that has been processed in data matching exercises.
+22. Individuals have rights under current data protection legislation if data held about them is inaccurate. They should be able to check the accuracy of their data by contacting the participating body holding the data.
+23. Individuals should not expect to be told about data or data matches concerning any other person unless that person has given consent, as this is likely to amount to a breach of data protection principles.
+24. Information requests under the Freedom of Information (Scotland) Act 2002 may be subject to the law enforcement exemption in Section 35, for example where its disclosure would be likely to prejudice substantially the prevention and detection of a crime or the apprehension or prosecution of an offender, or the personal information exemption under Section 38. These determinations should be made on a case by case basis by the participating body in receipt of the request for information.
+25. Individuals who want to know whether their data is to be included in a data matching exercise can check the data specifications for each exercise in Audit Scotland's instructions. The most up-to-date instructions can be found on Audit Scotland's website at: http://www.auditscotland.gov.uk/our-work/national-fraud-initiative or by contacting Audit Scotland (see paragraph 28 for contact details).
+What data is matched and why
+26. For information about which data sets are matched by Audit Scotland and the purpose of each match, please refer to the Scottish guidance available on the Audit Scotland website at http://www.audit-scotland.gov.uk/our-work/national-fraud-initiative The table in Appendix 2 summarises the various match types for each participating organisation.
+
+Page 6
+
+National Fraud Initiative in Scotland
+
+National Fraud Initiative (NFI) - privacy notice
+
+Retention of data
+27. Personal data will not be kept for longer than is necessary. A Data Deletion Schedule setting out the criteria for retaining and deleting data and matches will be published by the Cabinet Office on GOV.UK. All original data transmitted to Audit Scotland (or the Cabinet Office on its behalf), including data derived or produced from that original data, and including data held by any firm undertaking data matching as the Cabinet Office's data processor, will be destroyed and rendered irrecoverable within three months of the conclusion of the exercise.
+28. Participating bodies and their auditors may decide to retain some data after this period. Data may, for example, be needed as working papers for the purposes of audit, or for the purpose of continuing investigations or prosecutions. Data subjects should refer to their body's privacy notice for retention timescales beyond the conclusion of the NFI exercise.
+29. A single set of reference codes for previous matches, together with any comments made by participants' investigators, will be retained securely offline by the Cabinet Office for as long as they are relevant. This is solely for the purpose of preventing unnecessary re-investigation of previous matches in any subsequent data matching exercise.
+Code of Data Matching Practice
+30. Data matching by Audit Scotland is subject to a Code of Data Matching Practice. You can find this on the Audit Scotland website at http://www.audit-scotland.gov.uk/our-work/nationalfraud-initiative
+Compliance with the Code of Data Matching Practice
+31. Questions and concerns about non-compliance with the Code should be addressed to the organisation responsible in the first instance (that is to the participating body or, if it concerns Audit Scotland's compliance, to Audit Scotland), before contacting the Information Commissioner.
+32. Where Audit Scotland or an auditor becomes aware that a body has not complied with the requirements of the Code, they should notify the body concerned and seek to ensure that it puts in place adequate measures to meet the Code's requirements. For example, this might include where a participant has not issued adequate privacy notices or submits data other than via the secure NFI website (and that exception has not been approved by the Cabinet Office).
+Role of the Information Commissioner
+33. The Information Commissioner regulates compliance with current data protection legislation. If a complaint or matter is referred to the Information Commissioner, he or she would consider compliance with the Code of Data Matching Practice by participating bodies or Audit Scotland in determining whether or not, in the view of the Information Commissioner, there has been any breach of data protection legislation; and where there has been a breach, whether or not any enforcement action is required and the extent of such action. Guidance on the Information
+
+National Fraud Initiative in Scotland
+
+Page 7
+
+National Fraud Initiative (NFI) - privacy notice
+Commissioner's approach to data breaches and enforcement is available on the Information Commissioner's website.
+Personal data handling arrangements - complaints or queries
+34. Audit Scotland strives to process NFI data lawfully, fairly and in a transparent manner. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring their complaints to our attention if they think our processing of NFI data is unlawful.
+35. This privacy notice was drafted with clarity in mind. If you want to make a complaint about the way we have processed your personal information, you can contact our data protection officer at dataprotection@audit-scotland.gov.uk
+36. If you are not satisfied with our response to your complaint/query about how we handle your personal data, or if you believe we are not processing it in accordance with the law, you can complain to the Information Commissioner's Office (ICO) at https://ico.org.uk/make-acomplaint/
+37. More details on Audit Scotland's data matching exercises, including national reports, other publications and guidance, may be found on the Audit Scotland website at http://www.auditscotland.gov.uk/our-work/national-fraud-initiative .
+38. Alternatively, please contact, Audit Scotland, 4th Floor, 102 West Port, EDINBURGH, EH3 9DN; telephone 0131 625 1500. Email enquiries should be addressed to info@auditscotland.gov.uk quoting `National Fraud Initiative' in the subject line.
+39. More information about the UK National Fraud Initiative is available on the Cabinet Office's web-site at https://www.gov.uk/government/collections/national-fraud-initiative.
+
+Page 8
+
+National Fraud Initiative in Scotland
+
+Appendix 1. Personal data
+
+Appendix 1. Personal data
+
+We process information that you provide when making a claim or applying for: · Personal budget/social care · Pension · Taxi Driver licence · Market Trader license · Personal Alcohol licence · Social Housing (current tenants and individuals on a housing waiting list) · Right to Buy · Transport pass and permit · Council Tax Reduction Scheme · Universal Credit · Housing Benefit · Other State Benefits
+We also process information that: · you provide when seeking payment of an invoice from an organisation that takes part in
+the NFI. This is referred to as trade creditor standing and payment history data. · you provide when seeking payment for employment from an organisation that takes part
+in the NFI. This is referred to as payroll data. · you provide when registering to vote. This is referred to as Electoral Register data. · you provide in relation to your council tax. · you provide in relation to residents in a private care homes supported by an organisation
+that takes part in the NFI.
+Data specifications setting out exactly what data we process in the above areas can be accessed from the Cabinet Office website here.
+Criminal convictions
+Should data matching through the NFI result in a prosecution, then this may also be recorded by participating organisations.
+Special categories of personal data
+"Special categories of personal data" is personal data revealing racial or ethnic origin, political opinions, religious or "philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation. The legal basis for processing special categories of personal data is:
+
+National Fraud Initiative in Scotland
+
+Page 9
+
+- processing is necessary for reasons of substantial public interest and for the exercise of official authority vested in the controller [Audit Scotland].
+Included in the above are certain categories of special categories of personal data: · Housing benefit and student loan data includes an indicator of physical or mental health
+or condition. This disability flag, which does not identify the specific condition, is required as disability has an impact upon a student's entitlement to claim housing benefit. · The personal budget (direct payment) match uses data relating to individuals who have a specified range of social care needs because they have a disability. · We collect information on blue badge holders (and applicants). While we do not hold information on the medical condition that entitles the individual to a badge we do know who has a badge.
+Audit Scotland's legal basis for processing your criminal convictions data is sections 6, 10, 11, and 12 of schedule 1 to the Data Protection Act 2018.
+
+Page 10
+
+National Fraud Initiative in Scotland
+
+Appendix 2. The main match types and the organisations to which they apply (NFI 2018/19)
+Appendix 2. The main match types and the organisations to which they apply (NFI 2018/19)
+
+Match type Pensions to: Deceased Persons Payroll Housing Benefits Injury benefits Amberhill1 Deferred pensions to deceased persons Housing Benefits to: Student loans Payroll Pensions Housing Benefits Housing tenants Right to buy Home Office (Immigration data) Licences Deceased personas Amberhill
+
+Councils
+
+Others
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y Police & Fire only
+
+y
+
+y
+
+Y
+
+Y
+
+Y Y Y Y Y Y Y Y Y Y
+
+1 Amberhill is a system used by the Metropolitan Police to authenticate documents presented for identity verification.
+
+National Fraud Initiative in Scotland
+
+Page 11
+
+Appendix 2. The main match types and the organisations to which they apply (NFI 2018/19)
+
+Match type Payroll to: Housing Benefits Payroll Pensions Home Office (Immigration data) Amberhill Housing tenants to: Housing tenants Housing Benefits Right to buy Home office (Immigration data) Amberhill Housing waiting List to: Waiting List Housing Benefit Housing Tenants Right to Buy Deceased Persons Home Office (Immigration data) Amberhill Personal Budgets (Direct Payments) to: Personal Budgets Pensions Housing Benefits Deceased Persons Amberhill
+
+Councils
+Y Y Y Y Y
+Y Y Y Y Y
+Y Y Y Y Y Y Y
+Y Y Y Y Y
+
+Others
+Y Y Y Y Y
+
+Page 12
+
+National Fraud Initiative in Scotland
+
+Appendix 2. The main match types and the organisations to which they apply (NFI 2018/19)
+
+Match type Student Loans to: Home Office (Immigration data) Deceased persons Amberhill Creditors to: Creditors Payroll Private Residential Care Homes to: Deceased persons Amberhill Parking Permits to: Deceased persons Amberhill Blue badges to: Deceased persons Amberhill Concessionary travel permits to: Deceased persons Amberhill Council tax to electoral register
+
+Councils
+Y Y Y Y Y Y Y Y Y Y Y
+
+Others SAAS only SAAS only SAAS only
+Y Y
+SPT only SPT only
+
+National Fraud Initiative in Scotland
+
+Page 13
+
+Appendix 2. The main match types and the organisations to which they apply (NFI 2018/19)
+
+Match type Council tax reduction to: Council tax reduction Payroll Pensions Payroll Housing Benefits Housing Tenants Right to buy Home Office (Immigration data) Licences Deceased persons Amberhill
+Licenses to: Home Office (Immigration data) Amberhill Social care customers to deceased persons
+
+Councils
+Y Y Y Y Y Y Y Y Y Y
+Y Y Optional
+
+Others
+
+Page 14
+
+National Fraud Initiative in Scotland
+
+

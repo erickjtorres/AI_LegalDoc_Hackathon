@@ -1,0 +1,1118 @@
+Opt In Versus Opt Out: A Free-Entry Analysis of Privacy Policies.
+Jan Bouckaert and Hans Degryse
+December 16, 2005 Comments welcome.
+Abstract A public debate exists whether the flow of consumer information should be restricted, and whether privacy laws -- such as the Gramm-Leach-Bliley Act for financial institutions -- should be amended. We offer a welfare comparison of the three main current policies towards consumer privacy -- anonymity, opt in, and opt out -- within a two-period address model. These privacy policies shape a firm's ability to collect and use customer information, and affect its pricing strategy and entry decision differently. The free-entry analysis reveals that social welfare is non-monotonic in the degree of privacy protection. Opt out is the socially preferred privacy regime while opt in socially underperforms anonymity. Keywords: privacy, price discrimination, monopolistic competition, welfare JEL classification: D11
+1 Introduction
+Advances in information technology introduce unprecedented possibilities to collect, store, transmit, and analyze personal information. Businesses can use such personal information for commercial purposes and segment their markets into specific customer categories. For example,
+The authors thank seminar participants at the University of Oslo, UAB Barcelona and the 2005 ESSFM at Gerzensee for stimulating comments. We gratefully acknowledge financial support from FWO-Flanders, the Research Council of the University of Leuven, NOI2003 of the University of Antwerp, and NWO-The Netherlands.
+University of Antwerp, Department of Economics, Prinsstraat 13, B-2000 Antwerp, Belgium. jan.bouckaert@ua.ac.be
+CentER - Tilburg University, PO Box 90153 NL-5000 LE Tilburg, The Netherlands. H.Degryse@uvt.nl
+1
+
+consumers' financial transactions offer financial institutions with a wealth of personal data like disposable income, family size, age, and purchasing behavior. Moreover, firms often share personalized consumer data with third parties who sell products that also fit these consumers' preferences, or sell their databases on consumer characteristics to information vendors.
+At the same time, the collection, use, and dissemination of such personal information has introduced privacy concerns. According to Stigler (1980), privacy "connotes the restriction of the collection or use of information about a person or corporation; the information in question "belongs" to the individual." This is also what Posner (1981) refers to as "concealment of information" when defining privacy. In this paper, we deal with this meaning of privacy in that privacy policies may shape the information on a customer's willingness to pay.1
+A public debate exists whether the free flow of information between firms should be restricted, and whether existing privacy laws should be amended. Privacy concerns have induced legislators in many countries to limit or disallow the selling of consumer data. Accordingly, in some instances collection of information about current customers has been prohibited. In the US, the Gramm-Leach-Bliley Act of 1999 prohibits that financial institutions disclose account numbers to any nonaffiliated third-party for use in telemarketing, direct mail marketing, or other marketing through electronic mail to the consumer. In other cases, regulation obliges firms to share customer information. For example, regulation imposes financial institutions to share borrower information in public credit registries.2 As Armstrong (2005) observes, public policy towards privacy affects the quality of firms' access to better and more detailed customer information. The contribution of our paper is to identify the welfare effects of different privacy policies in a model with localized competition.
+In general, a continuum of rules is possible, ranging from no restrictions on sharing personal information to explicit consumer consent before even storing personal information within a firm. While the literature on privacy is vast and growing, there is little theoretical analysis on the economic and welfare implications of specific privacy regulations. In this paper we offer an economic analysis of this research question by comparing three different privacy regimes. All these regimes provide legal restrictions to handle the flow of information.
+The first legal environment is an "opt-out" sytem. Under opt out, a firm that "intends to share non-public customer information with third parties ... must give consumers an oppor-
+1 Posner (1981) considers also "peace and quiet" and "freedom and autonomy" as two other definitions of privacy.
+2 See Miller (2003) for a countries overview on credit reporting systems.
+2
+
+tunity to deny them permission to do so, or opt out" (Lacker (2002)). Firms can share that information with third parties when a consumer does not restrict the use of its personal information. Experience with opt-out systems reveals that typically less than 10% of individuals ever opts out of a mailing list.3 The main implication of the opt-out system, therefore, is that data sharing takes place and that firms effectively can employ customer information, gathered by other firms, in their strategic decisions. In the US, in the industries where laws currently require that individuals be given a choice, opt out is the consent system most commonly used. For example, the 1999 Gramm-Leach-Bliley Act determines a financial institution's obligation regarding the disclosure of personal information. Under this Act, a financial institution must provide a consumer a possibility to opt out when this institution plans to share non-public personal information.
+The second legal environment consists of an "opt-in" system.4 Opt-in permits use of personal information within the organization but requires the opt-in consent before personal information could be disclosed to third parties outside the organization.5 Interestingly, many States in the US have adopted or are considering regulatory actions regarding the Gramm-Leach-Bliley Act towards the stricter privacy standard of "opt-in" for sharing information with third parties. Empirical evidence shows that the individuals' opt-in rate is extremily low. Staten and Cate (2003) provide evidence of U.S. West who conducted an affirmative consent trial. The company asked for permission from its customers to analyze their calling pattern. A direct mailing only resulted in a response rate of 5 to 11 percent.6 As a result, the opt-in system effectively prevents firms from disseminating information about its customers and consequently blocks data sharing between firms. That is, new entering firms have no access to and cannot base their decisions on exogenously obtained third-party consumer information. Firms, however, are allowed to store information internally, and consequently can employ the information they obtain over the course of a customer relationship in their pricing decisions. While US privacy law is increasingly moving towards the opt-in system, this privacy mode underlies the 1995 European Parliament and Council Directive 95/46/EC. The European Union Data Protection Directive of 1995 provides
+3 Figures as reported in Staten and Cate (2003). 4 Under opt in, firms have "to obtain a consumer's explicit consent before sharing personal information about them" (Lacker (2002)). 5 Staten and Cate (2003) distinguish between "Third-Party-Sharing Opt-In" and "Affiliate Sharing Opt-In." Both variants require the opt-in consent before information can be disclosed to third parties. The distinction is that the second puts more restrictions on what can be disclosed to whom. 6 Eventually, U.S. West decided that opt-in was not a profitable business model as the consecutive telemarketing test resulted in a $29 to $34 prohibitive cost per positive response.
+3
+
+individuals in the EU member states with broad protections that emphasize the "opt-in" as opposed to the "opt-out" model.7
+Finally, the third system can be considered as a benchmark case that guarantees anonymity.8 With anonymity, all information collection or storage is prohibited even within a firm. The implication then is that firms cannot employ customer information at all in their strategic decisions.
+This paper studies the welfare implications of three different privacy regimes -- opt in, opt out, and anonymity -- employing a two-period version of the Salop (1979) address model of localized competition. We assume that consumers buy one unit of a good in each period, and decide where to buy based on the firms' current and expected future prices, firms' locations, and their own preference. The different privacy regimes shape the strategic decisions of firms. The reasoning is that firms' competitive interactions -- prices and entry decisions -- are determined by the flow of information. In particular, our free-entry analysis reveals that the opt-out regime produces better welfare results than the anonymity regime. The anonymity regime in its turn is better than the opt-in regime. Therefore, from a social welfare point of view, it matters whether opt out or opt in is adopted as the privacy standard.
+Opt out performs better than anonymity. This result is determined by the ingredients of the following trade-off. On the one hand, with opt out and for a given number of firms, suppliers serve some consumers with a low preference for their brand. This results in higher "transportation costs" compared to anonymity where no inefficient allocation takes place. On the other hand, opt-out results in "all-out" competition relative to anonymity. That is, the available information sharpens competition for a given number of firms. Consequently, fewer firms will enter with opt out than with anonymity. The overall effect is such that total welfare with opt out increases as compared to anonymity. Although some consumers are not served by their most preferred supplier, increased competition sufficiently reduces excessive entry to enhance total welfare.
+In contrast, opt in reduces total welfare relative to anonymity. Thus the storage and use of information within a firm only, leads to lower welfare results than a complete ban on the flow of information within and across firms. This result stems from the competitive interactions in the two periods. First, remark that for a given number of firms, first-period competition with opt in results in higher first-period prices relative to a model with anonymity. The reasoning
+7 The Directive prohibits the transfer of information between the member country and any other country unless the privacy laws of that other country are at least adequate.
+8 This is often labelled as "blanket opt-in" (see Staten and Cate (2003)).
+4
+
+is that first-period competition with opt-in is also determined by the anticipated firm's secondperiod pricing behavior making first-period demand less elastic. The opt in and anonymity regimes result in consumers being served by their most preferred supplier in the first period. Thus higher first-period profits with opt in stimulate excessive entry. Second, opt in implies that firms employ the internally collected information in the second period. This introduces (1) "all-out" competition relative to the anonymity regime and (2) inefficient allocation as some consumers' are served by a less preferred supplier. The overall effect is that the lower first-period competition leading to additional entry and the inefficient second-period allocation dominate the impact of "all-out" second-period competition. The conclusion then is that opt in reduces welfare relative to anonymity. Thus, welfare conclusions crucially hinge on the limitations of the flow of information.
+Privacy has not only been studied from an economic perspective but also by other disciplines such as law or social psychology (see Hui and Png (2005) for a recent overview). While these other disciplines study individuals' concerns about privacy invasion and how government should address these, economists typically focus on how consumer information affects social efficiency. The literature on the economics of privacy as developed by Hirshleifer (1980), Stigler (1980), and Posner (1981) argues that in a perfectly competitive world different property rights about ownership of information will not affect the efficient amount of information flow. Stigler (1980) concludes that in voluntary transactions, and provided the conditions of competition are satisfied, there is no reason to protect one party. Given the legal environment of privacy protection, the efficient amount of information flow will take place. In both the opt-in and opt-out privacy regimes, individuals are protected as the property rights over personal information belong to the individual as "[u]nder both systems the customer makes the final and binding determination about data use" (Staten and Cate (2003)). In a world where consumers can costlessly opt in or opt out, both privacy regimes would coincide. However, when consumers incur costs to execute their option, a comparison of opt in versus opt out leads to significant different outcomes. Our paper, therefore, contributes to this early literature as we (i) depart from perfect competition and (ii) assume that consumers find it too costly to opt in or opt out.
+Our model also relates to the recent literature on behavior-based price discrimination. Recently, Taylor (2004) studies the dynamic strategic pricing behavior of a monopoly ("firm 1") when there is a market for customer information. Consumers are heterogenous and their private valuations for firm 1's good are positively correlated with another good offered by another monopoly "firm 2." A consumer's purchasing decision at firm 1 is therefore valuable to firm 2.
+5
+
+Taylor studies an anonymity regime in which the sale of customer information is not possible, and a disclosure regime in which firm 1 may compile and sell its customer list to the other monopoly firm 2 that uses it to price discriminate. When consumers are myopic, firm 1 may from time to time charge high prices in order to elicit information about its customers' willingness to pay. Welfare critically depends on whether average prices are high or low. When consumers anticipate the selling of their purchasing behavior, they may strategically refuse to buy from firm 1 when charging high prices in order to get a low price at firm 2. This strategic customer behavior reduces the value of a customer list and may enforce firms to price low. When consumers anticipate the selling of a customer list, a firm would like to commit not to sell its customer list.9 This may be interpreted as firms favoring "opt in."
+Relatedly, Acquisti and Varian (2002) analyze a monopolist's optimal intertemporal pricing strategy. They show that when enhanced services can be offered to previous customers, or when commitment to a pricing policy is impossible, the seller will find it optimal to condition its prices on consumers' purchasing history. With competition between sellers, Acquisti and Varian show that it always pays for firms to condition their prices on consumers' purchasing history when sellers offer enhanced services to returning consumers. Consumers who highly value this personalized service remain with their current provider as they will not be offered the enhanced service when switching to another provider. While Acquisti and Varian analyze oligopolistic competition, they do not provide a welfare analysis of their competition result. Both papers mainly concentrate on monopoly or oligopoly behavior with or without the sale of consumer information. Our paper, in contrast, looks at the competitive and welfare effects of using different degrees of personal information in a two-period model of free entry.
+As in Fudenberg and Tirole (2000), our paper studies two-period competition where firms can price discriminate in the second period between their own previous customers and other customers.10 Each firm charges a high price to its previous customers (its strong market) and a low price to rivals' first-period customers (its weak market). Since one firm's weak market is the other firm's strong market, the firms' best-responses are asymmetric and second-period competition drives prices down as in Corts (1998). While these papers consider duopoly, we are interested to what extent the different forms of price discrimination that result from the three privacy regimes affect welfare under free entry. In their literature review Armstrong (2005) and
+9 See also Calzolari and Pavan (2005). 10 Villas-Boas (1999) considers an overlapping generations model where firms recognize their own customers but cannot distinguish new entering consumers from others who previously bought from rivals.
+6
+
+Stole (2005) remark that typically free entry results in too much entry from a social welfare point of view. When price discrimination increases profits, excessive entry is worsened. In contrast, price discrimination lessens excessive entry when it reduces oligopoly profits.11 Our paper contributes to these insights as we study how privacy protection shapes a firm's ability to collect and use customer information, how it bears on a firm's pricing strategy, and ultimately to what extent it changes entry decisions. Our free-entry analysis reveals that social welfare is non-monotonic in the degree of privacy protection. Opt out is the socially preferred privacy regime while opt in socially underperforms anonymity.
+Section 2 develops the analysis for the three privacy regimes. Section 3 offers the main results of our paper by comparing the three privacy regimes. Section 4 provides concluding remarks.
+2 Privacy Regimes
+Consider a market where a continuum of individuals with unit mass is uniformly distributed along a circle with circumference one. Individuals live for two consecutive periods, have constant preferences over time, and have a unit demand for the non-durable good in each period. With the exception of transportation costs, switching between sellers is costless, and there is no possibility of arbitrage between consumers. Consumers' willingness to pay v is high enough so as to guarantee that all consumers buy in each period. A consumer located at distance x from firm i (with i = 1, ..., N ) derives utility
+v - tx - pi
+from consuming one unit of a good in period  (with  = 1, 2) and purchased from firm i = 1, ..., N , where t denotes the linear transportation cost per unit of distance and pi the price paid at firm i.12
+Firms and consumers have a common discount factor 0   < 1. Prior to first-period competition, N firms decide to enter the market for both periods and locate equidistantly along the circle. The cost of entry is (1 + ) F and is sunk upfront at  = 1. This entry cost structure allows for a direct comparison with a one-period Salop model where the entry cost equals F . Thus firms commit to enter for both periods before competition starts. Firms start to compete
+11 For another thorough review on the recent developments of price discrimination, see Villas-Boas and Fudenberg (2005).
+12 We assume that the available gross surplus v does not depend on the different privacy regimes. Consumer surplus, however, may suffer from giving up privacy.
+7
+
+for consumers at  = 1. Depending on the privacy regime, firms do or do not have information about consumers prior to first-period competition. In period  = 2 firms compete again for consumers. The information available about their customer base or future clientele is again determined by the privacy regime.
+Firms compete in prices during each period and cannot commit to future prices. That is we do not consider long-term contracts. Prices are set simultaneously in both periods. In contrast to Taylor (2004) our model is not set up to analyze the market for consumer information. Instead, our objective is to investigate the implications of three different privacy policies on interfirm competition and their welfare consequences. To study these effects in isolation, we assume that firms can access information, when available, at zero cost.
+2.1 Opt in
+With opt in, consumers must explicitly consent to third-party uses of personal data they wish to permit. In line with empirical evidence already referred to in the Introduction, we make the simplifying assumption that consumers find it too costly to opt in. As a result, all consumers prohibit that personal information about their purchasing patterns from related industries becomes publicly available. Firms therefore lack specific information about consumers before competing in the first period. That is, they do not have information about consumers before setting prices. Firms then need to resort to uniform pricing in the first period. However, the opt-in regime allows firms to internally store information about their customers and use this information in their second-period pricing strategies. That is firms are able to practice "purchase history" based pricing in the second period. We assume that firms can store information about whether a consumer patronized their shop in period one. The implication then is that firms in the second period can set different prices to their first-period consumers and other consumers. This is optimal as first-period consumers have revealed they have a "higher preference" for that firm, and are willing to pay higher prices for products from that firm. We first treat the oligopolistic setting based on Fudenberg and Tirole (2000). Then we turn to free entry and social welfare, respectively.
+2.1.1 Oligopoly
+Consider first an oligopoly situation with N firms that are symmetrically located on the circle. The circle can then be subdivided into N neighborhoods. Neighborhood ij is the neighborhood where firms i and j (with i, j = 1, ..., N and i 6= j) compete with each other (so effectively
+8
+
+j = i + 1 for all i = 1, ..., N - 1, and j = 1 for i = N ). The distance between firms i and
+
+j equals 1/N for any neighborhood. As our analysis concentrates on symmetric situations, let
+
+b denote the position of the indifferent consumer in the first period located in between i and j, with 0  b  1/N . Denote by p2ij firm i's second-period price offered to customers of firm j's first-period market. Denote by x0 the position of the consumer in the second period who is indifferent between switching from i to j or staying with i. Similarly, y0 is the position of the
+
+consumer in the second period who is indifferent between switching from j to i or staying with j. It should be clear that x0  b and y0  b.
+
+We start the analysis with second-period competition. Firm i has served the market segment
+
+0  b  1/N in the first period wherefrom firm j served 1/N - b. The position of the secondperiod customer x0 indifferent between switching from i to j is such that
+
+p2ii + tx0
+
+=
+
+p2ji
+
++
+
+t(
+
+1 N
+
+- x0)
+
+and the position of the second-period customer y0 indifferent between switching from j to i
+
+equals
+
+p2jj
+
+1 + t(
+N
+
+- y0) =
+
+p2ij
+
++ ty0.
+
+Firm i maximizes its second-period profits in the neighborhood ij
+
+i2(pi2i, pi2j)  pi2ix0 + p2ij(y0 - b)
+
+while firm j maximizes
+
+2j (p2jj, pj2i) 
+
+pj2j
+
+(
+
+1 N
+
+- y0) + pj2i(b - x0).
+
+The first-order conditions are
+
+pi2i
+
+=
+
+0.5(pj2i
+
++
+
+t N
+
+)
+
+p2ij
+
+=
+
+0.5(p2jj
+
++
+
+t N
+
+- 2tb)
+
+p2jj
+
+=
+
+0.5(p2ij
+
++
+
+t N
+
+)
+
+pj2i
+
+=
+
+0.5(p2ii
+
++
+
+2tb
+
+-
+
+t N
+
+).
+
+A symmetric solution for the second period yields
+
+pi2i
+
+=
+
+t(2b + 1 )/3 N
+
+p2ij
+
+=
+
+t( 3 - 4b)/3 N
+
+pj2j
+
+=
+
+t( 3 - 2b)/3 N
+
+p2ji
+
+=
+
+t(4b
+
+-
+
+1 N
+
+)/3.
+
+9
+
+Remark that the first-period market share b shapes second-period competition. We now turn to first-period competition, which determines the first-period market share.13 In the first period, the indifferent forward-looking consumer anticipates that in the second period the "poaching firm" will offer attractive prices. That is the indifferent consumer anticipates that it will be cheaper in the second period to visit the rival's shop. Given the discount rate , the indifferent first-period consumer located at b is characterized by
+
+p1i
+
++ tb + [p2ji
+
+1 + t(
+N
+
+- b)]
+
+=
+
+pj1
+
+1 + t(
+N
+
+- b) + (p2ij
+
++ tb)
+
+or
+
+b
+
+=
+
+pj1
+
+-
+
+p1i
+
++
+
+(pi2j
+
+-
+
+p2ji)
+
++
+
+t N
+
+(1
+
+-
+
+) .
+
+2t(1 - )
+
+In words, the consumer with position b is indifferent between buying in the first period from
+
+firm i at price p1i and switching to j in the second period, or buying from j in the first period at price pj1 and switching to firm i in period two.
+
+The discounted total profits look like
+
+i(p1i , p1j )  pi1b + [i2(pi2i, pi2j)]
+
+for firm i and
+
+j(p1i ,
+
+pj1)
+
+
+
+p1j (
+
+1 N
+
+- b) + [2j (p2jj, pj2i)]
+
+for firm j. The first-order conditions are
+
+pi1
+
+=
+
+t(2+6+9)
+N
+
++
+
+pj1
+
+(9
+
+-
+
+7)
+
+2 (9 - 2)
+
+p1j
+
+=
+
+t(2+6+9)
+N
+
++
+
+p1i
+
+(9
+
+-
+
+7) .
+
+2 (9 - 2)
+
+A symmetric solution yields
+
+pi1
+
+=
+
+pj1
+
+=
+
+t( + 3N
+
+3) .
+
+The
+
+symmetric
+
+equilibrium then
+
+implies
+
+b=
+
+1 2N
+
+wherefrom
+
+p2ii
+
+=
+
+pj2j
+
+=
+
+2t 3N
+
+pi2j
+
+=
+
+p2ji
+
+=
+
+t 3N
+
+.
+
+Comparison of prices reveals that
+13 The analysis assumes that firms only attract market share from neighborhoods adjacent to their respective locations. We return to this at the end of this section.
+
+10
+
+pi1 = p1j > pi2i = pj2j > p2ij = p2ji.
+
+Thus, first-period prices exceed second-period prices. Moreover first-period prices are higher than in a standard Salop model with uniform pricing. The intuition is the decreased elasticity of first-period demand relative to the static Salop model. This decreased elasticity relaxes firstperiod competition.
+We also find that
+
+x0 = 1 3N
+
+y0 =
+
+2 ,
+
+3N
+
+implying that one third of all consumers are served by their less preferred supplier in the second period. All consumers are served by their most preferred supplier in the first period.14 Firm i and j's discounted total equilibrium profits on neighbourhood ij look like
+
+i
+
+=
+
+j
+
+=
+
+t (9 + 8) 18N 2 .
+
+(1)
+
+This analysis leads to similar results as in Fudenberg and Tirole (2000). Remark, however, that our oligopoly framework allows for more than two firms. We should therefore consider whether firms cannot engage in profitable deviations by setting "supercompetitive prices" -- prices for which a firm captures all customers at both sides of the closest neigbouring brand -- as described in Salop (1979). Such a price discontinuously shifts the deviator's demand outwards. While in Salop's model such deviations are unprofitable, our two-period framework may render such a deviation worthwhile. The reasoning is that although a deviation in the first period results in lower first-period profits, it may substantially relax competition in the next period. It turns out that such a profitable deviation disappears (i) with sufficiently convex transportation costs as the discontinuous shift in the demand curve from setting a supercompetitive price no longer exists; (ii) when assuming that  is sufficiently low (i.e.  < 9/28);15 or (iii) when consumers
+14 The condition that all consumers buy in the first period is guaranteed when v  max [t/2N + t( + 3)/3N, 2t(2 + )/3N] . Otherwise, some consumers to the left of x0 and to the right of y0 would strategically refrain from purchasing in period 1. By doing so, they could benefit from the lowest second-period prices at the closest shop.
+15 To see this, start from the candidate equilibrium prices pi1 = pj1 = t( + 3)/3N . Given these prices, firm i can attract a first-period market share of 3/N by lowering its price with t/N and setting a first-period supercompetitive price equal to /3N. As a result, its first-period profits will equal t/N 2. Under the assumption that the nonadjacent firms do not adopt their pricing strategies, the second-period prices and market shares are t/N and
+
+11
+
+only consider to patronize the two closest shops, for example because it is too costly to observe prices from non-neigbouring firms. Remark that the duopoly setting of Fudenberg and Tirole (2000) implies that consumers can only choose between the two neighboring firms. Our analysis will concentrate on the competitive equilibrium resulting in Eq. (1) as this allows us to focus on free entry and to compare our results with opt out and anonymity.
+
+2.1.2 Free Entry
+
+We employ the results from the oligopoly case in order to study free entry. Recall that N firms simultaneously decide whether to enter or not, and that entry costs are (1 + )F . After entry has occurred, the firms play the two-period game as analyzed in the previous subsection. As prices with opt in decline from period 1 to period 2, additional entry in the second period of the game (at a cost F ) is unprofitable. Our free-entry equilibrium of the two-period model is therefore entry-proof in the second period.
+As firm i attracts consumers from its two nearby neighbourhoods, profits double those of Eq. (1). Each firm's discounted total variable profits with opt in equals
+
+Ii N
+
+=
+
+t (9 + 8) 9N 2 .
+
+The free-entry condition with opt in amounts to
+
+Ii N - (1 + ) F = 0.
+
+The equilibrium number of firms NIfN then becomes
+
+s
+
+NIfN =
+
+t(9 + 8) .
+9 (1 + ) F
+
+How to evaluate welfare with opt in? Welfare losses with opt in under free-entry become
+
+WIfN
+
+=
+
+Z 2NIfN t[
+
+1/2NIfN
+
+0s
+
+Z 1/3NIfN xdx+(
+0
+
+xdx+
+
+Z 1/2NIfN
+1/3NIfN
+
+(1/NIfN
+
+-
+
+x)dx)]
+
++
+
+NIfN
+
+(1
+
++
+
+) F
+
+(45 + 43) tF (1 + )
+
+=
+
+.
+
+12
+
+(9 + 8)
+
+1/N, respectively, as its adjacent firms will not have served any consumers in the first period. Its discounted profits, then, are 2t/N 2. This expression is larger then Eq. (1) whenever  > 9/28. Remark that when the nonadjacent firms also would adjust their prices, they would have incentives to become more aggressive. Therefore the condition  < 9/28 is a sufficient condition but not a necessary condition.
+
+12
+
+The first term in between square brackets reflects the first-period transportation costs: consumers visit their most preferred supplier. The second term captures the discounted secondperiod transportation costs. In the second-period some inefficient allocation takes place: consumers in the middle of each neighborhood visit a "more distant" firm to take advantage of the more attractive second-period price. The third term reflects total entry costs.
+2.1.3 Social Planner
+
+How many firms will a social planner allow? And what are the associated welfare losses? Suppose that the social planner controls the (maximum) number of firms entering the market but cannot control their oligopolistic behavior once they have entered. It follows that firms will implement "purchase-history based price discrimination", since it is dominant for firms to price discriminate in period two. Entry still implies a social cost (1 + ) F . The welfare losses WIN to be minimized by the social planner are
+
+Z 1/2n
+
+Z 1/3n
+
+Z 1/2n
+
+WIN = 2nt[
+
+xdx+(
+
+xdx+
+
+(1/n - x)dx)] + n (1 + ) F,
+
+0
+
+0
+
+1/3n
+
+with n the number of firms to be determined by the social planner. In a similar fashion as with
+
+free entry, the first term in between square brackets reflects the first-period transportation costs.
+
+The second term captures the discounted second-period transportation costs. Minimizing this
+
+expression yields the socially optimal number of firms with opt in nIN ,
+
+s
+
+nIN =
+
+t(9 + 11) .
+36 (1 + ) F
+
+This yields the following welfare losses
+
+r
+
+WIN =
+
+tF (11 + 9) (1 + ) .
+9
+
+Notice that excessive entry takes place as
+
+NIfN > nIN .
+
+That is the social planner restricts entry. We will discuss these results when comparing the different privacy regimes in Section 4.
+
+13
+
+2.2 Opt out
+The opt-out system gives a consumer the option to prohibit sharing of its non-public information. As in reality very few consumers do exercise this option, we model that consumers do not opt out. An explanation for this consumer behavior is that opting out may be too costly to do, consumers are unaware of this option, or may not find it beneficial to exercise the option. As a result, consumers make available non-public information through their past purchasing patterns at other firms. Consequently, customer information is available to third parties, and each firm, in our model at hand, obtains detailed information about consumers' brand preference before firstperiod competition takes place. In particular, we model that the available information reveals whether a consumer's location is "closer to its shop" or not. This assumption (i) maintains the essential characteristics of opt out as entrants have access to customer information, (ii) buys us an easy comparison with opt in, and (iii) allows us to analyze the symmetric outcome of a standard product differentiation model.16 Information on customer location allows firms to practice third-degree price discrimination already in the first-period between closeby consumers and others. This is optimal as nearby-located consumers have a "higher preference" for that firm whereas consumers show a lower preference for further away firms. While under opt out firms have access to a market for customer information, they additionally could compile customer information themselves. However, to highlight the differences we treat opt out as if firms rely on market based customer information only and opt in as if firms have no access to such a source. Before discussing competition in this setting it is important to remark that first-period and second-period competition are independent from each other. The reasoning is that firms use only exogenous available information in their pricing decisions. The first period market share does not affect second-period competition. Therefore, each period can be studied separately, and prices and market shares will be constant across the two periods.
+2.2.1 Oligopoly
+Assume that N firms enter the market. Firms are symmetrically located on the circle. As before, the distance between firms i and j in neigborhood ij equals 1/N . The informational environment is such that firms i and j know whether a consumer is located in between 0 and
+16 Bester and Petrakis (1996) make a similar assumption where local consumers can be distinguished from far away consumers. These two consumer groups can be charged different prices by geographical coupon targeting (see also Armstrong (2005)). For a strategic analysis on alternative degrees of identifiable customer segments, see Liu and Serfes (2004).
+14
+
+1/(2N ) or otherwise, and in between 1/(2N) and 1/N or otherwise, respectively. Firm i and
+
+j then will price discriminate between consumers located in its hinterland and those located further away. Denote by pij firm i's price offered to customers "located further away" (closer to
+
+firm j). Denote by x the position of the consumer in i's hinterland who is indifferent between
+
+closeby firm i and the further away firm j. Similarly, y is the position of the consumer in j's
+
+hinterland who is indifferent between the closeby firm j and the further away firm i. It should
+
+be clear that x  1/(2N ) and y  1/(2N ).
+
+The position of the customer x in i's hinterland indifferent between firm i and j is such that
+
+pii
+
++
+
+tx
+
+=
+
+pji
+
++
+
+1 t(
+N
+
+- x),
+
+where pii is the price charged in period  by firm i to a customer located in its hinterland. Similarly pji is the price charged in period  by firm j to a customer in firm i's hinterland. In
+a similar fashion, the position of customer y in j's hinterland indifferent between j and i equals
+
+pjj
+
+1 + t(
+N
+
+- y)
+
+=
+
+pjj
+
++ ty.
+
+Firm i maximizes its profits in the neighborhood ij during period 
+
+i (pii,
+
+pij )
+
+
+
+piix
+
++
+
+pij (y
+
+-
+
+1 2N
+
+).
+
+The (necessary and sufficient) first-order conditions are
+
+pii
+
+=
+
+0.5(pji
+
++
+
+t N
+
+)
+
+pij = 0.5(pjj)
+
+pjj
+
+=
+
+0.5(pij
+
++
+
+t N
+
+)
+
+pji = 0.5(pii).
+
+A symmetric solution implies
+
+pii
+
+=
+
+pjj
+
+=
+
+2t 3N
+
+pij
+
+=
+
+pji
+
+=
+
+t 3N
+
+.
+
+Firm i and j's equilibrium per period profits in neighbourhood ij look like
+
+i
+
+=
+
+j
+
+=
+
+5t 18N 2 .
+
+As market shares in all periods  are identical, total discounted profits per firm (net of fixed
+
+costs) in neighbourhood ij become
+
+15
+
+i
+
+=
+
+j
+
+=
+
+5t (1 + ) 18N 2 .
+
+2.2.2 Free Entry
+
+What happens with free entry? Taking into account that firms realize profits in two neighborhoods (i - 1i and ii + 1) and incur fixed entry costs, the per firm discounted profits become
+
+i
+
+=
+
+5t (1 + 9N 2
+
+)
+
+-
+
+(1
+
++
+
+) F.
+
+The free-entry equilibrium number of firms with opt out, NOf UT , becomes
+
+r
+
+NOf UT =
+
+5t .
+9F
+
+Discounted welfare losses WOfUT can be computed as the sum of (i) current and discounted
+
+"transportation" costs, and (ii) entry costs. Welfare losses then boil down to
+
+WOf UT
+
+=
+
+2 (1
+
++
+
+Z ) NOf UT t[
+
+1/3NOf UT
+
+0
+
+xdx+
+
+Z 1/2NOf UT
+1/3NOf UT
+
+(1/NOf U
+
+T
+
+-
+
+x)dx)]
+
++
+
+NOf UT
+
+(1
+
++
+
+) F
+
+31
+
+
+
+= (1 + ) 5tF .
+
+60
+
+The first term in between square brackets represents the customers "travelling" to the closest firm whereas the second term in those brackets captures the customers visiting a "less preferred" supplier (as they enjoy a lower price). The last term represents the entry costs.
+
+2.2.3 Social Planner
+
+What is the optimal number of firms from a social welfare point of view with opt out? Suppose that the social planner controls the (maximum) number of firms entering the market but cannot control their oligopolistic pricing behavior once they have entered. As it is a dominant strategy for firms to price discriminate between "close" and "distant" consumers, welfare losses WOUT to be minimized are
+
+Z 1/3n
+
+Z 1/2n
+
+WOUT = 2n (1 + ) t[
+
+xdx+
+
+(1/n - x)dx)] + nF (1 + ) .
+
+0
+
+1/3n
+
+Solving the first-order condition yields the optimal number of firms, nO UT , with
+
+r
+
+nO UT =
+
+11t .
+36F
+
+16
+
+Substituting nOUT into WOUT yields as welfare losses
+
+r
+
+WOUT = (1 + )
+
+11tF .
+9
+
+2.3 Anonymity
+
+The third system we consider is anonymity. With anonymity, firms do not have specific customer information, and are not allowed to store such information and use it in the second period. Therefore, firms need to resort to uniform pricing in both periods. It is clear that first and second period competition are not linked. The reasoning is that first-period market shares do not affect second-period competition. Therefore we can address first and second-period competition independent from each other.
+
+2.3.1 Oligopoly
+Assume that N firms entered the market before competition starts. Firms are symmetrically located on the circle. As before, the distance between firms i and j in neigborhood ij equals 1/N . As firms offer only one price, there is only one indifferent consumer located at a such that
+
+pi
+
++ ta
+
+=
+
+pj
+
+1 + t(
+N
+
+- a),
+
+where piand pj are the prices charged by firms i and j in period  , respectively.
+
+Firm i and j maximize their profits during period  in the neighborhood ij
+
+i (pi, pj)  pi a j (pj, pi)  pj (1 - a).
+
+The (necessary and sufficient) first-order conditions are
+
+pi
+
+=
+
+0.5(pj
+
++
+
+t N
+
+)
+
+pj
+
+=
+
+0.5(pi
+
++
+
+t N
+
+).
+
+A symmetric solution implies
+
+pi
+
+=
+
+pj
+
+=
+
+t .
+N
+
+The variable profits during period  on neighbourhood ij become
+
+i
+
+=
+
+j
+
+=
+
+t 2N 2 .
+
+17
+
+2.3.2 Free Entry
+
+The free entry number of firms with anonymity NAfN is determined by the following zero profit
+
+condition
+
+NAf N
+
+=
+
+(1
+
++ )
+
+t N2
+
+-
+
+(1
+
++ ) F
+
+=
+
+0.
+
+Recall that each firm obtains profits on two neighborhoods and in two periods. Firms also incur fixed entry costs. The free-entry equilibrim number of firms NAfN then becomes
+
+r
+
+NAf N =
+
+t .
+F
+
+Welfare losses with anonymity WAfN become
+
+WAf N
+
+=
+
+(1 + )
+
+t 4NAf N
+
++ NAf N
+
+(1 + ) F
+
+5
+
+
+
+= (1 + ) tF .
+
+4
+
+With anonymity, all consumers are served by their most preferred supplier. This is reflected in
+
+the
+
+first
+
+term of
+
+the
+
+welfare
+
+losses
+
+as
+
+the "average"
+
+consumer travels
+
+1 4NAf N
+
+.
+
+The
+
+second
+
+term
+
+represents the fixed entry costs.
+
+2.3.3 Social Planner
+
+With anonymity, a social planner minimizes the following welfare losses
+
+WAN
+
+=
+
+(1 +
+
+)
+
+t 4n
+
++
+
+n (1
+
++
+
+) F.
+
+Minimization yields nAN the socially optimal number of firms
+
+r
+
+nAN =
+
+t .
+4F
+
+Plugging this nA N into the welfare losses yields 
+WAN = (1 + ) F t.
+
+18
+
+3 A Welfare Comparison of Privacy Regimes
+
+This section compares the results of the three different privacy regimes analyzed in the previous section. We first discuss to what extent the different privacy regimes result in excessive entry. Next we discuss whether less excessive entry always leads to higher welfare. To do so we provide a welfare comparison for free entry and the social planner. Finally, we report to what extent the oligopoly findings align with those under free entry. The proofs of the Propositions directly follow from comparing the findings in Section 2 and are omitted.
+The analysis of the welfare losses for the three different privacy regimes under free entry and the social planner yields the first result:
+Proposition 1: All privacy regimes result in excessive entry. The amount of excessive entry increases unambiguously in the degree of privacy protection. Formally, we find that
+
+NAf N > NIfN > NOf UT > nOUT > nIN > nAN .
+
+Not surprisingly the anonymity regime yields excessive entry as it coincides with Salop (1979); hence NAfN > nA N . The other two privacy regimes allow for price discrimination and lead to "all-out" competition in prices (see Corts (1998)). Under both regimes firms suffer from
+
+decreased profits and this dampens the excessive entry problem. More specifically, under the
+
+opt out regime, "all-out" competition occurs in both periods. With opt in, although first-period
+
+prices outweigh the prices of the anonymity regime, second-period prices are sufficiently low to result in overall "all-out" competition. Consequently, the discounted price P f an average
+
+consumer pays ranks as
+
+P
+
+f AN
+
+>
+
+P
+
+f IN
+
+>
+
+P
+
+f OU
+
+T
+
+for the three different regimes. This explains the free-entry ordering NAf N > NIfN > NOf UT . The degree of privacy protection also determines the socially optimal number of firms. The
+
+opt in regime results in inefficient allocation of consumers in the second period as some consumers
+
+choose a more distant supplier. The social planner optimally corrects for this consumer behavior
+
+by increasing the number of firms as this reduces the cost of inefficient allocation. Under the opt out regime this inefficient allocation occurs in both periods. This explains nO UT > nIN > nA N . This shows that the degree of excessive entry increases unambiguously in the degree of privacy
+
+protection. Finally, remark that lowering the degree of privacy protection only mitigates the
+
+excessive entry problem but not does not make it disappear. This result further corroborates
+
+19
+
+the findings of Norman and Thisse (1996) and Bhaskar and To (2004) who also study the effect of price discrimination on the free entry number of firms.17
+Proposition 2: Privacy protection matters for social welfare. The free entry analysis shows that social welfare is non-monotonic in the degree of privacy protection. Opt out is the preferred privacy regime while opt in underperforms the anonymity regime. The social planner unambiguously prefers more privacy protection. Formally, we find that welfare losses rank as
+WIfN > WAfN > WOf UT > WOUT > WIN > WAN .
+The different privacy regimes influence social welfare as they determine the number of entrants and the degree of efficient consumer allocation. The free-entry analysis reveals that opt-out socially outperforms anonymity. This insight stems from the following trade-off. On the one hand, some consumers prefer to purchase from a more distant supplier. This inefficient allocation does not occur in the anonymity regime where all consumers patronize the closest shop, lowering social welfare. On the other hand, a significant lower number of firms enters with opt out as has been shown in Proposition 1, improving social welfare. The analysis shows that the second effect dominates the first effect. Thus, although some consumers are not served by their most preferred supplier, opt out sufficiently mitigates excessive entry to enhance total welfare.
+In contrast, opt in reduces total welfare relative to anonymity. Two opposing effects explain this finding. Opt in results in somewhat less excessive entry as opposed to anonymity. While this is certainly to the benefit of social welfare, its magnitude is insufficient to outweigh the inefficient allocation of consumers in the second period. The overall effect is that opt in is social welfare reducing. This illustrates that opt in is not a convex combination of the anonymity and opt out regimes. Under opt in, firms strategically adopt an intertemporal pricing scheme where first-period prices are higher than under anonymity and second-period prices lower than under opt out. Thus, welfare changes in a non-monotonic way with the degree of privacy protection. Under free entry, moving from the highest degree of privacy protection (anonymity) towards an intermediate level of privacy protection (opt in) is socially harmful. However, the lowest degree of privacy protection (opt out) is welfare improving as compared to anonymity. Policymakers should, therefore, be in favor of a market for customer information.
+Finally, when the social planner can control the number of firms as well as the degree of
+17 In a somewhat different model where consumers can be sorted according to their willingness to pay, Borenstein (1985) predicts that the number of firms in a free entry model increase with price discrimination. Similarly, Holmes (1989) finds that when firms' best-responses are symmetric, profits will increase with third-degree price discrimination.
+20
+
+privacy protection, it should favor the highest degree of privacy protection through anonymity as this generates efficient consumer allocation.
+Corollary: The degree of excessive entry is not a sufficient statistic to make welfare judgments. Proposition 1 reveals that under opt in and opt out the equilibrium number of firms is less excessive compared to anonymity. Proposition 2 shows that welfare with opt out socially outperforms anonymity. However, opt in socially underperforms compared to anonymity. Therefore, welfare does not always increase when the degree of excess entry diminishes. Proposition 3: The welfare rankings of the privacy regimes may differ between oligopoly and free entry.
+From Proposition 2 we know that welfare changes non-monotonically in the degree of privacy protection. In contrast, social welfare increases unambiguously with privacy protection in oligopoly. The reasoning is that more privacy protection increases the efficiency of consumer allocation. The opt out regime nicely illustrates how the welfare conclusions between free entry and oligopoly can oppose each other. While opt out is clearly the most preferred privacy regime under free entry, the welfare analysis under oligopoly shows the opposite result. Obviously, this result stems from the fact that oligopoly analysis takes the number of firms as fixed whereas with free entry the number of firms takes part of the analysis and becomes endogenously determined.
+Our analysis so far assumes that consumers find it too costly to opt in or to opt out. However, it may be true that in certain industries some consumers experience low or zero costs to exercise their option. We now investigate what happens when consumers would face zero costs. To address this question, we assume that information on whether a consumer's location is closer to a particular firm or not is already available to firms before first-period competition takes place. Consider first the opt-out privacy regime. A consumer who opts out prevents that information about him is used by firms in setting prices. In our model, consumers have no incentive to opt out even with a zero exercising cost. The reasoning is that by opting out, the consumer becomes anonymous wherefrom the firm will charge him a higher first-period price. In contrast, with opt in and a zero exercising cost, all consumers have an incentive to exercise their option. The reasoning is that consumers benefit from all-out competition in the first period by opting in. Suppose now that there would be a small cost in exercising the option. Opting out now becomes even more uninteresting as the customer would face a price increase and a cost of opting out. Consumers deciding to opt in, in contrast, have to balance the cost of opting in against the higher first-period price when not opting in. As long as the cost of exercising the option is
+21
+
+sufficiently low, consumers will not opt in. The following Proposition, therefore, summarizes the findings when consumers can costlessly exercise the option to opt in or to opt out.
+Proposition 4: Consumers will only opt in when the cost of exercising the option is sufficiently low. Consumers will never want to use their option to opt out.
+4 Concluding Remarks
+In this paper we study how the degree of privacy protection influences social welfare. We investigate this question employing a two-period address model where firms' consumer information hinges on the privacy system. The access to and flow of consumer information is differently regulated around the world and across industries. In the US, for example, the 1999 GrammLeach-Bliley Act determines a financial institution's obligation regarding the disclosure of personal information. Institutions can share non-public personal information but must provide a consumer the possibility to opt out. The European Union Data Protection Directive of 1995 emphasizes the "opt-in" model. Opt in permits use of personal information within the organization but requires the consumer's consent before personal information could be disclosed to third parties.
+We find that the different privacy regimes shape social welfare differently. In particular, a privacy regime influences the number of entrants and the degree of efficient consumer allocation. Our free-entry analysis shows that social welfare is non-monotonic in the degree of privacy protection. Opt out is the socially preferred privacy regime. Anonymity outperforms opt in. Although the opt-out regime induces inefficient consumer allocation -- some consumers choose a more distant supplier-- opt out leads to "all-out" competition compared to anonymity greatly reducing excessive entry. In contrast, opt in reduces total welfare relative to anonymity. Opt in implies inefficient allocation of consumers in the second period. This inefficiency is not outweighed by the somewhat less excessive entry as opposed to anonymity. This result stems from firms strategically adopting an intertemporal pricing scheme; first-period prices are higher with opt in than with anonymity due to a lower demand elasticity, whereas second-period prices are lower than under anonymity. Thus, welfare changes in a non-monotonic way with the degree of privacy protection. Putting some restrictions on privacy by only allowing for opt in, is socially more harmful than imposing complete anonymity. However, the lowest degree of privacy protection (opt out) maximizes social welfare. Policymakers should, therefore, be in favor of a market for customer information.
+22
+
+Our free-entry analysis delivers also two other results. First, the degree of excess entry is not a sufficient statistic to draw welfare conclusions. Social welfare is lower with opt in although the excess entry is mitigated when comparing to anonymity. Competition policy therefore needs to address more than market structure only. Second, welfare results may substantially differ between oligopoly and free entry. To illustrate this point, while it is clear that oligopoly results in inefficient consumer allocation when considering opt out, our free entry analysis reverses this result as "all-out" competition substantially reduces excess entry.
+Finally, we have limited our notion of privacy to Posner's (1981) "concealment of information". Obviously, the other definitions of "peace and quiet" and "freedom and autonomy" referred to by Posner could be incorporated by introducing a value for privacy into consumers' utility functions. Our contribution, however, shows that in a model of localized competition, consumers may benefit from lower prices. Eventually, policy makers will have to trade off lower prices for consumers with the value society attaches to "peace and quiet" and "freedom and autonomy".
+5 References
+Acquisti, A., and H. Varian, 2004, Conditioning prices on purchase history, forthcoming in Marketing Science.
+Armstrong, M., 2005, Recent developments in the economics of price discrimination, mimeo. Bester, H. and E. Petrakis, 1996, Coupons and oligopolistic price discrimination, International Journal of Industrial Organization, 14, 227-242. Bhaskar V. and T. To, Is perfect price discrimination really efficient? An analysis of free entry, RAND Journal of Economics, 35,4, 762-776. Borenstein, S., 1985, Price discrimination in free-entry markets, RAND Journal of Economics, 16, 3, Autumn, 380-397. Calzolari, G. and A. Pavan, 2005, On the optimality of privacy in sequential contracting, forthcoming in Journal of Economic Theory. Corts, K.S., 1998, Third-degree price discrimination in oligopoly: All-out competition and strategic commitment, RAND Journal of Economics, Vol. 29, 2, Summer, 306-323. Fudenberg, D. and J. Tirole, 2000, Customer poaching and brand switching, RAND Journal of Economics, Vol. 31, 4, Winter, 634-657. Fudenberg, D. and J. M. Villas-Boas, 2005, Behavior-based price discrimination and cus-
+23
+
+tomer recognition, mimeo. Hirshleifer, J., 1980, Privacy, its origin, function, and future, Journal of Legal Studies, 9,
+649-666. Hui, K.-L., and I. Png, 2006, The economics of privacy, forthcoming in Handbook of Infor-
+mation Systems and Economics, ed. Terry Hendershott. Lacker, J., 2002, The economics of financial privacy: To opt out or opt in?, Economic
+Quarterly, 88, 3, 1-16. Liu, Qihong, and Konstantinos Serfes, 2004, Quality of information and oligopolistic price
+discrimination, Journal of Economics & Management Strategy, December, 13, 4, 671-702. Miller, M.J., 2003, Credit Reporting Systems and the International Economy, MIT Press. Posner, R., 1981, The economics of privacy, American Economic Review, Papers and Pro-
+ceedings, 71, 2, 405-409. Salop, S. C., 1979, Monopolistic competition with outside goods, Bell Journal of Economics,
+10, 141-156. Staten, M. E. and F. H. Cate, 2003, The impact of opt-in privacy rules on retail credit
+markets: A case study of MBNA, Duke Law Journal, 52, 745-... Stigler, G., 1980, An introduction to privacy in economics and politics, Journal of Legal
+Studies, 9, 623-644. Stole, L., 2003, Price discrimination in competitive environments, forthcoming in Handbook
+of Industrial Organization, mimeo. Taylor, C., 2004, Consumer privacy and the market for customer information, RAND Journal
+of Economics, 35, 4, 631-650. Villas-Boas, J.M., 1999, Dynamic competition with customer recognition, RAND Journal of
+Economics, 30, 604-631.
+24
+
+

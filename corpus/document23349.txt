@@ -1,0 +1,630 @@
+NOTICE OF PRIVACY PRACTICES of the
+UNIVERSITY OF NORTH CAROLINA HEALTH CARE SYSTEM AFFILIATED COVERED ENTITY, ORGANIZED HEALTH CARE ARRANGEMENT, AND
+OTHER AFFILIATES
+THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+
+Original effective date: March 10, 2003 This version is effective: July 1, 2015
+
+WHO FOLLOWS THIS NOTICE
+The following members and affiliates of the University of North Carolina Health Care System ("UNCHCS") (referred to herein individually as an "entity" and collectively as "entities"), and the individual health care providers who provide health care to you at the entities' locations, follow the privacy practices described in this Notice:
+UNCHCS AFFILIATED COVERED ENTITY & ORGANIZED HEALTH CARE ARRANGEMENT MEMBERS:
+UNC HOSPITALS THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL, SCHOOL OF MEDICINE
+UNC PHYSICIANS NETWORK, LLC UNC PHYSICIANS NETWORK GROUP PRACTICES, LLC
+REX HOSPITAL, INC. CHATHAM HOSPITAL, INCORPORATED CALDWELL MEMORIAL HOSPITAL, INCORPORATED
+HIGH POINT REGIONAL HEALTH REGIONAL PHYSICIANS, LLC
+PREMIER SURGERY CENTER, LLC
+
+OTHER UNCHCS AFFILIATES:
+
+HENDERSON COUNTY HOSPITAL CORPORATION D/B/A MARGARET R. PARDEE MEMORIAL HOSPITAL JOHNSTON HEALTH SERVICES CORPORATION D/B/A JOHNSTON HEALTH NASH HOSPITALS, INC. NASH MSO, INC. NHCS PHYSICIANS, INC.
+
+When physicians, nurses, and other individuals who are not employed by any entity provide health care to you at the entity's locations, they are part of the entity's Organized Health Care Arrangement and abide by this Notice. The entities and individuals are individually and collectively referred to in this Notice as the "UNC Health Care System" or "we."
+
+Version 06
+
+Page 1 of 14
+
+Members of an Organized Health Care Arrangement may share protected health information about you with each other for the treatment, payment or health care operations purposes of the Organized Health Care Arrangement, as described in this Notice.
+
+A. OUR DUTIES TO PROTECT YOUR HEALTH INFORMATION
+
+We are required by law to maintain the privacy of your protected health information, to provide you with notice of our legal duties and privacy practices with respect to protected health information, and to notify affected individuals following a breach of unsecured protected health information. Protected health information ("PHI") includes information that we collect about your past, present, or future health, health care we provide to you, and payment for your health care.
+
+We are also required to abide by the terms of this Notice, which is the Notice currently in effect. We reserve the right to change the terms of this Notice and to make the new notice provisions effective for all PHI that we maintain. If we change this Notice, we will provide you with a revised notice by:
+
+·
+
+Posting the revised notice in our service locations (hospitals, clinics, nursing homes,
+
+etc.);
+
+·
+
+Making copies of the revised notice available upon request (either at our service
+
+locations or through the contact person listed in this notice); and
+
+·
+
+Posting the revised notice on our website, www.unchealthcare.org.
+
+B. HOW WE MAY USE AND DISCLOSE YOUR PROTECTED HEALTH INFORMATION
+
+Federal law requires us to protect the privacy of your PHI. In addition, North Carolina law protects not only your rights of privacy, but also your relationship with your physician and, if applicable, your mental health provider. State law restricts the disclosure of your health information (and that of your physician or mental health provider) in many instances. However, we may disclose your health information under State and Federal law: for treatment, payment and health care operations; with your permission; pursuant to a court order; or as otherwise may be permitted or required by law. We will request that you sign a "General Consent for Treatment" form which asks for your permission to provide treatment to you and provides other information and consents. This "General Consent for Treatment" also asks for you to sign a statement confirming that you have received a copy of this Notice and is different from an "authorization" that is mentioned in other parts of this Notice.
+
+1. North Carolina state law and Federal law allow us to use and disclose your PHI for the purposes of providing treatment to you, obtaining payment for those services, and for health care operations. These purposes are described below.
+
+Treatment: We need to use and disclose your PHI to provide, coordinate or manage your health care and related services. This may include communicating with other health care providers regarding your treatment and coordinating and managing your health care with others.
+
+Version 06
+
+Page 2 of 14
+
+For example, we need to use and disclose your PHI, both inside and outside our system, when you need a prescription, lab work, an x-ray, or other health care services. In addition, we need to use and disclose your PHI when referring you to another health care provider.
+
+EXAMPLE: A doctor treating you for a broken leg may need to know if you have diabetes because diabetes may slow the healing process. In addition, the doctor may need to tell the dietitian if you have diabetes so that we can arrange for appropriate meals. Departments of the hospital and/or physicians may also need to share PHI about you, both inside and outside our system, in order to coordinate different services you may need, such as prescriptions, lab work and x-rays. We may also need to disclose PHI about you to people outside the hospital who may be involved in your medical care after you leave the hospital, such as home health providers or others who may provide services that are part of your care.
+
+Payment: Generally, we need to use and give your PHI to others to bill and collect payment for the treatment and services provided to you. Before you receive scheduled services, we may need to share information about these services with your health plan(s). Sharing information allows us to ask for coverage under your health plan or policy and for approval of payment before we provide the services. We may also need to share portions of medical information about you with the following:
+
+·
+
+Billing departments;
+
+·
+
+Collection departments or agencies, or attorneys assisting us with collections, including
+
+the State of North Carolina Office of the Attorney General;
+
+·
+
+Insurance companies, health plans and their agents which may be responsible for
+
+payment of your health care bills;
+
+·
+
+Hospital departments that review the care you received to check that it and the costs
+
+associated with it were appropriate for your illness or injury;
+
+·
+
+Consumer reporting agencies (e.g., credit bureaus); and
+
+·
+
+Others who are responsible for your bills, such as your spouse or a guarantor of your
+
+bills, as necessary for us to collect payment.
+
+EXAMPLE: Let's say you have a broken leg. We may need to give your health plan(s) information about your condition, supplies used (such as plaster for your cast or crutches), and services you received (such as x-rays or surgery). The information is given to our billing department and your health plan so we can be paid or you can be reimbursed. We may also need to send the same information to an internal department that reviews our care of your illness or injury.
+
+If you have provided a cellular telephone number to us, we may use that number to contact you regarding billing and collections, unless you tell us otherwise.
+
+Version 06
+
+Page 3 of 14
+
+Health Care Operations: We need to use and disclose your PHI in performing business activities, which we call "health care operations". These "health care operations" allow us to improve the quality of care we provide and reduce health care costs. We may use your PHI for our own "health care operations" and those of the Organized Health Care Arrangement in which we participate. In addition, we may need to disclose your PHI for the "health care operations" of other providers involved in your care to improve the quality, efficiency and costs of their care or to evaluate and improve the performance of their providers. We may also dispose of, examine, or use surplus or excess samples of your blood, urine, other bodily fluids or tissue that are of no further value for your care and treatment (collectively, "surplus specimens") and your related PHI for "health care operations" and research, consistent with this Notice. Examples of the way we may need to use or disclose your PHI and surplus specimens for "health care operations" include the following:
+
+·
+
+Reviewing and improving the quality, efficiency and cost of care that we provide to you
+
+and our other patients. For example, we may need to use your PHI to develop ways to
+
+assist our health care providers and staff in deciding what medical treatment should be
+
+provided to others.
+
+·
+
+Improving health care and lowering costs for groups of people who have similar health
+
+problems and to help manage and coordinate the care for these groups of people. We
+
+may need to use PHI to identify groups of people with similar health problems to give
+
+them information, for instance, about treatment alternatives, classes, or new procedures.
+
+·
+
+Reviewing and evaluating the skills, qualifications, and performance of health care
+
+providers taking care of you.
+
+·
+
+Providing training programs for students, trainees, health care providers or non-health
+
+care professionals (for example, billing clerks or assistants, etc.) to help them practice or
+
+improve their skills.
+
+·
+
+Cooperating with outside organizations that assess the quality of the care we and others
+
+provide. These organizations might include government agencies or accrediting bodies
+
+such as The Joint Commission.
+
+·
+
+Cooperating with outside organizations that evaluate, certify or license health care
+
+providers, staff or facilities in a particular field or specialty. For example, we may need to
+
+use or disclose PHI so that one of our nurses may become certified as having expertise
+
+in a specific field of nursing, such as pediatric nursing, or to organizations which accredit
+
+our special programs such as our cancer or trauma programs.
+
+·
+
+Assisting various people who review our activities. For example, your PHI may be seen
+
+by doctors reviewing the services provided to you, and by accountants, lawyers, and
+
+others who assist us in complying with applicable laws.
+
+·
+
+Planning for our organization's future operations, and fundraising for the benefit of our
+
+organization.
+
+Version 06
+
+Page 4 of 14
+
+·
+
+Conducting business management and general administrative activities related to our
+
+organization and the services it provides, such as activities performed by Risk
+
+Management and the Legal Department.
+
+·
+
+Resolving grievances within our organization.
+
+·
+
+Reviewing activities and using or disclosing PHI in the event that we sell our business,
+
+property or give control of our business or property to someone else.
+
+·
+
+Complying with this Notice and with applicable laws.
+
+Business Associates: There are some services we provide through contracts with outside individuals or companies, such as, offsite storage facilities, record copy services, and liability insurance carriers. We may disclose your PHI to these contractors so that they can perform the services we have asked them to perform. These contractors are called "business associates." In order to protect your PHI, "business associates" are required by law to provide appropriate safeguards and procedures for the privacy and security of PHI entrusted to them under the contract.
+
+Fundraising Activities: We may use and/or disclose certain PHI about you, including disclosure to one of our foundations, to contact you to raise money for our services and operations. Information we may use or release for this purpose includes your treating provider(s), department(s) of service, outcome(s) information related to treatment or services you received from us, insurance status, and demographic information (including addresses, contact information, age, date of birth, and gender), as well as the dates you received treatment or services from us. You have the right to opt out of receiving these communications. If you do not want us to use your PHI to contact you for fundraising efforts, please call the number or write to the address listed on the last page of this Notice. Additionally, every fundraising communication from us to you (where we've used your PHI to target the communication) will provide you with an opportunity and means to opt out of receiving fundraising communications in the future.
+
+2. We may use and disclose your PHI under other circumstances without your authorization or an opportunity to agree or object.
+
+We may use and/or disclose your PHI for a number of circumstances in which you do not have to consent, give authorization or otherwise have an opportunity to agree or object. However, some North Carolina laws regarding specific types of treatment may provide you with more protection, and those special protections are discussed in subsection B.4 below. The circumstances in which you do not have to consent, give authorization or otherwise have an opportunity to agree or object include:
+
+·
+
+When the use and/or disclosure is required by law. For example, when a disclosure is
+
+required by federal, state or local law or other judicial or administrative proceeding.
+
+·
+
+When the use and/or disclosure is necessary for public health activities. For example,
+
+we may disclose your PHI if you have been exposed to a communicable disease or may
+
+Version 06
+
+Page 5 of 14
+
+otherwise be at risk of contracting or spreading a disease or condition (subject to the special restrictions discussed in subsection B.4 below). This includes lifetime reporting to the North Carolina Cancer Registry information about cancer patients that we treat.
+
+·
+
+When the disclosure relates to victims of abuse, neglect or domestic violence.
+
+·
+
+When the use and/or disclosure is for health oversight activities. For example, we may
+
+disclose your PHI to a state or federal health oversight agency, such as the North
+
+Carolina Division of Health Service Regulation, which is authorized by law to oversee
+
+our operations (subject to the special restrictions discussed in subsection B.4 below).
+
+·
+
+When the disclosure is for judicial and administrative proceedings. For example, we may
+
+disclose your PHI in response to an order of a court or administrative tribunal.
+
+·
+
+When the disclosure is for law enforcement purposes. For example, we may disclose
+
+your PHI in order to comply with laws that require the reporting of certain types of
+
+wounds or other physical injuries.
+
+·
+
+When the use and/or disclosure relates to decedents. For example, we may disclose
+
+your PHI to a coroner or medical examiner for the purposes of identifying you should you
+
+die.
+
+·
+
+When the use and/or disclosure is made for the purpose of facilitating organ, eye or
+
+tissue donation and transplantation.
+
+·
+
+When the use and/or disclosure relates to research. We may disclose your PHI, and
+
+surplus specimens, for research that is approved by a research review committee and
+
+for which your written consent is not required by law. We may also review your PHI to
+
+determine if you are eligible to participate in a research study or to allow a researcher to
+
+contact you to determine if you are interested in participating in a research study.
+
+·
+
+When the use and/or disclosure is to protect against a serious threat to health or safety.
+
+For example, we may disclose your PHI to prevent or lessen a serious and imminent
+
+threat to the health or safety of a person or the public.
+
+·
+
+When the use and/or disclosure relates to specialized government functions. For
+
+example, we may disclose your PHI if it relates to military and veterans' activities,
+
+national security and intelligence activities, protective services for the President, and
+
+medical suitability or determinations of the Department of State.
+
+·
+
+When the use and/or disclosure relates to correctional institutions and other law
+
+enforcement custodial situations. For example, in certain circumstances, we may
+
+disclose your PHI to a correctional institution having lawful custody of you.
+
+·
+
+When the use and/or disclosure is required under North Carolina's laws regarding
+
+workers' compensation. For example, in certain circumstances, we may disclose your
+
+Version 06
+
+Page 6 of 14
+
+PHI regarding a work-related injury or illness to your employer and your employer's workers' compensation carrier.
+
+3. You can object to certain uses and disclosures.
+
+Unless you object, we may use or disclose your PHI in the following circumstances (subject to the special restrictions discussed in subsection B.4 below):
+
+·
+
+We may share your location in the facility and your general condition (critical, serious,
+
+etc.) in our patient listing with people who ask for you by name. In addition, this
+
+information, including religious affiliation, is included on a clergy list and will be shared
+
+with community clergy (not employed by UNC Health Care System) when requested.
+
+·
+
+We may share with a family member, relative, friend or other person identified by you,
+
+PHI directly related to that person's involvement in your care or payment for your care.
+
+We may share with a family member, authorized representative or other person
+
+responsible for your care PHI necessary to notify such individuals of your location,
+
+general condition or death.
+
+·
+
+We may share with a public or private agency (for example, American Red Cross) your
+
+PHI for disaster relief purposes. Even if you object, we may still share the PHI if
+
+necessary for the emergency circumstances.
+
+If you would like to object to our use or disclosure of your PHI in the above circumstances, please call our contact person listed on the cover page of this Notice.
+
+4. We may use and disclose your PHI in some circumstances only with your authorization.
+
+In the event we may seek to use or disclose your PHI for marketing purposes, or sell any of your PHI, we will only do so after obtaining your authorization. We will also obtain your authorization before we use or disclose psychotherapy notes made by your mental health provider during a counseling session, except when we use or disclose them for certain limited treatment, payment, and health care operations purposes; government oversight; or to protect the life or health of any person. For any other use and/or disclosure of your PHI not otherwise described in this Notice of Privacy Practices, we will seek your authorization.
+
+If you authorize us to use or disclose your PHI, you may revoke that authorization, in writing, at any time. If you revoke your authorization, we will no longer use or disclose your PHI for the purpose(s) covered by your written authorization. However, we cannot take back any disclosures already made pursuant to a valid authorization.
+
+5. You may have additional rights under other laws.
+
+Some North Carolina laws provide you with more protection for specific types of information than federal laws protecting the privacy of your PHI, and where applicable, we will follow the
+
+Version 06
+
+Page 7 of 14
+
+requirements of those North Carolina laws. Some of those laws are discussed in other sections above. In addition, the following laws may apply to our treatment of you:
+
+·
+
+If you have one of several specific communicable diseases (for example, tuberculosis,
+
+syphilis or HIV/AIDS), information about your disease will be treated as confidential, and
+
+will be disclosed without your written permission only in limited circumstances. We may
+
+not need to obtain your permission to report information about your communicable
+
+disease to State and local officials or to otherwise use or release information in order to
+
+protect against the spread of the disease.
+
+·
+
+Under North Carolina law, our pharmacy will only disclose or provide a copy of your
+
+prescription orders to:
+
+ you, your guardian, or, if you are a minor, your parent, guardian or someone legally acting in the place of your parent; or to you, if you are a minor and have consented to the treatment of the condition for which the prescription was issued;
+
+ the provider who issued the prescription or who is treating you;
+
+ a pharmacist who is providing pharmacy services to you;
+
+ a person whom you or your authorized representative have identified in a signed, written authorization as being authorized to receive a copy of the orders;
+
+ a person authorized by subpoena, court order or statute;
+
+ a company which, by law or contract, is responsible for providing or paying for medical care for you;
+
+ a member or designated employee of the Board of Pharmacy;
+
+ your executor, administrator or spouse, if you are deceased;
+
+ Board of Pharmacy-approved researchers, if there are adequate safeguards to protect the confidentiality of the information; or
+
+ the person who owns the pharmacy or his authorized agent.
+
+·
+
+We may also release information about you if we reasonably believe that the release is
+
+necessary to protect the life or health of any person.
+
+·
+
+North Carolina law generally requires that we obtain your written consent before we may
+
+disclose health information related to your mental health, developmental disabilities, or
+
+substance abuse services. There are some exceptions to this requirement. We can
+
+disclose this health information to members of our workforce, our professional advisors,
+
+and to agencies or individuals that oversee our operations or that help us carry out our
+
+responsibilities in serving you. We also may disclose information to the following people:
+
+Version 06
+
+Page 8 of 14
+
+(i) a health care provider who is providing emergency medical services to you and (ii) other mental health, developmental disabilities, and substance abuse facilities or professionals when necessary to coordinate your care or treatment. We may also share information about your mental health, developmental disabilities, or substance abuse services with your other health care providers outside of the UNCHCS in order to coordinate your care and treatment or to conduct quality assessment and improvement activities, unless you object in writing. You may make your written objection by following the procedures outlined in subsection C.1 below to request a restriction on how we use your PHI, including mental health information. If we determine that there is an imminent threat to your health or safety, or the health or safety of someone else, we may disclose information about you to prevent or lessen the threat. We also will release information about you if the law requires us to do so, for example, when a court orders disclosure, when we suspect abuse or neglect of a child or disabled adult, or when one of our physicians believes that a client has a communicable disease or is infected with HIV and is not following safety measures. If we believe it is in your best interests, we may disclose information about you for a guardianship or involuntary commitment proceeding that involves you. When you are admitted to or discharged from a mental health, developmental disabilities, or substance abuse facility, we may disclose that fact to your next of kin if we believe the disclosure is in your best interests, but only if you do not object. If you have a next of kin who is substantially involved in your care, upon his or her request we are required to provide this kin with information relating to your admission or discharge from a facility, including the identity of the facility, any decision on your part to leave a facility against medical advice, and referrals and appointment information for treatment after discharge after we notify you that this information was requested.
+
+·
+
+Federal law requires that we obtain your written consent before we may disclose certain
+
+information that would identify you as a substance abuser or a patient of substance
+
+abuse services if you apply for or receive substance abuse services from any of the
+
+following: a provider (other than a general medical care facility) that holds itself out as
+
+providing, and provides, alcohol or drug abuse diagnosis, treatment or referral for
+
+treatment; an identified unit within a general medical care facility that holds itself out as
+
+providing, and provides, alcohol or drug abuse diagnosis, treatment or referral for
+
+treatment; or personnel or staff within a general medical care facility whose primary
+
+function is the provision of alcohol or drug abuse diagnosis, treatment or referral for
+
+treatment and who are identified as such providers. There are some exceptions to this
+
+requirement. We may disclose this information within our program to members of our
+
+workforce as needed to coordinate your care and to agencies or individuals that help us
+
+carry out our responsibilities in serving you. We may disclose this information to medical
+
+personnel in a medical emergency. We may disclose this information to qualified
+
+personnel for research, audit, or program evaluation. If we suspect that a child is
+
+abused or neglected, state law requires us to report the abuse or neglect to the
+
+Department of Social Services, and we may disclose substance abuse treatment
+
+information when making the report. We will disclose substance abuse treatment
+
+information about you if a court orders us to do so. If you commit a crime or threaten to
+
+Version 06
+
+Page 9 of 14
+
+commit a crime on the premises of our program or against our program personnel, we may report information about the crime or threat to law enforcement officers and we may disclose substance abuse treatment information when making the report. Under state law, if you request treatment and rehabilitation for drug dependence from one of our practitioners, your request will be treated as confidential. We will not disclose your name to any police officer or other law enforcement officer unless you consent to our sharing of it. Even if we refer you to another person for treatment and rehabilitation, we will continue to keep your name confidential.
+
+·
+
+Certain professional licensing rules and ethical standards may provide more protection
+
+for health information, and where applicable, we will follow those rules and standards.
+
+6. Special Provisions for minors under North Carolina Law.
+
+Under North Carolina law, minors, with or without the consent of a parent or guardian, have the right to consent to services for the prevention, diagnosis and treatment of certain illnesses including: venereal disease and other diseases that must be reported to the State of North Carolina; pregnancy; abuse of controlled substances or alcohol; and emotional disturbance. If you are a minor and you consent to one of these services, you have all the authority and rights included in this Notice relating to that service. Regarding abortion services, however, North Carolina law requires the consent of both the minor and a parent with custody or with whom the minor is living, a legal guardian or custodian, or a grandparent with whom the minor has been living for at least six (6) months, unless a court has determined that the minor alone can consent to the abortion. In addition, the law permits certain minors to be treated as adults for all purposes. These minors have all rights and authority included in this Notice for all services.
+
+7. We may contact you to provide appointment reminders.
+
+We may use and/or disclose PHI to contact you to provide a reminder to you about an appointment you have for treatment or medical care.
+
+8. We may contact you with information about treatment, services, products or health care providers.
+
+We may use and/or disclose PHI to manage or coordinate your health care. This may include telling you about treatments, services, products and/or other health care providers.
+
+EXAMPLE: If you are diagnosed with diabetes, we may tell you about nutritional and other counseling services that may be of interest to you.
+
+9. Health Information Exchanges.
+
+Some of us may participate in the North Carolina Health Information Exchange (the "Exchange")
+
+or similar initiatives. If we participate in the Exchange, we will share your PHI with the
+
+Exchange and may use the Exchange to access your PHI to assist us in providing health care to
+
+you. If you do not want us to share your PHI with the Exchange, you must opt out by submitting
+
+Version 06
+
+Page 10 of 14
+
+a form directly to the Exchange. Forms (and brochures about the Exchange) are available at participating locations or by contacting the UNC Health Care System Privacy Office at (984) 974-1069. Even if you opt out of the Exchange, we may use your PHI available from the Exchange in order to provide emergency care to you or for public health or research purposes authorized by law, and disclose your PHI to the Exchange when you receive hospital services that are paid for by Medicaid.
+10. Any other use or disclosure of PHI about you requires your written authorization.
+Under any circumstances other than those listed above, we will ask for your written authorization before we use or disclose PHI about you. If you sign a written authorization allowing us to disclose PHI about you in a specific situation, you can later cancel your authorization in writing by contacting our Medical/Health Information Management Department. If you cancel your authorization in writing, we will not disclose PHI about you after we receive your cancellation, except for disclosures which were being processed before we received your cancellation.
+C. YOUR RIGHTS REGARDING YOUR PHI.
+1. You have the right to request restrictions on uses and disclosures of PHI about you.
+We may communicate with you about your PHI by telephone, in writing through U.S. mail, electronically by e-mail, or through a secure patient portal. You have the right to request that we restrict the use and disclosure of PHI about you, but we are not required to agree to your requested restrictions in most circumstances. In addition, even if we agree to your request, in certain situations your restrictions may not be followed. These situations include emergency treatment, disclosures to the Secretary of the Department of Health and Human Services, and uses and disclosures described in subsection B.2 of the previous section of this Notice. However, we must agree to your request to restrict disclosure of your PHI for PHI that pertains solely to a health care item or service for which you, or another on your behalf, have paid in full out-of-pocket, if such disclosure is to a health plan for the purpose of carrying out payment or health care operations. You may request a restriction by contacting any of the following individuals to obtain a form to complete to make your request: The Medical Records Custodian or the Privacy Officer of the facility or practice where you received services, or the UNCHCS Chief Privacy Officer at (984) 974-1069.
+2. You have the right to request different ways to communicate with you.
+You have the right to request how and where we contact you about PHI. For example, you may request that we contact you at your work address or phone number or by email. Your request must be in writing. We must accommodate reasonable requests, but, when appropriate, may condition that accommodation on your providing us with information regarding how payment will be handled and your specification of an alternative address or other method of contact. You may request alternative communications by contacting any of the following individuals to obtain a form to complete to make your request: The Medical Records Custodian or the Privacy
+
+Version 06
+
+Page 11 of 14
+
+Officer of the facility or practice where you received services, or the UNCHCS Chief Privacy Officer at (984) 974-1069.
+
+3. You have the right to see and copy PHI about you.
+
+You have the right to request to see and receive a copy of your PHI contained in clinical, billing and other records used to make decisions about you. You have the right to receive your copy of PHI in its original electronic version if possible or, if not possible, in another electronic format that is mutually agreeable to you and us. Your request must be in writing. We may charge you related fees. Instead of providing you with a full copy of the PHI, we may give you a summary or explanation of the PHI, if you agree in advance to the form and cost of the summary or explanation. There are certain situations in which we are not required to comply with your request. Under these circumstances, we will respond to you in writing, stating why we will not grant your request and describing any rights you may have to request a review of our denial. You may request to see and receive a copy of your PHI by contacting any of the following individuals to obtain a form to complete to make your request: The Medical Records Custodian or the Privacy Officer of the facility or practice where you received services, or the UNCHCS Chief Privacy Officer at (984) 974-1069.
+
+4. You have the right to request amendment of certain of your PHI.
+
+You have the right to request that we make amendments to clinical, billing and other records used to make decisions about you. Your request must be in writing and must explain your reason(s) for the request. We may deny your request if: 1) the information was not created by us (unless you prove the creator of the information is no longer available to amend the record); 2) the information is not part of the records used to make decisions about you; 3) we believe the information is correct and complete; or 4) you would not have the right to see and copy the record as described in subsection C.3 above. We will tell you in writing the reasons for the denial and describe your rights to give us a written statement disagreeing with the denial. If we accept your request to amend the information, we will make reasonable efforts to inform others of the amendment, including persons you name who have received the PHI and who need the amendment. You may request an amendment by contacting any of the following individuals to obtain a form to complete to make your request: The Medical Records Custodian or the Privacy Officer of the facility or practice where you received services, or the UNCHCS Chief Privacy Officer at (984) 974-1069.
+
+5. You have the right to a listing of disclosures we have made.
+
+You have the right to receive a written list of certain disclosures we have made of PHI about you. You may ask for disclosures made up to six (6) years before your request. We are required to provide a listing of all disclosures except the following:
+
+·
+
+For your treatment;
+
+·
+
+For billing and collection of payment for your treatment;
+
+·
+
+For health care operations;
+
+Version 06
+
+Page 12 of 14
+
+·
+
+Made to or requested by you, or that you authorized;
+
+·
+
+Incidental to permitted uses and disclosures;
+
+·
+
+Made to individuals involved in your care, for directory or notification purposes, or for
+
+other purposes described in subsection B.3 above;
+
+·
+
+Allowed by law when the use and/or disclosure relates to certain specialized government
+
+functions or relates to correctional institutions and in other law enforcement custodial
+
+situations (please see subsection B.2 above); and
+
+·
+
+As part of a limited set of information which does not contain certain information which
+
+would identify you.
+
+The list will include the date of the disclosure, the name (and address, if available) of the person or organization receiving the information, a brief description of the information disclosed, and the purpose of the disclosure. If, under permitted circumstances, PHI about you has been disclosed for certain types of research projects, the list may include different types of information.
+
+If you request a list of disclosures more than once in 12 months, we can charge you a reasonable fee. You may request a listing of disclosures by contacting any of the following individuals to obtain a form to complete to make your request: The Medical Records Custodian or the Privacy Officer of the facility or practice where you received services, or the UNCHCS Chief Privacy Officer at (984) 974-1069.
+
+6. You have the right to breach notification.
+
+You have the right to receive notice in the event of a breach of your unsecured PHI.
+
+7. You have the right to a copy of this Notice.
+
+You have the right to request a paper copy of this Notice at any time by contacting the Privacy Officer of the facility or practice where you received services, or the UNCHCS Chief Privacy Officer at (984) 974-1069. We will provide a copy of this Notice no later than the date you first receive service from us (except for emergency services, and then we will provide the Notice to you as soon as possible).
+
+D. CONTACTS FOR QUESTIONS AND COMPLAINTS
+
+If you need more information about our privacy practices or have questions about this Notice, if you think we have violated your privacy rights, or if you want to complain to us about our privacy practices, you can contact the persons listed below:
+
+Version 06
+
+Page 13 of 14
+
+For the UNCHCS Affiliated Covered Entity and Organized Health Care Arrangement (UNC Hospitals; The University of North Carolina at Chapel Hill, School of Medicine; UNC Physicians Network, LLC; UNC Physicians Network Group Practices, LLC; Rex Hospital, Inc.; Chatham Hospital, Incorporated; Caldwell Memorial Hospital, Incorporated; High Point Regional Health; Regional Physicians, LLC; and Premier Surgery Center, LLC):
+Chief Privacy Officer UNC Health Care System 101 Manning Drive Chapel Hill, North Carolina 27514 Phone: (984) 974-1069
+For Henderson County Hospital Corporation d/b/a Margaret R. Pardee Memorial Hospital:
+Privacy Officer 800 N. Justice Street Hendersonville, NC 28791 Phone: (828) 696-4251
+For Johnston Health Services Corporation d/b/a Johnston Health:
+Privacy Officer 509 N. Bright Leaf Boulevard Smithfield, NC 27577 Phone: (919) 938-7121
+For Nash Hospitals, Inc., Nash MSO, Inc., and NHCS Physicians, Inc.:
+Quality Support Service Representative 2460 Curtis Ellis Drive Rocky Mount, NC 27804 Phone: (252) 962-8082
+You may also send a written complaint to the United States Secretary of the Department of Health and Human Services. Contact information can be found at the website for the Office of Civil Rights at www.hhs.gov/ocr.
+If you file a complaint, we will not take any action against you or change our treatment of you in any way.
+
+NONDISCRIMINATION NOTICE
+http://www.unchealthcare.org/app/files/public/7035/pdf-system-unc-health-care-nondiscriminationnotice.pdf
+
+Version 06
+
+Page 14 of 14
+
+

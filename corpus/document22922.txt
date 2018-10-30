@@ -1,0 +1,42 @@
+TEMPLATE: PRIVACY POLICY FOR MEMBERS OF THE THIRD AGE NETWORK (TAN)
+Why a Privacy Statement: A privacy statement provides an opportunity for individuals involved in Third Age Learning to make informed decisions about the collection and use of their information. It should be easy to find, easy to read and that explain all of your information practices will be based on PIPEDA, the Personal Information Protection and Electronics Documents Act. In order to assist members of the Third Age Network to develop their own unique privacy statement and policies, the following template includes both key components and suggested statements for your consideration. It is recognized that there are diverse organizational models in the TAN network, and to this end we decided to take a generic approach. A privacy policy that describes how consent will be obtained and for what purposes enables the ability the organization to share class lists for communication within a workshop or class, to send out information to members, and to facilitate registration for lectures A number of privacy policies from TAN member organizations were reviewed and where applicable are included as part of the template. A list of resources is at the end of the document.
+1
+
+Template: Privacy Policy
+
+KEY COMPONENTS
+
+SUGGESTED POLICY
+
+Overall Policy Statement including purpose.
+
+Organization is committed to safe guarding the personal information entrusted to us by our members, subscribers, registrants, contacts, board members, and person providing services. (Description of individual varies by organization.) The statement outlines the policies and practices to be followed to protect your personal information based on the requirements in PIPEDA, the Personal Information Protection and Electronics Documents Act.
+
+Description of what personal information is collected, used, disclosed and why.
+
+Personal Information means information about an identifiable individual and can include name, mailing address, phone number, email address. The Organization collects uses and discloses personal information only for those purposes necessary to administer registration and membership; establish and maintain communications with members, registrants, contacts; facilitate registrations for sessions and respond to inquiries.
+
+Collection, use and disclosure of confidential information occurs with the knowledge and consent of the individual except, where collection, use and disclosure is permitted by law without consent.
+
+The Organization will ask for consent to collect, use or disclose an individual's personal information, except in specific circumstances where release of the information without consent is required by law. The information must be used for the purpose for which the information was collected. If the Organization is going to use it for another purpose then consent must be obtained. Included can be a statement as to whether the Organization is implying consent or is asking for express consent and indicate how consent is managed. The Organization will not disclose information to Third Parties. A member may withdraw consent to the collection, use and disclosure of personal information at any time with the understanding that this action may hamper or prevent the provision of service by the Organization.
+
+Security and Safeguards
+
+The Organization makes every reasonable effort to prevent any loss, misuse, disclosure or modification of personal information as well as any unauthorized access to personal information. Such practices such as locked cabinets, computer password, firewalls, encryption, and internal organizational tools such as restricted access, shredding and permanent deletion of electronic records.
+
+2
+
+Access and Amend Personal Information. Contact re Policy. Questions and Complaints. Date of Policy.
+
+The Organization may process payments through a site such as PayPal. Billing and credit card information are stored not on the Organizations' server but on a secure PayPal server that sits behind an electronic firewall and are not connected to the internet.
+Individuals have a right to access and amend their personal information as kept by the Organization and may make a request for access through an email to the named contact person. Name and email for person to contact.
+For a question or complaint about the collection, use or disclosure of personal information please email the named contact The policy must be dated.
+
+Resources 1. The Personal Information Protection and Electronics Documents Act: www.priv.gc.ca
+2. Application of PIPED to Charitable Institutions and Non Profit Organizations : www.priv.gc.ca/en/privacy-topics
+3. Privacy Policy Checklist: www.charitycentral.ca/docs/privacy-en.pdf
+4. Privacy Policies from: Academy for Lifelong Learning Learning Unlimited Etobicoke LIFE Institute of Ryerson University Lifelong Learners Mississauga Third Age Barrie Third Age Learning Burlington Third Age Learning York Region Thornhill Lifelong Learning
+April, 2017
+3
+
+

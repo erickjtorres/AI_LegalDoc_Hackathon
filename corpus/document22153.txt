@@ -1,0 +1,196 @@
+Privacy Notice
+ETFS Metal Securities Ltd ETFS Commodity Securities Ltd
+ETFS Oil Securities Ltd Swiss Commodity Securities Ltd
+Gold Bullion Securities Ltd ETFS Hedged Commodity Securities Ltd
+ETFS Equity Securities Ltd ETFS Foreign Exchange Ltd ETFS Hedged Metal Securities Ltd
+and
+ETFS Management Company (Jersey) Limited
+September 2018
+
+Introduction
+This privacy notice (the "Privacy Notice") discloses the personal data gathering and dissemination practices used by ETFS Metal Securities Ltd, ETFS Commodity Securities Ltd, ETFS Oil Securities Ltd, Swiss Commodity Securities Ltd, Gold Bullion Securities Ltd, ETFS Hedged Commodity Securities Ltd, ETFS Equity Securities Ltd, ETFS Foreign Exchange Ltd, ETFS Hedged Metal Securities Ltd and ETFS Management Company (Jersey) Limited ("WisdomTree", "we", "our" or "us") as data controller. Each of us is providing this Privacy Notice to you as a separate legal entity and separate data controller in respect of your data.
+WisdomTree reserves the right to modify this Privacy Notice at any time and we will make an updated copy of such privacy notice available on our website and notify you when we make any substantial updates. Please ensure that you provide a copy of this Privacy Notice to any third parties whose personal data you provide to us.
+"Personal data" means any data relating to an identified or identifiable living individual. WisdomTree will use your personal data only for the purposes and in the manner set forth in this Privacy Notice which describes the steps taken to ensure our processing of your personal data is in compliance with the General Data Protection Regulation ((EU) 2016/679) ("GDPR") and any implementing or equivalent legislation, including the Data Protection (Jersey) Law 2018 ("Data Protection Legislation").
+Confidentiality
+WisdomTree will keep your personal data confidential and only use it within our group (which means our affiliated companies, successors and assigns), and only transfer it to third parties in the manner described in the below section labelled "Use of third parties", unless we are under a duty to disclose or share your personal data in order to comply with a court order or other legal or regulatory requirement.
+How and why we collect personal data
+WisdomTree may obtain personal data about you from third parties or through other business activities, such as us obtaining investor reports from CREST. The categories of personal data and the data processing activities that WisdomTree will carry out are set out at Appendix A. WisdomTree will retain and process your personal data only when this is necessary to achieve our commercial or business objectives and to comply with our regulatory obligations.
+WisdomTree will always ensure its business interest does not override your rights and freedoms as an individual. We may also retain your information to comply with any applicable laws or regulations. We are legally required to hold some types of information to fulfil our statutory and regulatory obligations. These obligations include regulations made by the Jersey Financial Services Commission ("JFSC").
+2
+
+As a principle, WisdomTree will only retain your personal data for such period of time as is necessary to serve our business interest and will not process personal data beyond that point. If you ask for your personal data to be removed, we may still keep it in our records for 7 years to comply with regulatory requirements and will proceed to delete it afterwards provided there is no other reason which makes it necessary for us to keep the personal data (e.g. an investigation or pending court case).
+How we store, transfer and process personal data
+All personal data that you provide to us is stored on secure servers. Personal data may be transferred, stored and processed by third parties (see below). It may also be processed by staff operating outside the European Union ("EU") who work for us.
+You should be aware that in territories outside the EU, laws and practices relating to the protection of personal data are likely to be different and, in some cases, may be weaker than those within the EU. Some personal data may be stored in Jersey, which is a jurisdiction deemed adequate for EU data protection purposes.
+Such transfers outside the EU will only take place where either (i) the European Commission has decided that such third country ensures an adequate level of protection (GDPR Article 45); or (ii) we have provided appropriate safeguards, and on the condition that enforceable rights and effective legal remedies are available for you (GDPR Article 46).
+Inter-entity safeguards have been placed between WisdomTree and its parent company in the United States to ensure all internal personal data transfers are compliant with GDPR (GDPR Article 46).
+Use of third parties
+Communicating via the internet and sending information to you by other means necessarily involves your personal data passing through or being handled by third parties, but we do not sell or distribute without your permission your personal data to third parties for purposes of allowing them to market products and services to you.
+We have also reviewed all key third party agreements where EU personal data is being processed to ensure they are GDPR compliant and that your rights described herein are being protected.
+What safeguards we have in place
+WisdomTree has security measures in place to protect the loss, misuse and alteration of the information under our control. As no data transmission over the internet can be guaranteed as 100% secure, we cannot ensure or warrant the security of any information you transmit to us and you transfer the data at your own risk. We endeavour to use appropriate security
+3
+
+measures, including systems security, backups, business recovery and breach notification procedures, monitoring and testing procedures.
+What rights you have with regards to your personal data we process
+You can request a copy of the personal data we hold about you. You also have the right to ask for your personal data to be transferred to another organisation or to yourself. Where such requests are manifestly unfounded or excessive, we will inform you and we may charge a reasonable fee or refuse to respond to such a request.
+You have a right to object to the processing of your personal data in those cases where we are processing your personal data in reliance on our legitimate interests. In such a case we will stop processing your personal data unless we can demonstrate compelling legitimate interests which override your interests and you have a right to request information on the balancing test we have carried out.
+You also have the right to ask us not to process your personal data for marketing purposes. We will inform you if we intend to use your personal data for such purposes. You can exercise your right to prevent such processing by contacting us directly. You can also exercise the right and change your marketing preferences or restrict any specific uses of your personal data at any time by contacting us.
+If we are processing your personal data on the legal basis of consent, you are entitled to withdraw your consent at any time (see Contact Us below). However, the withdrawal of your consent will not invalidate any processing we carried out prior to your withdrawal and based on your consent.
+The accuracy of your personal data is important to us. We review information we hold to ensure it is up to date and accurate. You have the right to correct any inaccuracies in the details we hold about you ­ if you change your email address or notice any other information we hold is inaccurate or out of date, please contact us. You have the right to obtain without undue delay the rectification of any inaccurate personal data concerning you.
+If you wish to exercise any of these rights, please contact us (see Contact Us below). We have appointed WisdomTree UK Limited to be our EU representative in relation to GDPR. We will respond to your request within four weeks. That period may be extended by eight further weeks where necessary, taking into account the complexity and number of requests. We will inform you of any such extension within four weeks of receipt of your request. We may request proof of identification to verify your request. We have the right to refuse your request where there is a basis to do so in law, or if it is manifestly unfounded or excessive, or to the extent necessary for important objectives of public interest.
+4
+
+Consequences of Failure to Provide Personal Data
+
+If we cannot collect or process your personal data, we may not be able to provide you with, or administer, your investment. If we ask for information and you do not wish to give it to us, we will explain the consequences based on the specific information concerned including whether it is a legal or contractual requirement that we use such personal data. If you have any queries in respect of the consequences of not providing data, please contact us using the details listed below.
+
+Complaints
+
+You have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your residence, place of work or place of an alleged infringement, if you consider that the processing of your personal data infringes the GDPR. Where a complaint is against a data controller registered in Jersey, you may complain to the Jersey Data Protection Authority
+
+Contact Us
+
+If you have any questions regarding this Privacy Notice and our privacy practices, please contact us as listed below:
+
+ETFS Metal Securities Ltd
+Ordnance House 31 Pier Road St Helier Jersey JE4 8PW
+
+ETFS Commodity Securities Ltd
+Ordnance House 31 Pier Road St Helier Jersey JE4 8PW
+
+Email:GDPR@wisdomtree.com ETFS Oil Securities Ltd
+Ordnance House 31 Pier Road St Helier Jersey JE4 8PW
+
+Email: GDPR@wisdomtree.com Swiss Commodity Securities Ltd
+Ordnance House 31 Pier Road St Helier Jersey JE4 8PW
+
+Email:GDPR@wisdomtree.com Gold Bullion Securities Ltd
+Ordnance House 31 Pier Road St Helier Jersey JE4 8PW
+
+Email: GDPR@wisdomtree.com ETFS Hedged Commodity Securities Ltd Ordnance House 31 Pier Road St Helier Jersey JE4 8PW
+
+Email:GDPR@wisdomtree.com ETFS Equity Securities Ltd
+
+Email: GDPR@wisdomtree.com ETFS Foreign Exchange Ltd
+
+5
+
+Ordnance House 31 Pier Road St Helier Jersey JE4 8PW Ireland
+Email:GDPR@wisdomtree.com ETFS Hedged Metal Securities Ltd
+Ordnance House 31 Pier Road St Helier Jersey JE4 8PW
+Email:GDPR@wisdomtree.com
+
+Ordnance House 31 Pier Road St Helier Jersey JE4 8PW Ireland
+Email: GDPR@wisdomtree.com ETFS Management Company (Jersey) Limited Ordnance House 31 Pier Road St Helier Jersey JE4 8PW
+Email: GDPR@wisdomtree.com
+
+6
+
+APPENDIX A DATA PROCESSING ACTIVITIES
+
+Categories of data subject
+Investor (including officers and signatories of institutional investors)
+Investor (including officers and signatories of institutional investors)
+
+Type of Personal Data
+Name, address, contact details, tax number and bank details, details of investment, documentation to verify identity and address and bank details Name, address, tax number
+Name, address, bank details
+
+Type of processing
+
+Purpose of processing
+
+Obtaining, reviewing, verifying, storing, running adverse news checks. Keeping records updated
+Obtaining, reviewing, verifying, storing, submitting reports, keeping records updated Obtaining, reviewing, storing, submitting keeping up to date
+
+Complying with legal obligations under AML/ CTF sanctions regimes, and to prevent fraud, bribery, corruption, tax evasion Complying with FATCA/ CRS/ Tax reporting law
+To facilitate payment of distributions (dividends and redemptions)
+
+Categories of recipient to whom Personal Data is transferred Transfer agent/ Administrator / Depositary/ Distributor
+Tax authorities
+Banks, Depositary
+
+Retention Lawful ground for
+
+period
+
+processing
+
+7 years after investor ceases to be an investor
+
+Complying with legal and regulatory obligations
+
+7 years after the terminatio n of the investment
+
+Complying with legal and regulatory obligations
+
+7 years after the terminatio n of the investment
+
+Legitimate Interests including in managing our business provided such interests are not overridden by the data subjects' interests and rights. Complying with legal and regulatory obligations
+
+Categories of data subject
+
+Type of Personal Data
+
+Type of processing
+
+Purpose of processing
+
+Categories of recipient to whom Personal Data is transferred
+
+Retention period
+
+Lawful ground for processing
+
+Directors
+Designated Persons & MLRO
+
+Name, address, contact details, number. Information on experience, qualifications. employment history and any issues Name, address, contact details, tax number.
+Name, address, contact details. Information on experience, qualifications, employment history
+
+Obtaining, reviewing, verifying, storing, running searches, adverse news checks. Keeping records updated Obtaining, reviewing, storing, submitting keeping up to date Obtaining, reviewing, storing, submitting keeping up to date
+
+Complying with legal obligations and other regulations
+To facilitate payment of fees and expenses and tax and social welfare thereon Complying with legal obligations and other regulations
+
+Governmental and regulatory bodies.
+Banks, Depositary
+Governmental and regulatory bodies.
+
+7 years after the terminatio n of the office
+7 years after the terminatio n of the office 7 years after the terminatio n of appointme nt
+
+Complying with legal and regulatory obligations
+Contractual necessity
+Contractual necessity, Complying with legal and regulatory obligations
+
+8
+
+Categories of data subject
+Data subject whose Personal Data is contained in agreements with APs or counterparti es e.g. signatory lists, email addresses
+
+Type of Personal Data
+Name, work address and contact details
+
+Type of processing
+Obtaining, reviewing, storing, submitting keeping up to date
+
+Purpose of processing
+The facility operators of the relevant agreements/ trades with the counterparty and otherwise in accordance with such agreements/ trades
+
+Categories of recipient to whom Personal Data is transferred Investment manager, Administrator ; Depositary
+
+Retention Lawful ground for
+
+period
+
+processing
+
+7 years after the terminatio n of the investment
+
+Contractual necessity
+
+9
+
+

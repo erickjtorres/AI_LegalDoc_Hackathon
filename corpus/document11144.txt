@@ -1,0 +1,156 @@
+Preparing for the GDPR
+
+Note: These slides and the accompanying presentation contain a general summary and are not legal advice.
+
+Niall Rooney
+Consultant 22/11/2017
+
+Data Protection
+The Right to Data Protection > Everyone has the right to the protection of their personal data. > A fundamental right in the EU, but not an absolute right. Data Protection Law > Balances people's rights, society's needs, and the legitimate needs of
+businesses and organisations to process people's personal information. Current Regime > Data Protection Acts 1988 and 2003
+- Data processing principles - Additional conditions for sensitive personal data - Individuals' rights including to request a copy of their personal data - Data Protection Commissioner monitors and enforces compliance - Organisations should have data protection policies and privacy notices
+
+1995
+
+http://www.npr.org/2017/10/26/560136311/how-5-tech-giants-have-become-more-like-governments-than-companies
+
+The EU response
+> Rapid technological developments and globalisation have brought new challenges for the protection of personal data.
+> Technology allows making use of personal data on unprecedented scale. > People increasingly make their information available publicly and globally. > This requires a strong and more coherent data protection framework,
+backed by strong enforcement. > Creating trust to allow the digital economy to develop. > People should have control of their own personal data. > Enhance legal and practical certainty for everyone.
+6
+
+General Data Protection Regulation (GDPR)
+> GDPR applies to the processing of personal data by data controllers and data processors
+- established in the EU; and - established outside the EU, if offering goods or services to EU residents or
+monitoring their behaviour in the EU
+> Will apply in all Member States from 25 May 2018. > Builds on existing rules and principles, with significant changes
+- increased compliance obligations for businesses and organisations - new and enhanced rights for individuals - increased regulatory powers and sanctions
+> Directly effective law, but...
+- Member States may introduce domestic provisions in a number of areas - Data Protection Bill 2017
+7
+
+What & Who Does the GDPR apply to?
+> Processing ­ almost anything you can do with `personal data'
+- collecting, recording, organising, storing, adapting, altering, retrieving, consulting, using, disclosing, disseminating, erasing, destroying
+> Personal Data ­ any information relating to an identified or identifiable living person (`data subject')
+- `identifiable' means the person can be identified, directly or indirectly, including by reference to an identifier, a name, an identification number, location data, an online identifier, or factors specific to a person's identity.
+- Special categories of personal data (`sensitive data') - data revealing racial or ethnic origin, political opinions, religious/philosophical beliefs, trade union membership; genetic data; biometric data; data concerning health; data concerning a person's sex life or sexual orientation
+> Data Controller ­ decides how and why personal data is processed.
+> Data Processor ­ processes personal data on behalf of a data controller.
+
+Some examples of `personal data'
+
+> Name, address, email, telephone > Age, gender, marital status > ID or registration number > PPSN > Passport number > Car registration > Photograph > Video / CCTV > Fingerprints, facial recognition > Travel card or ticket
+
+> Education and training information
+> Student numbers
+> Grades, exam results, certificates, testimonials, references
+> Health information, medical reports
+> Family and lifestyle details
+> Employment details
+> Financial details, bank statements, card numbers
+> Online identifiers, IP addresses, cookie identifiers, RFID tags
+
+9
+
+Data Controller Obligations under the GDPR
+> Have a lawful basis for each processing activity > Be able to demonstrate compliance with six principles (`accountability') > Implement technical and organisational measures to ensure (a) that
+processing complies with GDPR and (b) security appropriate to the risks > Maintain a record of data processing activities (where Article 30 applies) > Notify certain types of data breach to the supervisory authority (72 hours) > Appoint a Data Protection Officer, where required > Restrictions on transfers of personal data outside EEA > Mandatory terms in data processor contracts > Data Protection Impact Assessment (prior to likely high-risk processing)
+
+Processing of personal data must ­
+
+(A) Have a LAWFUL BASIS * The individual has given consent
+
+(B) Comply with the six PRINCIPLES 1) Lawfulness, fairness & transparency
+
+Necessary for the performance of a contract with 2) Purpose limitation the individual or to enter into such a contract
+Necessary for compliance with a legal obligation 3) Data minimisation to which the controller is subject
+Necessary to protect a person's vital interests 4) Accuracy
+
+Necessary for performance of a task in the public 5) Storage limitation interest or in exercise of official authority vested in the controller
+Necessary for purposes of legitimate interests** 6) Security, integrity & confidentiality of the controller or a third party, except where overridden by the interests of the individual
+
+* Extra conditions apply to processing of sensitive personal data ­ see Art 9 GDPR
+** Not public bodies
+
+AND
+
+Controller must be able to demonstrate compliance with the principles (`ACCOUNTABILITY')
+
+Consent as a lawful basis
+> Consent to processing of personal data - must be freely given, specific, informed and unambiguous; - by a statement or a clear affirmative action; - cannot be inferred by silence, pre-ticked boxes or inactivity - can be withdrawn and must be easy to do so
+> Processing of `sensitive data' requires "explicit consent" > In a written declaration concerning other matters (e.g. a contract), the
+request for consent must be clearly distinguishable from other matters. > Records must be kept of how and when consent was given. > `Information society services' offered directly to a child < 16 years*, must
+get verified consent of parent or guardian.
+* Member States may provide for a lower age, provided not < 13 years
+
+Data Breach Notification
+> Personal data breach ­ a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed
+> Controller must notify a personal data breach to the supervisory authority (DPC) within 72 hours of becoming aware of it.
+- If notified later, must give reasons for the delay. - Notification requires certain minimum information.
+> In `high-risk' cases may have to inform affected individuals. > Notification is not required where the breach is unlikely to result in a risk
+to the rights of individuals. > Controller must document any personal data breach, including the facts,
+its effects and remedial action taken.
+13
+
+Data Protection Officer (DPO)
+> DPO appointment is mandatory for - Public bodies (except courts), and - Data controllers and data processors that, as a core activity, monitor individuals systematically and on a large scale, or that process sensitive data on a large scale.
+> Appointment, position and tasks of the DPO are set out in the GDPR. - `expert knowledge of data protection law and practice' - be involved in all data protection issues - report directly to highest level of management - operational independence, no conflicts of interest, confidentiality - inform and advise; monitor compliance; point of contact for individuals/DPC
+> If DPO appointment is not mandatory or if in doubt, may appoint on a voluntary basis, but GDPR requirements still apply as if mandatory.
+
+Individuals' Rights under the GDPR
+1) Information (Privacy Notice) 2) Access their own personal data (Subject Access Request) 3) Correct their personal data 4) Erase their personal data (`right to be forgotten') * 5) Restrict data processing * 6) Object to data processing * 7) Export their personal data to another data controller (data portability) * 8) Not be subject to automated decision-making, including profiling * 9) Be notified of a data security breach * 10) Make a complaint to the supervisory authority (DPC) 11) Sue controller or processor for damages resulting from breach of GDPR
+
+Privacy Notices
+
+> Data controller identity and contact details.
+> DPO contact details, where applicable.
+> Purpose of processing.
+> Legal basis for processing.
+> Legitimate interests, where applicable.
+> Recipients or categories of recipients.
+> Data retention period, or criteria used to determine it.
+
+> Individual's rights including access, correction, erasure, restriction, objection, data portability.
+> Where processing based on consent, right to withdraw it at any time.
+> Right to complain to DPC.
+> Whether data controller uses automated decision-making (including profiling), information about the logic involved, and the consequences for the individual.
+
+ Fair and transparent processing principle  GDPR increases the amount of information that must be provided  Must provide in an easily accessible form, using clear and plain language
+
+Subject Access Requests
+> Individuals have the right to obtain from a data controller
+- confirmation that their personal data is being processed; - a copy of their personal data; and - certain other information (equivalent to he information in a privacy notice)
+> Motive for the request is irrelevant > No fee > Data controller must respond within one month > May extend by two months where requests are complex or numerous > Where request "manifestly unfounded or excessive" can
+- charge a reasonable fee taking into account administrative costs, or - refuse to respond
+> If refuse to respond, must explain why and inform individual of rights
+
+Powers of the Data Protection Commissioner
+Investigative powers > conduct investigations and audits > obtain access to data, premises and equipment Corrective powers > issue warnings and reprimands > order compliance with individual's requests > order communication of a data breach to an individual > impose a temporary or permanent ban on processing > order rectification or erasure of personal data > suspend data transfers to a third country Administrative fines > may impose fines (`effective, proportionate and dissuasive') on data controllers
+and data processors for non-compliance > up to greater of 10m/20m or 2%/4% of annual worldwide turnover > DP Bill, Head 23: public body acting as an undertaking
+
+Key GDPR Takeaways for ELE Providers
+> Requires a shift in mindset about people's data privacy. > It's principles-based regulation, no "off-the-shelf" solution. > Collecting, using and keeping personal data now has a cost. > Individuals have more control with stronger rights. > Increased regulatory sanctions and powers. > Processing needs a lawful basis and must comply with six principles. > Data controllers must be able to demonstrate their accountability. > More difficult to rely on consent as a lawful basis. > Privacy notices need much more information > Security measures and data breach plan. > Data processor contracts and mandatory terms.
+19
+
+Preparing for the GDPR
+1) Understand Your Current Data Processing Activities
+- What `personal data' do you hold? - Where did it come from? - What is the lawful basis for processing it? - Why do you need it? - Who is it shared with? - From where is it accessed? - Where is it stored? - How long is it being kept for?
+2) Assess Your Current Compliance with GDPR
+- Checklists; - Gap Analysis; - Data Protection Audit
+3) Prioritise the Remedial Actions
+- Based on the risks and your resources
+
+4) Implement an Action Plan to Move Towards Compliance
+- Determine the lawful basis for your processing activities - Implement policies and procedures
+ Data Protection Policy  Data Retention Policy  Data Security Policy  Data Breach Response Plan  Data Subject Access and Rights Procedure  CCTV Policy and Notice  Employee Privacy Policy and Notice (email, internet, communications usage and monitoring)
+- Privacy Notice - Implement appropriate technical and organisational measures - Documentation and record-keeping - Staff Training - Review and auditing - Privacy by design and by default - Data Protection Impact Assessments - Data Processors and contracts - Transfer of data outside of the EEA - Appoint a DPO if required, or at least a lead person
+
+More Information
+> Data Protection Commissioner (Ireland) - www.dataprotection.ie - www.gdprandyou.ie
+> Information Commissioner's Office (UK) - www.ico.org.uk (click on ` Getting Ready for the GDPR') - https://ico.org.uk/media/1624219/preparing-for-the-gdpr-12-steps.pdf
+> Text of the GDPR - http://eur-lex.europa.eu/legalcontent/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN
+22
+
+

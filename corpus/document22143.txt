@@ -1,0 +1,151 @@
+Customer Privacy Notice
+
+1.
+
+SYS3 Limited: Legal Entity
+
+SYS3 Limited is a limited company registered in England under the number 04154104
+
+2.
+
+Commitment to Information Security
+
+We are providing you with this Privacy Notice in demonstration of our commitment to
+
+information security.
+
+3.
+
+Information Security Management
+
+SYS3 manages information security in-house in order to control its information assets and the
+
+information assets of it's clients correctly.
+
+3.1.
+
+Contractual Agreements
+
+Privacy Notice or Statement of Compliance for GDPR Contract of Employment with Non-Disclosure content Service Contract (or equivalent) with NonDisclosure content
+
+Employees 
+
+
+Contractors 
+
+
+Customers 
+
+Suppliers 
+
+3.2.
+
+Policies & Protocols
+
+SYS3 Limited maintains operating policies and protocols to cover:
+
+· Confidentiality
+
+· Monitoring of communications
+
+· Data breach reporting
+
+SYS3's relevant policies and protocols help us to fully realise our commitment to lawful, fair and transparent data processing.
+
+3.3.
+
+Guidelines & Training
+
+SYS3 Limited commits to oversee the competence of all our human resources in respect of
+
+compliance with GDPR. This includes the issue of contractual and procedural documentation, as
+
+described above, as well as the implementation of training for all relevant members of staff.
+
+Training is provided directly by SYS3 Limited to enable employees and contractors to operate consistently.
+
+Sys3 Ltd, 18 Dedham Vale Business Centre, Manningtree Rd., Dedham, Essex, CO7 6BL
+
+1
+
+3.4.
+
+Risk Assessment
+
+SYS3 Limited has run a GDPR audit to determine that our physical office environment, our IT
+
+systems, our personnel, our policies and our practices conform to the standards of the General
+
+Data Protection Regulation.
+
+We operate a formal incident management process to identify, contain and recover from a data breach, should one occur. Our employees are trained to report any suspicion of data breach to our Data Protection Officer in line with our Data Protection Policy.
+
+4.
+4.1.
+4.2. 4.2.1.
+4.2.2. 4.2.3.
+
+Your Personal Information
+Why we process your personal information In the course of transacting with us you may be required to provide personal information to include: your name, address, telephone number, email address, and any feedback you give to us, including by phone, email, post, or when you communicate with us via social media.
+Your personal information may be used by us to: · Make our services and products available to you · Process your orders · Help us ensure that our customers are genuine and to prevent fraud · Find ways to improve our services · Contact you about services from us · Help answer your questions and solve any issues you may have
+Your Rights Access and correction You have the right to access the personal information that we hold about you in many circumstances. This is sometimes called a `Subject Access Request.' If we agree that we are obliged to provide personal information to you (or someone else on your behalf), we will provide it to you or them free of charge.
+Before providing personal information to you or another person on your behalf, we may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information.
+If any of the personal information we hold about you is inaccurate or out of date, you may ask us to correct it. If you would like to exercise these rights, please contact our Data Protection Representative, Nina Doherty, at nina@sys3.com
+Right to stop or limit our processing of your data You have the right to object to us processing your personal information if we are not entitled to use it any more, to have your information deleted if we are keeping it too long or have its processing restricted in certain circumstances. If you would like to exercise this right, please contact our Data Protection Representative, as detailed above.
+How long will you keep my information? We will retain a record of your personal information only for as long as it is necessary to do so. Our objective is to provide you with a high quality and consistent service. We will always retain your personal information in accordance with law and regulation.
+
+Sys3 Ltd, 18 Dedham Vale Business Centre, Manningtree Rd., Dedham, Essex, CO7 6BL
+
+2
+
+5.
+
+Our Suppliers & Third Parties
+
+Qualifying the compliance of suppliers and third parties is essential to establishing our own
+
+Statement of Compliance with GDPR. Should any suppliers or third parties with whom we share
+
+personal information ­ either as data controllers or data processors ­ fail to evidence conformity
+
+to the requirements of GDPR (or fail to ameliorate their non-conformity under notice) we will
+
+terminate our relationship with them.
+
+Our current key suppliers/third parties in the context of personal information data processing have documented evidence of their compliance with GDPR.
+
+6.
+
+Physical Security
+
+SYS3 Limited commits to protecting data through appropriate physical measures, these can be
+
+broken down into:
+
+6.1.
+
+Premises Access Control
+
+Access to all our office environments is physically controlled during the business hours of
+
+08:30AM to 05:00PM. Our premises are alarmed and a list of keyholders held at all times.
+
+6.2.
+
+Server Access Control (Physical)
+
+Server, routers and other business critical equipment is stored securely within each premises.
+
+6.3.
+
+Server Access Control (Digital)
+
+Remote access to servers is carefully managed and monitored with enhanced security protocols
+
+in place.
+
+Sys3 Ltd, 18 Dedham Vale Business Centre, Manningtree Rd., Dedham, Essex, CO7 6BL
+
+3
+
+

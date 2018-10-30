@@ -1,0 +1,104 @@
+Online and Mobile Privacy Notice ("Privacy Notice")
+Introduction
+This Privacy Notice applies to the operations of Cigna Global Health Benefits and its affiliated companies listed at the end of this Privacy Notice ("Cigna"). At Cigna we respect your right to privacy and value the trust you have placed in us. We are committed to the responsible management, use and protection of our customers' personal information.
+This Privacy Notice supplements other applicable policies, practices and privacy notices that may relate to specific business relationships you have with Cigna. To review these notices, click here.
+This Privacy Notice applies to all the information we collect from you through cignaenvoy.com and other Cigna websites from which you are accessing this Privacy notice, or through mobile applications made available through Cigna Envoy. We will refer to these websites and mobile applications as "Services" throughout this Privacy Notice.
+QUICK LINKS
+· Consent to Use Cigna Services · Information We Collect · How We Use Personal Information · How We Share Personal Information · Other Information · Anonymous and Aggregate Information · Our Online Privacy Notice for Children · Our Data Protection and Security Policy · Our Privacy Commitment to Employment Applicants · Social Media · Additional Information for Users of a Cigna Mobile Application · Cross Border Transfers · Changes to this Privacy Notice · Your Personal Health Information · Links to Other Websites · Your California Privacy Rights · Online Communication Practices · Contacting Us
+Consent to Use Cigna Services
+
+By providing personal information to us through Cigna's Services you are consenting to the collection, use, and disclosure of your personal information in accordance with this Privacy Notice. If you do not agree with the practices described in this Privacy Notice, please do not provide personal information through Cigna's Services.
+Information We Collect
+We collect personal information that you voluntarily provide through our Services, including:
+· Name, address, email address, and birthdate; · Financial and health information; · Credit or debit card number; · Social security number; · Geolocation information; and · Social media account IDs.
+We may supplement the information you submit to us online with: · other personal information we have about you, including information from our affiliates and vendors; and · information that we obtain about you from public and non-public records.
+How We Use Personal Information
+We use personal information you provide when you visit or use our Services to fulfill the purpose for which you provided the information and to enhance your experience with us. These uses include:
+· Completing transactions, for example, processing your insurance payments;
+· Processing claims; · Sending administrative information to you, for example, information
+regarding the Services and changes to our terms, conditions, and policies; · Providing and improving customer services, including through any chat or
+similar feature available through our Services; · Sending marketing information we think may be of interest to you; · Providing a quote for one of our products; · Sending you surveys; · Authenticating or confirming your identity when you return to your Cigna
+accounts online; · Conducting our business, such as data analysis, audits, developing new
+products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities;
+
+· Taking any action that we believe to be necessary or appropriate: (a) to investigate, prevent and detect illegal activities; (b) under applicable laws, including laws outside your country of residence; (c) to comply with legal process; (d) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (e) to enforce our Terms of Service and Privacy Notice (f) to protect our operations or those of our affiliates; (g) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (h) to allow us to pursue available remedies or limit the damages that we may sustain;
+· Informing you of job opportunities and evaluating your suitability for a job; and
+· Other purposes specifically disclosed at the time we request your information.
+How We Share Personal Information
+Sharing Among our Affiliates
+Cigna Corporation and its affiliates may share your personal information with one another to ensure that your use of the Services is as helpful and beneficial as possible; to support our business operation, to provide services to you and for any other purpose described in this Privacy Notice.
+Sharing with Third Parties
+· We work with third parties that provide services to us, such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services. We may share your personal information with them so they can provide those services.
+· We may share personal information with third parties to permit them to send you marketing communications, if you have opted in to such sharing
+· We may share with your benefit plan's plan sponsor or plan administrator the fact that you have visited or used features of our Services to permit your benefit plan's plan sponsor or plan administrator to determine eligibility, qualification or confirmation of a promised incentive or reward to you. We will share any personal information you provide on our Services for the purposes stated on the page where we collected the information and in accordance with applicable laws and regulations.
+Other Disclosures
+We may share your information in other limited circumstances, including:
+
+· Complying with applicable laws, including laws outside your country of residence;
+· Responding to requests from government or public authorities or otherwise cooperating with authorities pursuant to a legal matter, including authorities outside your country of residence;
+· Responding to matters of personal or public safety; · In litigation, investigations, and other legal matters where the data is
+pertinent; · Investigating security incidents; · In the event of the sale or transfer of Cigna or some of our assets, or in the
+context of similar business negotiations; and · Enforcing our Terms of Services.
+Other Information
+· We collect information about your activities on our Services using technologies such as cookies, including third party cookies, web beacons, JavaScript code, HTML 5 databases and server log files. The information we collect using these means includes your Media Access Control (MAC) address, operating system and version, screen resolution, device manufacturer and model, language, Internet browser type and version, the version of the Services you are using, the date and time you access the Services, pages visited, time spent on the Services, general location information, and other activity data. This information is automatically generated. Our third party business partners and we use this information to provide you with an optimal website experience. This includes measuring the effectiveness of our ads and your interaction with them, and tailoring offers and advertisements to you for products or services that you may find helpful on our Services and third-party sites.
+· An "IP Address" (a number that is automatically assigned to the computer that you are using by your Internet Service Provider) may be identified and logged automatically in our server log files whenever a user access the Services, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses for purposes such as calculating usage levels of the Services, helping diagnose server problems, and administering the Services.
+· If you access email or social networking Services through Our Services, we may allow those Services to collect certain anonymous information about your visits to their Services so they may provide you with advertisements about the goods or services they offer that might be of interest to you. These third-party Services use cookies or web beacons to obtain the information. o To opt out of these cookies and web beacons, visit the National Advertising Initiative (NAI) by clicking here.
+
+In some instances, we may combine Other Information with personal information (such as combining your name with your geographical location), in which we will treat the combined information as personal information as long as it is combined.
+Anonymous and Aggregate Information
+· Cigna may aggregate personal information so that it does not personally identify you or any other user of the Services (for example, we may aggregate personal information to analyze the percentage of our users who have a particular area code).
+· Cigna may remove personal information to create anonymous data.
+· Cigna uses and shares anonymous and aggregate information for historical, statistical, or business planning purposes. Additionally, we may use and share this information for any purpose except where we are required to do so otherwise under applicable law. If we are required to treat this information as personal information under applicable law, then we may use it as described above in "Other Information," as well as for the purposes for which we use and share personal information.
+Our Online Privacy Notice for Children
+· Our Services are not directed to or intended for children. · Cigna does not knowingly collect or post information from children under the
+age of 13 in compliance with laws protecting the privacy of children. · You can visit the Federal Trade Commission's website to learn more about
+the Children's Online Privacy Protection Act (COPPA).
+Our Data Protection and Security Policy
+· We take reasonable precautions to safeguard the personal information transmitted between visitors and the Services and the personal information stored on our servers.
+· Unfortunately, no method of transmitting or storing data can be guaranteed to be 100% secure. As a result, although we strive to protect your personal information, we cannot ensure the security of any information you transmit to us through, or in connection with, the Site. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the "Contacting Us" section below.
+Our Privacy Commitment to Employment Applicants
+
+· We collect information, including personal contact information, education and work history, as well as Social Security numbers in order to process and consider your application.
+· We will not sell your application information to unaffiliated third parties for marketing purposes.
+· The information on your application may be shared with background check services and our affiliates and used for certain regulatory, compliance and legal purposes.
+Social Media
+· Cigna maintains profiles and/or pages on various social media Services including Facebook and Twitter.
+· If you choose to "Like" Cigna on Facebook, "Follow" Cigna on Twitter, or take any other similar action on another social media site, you are providing your consent to receive information updates, including solicitations, from Cigna.
+· To stop receiving this information from Cigna on a social media site, you must follow the procedure established by the site. For example, on Facebook, you must click "Unlike" on Cigna's page, and on Twitter, you must click "Unfollow" on Cigna's profile.
+Additional Information for Users of a Cigna Mobile Application
+· When using certain functions via a Cigna mobile application, we may use your location information if your mobile device uses global positioning system ("GPS") technology, trackers or other location tools, if you allow your device to provide this information to the mobile application.
+· We will use this information to estimate your location and to provide you with more personalized content and/or services.
+· Cigna does not monitor your GPS tracking or location information and does not save this information.
+· A Cigna mobile application may also permit you to upload a photograph from your mobile device. The photograph is for your use only and Cigna will not have access to it. Cigna will not upload it to a Cigna server. This paragrahp does not apply to scans or images of documents you submit to Cigna in connection with your use of the Services or any services provided by Cigna.
+Cross Border Transfers
+We maintain the Services in the United States and the United Kingdom and the Services are not intended to subject Cigna or any affiliated entity to the laws or jurisdiction of any state, country or territory other than the United States and the United Kingdom. Your personal information may be stored and processed in any country where we have facilities or in which we engage service providers, and by
+
+using the Services, you consent to the transfer of information to countries outside of your country of residence, including the United States and the United Kingdom which may have different data protection rules than your country. Cigna does not represent or warrant that the Services, or any part of them, are appropriate or available for use in any particular jurisdiction. Those who choose to access the Services, do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations.
+Changes to this Privacy Notice
+· We reserve the right to amend this Privacy Notice at any time. · We will post the revised Privacy Notice on our websites or announce the
+change on the home page of the website. · You can determine when we revised the Privacy Notice by referring to
+revision date at the bottom of the notice. · Any changes will become effective when we post the Privacy Notice on our
+websites. By continuing to use the Services following such changes, you will be deemed to have agreed to such changes. · If you do not agree with the terms of this Privacy Notice, in whole or in part, you can choose to not continue to use the Services.
+Your Personal Health Information
+In some circumstances, Cigna's use of your information will also be subject to the requirements of the Health Insurance Portability and Accountability Act ("HIPAA"). For example, when you complete a Health Risk Assessment, the information you provide is subject to HIPAA.
+In these circumstances, the terms of Cigna's HIPAA Notice of Privacy Practices will apply.
+Links to Other Websites
+· The Services contain links to websites operated by third parties. If you provide personal information to any third party's website, your transaction will occur on that website (not Cigna's websites) and that website operator will collect the personal information you provide and will be subject to its privacy policies. We encourage you to read the legal notice posted on those sites, including their privacy policies.
+· The Privacy Notice does not apply to your use of and activity on those other websites. We provide links through the Services to other websites only as a convenience, and the inclusion of these links does not imply endorsement of the linked site. We have no responsibility or liability for your use of third party websites.
+
+Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app providers, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any personal information you disclose to other organizations through or in connection with our mobile applications or other websites.
+Your California Privacy Rights
+California Civil Code Section 1798.83 entitles California customers to request information relating to whether a business has disclosed personal information to any third parties for the third parties' direct marketing purposes. As explained elsewhere in this Privacy Notice, Cigna will not sell or transfer your personal information to third party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions may Contact Us or call us toll-free at 1.800.441.2668.
+Online Communication Practices
+If you email us, please do not include information you want to keep private. It is possible that your e-mail communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to send us information that you want to keep completely private, please use a method other than e-mail.
+Other Online Communications
+We may send you electronic newsletters, information about products or services we offer, and other marketing communications. If you no longer want to receive marketing-related e-mails from us you may opt-out of receiving these marketing-related emails by clicking on the unsubscribe link at the bottom or each email.
+We will try to comply with your request(s) as soon as reasonable practicable. Please also note that if you do opt-out of receiving marketing-related e-mails from us, we may still need to send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+Contacting Us
+If you have any questions about this Privacy Notice please feel free to Contact Us or call us toll-free at 1.800.441.2668 (U.S.) or +44.1475.492197 (elsewhere in the world).
+
+CGHB Affiliated Companies
+Cigna Europe Insurance Company Cigna Global Insurance Company Ltd. Cigna Health and Life Insurance Company Cigna Life Insurance Company of Canada Cigna Life Insurance Company of Europe Cigna Worldwide Life Insurance Company Limited (Hong Kong) Life Insurance Company of North America Cigna Corporate Services LLC Connecticut General Life Insurance Company Cigna International Services, Inc. Cigna Worldwide Insurance Company Cigna European Services (UK) Limited Cigna International Corporation FirstAssist Insurance Services Limited FirstAssist Legal Protection Limited Vielife Limited
+Rev.April 9, 2014
+
+

@@ -1,0 +1,125 @@
+CACEIS Data Privacy Notice May 2018
+1. INTRODUCTION
+1.1 Scope of Notice
+In accordance with the General Data Protection Regulation (697/2016/EU) (the "GDPR") this data privacy notice (the "Notice") is addressed to you as a natural person outside CACEIS in the context of interactions we may have in the course of our business relationships and hence we may collect and process personal data in our capacity as a data controller in the provision of our services to clients.
+As controller, we comply with applicable data protection laws and in particular with the GDPR to ensure the relevant standard of protection and privacy is applied to the personal data that we collect.
+The Notice aims to provide you with information in a transparent manner regarding the processing of your personal data and notably the type of personal data collected, the reasons why we may process such personal data, the regulatory framework, the criteria to determine the duration of retention as well as your rights as data subject under the GDPR and how to exercise them.
+1.2 Definitions and Interpretation
+For the purpose of this Notice:
+ The terms "controller", "personal data", "data subject", "processing" and any other term expressly defined in Article 4 of the GDPR shall have the meaning given to these terms in Article 4 of the GDPR;
+ Any reference to "CACEIS", "we" and "us" shall refer to the CACEIS Group including CACEIS, CACEIS Bank and their affiliates, subsidiaries and branches, when collecting and processing personal data. Further details about the entities, affiliates, subsidiaries and branches of CACEIS are available on the CACEIS website https://www.caceis.com ; and
+ Any reference to "you", and "your" shall be construed to include employees, workers, directors, officers, legal or professional representatives, beneficial owners of CACEIS' prospective clients and clients or their affiliates and agents, other legal or professional representatives or simply visitors to our websites or other individuals in contact with CACEIS from which personal data might be collected by CACEIS and any and all other individuals whose personal data are processed by CACEIS in the context of this Notice.
+- 1-
+
+Confidential
+
+2. W HAT TYPE OF PERSONAL DATA IS COLLECTED
+As controller and depending on the product or service that we provide to you, we may collect and process personal data about you, including:
+ Personal identification details such as your name, civil status, identity documents, nationality, place and date of birth, signature;
+ Contact information such as email address, phone numbers, postal address, utility bill or equivalent to confirm your personal address as e.g. board member or representative of one of our clients or one of their investment vehicles;
+ Professional data such as professional status, job title, address, phone and email addresses or CV;
+ Power of attorney or mandate related information when you act as board member or legal representative of a corporate client or an investment vehicle;
+ Tax-domicile and other tax-related documents and information such as tax residency, TIN, beneficial ownership, percentage of holding in a corporate entity notably in the context of compliance with the Foreign Account Tax Compliance Act ("FATCA"), Automatic Exchange of Information ("AEOI"), or local tax laws;
+ Identifier numbers we may have assigned to you as an employee or representative of a client;
+ Data related to your access to our public websites as well as our IT platform dedicated to the interactions with our clients such as OLIS tools, including date and time of the access, name of the accessed file as well as your web browser, browser language, requesting domain and device identifiers including IP address;
+ In some limited cases (where required by law), special categories of personal data, such as for instance:
+o an extract of criminal records if you are a board member of a corporate client or an investment vehicle or
+o a declaration of beneficial ownership or information on a holding of more than 25% of the capital or voting rights of a corporate client or an investment vehicle if you are legal representative of a corporate client or investment vehicle, or
+o information on whether you qualify as a "politically exposed person".
+3. SOURCES OF PERSONAL DATA
+We may collect information from you directly or from a number of sources as further detailed below.
+3.1 Information that you provide us: We process the personal data that you provide us with directly, and the personal data we obtain in the course of our relationship with you, including:  When you contact us (on behalf of your company or directly) in connection with our professional activities;  When you provide us with your personal data in the context of on-boarding a company, for which you are an employee, director, beneficial owner or legal representative, as a client of CACEIS in accordance with Know Your Customer rules (KYC);
+
+Confidential CACEIS - DATA PRIVACY NOTICE ­ MAY 2018
+
+- 2-
+
+Confidential
+
+ When your name and details appear in any service offer, contractual document or operating memorandum or any procedure or template document as the contact person of a client in the context of providing our services;
+ When you provide us with your personal data in mail correspondences and conversations during our business relationship; or
+ When you have been visiting our website or have attended one of our events (as representative of a prospective or existing client).
+3.2 Information that we may obtain from external sources We also may collect and process your personal data that we receive from, among others, the following external sources:  Publicly available and accessible databases and sources made available by official authorities or third parties;  Bankruptcy registers;  Your employer (the latter being one of our clients or service providers)  Public administration or tax authorities;  Governmental and competent regulatory authorities; and  Fraud prevention and detection agencies and organisations (such as OFAC, European Union or locally entities).
+
+4. W HY W E PROCESS PERSONAL DATA
+CACEIS is processing personal data for one of the following purposes/legal bases:
+ Legal obligation: personal data might be processed for the purposes of complying with any applicable legal, tax, statutory and regulatory requirements to which CACEIS is subject including banking and financial regulations, anti-money laundering/counter financing legislation, company law, tax law or to reply to any official request from a public or judicial authority;
+ Contract performance: personal data might be collected and processed to enter into contractual relationships with, provide products and services to, our corporate clients of which you may be an employee , shareholder, or beneficial owner; and
+ Legitimate interests: some of the processing we carry out is necessary to fulfil CACEIS' legitimate interests in order to provide and develop our products or services, to improve our risk management and/or to defend our legal rights.
+We process your personal data only to the extent necessary and only for one of the above-listed purposes/legal bases. For more specific examples, processing activities include:
+ Client on-boarding processes, including verifying the legal capacity of a client's representatives to enter into contractual relations with CACEIS;
+ Providing the services in accordance with our contractual arrangements;  Assisting our clients and answering their requests;  M anaging our relationship with clients and prospective clients, including communications in
+relation to our products and services;  Compliance with legal and regulatory duties imposed upon CACEIS within the framework of the
+services provided to the clients (e.g. depository bank, domiciliary agent, transfer agent...);  Compliance with any regulatory and compliance obligations (including Know Your Customer
+(KYC) and Anti-M oney Laundering (AM L) provisions);  Prevention of money-laundering and financing of terrorism and compliance with legislation in
+relation to sanctions and embargoes;
+
+Confidential CACEIS - DATA PRIVACY NOTICE ­ MAY 2018
+
+- 3-
+
+Confidential
+
+ Prevention of tax fraud and fulfilment of tax control and notification obligations;  Replying to an official requests from a public or judicial authority;  Defending our legal rights in cases of dispute (by notably holding proof of transactions,
+recording phone calls etc.)  Optimizing and developing our products or services and improving our risk management  Improving quality and performance of our systems and our products and services; or  Developing products, training and similar administrative purposes.
+
+5. W ITH W HOM DO W E SHARE PERSONAL DATA AND W HY
+5.1 On an as-needed basis, your personal data might be shared with the following recipients:
+ CACEIS Group companies in order to ensure a consistent high standard of service across our Group;
+ Our parent company, Crédit Agricole S.A., for limited purposes such as compliance requirements or risk management;
+ Public or regulatory authorities (e.g. regulatory, tax and governmental) or judicial authorities when required by law or regulation, or when the authorities or bodies request us to do so; and
+ In some instances, we may also share personal data with our suppliers, including CACEIS Group companies and other business partners, such as IT and hosting providers, communication services and printing providers, legal advisors, auditors and consultants. We ensure that any supplier meets our data security standards and hence your personal data remains secure.
+
+6. TRANSFERS OF PERSONAL DATA OUTSIDE THE EUROPEAN ECONOMIC AREA (EEA)
+6.1 Given the international dimension of the CACEIS Group and in certain limited circumstances, we may or may have to transfer personal data to a country outside the EEA in the course of our services and activities performed to our clients either to comply with some local regulations or in order to enhance the quality and time efficiency of our services.
+6.2 In case of international transfers of personal data to a non-EEA country, we ensure that the transferred personal data is protected with adequate levels of data protection and appropriate measures in accordance with the GDPR and the European Commission's decisions and guidelines.
+6.3 We may also have to disclose personal data upon request to the official bodies and administrative or judicial authorities of a country located outside the EEA, in particular in the context of money laundering and terrorist financing. We do so in strict compliance with applicable law.
+
+7. HOW LONG DO W E KEEP PERSONAL DATA
+7.1 We retain personal data for as long as necessary to fulfil the purposes for which it was collected and processed as mentioned above. We retain also your personal data for such other period necessary for us to meet applicable legal and regulatory obligations.
+7.2 We retain in particular your personal data according to applicable mandatory retention obligations and periods required by law and professional standards (including but not limited to storage periods provided
+
+Confidential CACEIS - DATA PRIVACY NOTICE ­ MAY 2018
+
+- 4-
+
+Confidential
+
+for by accounting maintenance standards, local civil and commercial laws, Know Your Customer rules (KYC), prevention of the use of the financial system for the purpose of money laundering and terrorism financing (AM L) or technical regulations such as SFTR, EM IR, M iFID 2.
+7.3 M ore generally, we retain personal data, information and records in relation to a client for the duration of the contractual relationships with such client plus a certain number of years after the end of the contractual relationships as required by law or to protect CACEIS' interests against potential judicial claims or judicial requests.
+8. YOUR RIGHTS RELATING TO PERSONAL DATA
+8.1 In accordance with GDPR, you have the following rights in respect of your personal data :
+8.1.1 The right to access your personal data: you have the right to know if we hold and process some of your personal data and to access the personal data that we hold about you upon request.
+8.1.2 The right to rectify any incomplete or inaccurate personal data : you have the right to request that the personal data you consider inaccurate or incomplete be modified ;
+8.1.3 In some limited circumstances where the processing of personal data is no longer necessary in relation to the purposes for which they were collected or the accuracy of the personal data is contested by you:
+ The right to object or ask for a restriction on the use of your personal data, on grounds relating to your particular situation; you are entitled to object to certain processing of your personal data such as direct marketing. We stop such processing unless it is necessary to maintain it for the legitimate purposes listed above;
+ The right to opt out of any marketing communication as well as CACEIS' legal and regulatory watch newsletters. You can opt out at any time by contacting us;
+ The right to request us to erase your personal data provided that no regulatory or contractual provisions or other legitimate purposes (as listed above) require us to maintain records of your personal data; and
+ The right to data portability and transfer the personal data to another controller where technically feasible and where it does not affect the provision of our activities and services.
+8.2 To exercise your rights, please contact us at the address and email detailed in the Section 10 "How to contact us". We will respond to you as soon as practicable in accordance with the GDPR.
+8.3 In the context of CACEIS' contractual relationship with corporate entities, please be aware that should you wish to exercise your rights, CACEIS' data protection officer ("DPO") may have to contact the data protection officer of your company to coordinate your request.
+9. YOUR RIGHT TO COMPLAIN AND RAISE QUESTIONS TO DATA PROTECTION AUTHORITIES
+You have the right to raise any questions or lodge a complaint about the processing of your personal data with the relevant data protection authority of your home M ember State or of the M ember State where you consider the breach of your rights under GDPR occurred.
+
+Confidential CACEIS - DATA PRIVACY NOTICE ­ MAY 2018
+
+- 5-
+
+Confidential
+10. CONTACT US 10.1 Should you request further details on the processing of your personal data or if you wish to exercise
+your rights or if you have any specific queries regarding the processing of your personal data, you can contact CACEIS' DPO as follows:
+ by email on the following address: caceisdpo@caceis.com or
+ by post at: DPO (Data Protection Officer) - 1-3, place Valhubert 75013 Paris - FRANCE
+11. STATUS OF AND AMENDMENTS TO THIS NOTICE This Notice is current as of M ay 2018 in compliance with GDPR. It aims to inform you, as data subjects, about CACEIS's organisation regarding personal data processing and your rights according to GDPR. It is not a binding document. This Notice is subject to update and amendment from time to time. Although we may request our clients to inform you about that update, we may not be able to personally notify you. We kindly ask you to review the CACEIS website from time to time for possible changes.
+
+*
+
+*
+
+*
+
+Confidential CACEIS - DATA PRIVACY NOTICE ­ MAY 2018
+
+- 6-
+
+

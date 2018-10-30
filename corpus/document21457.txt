@@ -1,0 +1,248 @@
+Privacy Notice European Union & United Kingdom Residents
+Effective Date: May 25, 2018
+The Society for Laboratory Automation and Screening ("SLAS", "we", "us", or "our") respects your privacy and is committed to protecting it through our compliance with this Privacy Notice. This Privacy Notice describes the categories of Personal Data we may collect and process from European Union ("EU") and United Kingdom ("UK") residents online and offline, and Personal Data (defined below) we receive about EU and UK residents from third-parties.
+Please read this Privacy Notice carefully to understand our policies and practices regarding how we will treat your Personal Data. If our policies and practices regarding your Personal Data change, we will update this Privacy Notice.
+This Privacy Notice is provided in a layered format so you can click through to the specific areas set out below.
+1. WHAT PERSONAL DATA WE COLLECT ABOUT YOU 2. HOW WE COLLECT YOUR PERSONAL DATA 3. HOW WE PROCESS YOUR PERSONAL DATA 4. TO WHOM YOUR PERSONAL DATA IS DISCLOSED 5. IN WHAT COUNTRIES IS YOUR PERSONAL DATA PROCESSED 6. HOW WE SECURE YOUR PERSONAL DATA 7. HOW LONG WE STORE YOUR PERSONAL DATA 8. WHAT ARE YOUR PERSONAL DATA LEGAL RIGHTS 9. WHAT PRIVACY PRACTICES APPLY TO THIRD-PARTY LINKS ON OUR WEBSITES 10. GLOSSARY 11. HOW TO CONTACT US
+1. WHAT PERSONAL DATA WE COLLECT ABOUT YOU
+The categories of Personal Data we may collect about you may include:
+· Identity including first name, last name, username or similar identifier, title, date of birth and gender. · Contact including organization, address, email addresses and telephone numbers. · Financial including bank account, payment card details, tax ID number and related tax forms. · Transaction including details about payments to and from you and other details of products and
+services you purchase from us. · Technical including internet protocol (IP) address, your login data, browser type and version, time
+zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+
+Page 1 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+· Profile including your username and password on our website, your current or past purchases or orders, volunteer and committee history, demographics your professional interests, communication and other preferences, professional background, feedback and survey responses.
+· Travel including destinations, transportation and hotel schedules, travel and accommodation preferences and reservation details, passport and visa details.
+· Usage including information about how you use our website, products and services. · Marketing and Communications including your preferences in receiving marketing information from
+us and third parties with whom we partner. · Photographs and Recordings including photographs, video and audio recordings in which you are
+identifiable. · Health limited to information related to a request for a dietary or accessibility accommodation. · Criminal information regarding criminal convictions.
+We also process aggregated data, which is data derived from your Personal Data for statistical purposes. Aggregated data is not considered Personal Data because it does not directly or indirectly reveal your identity. We are not required to maintain, acquire, or possess information to identify you in all circumstances. This Privacy Notice does not restrict our collection and processing of aggregated data. However, if we combine or connect aggregated data with your Personal Data in such a way that it can directly or indirectly identify you, we treat the combined data as Personal Data, which will only be processed in accordance with this Privacy Notice.
+Data We Do Not Collect. Except as identified below, and then, only with your consent, we do not collect any Special Categories of Personal Data (as defined by the GDPR) about you (i.e., details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data).
+If you request an accommodation because of your health or a disability at an SLAS-sponsored event, we may need some information regarding your health to assess your request and possible accommodations. Whether you provide this information is your choice and we will only collect this information with your consent. We do not knowingly collect information about your health from anyone other than you.
+Neither our website, nor any of the products or services we provide, are intended for anyone under the age of 16. We do not knowingly collect or process Personal Data from children under age 16. If you are under age 16, do not provide any information about yourself to us. If we learn we possess Personal Data from a child under age 16 without verification of parental consent, we will delete that data. If you believe we possess Personal Data of anyone under age 16, please contact us as set forth in Section 11 below.
+2. HOW WE COLLECT YOUR PERSONAL DATA
+As discussed in this Section, we use a variety of methods to collect your Personal Data:
+Data You Provide Us. You may give us your Personal Data both online and offline by submitting forms to us, or by corresponding with us, through our websites (i.e., SLAS.org, SLAS.org/europe, etc.), email, phone, or other means. Examples of when you may provide us Personal Data, include when you:
+
+Page 2 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+· register for membership; · register for our events; · register and use our mobile application(s); · purchase our products or services; · create an account or member profile on our websites; · subscribe to our publications; · request marketing materials from us; · enter search queries on our websites; · enter a competition or promotion provided by us; · apply for an award, grant or scholarship; · register for networking opportunities; · provide it to us at an event or meeting; · provide us with formal or informal feedback; · volunteer; · submit abstracts or manuscripts for review; · present a podium presentation or poster at an event; · provide information in connection with a journal article to be published by SLAS; · request travel arrangements through SLAS including hotel and airline reservations; · contract to provide us products or services; · contract for exhibition space or sponsorship and related services; or · contact us.
+You may also provide information to be published or displayed (collectively "post" or "posted") on various areas of our websites, or transmitted to other users of our websites or third parties (collectively "User Contributions"). All areas of the websites in which User Contributions are posted should be considered public and not confidential, even if those areas are limited to a particular audience. Once you post a User Contribution, you should assume everyone in the world can see it and will have access to it and you will be unable to delete or revise it. In addition, we have no control over what other users of the websites may do with your User Contributions. Accordingly, you should not post anything you wish to keep confidential or are required by law or otherwise to keep confidential. YOU ARE SOLELY RESPONSIBLE FOR WHAT YOU POST AND FOR THE CONSEQUENCES OF YOUR USER CONTRIBUTIONS POSTED ON OUR WEBSITES.
+You may choose to download our Mobile Application(s) to your mobile device (e.g., cell phone, tablet). To use our Mobile Application, you must create a user profile containing Identity, Contact and Profile Data ("User Profile"). In the Mobile Application(s) setup and in the Mobile Application(s) settings, you can choose to make your User Profile public and allow other parties who download the Mobile Application(s) to view: (i) your User Profile, and (ii) your event "check-ins" using the Mobile Application(s), and (iii) your participation in games within the Mobile Application.
+Data We Collect Through Automatic Data Collection Technology. As you navigate through and interact with our websites, we may use automatic data collection technology to collect certain information about you, your equipment, and your browsing actions and patterns, including: (i) whether you are a new or existing user; (ii) content viewed; (iii) frequency, duration, and date of content viewed; (iv) your searches; (v) your IP
+
+Page 3 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+address; (vi) your operating system; (vii) your device type; (viii) your network; (ix) your browser type; and (x) your server connection speed.
+We may also use this technology to collect information about your online activities over time.
+
+The technology we use for this automatic data collection may include:
+
+· Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer and are widely used to make websites work efficiently as well as provide information to the owners of the site. SLAS may also utilize re-marketing and re-targeting tracking cookies to permit certain third party companies (such as Google AdWords, Twitter, LinkedIn and Facebook) to help us deliver advertisements and special promotions across their advertisement networks to you. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of our websites. Unless you have adjusted your browser setting so it will refuse cookies, our system will issue cookies when you direct your browser to our websites.
+· Web Beacons. Pages of our websites and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages, or opened an email, and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+
+Third parties or publicly available sources. We may process your Personal Data that is collected from various third parties and public sources, as follows:
+
+Categories of Personal Data Collected Identity and Contact Data Identity and Contact Data
+Identity, Contact, Financial, Technical, Profile, Travel, Usage, Marketing and Communications, Photographs and Recordings and Criminal Data Identity, Contact, Profile, Financial, and Travel Data Identity, Contact and Profile Data
+
+Third-Party Sources Publicly available sources (e.g., LinkedIn, Facebook) Employer (e.g., where you are an employee of an organization with whom we contracted and that organization lists you as their contact for the contract) Contractors we engage to collect information from you on our behalf.
+Individuals who register you for SLAS membership or for an SLAS event Co-authors who submit abstracts or articles for which you are a co-author
+
+3. HOW WE PROCESS YOUR PERSONAL DATA
+
+Page 4 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+After collecting your Personal Data, we process it in one or more ways. Processing includes operations performed on Personal Data, including collecting, recording, organizing, structuring, storing, altering, retrieving, consulting, using, disclosing, restricting, erasing or destroying the same.
+
+We will only process your Personal Data when we have a lawful basis to do so. Most commonly, we will process your Personal Data in the following circumstances:
+· Where processing is necessary for the performance of a contract we have with you, or in order to take steps at your request prior to entering into a contract with you;
+· Where processing is necessary for the purpose of our legitimate interests, except where our interests are overridden by your interests or fundamental rights and freedoms;
+· Where processing is necessary for our compliance with a legal obligation; or · Where you provide consent to the processing for specific purposes.
+
+Purposes for Which We Will Process Your Personal Data. The following table depicts how we may process your Personal Data, and the lawful bases upon which we rely. As noted below, we may rely on different lawful bases to process your Personal Data.
+
+Purpose/Activity
+
+Personal Data Categories
+
+To provide you with contracted products or services. Examples include: Membership in SLAS, access to an SLAS event, fulfillment of publication subscriptions, etc.
+Marketing SLAS products and services to you
+
+Identity Contact Financial Transaction Travel Identity Contact Marketing and Communications Profile Usage Technical
+
+To share your personal data with other organizations and individuals to contact you about their goods and services, including by scanning your registration badge for a given exhibitor at our conferences To enable you to participate in a prize drawing, competition, or complete a survey
+To analyze how individuals use our products/services to identify areas for improvement or develop new products
+
+Identity Contact Marketing and Communications Profile
+Identity Contact Profile Usage Marketing and Communications Identity Profile Transaction History Usage Technical Travel
+
+Lawful Basis for Processing, Including Basis of Legitimate Interest Contract
+Legitimate Interest (marketing our goods and services to individuals with whom we have an existing or prior relationship such as current or past membership, manuscript or abstract submissions or event attendance and to advance our organization and its purpose Consent
+Legitimate Interest (to study how customers use our products/services, to develop them and to advance our organization and its purpose)
+Legitimate Interest (to study how individuals use our products/services, to improve or develop them and to advance our organization and its purpose)
+
+Page 5 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+To maintain a historical record of our events and activities
+To report on our events and activities
+
+Identity Contact Transaction Photographs and Recordings Identity Contact Photographs and Recordings
+
+To promote our organization, its purpose, and its events and activities
+To record (audio and/or video) educational content for future distribution by SLAS
+To assess your request for accommodations based on your health or a disability To enable you to volunteer for SLAS
+
+Identity Contact Profile Usage Technical Photographs and Recordings Identity Data Contact Data Photographs and Recordings Identity Contact Health Identity Contact Profile Travel
+
+To enable you to provide contracted products or services to us
+
+Identity Contact Financial Transaction
+
+To enable your employer to provide contracted products or services to us
+
+Identity Contact
+
+To enable you to provide us content, including but not limited to presenting a speech, poster, podium talk, presentation, or article
+
+Identity Contact Transaction Travel
+
+To enable us to use and publish the content you provide us
+To enable you to participate in SLAS awards and grants programs
+
+Identity Contact Profile Photographs and Recordings Identity Contact Profile Travel
+
+To enable you to submit abstracts for
+
+Identity
+
+presentation or manuscripts for publication Contact
+
+Legitimate Interest (to maintain a historical record of our events and activities) Legitimate Interest (to report on our events and activities; promote our events and activities, our organization and its purpose; and maintain a historical record of our events and activities) Legitimate Interest (to promote our organization, its purpose, and its events and activities to individuals with whom we have a relationship)
+Consent
+Consent
+Legitimate Interest (to advance and promote our organization, its purpose, and its events and activities with the assistance of volunteers) Contract
+Legitimate Interest (to receive products or services to advance our organization, its purpose, and its events and activities) Contract
+Contract
+Contract
+Contract
+
+Page 6 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+To enhance performance of the SLAS websites and personalize your experience on the websites through the use of cookies To deliver advertisements and special promotions to you across third-party advertisement networks (i.e. Google AdWords, Twitter, LinkedIn, Facebook) through the use of cookies To include it in your User Profile
+To facilitate networking between our members and other individuals involved in our events and activities
+To manage our relationship with you, including changes to our policies, including this privacy notice, and to obtain your consent, if necessary
+
+Profile Technical Technical
+Technical
+Identity Contact Profile Marketing and Communications Identity Contact Profile
+Identity Contact Profile Transaction
+
+Legitimate Interest (to enhance performance and personalize your experience on SLAS websites) Legitimate Interest (marketing our goods and services to individuals who demonstrated an interest in our organization, in order to advance our organization and its purpose) Contract
+Legitimate Interest (facilitate networking between our members and other individuals involved in our events and activities) Legal
+
+To request your consent, if the lawful basis for processing your personal data is consent
+To create, maintain, and update our websites, information technology, communication systems, and databases To perform criminal background checks as required by specific SLAS programs
+To comply with legal requirements
+To enforce the terms and conditions of our agreements and policies; defend against legal action taken against us or our affiliates; protect our rights, security, property, and operations, and the rights, security, property and/or operations of our affiliates, you or others
+
+Identity Contact Profile Transaction Identity Contact Technical Identity Contact Profile Criminal Identity Contact Financial Transaction Technical Profile Usage Marketing and Communications Health Identity Contact Financial Transaction Technical Profile Usage Marketing and Communications Health
+
+Legitimate Interest (obtain consent, when necessary, for processing of personal data from individuals with whom we have a relationship) Legitimate interest (operating our organization and necessary services) Consent
+Legal
+Legitimate Interest (operating our organization)
+
+Page 7 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+Processing for Contracts. In order for us to perform a contract to which you are a party, we may need to process your Personal Data. If you fail to provide the Personal Data necessary for us to perform a contract, we will be unable to provide the products or services under the contract. However, our performance of a contract, including the provision of a service, will never be conditioned on your consent to the processing of Personal Data that is not necessary for the performance of the contract.
+Change of Purpose. If we decide to process your Personal Data for a purpose other than that for which it was collected, we will provide you, prior to further processing, additional information regarding the new purpose to ensure the Personal Data is processed fairly and transparently and in accordance with applicable law.
+4. TO WHOM YOUR PERSONAL DATA IS DISCLOSED
+We may provide your Personal Data to the following third parties:
+· Our employees; · Our third-party service providers who provide services to us, including:
+o Membership registration; o Event registration; o Abstract, award or manuscript submission and review processing; o Author and speaker acceptance; o Data analysis; o Surveys and focus groups; o Mobile applications; o Volunteer communications; o Connecting members or conference participants electronically; o Payment processing; o Tax form filing; o Distribution of postal or email communications; o Photography, video and audio recording; o Hotel or transportation reservations; o Personalized advertising; o Exhibitor services. · A successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other transfer of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceedings; · Third parties to market their products or services to you, only if you consent; · Government authorities and other persons, to the extent required by applicable law; and/or
+5. IN WHAT COUNTRIES IS YOUR PERSONAL DATA PROCESSED
+
+Page 8 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+Your Personal Data may be processed in the following countries outside of the European Economic Area and European Union for which the European Commission determined either do or do not have adequate data privacy safeguards.
+
+Country USA Switzerland
+
+Adequate Data Privacy Safeguards No Yes
+
+6. HOW WE SECURE YOUR PERSONAL DATA
+Taking into account the state of the art, costs of implementation, nature, scope, context and purpose(s) of processing, as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, we implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk. Unfortunately, the transmission of information via the internet is not completely secure, but we do our best to protect your Personal Data.
+
+7. HOW LONG WE STORE YOUR PERSONAL DATA
+We will retain your Personal Data for as long as necessary to fulfil the purposes for which we collected it; including to satisfy any legal, accounting, or reporting requirements. To determine the appropriate retention period for Personal Data, we consider the amount, nature, and sensitivity of the Personal Data, the potential risk of unauthorized use or disclosure of your Personal Data, the purposes for which we process your Personal Data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+In some instances, you may ask us to delete your Personal Data. For more information, see Request Erasure of your Personal Data below for further information.
+In some instances, we may anonymize your Personal Data (so it can no longer be associated with you) for research or statistical purposes; in which case, we may use this information indefinitely without further notice to you.
+
+8. WHAT ARE YOUR PERSONAL DATA LEGAL RIGHTS
+You have certain rights with respect to your Personal Data under the General Data Protection Regulation (GDPR). Please click on the links below to find out more about these rights:
+Request access to your Personal Data Request correction of your Personal Data Request erasure of your Personal Data Object to processing of your Personal Data Request restrictions on the processing of your Personal Data
+
+Page 9 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+Request the transfer of your Personal Data Withdraw consent to process your Personal Data
+How to exercise your rights:
+· You can always Contact Us to exercise your legal rights.
+· In connection with certain communications from us, we may provide you with a mechanism to optout of receiving similar communications from us in the future.
+· In some instances, we may provide you with an online portal through which you can make certain choices about how we process your Personal Data.
+· As discussed above, with respect to cookies, you may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of our websites.
+· You have the right to lodge a complaint with an appropriate supervisory authority if you believe our processing of your Personal Data is inconsistent with the requirements of applicable law.
+Usually, There Is No Fee Required To Exercise Your Personal Data Rights. You will not have to pay a fee to excise your rights, nor is the purchase of products or services a condition for you to exercise your rights. You are also entitled to receive a copy of your Personal Data undergoing processing. However, if in exercising your rights, your request is unfounded, repetitive or excessive, we may charge reasonable fees taking into account the administrative costs of providing the information or taking the requested action. We may also refuse to act on the request. If you request more than one copy of your Personal Data, we may also charge you reasonable fees based on our administrative costs to provide you copies.
+What We May Need From You. When we have reasonable doubts concerning the identity of an individual making a request to exercise his/her rights, we may request additional information necessary for us to confirm the requestor's identity.
+Our Response. Within one month of receiving a request to exercise your rights, we will perform the requested action and/or acknowledge your request. If, based on the complexity and number of your requests or if we require additional time to verify the accuracy of your Personal Data, we require more than one month to perform the requested action, we will inform you that we require additional time and provide the reasons additional time is necessary. If your request to us is by electronic means, we will respond by electronic means, unless you request that we respond in a different manner.
+If we refuse to perform any requested action because doing so would be inconsistent with applicable law, this Privacy Notice, or for any other reason, we will provide you an explanation for our refusal.
+9. WHAT PRIVACY PRACTICES APPLY TO THIRD-PARTY LINKS ON OUR WEBSITES
+
+Page 10 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+Our websites may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control third-party websites and are not responsible for their privacy practices. If you would like to know about a particular website's practice, we encourage you to read their privacy notice.
+10. GLOSSARY
+YOUR LEGAL RIGHTS
+You have the Legal Right to:
+Request access to your Personal Data. This enables you to be informed whether we are processing your Personal Data, and if we are, receive access to the Personal Data and the following information: (i) the purpose of the processing; (ii) the Personal Data categories; (iii) the recipients or categories of recipients to whom the Personal Data have been or will be disclosed - in particular, recipients in third countries or international organizations; (iv) where possible, the envisaged period for which the Personal Data will be stored, or, if not possible, the criteria used to determine that period; (v) the existence of the right to request from us rectification or erasure of Personal Data or restriction of processing of Personal Data concerning you or to object to such processing; (vi) the right to lodge a complaint with a supervisory authority; (vii) where your Personal Data is not collected from you, any available information as to the source of your Personal Data; and (viii) the existence of automated decision-making, including profiling, referred to in GDPR Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for you.
+Request correction of the Personal Data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected and submit a supplementary statement to us.
+Request erasure of your Personal Data. This enables you to ask us to erase Personal Data when : (i) processing the Personal Data is no longer needed for the purposes for which it was collected or otherwise processed; (ii) the Personal Data was obtained based on consent, and we possess no other legal ground for processing; (iii) the Personal Data was processed based on our legitimate interests, and there are no overriding legitimate grounds for processing; (iv) the Personal Data is processed for direct marketing purposes; (v) the Personal Data has been unlawfully processed; or (vi) the Personal Data must be erased to comply with our legal obligation. Note, however, we may not be able to comply with your request of erasure for specific legal reasons, which reasons will be communicated to you, if applicable, in response to your request.
+Object to processing of your Personal Data. This enables you to object to the processing of your Personal Data where we are relying on a legitimate interest (or those of a third party) and there is something about your situation that makes you feel the processing impacts your fundamental rights and freedoms. You also have the right to object where we are processing your Personal Data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your Personal Data which override your interests, rights, and freedoms.
+
+Page 11 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+Request restriction of processing of your Personal Data. This enables you to ask us to suspend the processing of your Personal Data in the following scenarios if: (i) you want us to establish your Personal Data's accuracy; (ii) our processing of your Personal Data is unlawful but you do not want us to erase it; (iii) you need us to hold Personal Data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (iv) you objected to our processing of your Personal Data but we need to verify whether we have overriding legitimate grounds to process the same.
+Request the transfer of your Personal Data. We will provide you, or a third party you chose, your Personal Data in a structured, commonly used, machine-readable format. Note this right only applies to automated information you initially provided consent for us to process or where we used your Personal Data to perform a contract with you.
+Withdraw consent at any time where we are relying on consent to process your Personal Data. This enables you to withdraw your consent to process your Personal Data. However, your withdrawal of consent does not affect the lawfulness of any processing carried out before the withdrawal.
+11. HOW TO CONTACT US
+We are the controller and are responsible for your Personal Data that we process. If you have any questions about this Privacy Notice, including any requests to exercise Your Legal Rights, please contact us at:
+Society for Laboratory Automation and Screening Brenda Dreier, Chief Operating Officer 100 Illinois Street, Suite 242 Saint Charles, IL 60174 USA slas@slas.org
+Provided we can confirm your identity, we will also provide information regarding your rights over the phone if you contact us at +1.630.256.7527.
+
+Page 12 of 12
+
+SLAS European Union and United Kingdom Privacy Notice
+
+

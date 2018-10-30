@@ -1,0 +1,442 @@
+October 25, 2018
+FCC FACT SHEET* Modernization of Media Regulation Initiative: Electronic Delivery of MVPD Communications
+Report and Order ­ MB Docket Nos. 17-105 and 17-317
+Background: The FCC regulates cable operators' communications with their subscribers and other parties under Subpart T of its rules, 47 CFR § 76.1600, et seq. These rules require cable operators to provide written information or written notices to their subscribers about various topics. In June 2017, the Commission issued a Declaratory Ruling clarifying that the written information provided to subscribers annually pursuant to Section 76.1602(b) of the Commission's rules may be provided via e-mail, subject to certain safeguards. Commenters in the Commission's Modernization of Media Regulation Initiative proceeding requested that the Commission modernize Subpart T more generally and allow additional notices to be sent via e-mail. In December 2017, the Commission issued a Notice of Proposed Rulemaking (NPRM) seeking comment on allowing other written notifications from cable operators to subscribers to be delivered via e-mail, updating certain Subpart T requirements to reflect technological and other changes, and permitting cable operators to reply to certain consumer requests and complaints via e-mail. The NPRM also sought comment on whether and how to update the requirements that broadcast stations send carriage election notices to cable or satellite operators via certified mail.
+What the Order Would Do:
+· To reduce paper use and reduce economic and administrative burdens, adopt a rule allowing certain written communications from cable operators to subscribers required by Subpart T to be delivered to a verified e-mail address with an opt-out mechanism enabling customers to continue receiving paper notices if they wish to do so.
+· ·To reduce paper use and reduce economic and administrative burdens, adopt a rule allowing subscriber privacy notifications required pursuant to Sections 631, 338(i), and 653 of the Communications Act to be delivered to a verified e-mail address with an opt-out mechanism enabling customers to continue receiving paper notices if they wish to do so.
+· Allow cable operators to respond to certain consumer requests and billing dispute complaints by e-mail if the consumer used e-mail to make the request or complaint or if the consumer specifies e-mail as the preferred delivery method in the request or complaint.
+· Eliminate Sections 76.1621 and 76.1622 of our rules, which require cable operators to provide notice to subscribers regarding cable equipment compatibility issues, in light of technological advances and market changes in the cable industry.
+· Determine that carriage election notice issues will be addressed in a subsequent action in this docket.
+* This document is being released as part of a "permit-but-disclose" proceeding. Any presentations or views on the subject expressed to the Commission or its staff, including by email, must be filed in MB Docket No 17-317, which may be accessed via the Electronic Comment Filing System (https://www.fcc.gov/ecfs/). Before filing, participants should familiarize themselves with the Commission's ex parte rules, including the general prohibition on presentations (written and oral) on matters listed on the Sunshine Agenda, which is typically released a week prior to the Commission's meeting. See 47 CFR § 1.1200 et seq.
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+Before the Federal Communications Commission
+Washington, D.C. 20554
+
+In the Matter of
+
+)
+
+)
+
+Electronic Delivery of MVPD Communications ) MB Docket No. 17-317
+
+)
+
+Modernization of Media Regulation Initiative
+
+) MB Docket No. 17-105
+
+REPORT AND ORDER*
+
+Adopted: []
+
+Released: []
+
+By the Commission:
+
+I.
+
+INTRODUCTION
+
+1. In this Report and Order, we modernize our rules regarding certain information that cable operators currently are required to provide to their subscribers on paper. As explained below, we will permit these notices to instead be provided electronically via verified email, so long as the cable operator complies with certain consumer safeguards. We also permit electronic delivery of subscriber privacy information that cable operators and other multichannel video programming distributors (MVPDs) are required to provide. In addition, we authorize cable operators to respond to consumer requests and complaints via email in certain circumstances. Finally, we eliminate Sections 76.1621 and 76.1622 of our rules because they are outdated. This decision continues the Commission's efforts to modernize our regulations and reduce unnecessary requirements that can impede competition and innovation in the media marketplace.1
+
+II. BACKGROUND
+
+2. The rules at issue in this proceeding are set forth in Subpart T of Part 76 and require cable operators to communicate certain information to their subscribers in writing.2 The Subpart T rules were adopted to implement Congress's directive, in the Cable Television Consumer Protection and Competition Act of 1992 (1992 Cable Act), that the Commission adopt customer service standards for
+
+* This document has been circulated for tentative consideration by the Commission at its November 2018 open meeting. The issues referenced in this document and the Commission's ultimate resolutions of those issues remain under consideration and subject to change. This document does not constitute any official action by the Commission. However, the Chairman has determined that, in the interest of promoting the public's ability to understand the nature and scope of issues under consideration, the public interest would be served by making this document publicly available. The Commission's ex parte rules apply and presentations are subject to "permit-butdisclose" ex parte rules. See, e.g., 47 CFR §§ 1.1206, 1.1200(a). Participants in this proceeding should familiarize themselves with the Commission's ex parte rules, including the general prohibition on presentations (written and oral) on matters listed on the Sunshine Agenda, which is typically released a week prior to the Commission's meeting. See 47 CFR §§ 1.1200(a), 1.1203.
+1 See Commission Launches Modernization of Media Regulation Initiative, Public Notice, 32 FCC Rcd 4406 (MB 2017) (initiating a review of rules applicable to media entities to eliminate or modify regulations that are outdated, unnecessary, or unduly burdensome).
+2 47 CFR §§ 76.1601 et seq. The specific Subpart T rules at issue are discussed in more detail in the Notice of Proposed Rulemaking (NPRM) in this proceeding. Electronic Delivery of MVPD Communications, Modernization of Media Regulation Initiative, Notice of Proposed Rulemaking, 32 FCC Rcd 10755 at 10755-10757, para. 2 (2017) (addressing Sections 76.1601, 76.1602, 76.1603, 76.1604, 76.1618, 76.1620, 76.1621, and 76.1622) (NPRM).
+1
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+cable operators.3 In the 1992 Cable Act, Congress amended Section 632 of the Communications Act of 1934 (Act) to require the Commission to "establish standards by which cable operators may fulfill their customer service requirements" and specified that "[s]uch standards shall include, at a minimum, requirements governing ... communications between the cable operator and the subscriber (including standards governing bills and refunds)."4
+3. In June 2017, the Commission issued a Declaratory Ruling that interpreted the written communication requirement of one section of Subpart T to be satisfied by electronic delivery of written material to subscribers.5 Specifically, the Commission determined that cable operators may comply with Section 76.1602(b) of the Commission's rules, which requires cable operators to provide annual notices containing a variety of information about their service offerings, by distributing notices via email to a verified email address so long as the operator provides a mechanism for customers to opt out of email delivery and continue to receive paper notices.6 The Commission concluded that emails, "by their very nature, convey information in writing" and therefore it is reasonable to interpret the term "written information" in Section 76.1602(b) to include information delivered by email.7 The Commission also found that the benefits of permitting email delivery include the positive environmental aspects of saving substantial amounts of paper annually, increased efficiency, and enabling customers to more readily access accurate information regarding their service options.8 In addition, the Commission found that Section 632(b) of the Act "provides the Commission with broad authority to `establish standards by which cable operators may fulfill their customer service requirements.'"9 In the wake of this Declaratory Ruling, a number of commenters in the Media Modernization proceeding asked the Commission to consider permitting electronic delivery of the information required to be provided to cable subscribers in other Subpart T rules, as well as to consider other changes to the rules in Subpart T.
+4. In response to the proposals in the Media Modernization proceeding, the Commission adopted the Notice of Proposed Rulemaking (NPRM) in this proceeding in December 2017.10 The NPRM proposed to allow additional types of Subpart T communications from cable operators to subscribers to be delivered electronically, if they are sent to a verified email address and the cable operator complies with other consumer safeguards.11 These rules cover, among other things, information about channel deletions; service change notices; contact information for local franchise authorities; notice of charges for various services and service changes; and information about the basic service tier, broadcast signal
+
+3 Pub. L. No. 102-385, 106 Stat. 1460 (1992) (1992 Cable Act).
+4 47 U.S.C. § 552(b)(3).
+5 See National Cable & Telecommunications Association and American Cable Association, Petition for Declaratory Ruling, Declaratory Ruling, 32 FCC Rcd 5269 (2017) (2017 Declaratory Ruling). The Declaratory Ruling granted a petition for declaratory ruling filed by NCTA ­ The Internet and Television Association (NCTA) and the American Cable Association (ACA). See Petition for Declaratory Ruling of National Cable & Telecommunications Association and American Cable Association, MB Docket No. 16-126 (filed Mar. 7, 2016) (requesting clarification that the written information that cable operators must provide to their subscribers pursuant to Section 76.1602(b) of the Commission's rules may be provided via electronic distribution).
+6 See 2017 Declaratory Ruling, 32 FCC Rcd at 5269, para. 6. See 47 CFR § 76.1602(b) (requiring cable operators to provide certain written information about their service offerings to subscribers annually, at the time of installation, and at any time upon request).
+7 Id.
+8 Id.
+9 Id. at para. 7 (citing 47 U.S.C. § 552(b)(3)).
+10 NPRM, 32 FCC Rcd 10755.
+11 Id. at 10759-10764, paras. 6-18.
+2
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+availability, and consumer equipment compatibility.12 In addition, the NPRM tentatively concluded that we should adopt a new rule permitting electronic delivery of certain statutorily required subscriber privacy notifications. Section 631 of the Act requires a cable operator to "provide notice in the form of a separate, written statement to such subscriber which clearly and conspicuously informs the subscriber of" certain privacy protections. Section 338(i) of the Act imposes the same requirement on satellite providers, and Section 653(c)(1)(A) of the Act imposes this requirement on Open Video System (OVS) providers.13 The NPRM sought comment on approaches for permitting electronic delivery of all of these written communications.14 The Commission also proposed to permit cable operators to reply to consumer requests or complaints by email in certain circumstances.15
+
+5.
+
+Finally, the NPRM proposed to eliminate Section 76.1621 of the Commission's rules,16
+
+which requires cable operators to offer and provide upon request to subscribers equipment that will enable
+
+the simultaneous reception of multiple signals,17 and sought comment on how best to modernize, and the
+
+extent to which we should eliminate, Section 76.1622,18 which requires cable operators to provide a
+
+consumer education program on equipment and signal compatibility matters to subscribers upon initial
+
+subscription and annually thereafter.19
+
+III. DISCUSSION
+
+6.
+
+We adopt the Commission's proposal to permit electronic delivery of all general
+
+subscriber notices required under Subpart T, if they are sent to a verified email address and the cable
+
+operator complies with other consumer safeguards. In order to harmonize our existing customer notice
+
+rules with the statutory privacy notice obligations noted above, we extend the same verified email
+
+delivery option to those privacy notices.20 In addition, we adopt the proposal to allow cable operators to
+
+respond to consumer requests or billing dispute complaints by email, if the consumer used email to make
+
+the request or complaint or if the consumer specifies email as the preferred response method. Finally, we
+
+eliminate Sections 76.1621 and 76.1622.
+
+A. Electronic Distribution of Notices to Subscribers
+
+7. We find verified email to be a reasonable means of delivering the general subscriber notices required under Subpart T,21 and adopt a rule to permit such delivery. This approach will ensure
+
+12 The general notice rules in Subpart T of Part 76 are sections 76.1601 (channel deletion/repositioning); 76.1602 (annual notices, which can already be sent via email pursuant to the 2017 Declaratory Ruling, and signal quality complaint procedures/local franchise authority contact information); 76.1603 (rate and service change notices); 76.1604 (notice of charge for frequent change of service tiers); 76.1618 (basic tier information where applicable); 76.1620 (list of broadcast signals not available without a converter box); and 76.1621 and 76.1622 (dealing with equipment compatibility, but see infra Section III.D, eliminating these sections).
+13 47 U.S.C. §§ 551(a)(1), 338(i), 573(c)(1)(a).
+14 NPRM, 32 FCC Rcd at 10760, 10761-10764, paras. 8, 11-17.
+15 Id. at 10764-10765, paras. 19-21.
+16 Id. § 76.1621.
+17 NPRM, 32 FCC Rcd at 10765-10766, para. 22.
+18 47 CFR § 76.1622.
+19 NPRM, 32 FCC Rcd at 10766-10767, paras 23-24. The NPRM also sought comment on how to update the requirement in Sections 76.64 and 76.44 of the Commission's rules that requires broadcast television stations to send carriage election notices via certified mail. Id. at 10755, 10767-10769, paras. 1, 25-27. That issue is not addressed in this Report and Order and will be addressed in a subsequent Report and Order in this docket.
+20 See Appendix A, New Rules (76.1200).
+21 See supra note 12.
+
+3
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+that consumers continue to receive required notices while also providing more flexibility for cable operators and helping the environment.22
+
+8. Every commenter addressing the issue agrees that cable operators "should be allowed to use verified email"23 for all Subpart T general customer notifications because "consumers increasingly prefer ... communicating electronically with their service providers"24 and because it will "reduce the economic and administrative burden" of paper mailings.25 The record also indicates that these reduced paper mailings will save "substantial amounts of paper annually," an environmental benefit that the Commission found compelling in the 2017 Declaratory Ruling.26 Commenters also do not dispute the Commission's authority to permit electronic delivery of Subpart T subscriber notices.27 NCTA argues that we should go beyond verified emails, and permit cable operators to communicate with subscribers using any "reasonable" electronic means.28 NCTA argues that "means of communicating with customers will continue to evolve over time just as customer preferences will evolve" and that "[c]able operators should not be locked into a single mode of electronic communications ... when these changes are foreseeable."29 NCTA suggests that any electronic method "reasonably intended" or "reasonably calculated" to reach subscribers should be permissible.30 Although it supports the use of electronic delivery, ACA argues that any change to our rules must not "increase the odds of customers not receiving notices," and therefore "supports application of the consumer safeguards adopted in the 2017 Declaratory Ruling," including the strict definition of what constitutes a "verified email," to additional Subpart T notice requirements.31
+
+9.
+
+We find it appropriate at this time to extend to all general Subpart T notices32 the same
+
+level of flexibility adopted in the 2017 Declaratory Ruling and will permit these notices to be provided to
+
+subscribers via email sent to a verified email address, so long as the cable operator complies with certain
+
+consumer safeguards. In the 2017 Declaratory Ruling, the Commission rejected the "reasonably
+
+calculated" standard, and we do not find any reason to change that conclusion here. We therefore decline
+
+at this time to adopt NCTA's suggestion that we adopt such a standard in this proceeding.
+
+10. We will apply the same approach to electronic delivery uniformly across all Subpart T general notice rules. The notice requirements contained in Subpart T stem from several different statutory provisions,33 and in the NPRM, the Commission asked whether it should take different approaches to
+
+22 Verizon argues that "LFAs should be barred from requiring paper delivery or imposing more stringent requirements for electronic delivery that are inconsistent with the regulations adopted by the Commission." Verizon Comments at 11-13. This proposal is outside the scope of this proceeding, and we decline to address it.
+23 NCTA Comments at 2; See also ACA Comments at 1-2, DISH Comments at 1, Verizon Comments at 1.
+24 AT&T Comments at 1.
+25 NTCA Comments at 1-2.
+26 Id. at 3-4, citing 2017 Declaratory Ruling, 32 FCC Rcd at 5269, para. 6.
+27 See, e.g., NCTA Comments at 5, AT&T Comments at 2.
+28 NCTA Comments at 7. See also NCTA April 30, 2018 Ex Parte at 1, n.1 (describing a meeting between NCTA, Comcast, Charter, and FCC Media Bureau staff).
+29 NCTA Comments at 7 (internal citations omitted). See also generally NCTA April 30, 2018 Ex Parte.
+30 NCTA Comments at 2, 7.
+31 ACA Comments at 5.
+32 See supra note 12.
+33 47 U.S.C. § 552(b) (providing the Commission with broad authority to "establish standards by which cable operators may fulfill their customer service requirements," including a requirement relating to "communications between the cable operator and the subscriber"); 47 U.S.C. § 552(c) (stating that "[a] cable operator may provide notice of service and rate changes to subscribers using any reasonable written means at its sole discretion"). The
+(continued....) 4
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+modernizing the rules based on the varying sources of statutory authority and the content of the notices required.34 Several commenters contend that having varying standards would be problematic. Verizon notes that a "mix-and-match-regime"35 "would simply cause consumer confusion and undermine the Commission's efforts to streamline the notification procedures."36 NCTA contends that "different treatment" for different types of notices "would unnecessarily inject confusion and complications into what otherwise is intended to be an effort to simplify, streamline, and modernize the process."37 We agree with these comments. After review of the record, we find that adopting one consistent approach, rather than requiring different approaches and decisions based on the content of the messages, is simpler and more intuitive for consumers, as well as more efficient for cable operators. To do otherwise risks confusing consumers who are understandably unlikely to be well versed in the variety of cable notices at issue. We also conclude that our approach satisfies the terms of each of the relevant statutory provisions.38
+11. We find that the general pro-consumer approach adopted in the 2017 Declaratory Ruling with respect to Section 76.1602(b) electronic notices is appropriate for all general Subpart T notice rules.39 First, cable operators must send notices to a verified email address. This e-mail address may be: (1) one that the subscriber has provided to the cable operator (and not vice versa) for purposes of receiving communication, (2) one that the subscriber regularly uses to communicate with the cable operator, or (3) one that has been confirmed by the subscriber as an appropriate vehicle for the delivery of notices.40
+12. Second, to enable subscribers to opt for paper delivery at any time, cable operators must "include an opt-out telephone number that is clearly and prominently presented to customers in the body of the originating e-mail that delivers the notices, so that it is readily identifiable as an opt-out option."41 ACA advocates a "uniform `opt-out' approach,"42 and no commenter supports an "opt-in" regime for any notice type, arguing that the burden of an opt-in regime would "defeat the purpose of the modernization
+(Continued from previous page) resulting Subpart T notice rules themselves are all very similar without being totally identical. For example, one requires that cable operators "provide written notice" (47 CFR § 76.1601), while another requires that operators "shall notify such subscribers" (47 CFR § 76.1620) and a third requires that "[c]ustomers will be notified ... in writing" (47 CFR § 76.1603).
+34 For instance, the NPRM: tentatively concluded that we should allow broadcast signal deletion notices to be sent to a verified email unless a subscriber opts out (Id. at 10761-10762, para. 12, based on Section 76.1601's requirement that cable operators "shall provide written notice"); sought comment on whether rate changes should be sent to a verified email address only after a subscriber opts in (Id. at 10762, para. 13, based on Section 76.1603's requirement that "[c]ustomers will be notified ... in writing"); and sought comment on whether basic tier information could be provided simply by being posted on the cable operator's website (Id. at 10762-10763, para. 15, based on Section 76.1618's requirement that cable operators "provide written notification").
+35 Verizon Comments at 6.
+36 Verizon Reply at 3-4.
+37 NCTA Comments at 4-5. See also ACA Comments t 6 ("subscribers benefit from a consistent approach to the delivery of electronic notices").
+38 As discussed above, 47 U.S.C. § 552(b) gives us broad authority to establish standards relating to "communications between the cable operator and the subscriber," and Section § 552(c) gives an operator the choice of "any reasonable written means at its sole discretion." We find that verified email is reasonable within this context. See also 2017 Declaratory Ruling, 32 FCC Rcd at 5272, para. 6.
+39 NPRM, 32 FCC Rcd at 10761-10762, paras. 11-12, 14.
+40 Id. at 10761, para. 11.
+41 2017 Declaratory Ruling, 32 FCC Rcd at 5275, para. 10.
+42 ACA Reply at 2.
+5
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+effort"43 and is "unnecessary for these types of routine notices."44 As in the 2017 Declaratory Ruling, we agree that an opt-in requirement is unnecessary. The information these notices provide is generic in nature and does not contain confidential information specific to an individual subscriber. Indeed, it is already publicly available in many cases on a cable operator's or local franchising authority's website.45 Commenters support allowing subscribers to request paper copies of any notice, and none dispute the need for an opt-out, paper notice option.46 Some commenters argue for greater flexibility with respect to the opt-out mechanism provided, claiming that they should not be required to offer an opt-out telephone number and should be permitted to offer subscribers other opt-out methods instead.47 While the NPRM asked about the use of an opt-out electronic link as an alternative to a phone number, we conclude that there is no reason to deviate from the approach adopted in the 2017 Declaratory Ruling, which found that providing an opt-out telephone number "would be the means most universally accessible to customers that prefer not to receive their notices electronically."48 Verizon argues that we should not "limit the [optout] options available to MVPDs and subscribers,"49 and we agree. While providing an opt-out telephone number is a minimum requirement, we emphasize that cable operators may choose to offer additional choices to their customers that are clearly and prominently presented in the body of the originating email.50
+13. For information delivered via verified email, cable operators may include either the notice itself or a web link to the notice. Paper notifications must include the full text of the required notices. Commenters support the NPRM's tentative conclusion that it would be reasonable for cable operators to provide a website link to an electronic notice, rather than the notice itself, so long as the link remains active until superseded by a subsequent notice.51 NCTA advocates that we provide additional flexibility, arguing that a website link to this information should be considered sufficient even if it were only printed on a paper bill or notice.52 We find that printing website addresses on paper communications, directing subscribers to the notice online, would not be a reasonable means of delivery.
+43 NCTA Comments at 4.
+44 Verizon Reply at 3.
+45 As AT&T notes, it is important to clarify that we are exempting these general Subpart T notices from "the consent requirements of the E-Sign Act." AT&T Comments at 5. Under the Electronic Signatures in Global and National Commerce Act (E-Sign Act), information that a statute or regulation requires be provided to a consumer in writing can be delivered electronically if the sender follows all of the E-Sign Act requirements, including the requirement that a consumer "has affirmatively consented." 15 U.S.C. § 7001(c)(1). However, the E-Sign Act preserves a federal regulatory agency's rulemaking authority, allows federal agencies to interpret the E-Sign Act with respect to a statute that it implements, and allows a federal agency to exempt a specified category or type of record from the consent requirements in the E-Sign Act "if such exemption is necessary to eliminate a substantial burden on electronic commerce and will not increase the material risk of harm to consumers." 15 U.S.C. § 7004(b), (d). As discussed above, commenters argue persuasively that it would be impractical and unnecessary for cable operators to attempt to receive permission from each individual customer prior to initiating electronic delivery of these general notices. Therefore, we exempt the notices required under Sections 76.1601, 76.1602, 76.1603, 76.1604, 76.1618, 76.1620, and 76.1622 of our rules from the consent requirements of the E-Sign Act.
+46 NCTA Comments at 8; NCTA April 30, 2018 Ex Parte at 2; ACA Comments at 5.
+47 See, e.g., AT&T Comments at 3; Verizon Comments at 7-8.
+48 2017 Declaratory Ruling, 32 FCC Rcd at 5276, para. 10.
+49 Verizon Comments at 7.
+50 See 2017 Declaratory Ruling, 32 FCC Rcd at 5276, para. 10.
+51 NPRM, 32 FCC Rcd at 10762, para. 14 (citing 2017 Declaratory Ruling, 32 FCC Rcd at 5276, para. 11, n.46). For commenter support, see e.g., NTCA Comments at 3; ACA Comments at 6.
+52 NCTA Comments at 8; NCTA April 30, 2018 Ex Parte at 2.
+6
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+The Commission expressed skepticism about this approach in the NPRM, noting the 2017 Declaratory Ruling's concern that it "could create an undue risk that subscribers will not receive the required notices."53 We find that, while following a link from an electronic message is usually straightforward, and thus permissible, the additional effort needed to correctly transcribe a website link from a paper letter into a web browser shifts the burden onto the subscriber to seek out the notice, if the subscriber even recognizes the significance of the website link on their paper mailing. Similarly, we will also not permit notices to be simply placed online without any separate subscriber notifications. The NPRM sought comment on, but expressed concern about, permitting a narrow class of notices to be made available this way.54 Under such an approach, subscribers would need to not only be independently aware of the existence of the notices, but also actively seek them out without any prompting from the cable operator. Although one commenter supports this proposal,55 we decline to approve it because we find that it creates an unacceptably high risk that subscribers will never see the required notices.
+B. Privacy Notifications
+14. We will also permit delivery via verified email of the privacy notices that MVPDs must send to subscribers. As noted above, the requirements on cable operators, satellite providers, and Open Video System providers to supply privacy notifications are statutory.56 In order to harmonize our existing customer notice rules with the privacy notice obligations, our new Subpart T rule clarifies that such notices may be delivered by MVPDs via paper or verified email just like general Subpart T notices. Every commenter who addresses privacy notification issues agrees with the Commission's tentative conclusion that MVPDs should be allowed to send these notices electronically. AT&T "urges the Commission to adopt its tentative conclusion that cable operators, DBS providers, and Open Video System (OVS) providers should be permitted to deliver privacy notifications to subscribers via verified email addresses," and that "[n]othing in sections 631, 338 or 653 limits the Commission's authority to specify the manner by which these classes of providers may deliver such notices to their subscribers."57 DISH also supports the tentative conclusion, arguing that "[e]lectronic delivery of these notices is consistent with how certain other relevant customer communications are delivered and therefore would provide consumers convenient access to this information."58 We agree that permitting verified email delivery of this information, just like we do for existing Subpart T cable consumer notifications, is beneficial for both consumers and MVPDs and will serve the public interest.59
+C. Responses to Consumer Requests or Complaints by Email
+15. We adopt the proposal in the NPRM to allow cable operators to respond to certain consumer requests or billing dispute complaints by email, if the consumer used email to make the request or complaint or if the consumer specifies email as the preferred delivery method in the request or complaint.60 Sections 76.1614 and 76.1619 of Subpart T require written responses to requests or
+53 NPRM, 32 FCC Rcd at 10763-10764, para. 16 (citing 2017 Declaratory Ruling, 32 FCC Rcd at 5276, para. 11).
+54 Id. at 10762-10763, paras. 15-16.
+55 Verizon Comments at 8-10 (also arguing for the sufficiency of placing notices in an "electronic message center" that is accessible only via a subscriber's television screen).
+56 47 U.S.C. §§ 551(a)(1), 338(i), 573(c)(1)(a).
+57 AT&T Comments at 2. See also NPRM, 32 FCC Rcd at 10764, para. 18.
+58 DISH Comments at 2-3. See also ACA Comments at 3-6, Verizon Comments at 4-5, NCTA Comments at 5.
+59 The privacy provisions require cable operators, satellite providers, and Open Video System providers to "provide notice in the form of a separate, written statement." Notices that conform to the requirements established in this Order will also comply with these statutory requirements. See supra note 38, citing 2017 Declaratory Ruling, 32 FCC Rcd at 5272, para. 6.
+60 NPRM, 32 FCC Rcd at 10764-10765, paras. 19-21. See also Appendix A, Final Rules.
+7
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+complaints.61 Specifically, Section 76.1614 requires cable operators to respond in writing within 30 days to any written request by any person for the identification of the signals carried on its system in fulfillment of the must-carry requirements of Section 76.56.62 Section 76.1619 requires cable operators to respond to a written complaint from a subscriber within 30 days if there is a billing dispute.63
+16. All commenters that address this proposal support it, expressing their belief that the Commission should permit "MVPDs to communicate by email with subscribers who agree to the use of email for inquiries and complaints."64 ACA agrees with the NPRM statement that adopting this proposal would "allow cable operators to respond more efficiently to requests and complaints."65 ACA also argues that doing so would enable consumers to receive these communications "by their preferred method" and "extend many of the same benefits provided by the Commission's decision to allow electronic delivery of subscriber notices."66 Verizon notes that today's "consumers are accustomed to email as a routine form of communications[,]" and adopting this proposal would allow the Commission's rules to "reflect that reality."67 Further supporting the proposal, Verizon also notes that "[t]he Commission has already determined that use of email for communications about actions of regulated entities is permissible, for example, in formal complaint proceedings."68 NCTA also suggests that adopting this proposal "would be consistent with consumer expectations" that "contact[ing] cable operators by electronic means or provid[ing] an email address in such communications" will result in "a response via email."69
+17. As we stated in the NPRM, we believe that permitting cable operators to respond electronically using the same method as the consumer or the method chosen by the consumer gives both parties the opportunity to communicate via their method of choice and will allow cable operators to respond more efficiently to requests and complaints. Therefore, we revise Sections 76.1614 and 76.1619 and will allow cable operators to respond to consumer requests or billing dispute complaints by email where the consumer either used email to make the request or complaint or specified email as the preferred method of response in the request or complaint.
+D. Other Subpart T Requirements
+18. We will eliminate Sections 76.1621 and 76.1622 of our rules. The NPRM proposed to delete Section 76.1621,70 which requires certain cable operators to offer subscribers "special equipment that will enable the simultaneous reception of multiple signals."71 We agree with the commenters that,
+61 47 CFR §§ 76.1614, 76.1619.
+62 Id. § 76.1614.
+63 Id. § 76.1619.
+64 Verizon Reply Comments at 2; see also ACA Comments at 2; ACA Reply Comments at 6 (stating that "[n]o commenters have objected" to this proposal); AT&T Reply Comments at 1 (emphasizing that "[n]o commenter opposes" this proposal); NCTA Comments at 10; Verizon Comments at 2.
+65 ACA Comments at 7.
+66 ACA Comments at 7-8.
+67 Verizon Reply Comments at 5.
+68 Verizon Comments at 10 (citing 47 CFR § 1.735(f)).
+69 NCTA Comments at 11. NCTA also suggests that the Commission expand the proposal in the NPRM to allow cable operators to respond via email to consumers that have "provided an e-mail address on complaint submissions via the Commission's Consumer Help Center website (unless the consumer expressly specifies a different preferred delivery method)." NCTA Comments at 10. This proposal is outside the scope of the NPRM, and we therefore decline to address it in this proceeding.
+70 NPRM, 32 FCC Rcd at 10765-66, para. 22.
+71 47 CFR § 76.1621.
+8
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+given today's digital technologies, it is no longer necessary to promote the "special equipment" referred to in this rule. In addition, the NPRM sought comment on how to update 76.1622 to reflect the current state of technology, and whether any part of the rule is "no longer necessary given changes in technology and, therefore, should be eliminated."72 Commenters make a convincing case that changes in technology and consumer awareness have rendered the entire rule "no longer necessary," and that it should be eliminated in its entirety. We take these actions in light of changes in the television marketplace and consumer equipment technology since the rules were originally adopted and, in so doing, reduce burdens on cable operators.73
+19. Section 76.1621 requires cable operators "that use scrambling, encryption or similar technologies" to offer and provide upon request to subscribers "special equipment that will enable the simultaneous reception of multiple signals."74 The offer of special equipment must be made to new subscribers at the time they subscribe and to all subscribers at least once each year.75 This rule was adopted in 1994 pursuant to Section 624A of the Act,76 which Congress enacted to resolve "compatibility problems that arise between the provision of cable service and current consumer electronics equipment."77 These problems included "difficulties in the use of VCRs to record programming and in the operation of special features of TV receivers such as `Picture-in-Picture.'"78 The Commission adopted the requirement that cable operators offer subscribers special equipment with multiple tuners to address "cases where cable systems use scrambling technology and set-top boxes that do not deliver all authorized signals `in the clear'" such that subscribers need "supplemental equipment to enable the operation of extended features and functions of TV receivers and VCRs that make simultaneous use of multiple signals."79 As the Commission noted in the NPRM, consumers today widely use digital video recorders (DVRs), rather than VCRs or television receivers, for recording features, and "picture-in-picture" features in television receivers are not prevalent.80 Accordingly, the Commission proposed to eliminate Section 76.1621, tentatively concluding that, given today's digital technologies, it is no longer necessary to promote the "special equipment that will enable the simultaneous reception of multiple signals" referred to in the rule.81
+72 NPRM, 32 FCC Rcd at 10766-67, para. 23.
+73 Charter also proposes "clarifications" to 47 CFR 76.1603(b) and the elimination of Sections 76.1603(c) and (d), a proposal which was opposed by Northwest Broadcasting Inc (Northwest). Charter Comments at 3, 6; Letter from Dennis P. Corbett and Jessica DeSimone Gyllstrom, Telecommunications Law Professionals PLLC, to the FCC, MB Docket No. 17-317, at 1 (filed Apr. 20, 2018) (Northwest Ex Parte). As Northwest points out, and Charter acknowledges, these proposals are beyond the scope of this proceeding. Therefore, we decline to address them. Northwest Ex Parte; Charter Comments at 1, n. 2.
+74 47 CFR § 76.1621. See also supra para. 5.
+75 Id. at § 76.1621(a).
+76 47 U.S.C. § 544a.
+77 Implementation of Section 17 of the Cable Television Consumer Protection and Competition Act of 1992; Compatibility Between Cable Systems and Consumer Electronics Equipment, Notice of Proposed Rulemaking, 8 FCC Rcd 8495, 8495, para. 3 (1993).
+78 Id.
+79Implementation of Section 17 of the Cable Television Consumer Protection and Competition Act of 1992; Compatibility Between Cable Systems and Consumer Electronics Equipment, First Report and Order, 9 FCC Rcd 1981, 1989 - 90, para. 47 (1994). See also Implementation of Section 17 of the Cable Television Consumer Protection and Competition Act of 1992; Compatibility Between Cable Systems and Consumer Electronics Equipment, Memorandum Opinion and Order, 11 FCC Rcd 4121 (1996).
+80 NPRM, 32 FCC Rcd at 10765-66, para. 22.
+81 Id.
+9
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+20. Section 76.1622 of our rules requires cable operators to provide a consumer education program on equipment and signal compatibility matters to their subscribers in writing at the time they subscribe and at least once a year thereafter.82 Specifically, it requires cable operators to educate their customers about compatibility issues that may arise with respect to TV receivers, VCRs, and remote controls. This provision was enacted pursuant to Congress's directive in Section 624A that the Commission adopt rules requiring cable operators "offering channels whose reception requires a converter box ... to notify subscribers that they may be unable to benefit from the special functions of their television receivers and video cassette recorders."83 As discussed in the NPRM, parties filing comments in the Media Modernization proceeding argued that a requirement to educate consumers on the interoperability of VCRs no longer makes sense as concerns about TV receiver and VCR compatibility are no longer relevant to consumers today.84 Accordingly, we sought comment in the NPRM on whether there are parts of Section 76.1622 that should be eliminated or modified in light of changes to technology since the rule was adopted.85
+21. On March 23, 2018, after the NPRM was adopted, Congress revised Section 624A to eliminate certain deadlines in that provision for Commission action, which have long since passed.86 We conclude that Congress' recent revisions to Section 624A do not limit the Commission's authority to eliminate these rules. Congress retained the language in Section 624A(b)(1), providing that the Commission shall adopt regulations "as are necessary" to assure compatibility between television receivers and video cassette recorders and cable systems.87 In addition, Congress did not revise Section 624A(c)(2), which provides that the "regulations prescribed by the Commission under this section shall include such regulations as are necessary" to achieve certain objectives.88 Finally, Congress did not revise Section 624A(d), which provides that the "Commission shall periodically review and, if necessary, modify the regulations issued pursuant to this section in light of any actions taken in response to such regulations and to reflect improvements and changes in cable systems, television receivers, video cassette recorders, and similar technology."89 These provisions give the Commission ample authority to eliminate Sections 76.1621 and 76.1622 in light of the changes in technology since the rules were adopted.
+22. All commenters that address the issue support eliminating Section 76.1621, arguing generally that advances in technology since the VCR have made the rule unnecessary and irrelevant.90 In fact, NCTA notes that VCRs are no longer being manufactured today.91 ACA argues that, to the extent
+82 47 CFR § 76.1622.
+83 47 U.S.C. § 544a(c)(2)(B).
+84 NPRM, 32 FCC Rcd at 10766-67, para. 23.
+85 Id.
+86 See Consolidated Appropriations Act, 2018, Pub. L. 115-141, at Division P, Title IV, § 402(i)(10), 132 Stat. 348 (2018). Congress removed the language in Section 624A(b)(1) that required the Commission to issue a report to Congress on compatibility within "1 year after October 5, 1992" and to adopt rules regarding compatibility "within 180 days" after the submission of the report to Congress.
+87 47 U.S.C. § 544A(b)(1).
+88 47 U.S.C. § 544A(c)(2) (emphasis added).
+89 47 U.S.C. § 544A(d).
+90 Verizon Comments at 10-11 (Section 76.1621 requires notices to subscribers regarding compatibility between cable systems and equipment that is "prehistoric from the standpoint of 2018."), ACA Comments at 9 (technical issues that gave rise to the requirements in Section 76.1621 "have dissipated"), NCTA Comments at 11 ("the rule no longer serves any legitimate purpose and should be eliminated"). See also ACA Reply Comments at 7 and Verizon Reply comments at 4-5.
+91 NCTA Comments at 11.
+10
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+that consumers continue to use VCRs to record television programming, "they are surely aware by now of any lingering compatibility issues and have long since obtained the equipment necessary to operate those devices to their satisfaction."92 We agree with commenters that Section 76.1621 is no longer necessary in light of changes in technology since that rule was adopted and, therefore, that it is appropriate to eliminate that rule as proposed in the NPRM.
+23. Commenters make a similar argument with respect to Section 76.1622. Specifically, ACA, Verizon, and NCTA argue that this section should also be eliminated because it requires cable operators to educate consumers about antiquated technology.93 No commenters indicate that continued application of this rule is beneficial to consumers, or support its retention. NCTA argues that "remote control" is the only technology referenced in Section 76.1622 that is still in "widespread use," and that "[c]able operators have every incentive in this competitive marketplace to provide their customers with the information they need to obtain service using a variety of different devices."94 We agree with commenters that Section 76.1622 is no longer necessary in light of changes in technology and the marketplace since that rule was adopted and, therefore, it is appropriate to eliminate the rule in its entirety. Although we recognize that remote control units are still widely used, we conclude that a notice requirement about the availability of third-party remotes is no longer necessary. Third-party remotes have become widely available in the 24 years since this rule was originally adopted and can be easily purchased from many retail outlets, including big box stores and online. Furthermore, now that they have been in existence for many years, consumers are generally aware that they may purchase such remotes. Finally, there is no evidence in the record that the lack of awareness about compatibility that spurred the original rule is an issue today, given the plethora of remote controls available in the marketplace.
+IV. PROCEDURAL MATTERS
+24. Final Regulatory Flexibility Analysis.--As required by the Regulatory Flexibility Act of 1980, as amended (RFA),95 the Commission has prepared a Final Regulatory Flexibility Analysis (FRFA) relating to this Order. The FRFA is set forth in Appendix B.
+25. Paperwork Reduction Act Analysis.--This Order contains information collection requirements subject to the Paperwork Reduction Act of 1995 (PRA), Public Law 104-13. The requirements will be submitted to the Office of Management and Budget (OMB) for review under Section 3507(d) of the PRA. OMB, the general public, and other Federal agencies will be invited to comment on the information collection requirements contained in this proceeding. The Commission will publish a separate document in the Federal Register at a later date seeking these comments. In addition, we note that, pursuant to the Small Business Paperwork Relief Act of 2002, Public Law 107-198, see 44 U.S.C. § 3506(c)(4), the Commission previously sought specific comment on how it might further reduce the information collection burden for small business concerns with fewer than 25 employees. We have described impacts that might affect small businesses, which includes most businesses with fewer than 25 employees, in the FRFA in Appendix B.
+26. Congressional Review Act.--The Commission will send a copy of this Order in a report to Congress and the Government Accountability Office pursuant to the Congressional Review Act, see 5 U.S.C. § 801(a)(1)(A).
+
+92 Id. 93 ACA Comments at 9, Verizon Comments at 11, and NCTA Comments at 12. See also ACA Reply Comments at 7 and Verizon Reply Comments at 4-5. 94 NCTA Comments at 12. 95 See 5 U.S.C. § 603. The RFA, see 5 U.S.C. § 601 et seq., has been amended by the Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA), Pub. L. No. 104-121, Title II, 110 Stat. 857 (1996). The SBREFA was enacted as Title II of the Contract with America Advancement Act of 1996 (CWAAA).
+11
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+V. ORDERING CLAUSES
+27. Accordingly, IT IS ORDERED that, pursuant to the authority contained in Sections 1, 4(i), 4(j), 325, 338, 624A, 631, 632, and 653 of the Communications Act of 1934, as amended, 47 U.S.C. §§ 151, 154(i), 154(j), 325, 338, 544A, 551, and 573, the Report and Order IS ADOPTED and WILL BECOME EFFECTIVE 30 days after publication in the Federal Register.
+28. IT IS FURTHER ORDERED that the Commission's rules ARE HEREBY AMENDED as set forth in Appendix A and such rule amendments shall be effective 30 days after publication in the Federal Register, except for Section 76.1600 and amendments to Sections 76.1614 and 76.1619, which are delayed. We will publish a document in the Federal Register announcing the effective date of those amendments.
+29. IT IS FURTHER ORDERED that the Commission's Consumer and Governmental Affairs Bureau, Reference Information Center, SHALL SEND a copy of this Report and Order, including the Final Regulatory Flexibility Analysis, to the Chief Counsel for Advocacy of the Small Business Administration
+30. IT IS FURTHER ORDERED that the Commission will send a copy of the Report and Order in a report to Congress and the Government Accountability Office pursuant to the Congressional Review Act (CRA).
+FEDERAL COMMUNICATIONS COMMISSION
+
+Marlene H. Dortch Secretary
+
+12
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+APPENDIX A
+Final Rules
+Part 76 of Title 47 of the U.S. Code of Federal Regulations is amended to read as follows:
+PART 76 ­ MULTICHANNEL VIDEO AND CABLE TELEVISION SERVICE
+1. The authority citation for Part 76 continues to read as follows:
+AUTHORITY: 47 U.S.C. 151, 152, 153, 154, 301, 302, 302a, 303, 303a, 307, 308, 309, 312, 315, 317, 325, 338, 339, 340, 341, 503, 521, 522, 531, 532, 534, 535, 536, 537, 543, 544, 544a, 545, 548, 549, 552, 554, 556, 558, 560, 561, 571, 572, 573.
+2. Revise Section 76.630 to remove Notes 1 and 2.
+3. Add new Section 76.1600 to read as follows: § 76.1600 Electronic delivery of notices.
+(a) Written information provided by cable operators to subscribers or customers pursuant to Sections 76.1601, 76.1602, 76.1603, 76.1604, 76.1618, and 76.1620 of this Subpart T, as well as subscriber privacy notifications required by cable operators, satellite providers, and open video systems pursuant to Sections 631, 338(i), and 653 of the Communications Act, may be delivered electronically by e-mail if the entity:
+(1) sends the written material to the subscriber's or customer's verified e-mail address, and
+(2) include, in the body of the originating e-mail that delivers the written material, a telephone number that is clearly and prominently presented to subscribers so that it is readily identifiable as an optout mechanism that will allow subscribers to continue to receive paper copies of the written material.
+(b) For purposes of this section, a verified e-mail address is defined as:
+(1) an e-mail address that the subscriber has provided to the cable operator (and not vice versa) for purposes of receiving communication;
+(2) an e-mail address that the subscriber regularly uses to communicate with the cable operator; or
+(3) an e-mail address that has been confirmed by the subscriber as an appropriate vehicle for the delivery of notices.
+(c) If the conditions for electronic delivery in subsections (a) and (b) are not met, or if a subscriber opts out of electronic delivery, the written material must be delivered by paper copy to the subscriber's physical address.
+4. Section 76.1614 is amended by adding a sentence, to read as follows:
+A cable operator shall respond in writing within 30 days to any written request by any person for the identification of the signals carried on its system in fulfillment of the must-carry requirements of §76.56. The required written response may be delivered by email, if the consumer used email to
+13
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+make the request or complaint directly to the cable operator, or if the consumer specifies email as the preferred delivery method in the request or complaint.
+5. Section 76.1619 is amended by adding a sentence to paragraph (b), to read as follows:
+(b) In case of a billing dispute, the cable operator must respond to a written complaint from a subscriber within 30 days. The required response may be delivered by email, if the consumer used email to make the request or complaint directly to the cable operator, or if the consumer specifies email as the preferred delivery method in the request or complaint.
+6. Section 76.1621 is removed and reserved.
+7. Section 76.1622 is removed and reserved.
+
+14
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+APPENDIX B
+Final Regulatory Flexibility Analysis
+1. As required by the Regulatory Flexibility Act of 1980, as amended (RFA),1 an Initial Regulatory Flexibility Analysis (IRFA) was incorporated in the Notice of Proposed Rulemaking in this proceeding.2 The Federal Communications Commission (Commission) sought written public comment on the proposals in the NPRM, including comment on the IRFA. We received no comments specifically directed toward the IRFA. This Final Regulatory Flexibility Analysis (FRFA) conforms to the RFA.3
+A. Need for, and Objectives of, the Report and Order
+2. In this Report and Order, we modernize our rules regarding certain notices required to be provided by MVPDs in writing to their subscribers to permit the provision of these notifications via verified email, if the cable operator complies with certain consumer safeguards. Specifically, we extend this flexibility to Sections 76.1601, 76.1602, 76.1603, 76.1604, 76.1618, and 76.1620. In addition, we eliminate Sections 76.1621 and 76.1622 of our rules to reflect the current state of technology and the market. Finally, we authorize cable operators to respond to consumer requests and complaints by email in certain circumstances. These steps further our continuing efforts to modernize our regulations and reduce unnecessary requirements that can impede competition and innovation in the media marketplace.4
+B. Summary of Significant Issues Raised by Public Comments in Response to the IRFA
+3. No comments were filed in response to the IRFA.
+C. Description and Estimate of the Number of Small Entities To Which the Proposed Rules Will Apply
+4. The RFA directs agencies to provide a description of, and where feasible, an estimate of the number of small entities that may be affected by the proposed rules, if adopted.5 The RFA generally defines the term "small entity" as having the same meaning as the terms "small business," "small organization," and "small governmental jurisdiction."6 In addition, the term "small business" has the same meaning as the term "small business concern" under the Small Business Act.7 A small business concern is one which: (1) is independently owned and operated; (2) is not dominant in its field of
+
+1 See 5 U.S.C. § 603. The RFA, see 5 U.S.C. §§ 601-612, has been amended by the Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA), Pub. L. No. 104-121, Title II, 110 Stat. 857 (1996). The SBREFA was enacted as Title II of the Contract With America Advancement Act of 1996 (CWAAA).
+2 See In the Matter of Electronic Delivery of MVPD Communications, Modernization of Media Regulation Initiative, Notice of Proposed Rulemaking, 32 FCC Rcd 10755 (2017) (NPRM).
+3 See 5 U.S.C. § 604.
+4 Commission Launches Modernization of Media Regulation Initiative, MB Docket No. 17-105, Public Notice, 32 FCC Rcd 4406 (MB 2017) (initiating a review of rules applicable to media entities to eliminate or modify regulations that are outdated, unnecessary or unduly burdensome).
+5 5 U.S.C. § 603(b)(3).
+6 Id. § 601(6).
+7 Id. § 601(3) (incorporating by reference the definition of "small-business concern" in 15 U.S.C. § 632). Pursuant to 5 U.S.C. § 601(3), the statutory definition of a small business applies "unless an agency, after consultation with the Office of Advocacy of the Small Business Administration and after opportunity for public comment, establishes one or more definitions of such term which are appropriate to the activities of the agency and publishes such definition(s) in the Federal Register." 5 U.S.C. § 601(3).
+15
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+operation; and (3) satisfies any additional criteria established by the SBA.8 Below, we provide a description of such small entities, as well as an estimate of the number of such small entities, where feasible.
+5. Cable Companies and Systems (Rate Regulation Standard). The Commission has also developed its own small business size standards, for the purpose of cable rate regulation. Under the Commission's rules, a "small cable company" is one serving 400,000 or fewer subscribers, nationwide.9 Industry data indicate that, of 1,076 cable operators nationwide, all but 11 are small under this size standard.10 In addition, under the Commission's rules, a "small system" is a cable system serving 15,000 or fewer subscribers.11 Industry data indicate that, of 6,635 systems nationwide, 5,802 systems have under 10,000 subscribers, and an additional 302 systems have 10,000-19,999 subscribers.12 Thus, under this second size standard, the Commission believes that most cable systems are small.
+6. Cable System Operators. The Act also contains a size standard for small cable system operators, which is "a cable operator that, directly or through an affiliate, serves in the aggregate fewer than 1 percent of all subscribers in the United States and is not affiliated with any entity or entities whose gross annual revenues in the aggregate exceed $250,000,000."13 The Commission has determined that an operator serving fewer than 677,000 subscribers shall be deemed a small operator, if its annual revenues, when combined with the total annual revenues of all its affiliates, do not exceed $250 million in the aggregate.14 Industry data indicate that, of 1,076 cable operators nationwide, all but 10 are small under this size standard.15 We note that the Commission neither requests nor collects information on whether cable system operators are affiliated with entities whose gross annual revenues exceed $250 million,16 and therefore we are unable to estimate more accurately the number of cable system operators that would qualify as small under this size standard.
+7. Open Video Services. Open Video Service (OVS) systems provide subscription services.17 The open video system framework was established in 1996, and is one of four statutorily
+
+8 15 U.S.C. § 632.
+9 47 CFR § 76.901(e). The Commission determined that this size standard equates approximately to a size standard of $100 million or less in annual revenues. Implementation of Sections of the 1992 Cable Act: Rate Regulation, Sixth Report and Order and Eleventh Order on Reconsideration, 10 FCC Rcd 7393, 7408 (1995).
+10 These data are derived from: R.R. Bowker, Broadcasting & Cable Yearbook 2006, "Top 25 Cable/Satellite Operators," pages A-8 & C-2 (data current as of June 30, 2005); Warren Communications News, Television & Cable Factbook 2006, "Ownership of Cable Systems in the United States," pages D-1805 to D-1857.
+11 47 CFR § 76.901(c).
+12 Warren Communications News, Television & Cable Factbook 2008, "U.S. Cable Systems by Subscriber Size," page F-2 (data current as of Oct. 2007). The data do not include 851 systems for which classifying data were not available.
+13 47 U.S.C. § 543(m)(2); see also 47 CFR § 76.901(f) & nn.1­3.
+14 47 CFR § 76.901(f); see FCC Announces New Subscriber Count for the Definition of Small Cable Operator, Public Notice, 16 FCC Rcd 2225 (Cable Services Bureau 2001).
+15 These data are derived from R.R. BOWKER, BROADCASTING & CABLE YEARBOOK 2006, "Top 25 Cable/Satellite Operators," pages A-8 & C-2 (data current as of June 30, 2005); WARREN COMMUNICATIONS NEWS, TELEVISION & CABLE FACTBOOK 2006, "Ownership of Cable Systems in the United States," pages D-1805 to D-1857.
+16 The Commission does receive such information on a case-by-case basis if a cable operator appeals a local franchise authority's finding that the operator does not qualify as a small cable operator pursuant to § 76.901(f) of the Commission's rules.
+17 See 47 U.S.C. § 573.
+16
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+recognized options for the provision of video programming services by local exchange carriers.18 The OVS framework provides opportunities for the distribution of video programming other than through cable systems. Because OVS operators provide subscription services,19 OVS falls within the SBA small business size standard covering cable services, which is "Wired Telecommunications Carriers."20 The SBA has developed a small business size standard for this category, which is: all such firms having 1,500 or fewer employees.21 To gauge small business prevalence for the OVS service, the Commission relies on data currently available from the U.S. Census for the year 2012. According to that source, there were 3,117 firms that in 2012 were Wired Telecommunications Carriers. Of these, 3,059 operated with less than 1,000 employees. Based on this data, the majority of these firms can be considered small.22 In addition, we note that the Commission has certified some OVS operators, with some now providing service.23 Broadband service providers ("BSPs") are currently the only significant holders of OVS certifications or local OVS franchises.24 The Commission does not have financial or employment information regarding the entities authorized to provide OVS, some of which may not yet be operational. Thus, at least some of the OVS operators may qualify as small entities. The Commission further notes that it has certified approximately 45 OVS operators to serve 116 areas, and some of these are currently providing service.25 Affiliates of Residential Communications Network, Inc. (RCN) received approval to operate OVS systems in New York City, Boston, Washington, D.C., and other areas. RCN has sufficient revenues to assure that they do not qualify as a small business entity. Little financial information is available for the other entities that are authorized to provide OVS and are not yet operational. Given that some entities authorized to provide OVS service have not yet begun to generate revenues, the Commission concludes that up to 44 OVS operators (those remaining) might qualify as small businesses that may be affected by the rules and policies adopted herein.
+8. Satellite Master Antenna Television (SMATV) Systems, also known as Private Cable Operators (PCOs). SMATV systems or PCOs are video distribution facilities that use closed transmission paths without using any public right-of-way. They acquire video programming and distribute it via terrestrial wiring in urban and suburban multiple dwelling units such as apartments and condominiums, and commercial multiple tenant units such as hotels and office buildings. SMATV systems or PCOs are now included in the SBA's broad economic census category, "Wired Telecommunications Carriers,"26 which was developed for small wireline firms.27 Under this category, the SBA deems a wireline business to be small if it has 1,500 or fewer employees.28 Census data for 2012
+18 47 U.S.C. § 571(a)(3)-(4). See 13th Annual Report, 24 FCC Rcd at 606, para. 135.
+19 See 47 U.S.C. § 573.
+20 U.S. Census Bureau, 2012 NAICS Definitions, 517110 Wired Telecommunications Carriers, http://www.census.gov/naics/2012/def/ND517110.HTM#N517110.
+21 13 CFR § 201.121, NAICS code 517110 (2012).
+22 See U.S. Census Bureau, Table EC1251SSSZ5, https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t#none.
+23 A list of OVS certifications may be found at http://www.fcc.gov/mb/ovs/csovscer.html.
+24 See 13th Annual Report, 24 FCC Rcd at 606-07 para. 135. BSPs are newer firms that are building state-of-the-art, facilities-based networks to provide video, voice, and data services over a single network.
+25 See http://www.fcc.gov/encyclopedia/current-filings-certification-open-video-systems (current as of July 2012).
+26 See 13 CFR § 121.201, NAICS code 517110 (2012).
+27 Although SMATV systems often use DBS video programming as part of their service package to subscribers, they are not included in Section 340's definition of "satellite carrier." See 47 U.S.C. §§ 340(i)(1) and 338(k)(3); 17 U.S.C. §119(d)(6).
+28 13 CFR § 121.201, NAICS code 517110 (2012).
+17
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+indicate that in that year there were 3,117 firms operating businesses as wired telecommunications carriers. Of that 3,117, 3,059 operated with 999 or fewer employees. Based on this data, we estimate that a majority of operators of SMATV/PCO companies were small under the applicable SBA size standard.29
+9. Direct Broadcast Satellite (DBS) Service. DBS Service is a nationally distributed subscription service that delivers video and audio programming via satellite to a small parabolic dish antenna at the subscriber's location. DBS is now included in SBA's economic census category "Wired Telecommunications Carriers." The Wired Telecommunications Carriers industry comprises establishments primarily engaged in operating and/or providing access to transmission facilities and infrastructure that they own and/or lease for the transmission of voice, data, text, sound, and video using wired telecommunications networks. Transmission facilities may be based on a single technology or combination of technologies. Establishments in this industry use the wired telecommunications network facilities that they operate to provide a variety of services, such as wired telephony services, including VoIP services, wired (cable) audio and video programming distribution; and wired broadband internet services. By exception, establishments providing satellite television distribution services using facilities and infrastructure that they operate are included in this industry.30 The SBA determines that a wireline business is small if it has fewer than 1500 employees.31 Census data for 2012 indicate that 3,117 wireline companies were operational during that year. Of that number, 3,083 operated with fewer than 1,000 employees.32 Based on that data, we conclude that the majority of wireline firms are small under the applicable standard. However, currently only two entities provide DBS service, which requires a great deal of capital for operation: DIRECTV (owned by AT&T) and DISH Network.33 DIRECTV and DISH Network each report annual revenues that are in excess of the threshold for a small business. Accordingly, we must conclude that internally developed FCC data are persuasive that in general DBS service is provided only by large firms.
+D. Description of Projected Reporting, Recordkeeping, and Other Compliance Requirements
+10. The rule changes adopted in the Report and Order will reduce reporting, recordkeeping, and other compliance requirements for MVPDs which, prior to our action today, were required to provide certain notifications to subscribers in writing on paper. The Report and Order permits provision of these notifications electronically if the cable operator complies with certain consumer safeguards. This action will reduce the costs and burdens of providing such notices. In addition, the Report and Order eliminates Sections 76.1621 and 76.1622 of our rules to more closely reflect current technology and the state of the market. Finally, the Report and Order also authorizes cable operators to respond to consumer requests and complaints by email in certain circumstances. The Commission anticipates that these changes will lead to a long-term reduction in reporting, recordkeeping, and other compliance requirements on all cable operators, including small entities.
+E. Steps Taken to Minimize Significant Economic Impact on Small Entities and
+29 U.S. Census Bureau, Table EC1251SSSZ5, https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t#none.
+30 See U.S. Census Bureau, 2012 NAICS Definitions, "517110 Wired Telecommunications Carriers," http://www.census.gov/cgi-bin/sssd/naics/naicsrch.
+31 NAICS Code 517110; 13 CFR § 121.201.
+32 See U.S. Census Bureau, Table No. EC1251SSSZ4, Information: Subject Series - Estab & Firm Size: Employment Size of Firms for the U.S.: 2012; 2012 Economic Census of the United States, http://factfinder.census.gov/faces/tableservices.jasf/pages/productview.xhtml?pid+ECN_2012_US.51SSSZ4&prodT ype=table.
+33 See Annual Assessment of the Status of Competition in the Market for Delivery of Video Programming, MB Docket No. 12-203, Fifteenth Report, 28 FCC Rcd 10496, 10507, para. 27 (2013).
+18
+
+Federal Communications Commission
+
+FCC-CIRC1811-10
+
+Significant Alternatives Considered
+11. The RFA requires an agency to describe any significant alternatives that it has considered in reaching its proposed approach, which may include the following four alternatives (among others): "(1) the establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities; (2) the clarification, consolidation, or simplification of compliance and reporting requirements under the rule for such small entities; (3) the use of performance, rather than design standards; and (4) an exemption from coverage of the rule, or any part thereof, for small entities."34
+12. The Commission has found that electronic delivery of notices will greatly ease the burden of complying with notification requirements for MVPDs, including small MVPDs. The NPRM proposed to allow written communications from cable operators (and in some case satellite carriers and OVS operators) to subscribers to be sent instead to a verified email address, subject to certain consumer protections, and the Report and Order adopts this proposal. This approach reduces the burdens associated with providing these notifications. Overall, we believe the Report and Order appropriately balances the interests of the public against the interests of the entities who are subject to the rules, including those that are small entities.
+F. Federal Rules that May Duplicate, Overlap, or Conflict With the Proposed Rule
+13. None.
+
+34 5 U.S.C. § 603(c)(1)-(c)(4). 19
+
+

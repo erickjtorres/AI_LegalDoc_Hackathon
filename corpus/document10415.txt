@@ -1,0 +1,325 @@
+Data Protection Policy
+
+Reference: Date Approved: Approving Body: Implementation Date: Version: Supersedes: Stakeholder groups consulted: Target Audience: Review Date: Lead Executive Author/Lead Manager:
+
+Data Protection Policy April 2015 Board of Trustees August 2015 3.0 2.0 Governance Committee, Board of Trustees
+Staff, Volunteers, Contractors May 2017, check April 2018 Senior Information Risk Officer Karen Pearce
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 1 of 14
+
+Contents
+
+Data Protection Policy
+
+Contents 1. Policy Statement of Intent 1.1 Definition of terms used in the Act and interpreted in this policy 1.2 Disclosure of information 2. The Eight Principles of Data Protection 3. Application of criteria and controls 4. Data Collection 5. Data Storage 6. Data Access and Accuracy 7. Appendix A: Gaining Consent
+
+Page
+2
+3-4 5 6
+7-8
+9
+10
+11
+12
+13-14
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 2 of 14
+
+1. Policy Statement of Intent
+
+The Motor Neurone Disease Association (the "Association) believes it is of the utmost importance that information we may store or use in order to deliver our various functions is done so in compliance with legal requirements.
+
+A number of key pieces of legislation and guidance inform the development of the policies, procedures, guidance and agreements within this document. They include:-
+
+ Data Protection Act 1998 (the Act)
+
+ General Data Protection Regulation (effective 23.05.18)
+
+ Minimum Data Handling Measures (Cabinet Office Standard)
+
+ The Caldicott Report
+
+ Data Sharing Code of Practice (Information Commissioner's Office guidance)
+
+ Common Law Duty of Confidence. This states that data given in confidence
+
+should not be disclosed unless;
+
+o
+
+The consent of the individual has been obtained
+
+o
+
+A statute of law dictates that disclosure is made
+
+o
+
+It is in the overriding public interest to do so.
+
+The Association is committed to the lawful and correct treatment of personal, sensitive and commercially sensitive information. This is important to successful working and to maintaining the confidence of those with whom we deal.
+The Association needs to collect and use certain types of information about the people (called Data Subjects) who come into contact with it in order to carry out its work. A data subject is the Individual whose personal information is being held or processed by the Association. These Individuals include, and are not limited to, people with MND and those affected by MND, Association employees and volunteers including trustees, supporters and donors and health and social care professionals.
+
+This personal information must be collected and dealt with appropriately, whether on paper, a computer, or recorded on other material. There must be safeguards in place to ensure this under the Act.
+
+To ensure it is compliant with the Act, the Association should ensure it has at least one legitimate reason for processing (collecting, using, managing or disclosing) personal data. In some circumstances the consent of the Individual may not be necessary.
+
+Compliance with the Act is a legal requirement, therefore any breach of this may be considered serious and can result in penalties such as fines of up to £500,000, imprisonment and may also have considerable implications for our reputation. The fines will increase with the introduction of the General Data Protection Regulation (GDPR) in May 2018, and may be up to 4% of the previous year's income.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 3 of 14
+
+The interpretation of the Act and the GDPR are supported by this policy and the associated procedures and guidance. They are designed to ensure that the Association is compliant with the law. Where there is the possibility of ambiguity in interpretation, guidance is given to minimise any risk and therefore protect the Individual as well as balance this with the ability to continue to deliver the various functions of the Association.
+
+The principles of the Act will be further enhanced by the additional rights Individuals can expect following the introduction of the GDPR. The GDPR addresses the rapidly changing technology environment which has created a plethora of new options for the collection, storage, sharing and use of personal data. The GDPR enhances some of the principles, and also introduces new expectations with regard to consent to use an Individual's data and the need to be very clear on how that data is used.
+
+This policy should be read in conjunction with the following policies, procedures and guidance:
+
+
+
+Confidentiality Policy
+
+
+
+Photography Policy
+
+
+
+Disciplinary Policy
+
+
+
+Privacy Policy
+
+
+
+Condition of employment policies including:
+
+o Safeguarding Vulnerable Adults Policy
+
+o Safeguarding Children and Young People Policy
+
+o Working at Home Policy
+
+o Information Communication Technology (ICT) User & Security Policy
+
+
+
+Data Protection Breach Reporting Procedure
+
+
+
+Subject Access Request Procedure
+
+
+
+Sharing Personal Information Procedure
+
+
+
+Information Sharing Agreement
+
+
+
+Retention, Archiving & Destruction of Information Guidance
+
+
+
+Intellectual Property Guidance
+
+
+
+The Minimum Data Set (MDS) and Enhanced MDS Guidance
+
+
+
+Voicemail and Call-back Protocol
+
+
+
+Procedure for Recording and Storing Employee Information.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 4 of 14
+
+The scope of the policy applies to the following:  National and Regional Offices of the Association  All branches and groups  All sessional workers/contractors operating on behalf of the Association  All staff and volunteers.
+
+1.2 Definition of terms used in the Act and interpreted in this policy are:
+
+ Data Controller The person or team who decides what personal information the Association will hold and how it will be held or used. In this instance, the Association is the Data Controller under the Act. It is also responsible for notifying the Information Commissioner's Office (ICO) of the data it holds, or is likely to hold and the general purposes that the data will be used for. This is reviewed annually as part of the registration process with the ICO.
+ Senior Information Risk Officer The person accountable for ensuring that the Association follows its data protection policy and complies with the Act. In this instance responsibility has been delegated by the Chief Executive to the Director of Fundraising, however overall accountability sits with the Board of Trustees (see Information Governance Policy).
+
+ Data Subject The individual whose personal information is being held or processed by the Association, for instance: person with MND, person affected by MND, employee, volunteer, supporter etc. Throughout the policy and the supporting procedures and guidance the data subject will be referred to as "the Individual".
+
+ Personal Data/Information Information that relates to a living person (e.g. name and address). The Data Protection Act principles do not relate to deceased people, however the Association would need to carry out an assessment of any other obligations, legal or otherwise, towards any deceased person before using their information in any way.
+
+ Sensitive Data/Information This includes: o Racial or ethnic origin o Political opinions o Religious or similar beliefs o Trade union membership o Physical or mental health including a diagnosis of MND o Sexual life o Criminal record o Criminal proceedings relating to an Individual's offences.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 5 of 14
+
+Only relevant factual information that the Association needs to know should be captured. The Association should be clear why it wants the information and how it will be used and this information is captured within the Minimum Data Set (MDS).
+1.3 Disclosure of information
+ The Association may share data with other agencies such as the local authority, funding bodies and other voluntary agencies where it improves delivery of care, supports carers, underpins research and maximises fundraising. This may require consent from the Individual if there is not a lawful basis to share the data. (see Appendix A)
+ The Individual will be made aware in most circumstances, how and with whom their information will be shared through the use of clear fair processing notices located on the website, on application forms and other relevant documentation. There are circumstances where the law allows the Association to disclose data (including sensitive date) without the Individual's consent. These are:
+i. Carrying out a legal duty or as authorised by the Secretary of State
+ii. Protecting vital interests of an Individual or other person iii. The Individual has already made the information public iv. Conducting any legal proceedings, obtaining legal advice or
+defending any legal rights v. Monitoring for equal opportunities purposes ­ i.e. race, disability or
+religion however always anonymised vi. Providing a confidential service where the Individual's consent
+cannot be obtained or where it is reasonable to proceed without consent: e.g. where we would wish to avoid forcing stressed or ill Individuals to provide consent signatures.
+The policy will be reviewed and revised as and when it becomes necessary and at least every three years.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 6 of 14
+
+2. The Eight Principles of Data Protection
+
+2.1 The Principles require that personal information: i. shall be processed fairly and lawfully. This means that the Association must:
+
+ have legitimate grounds for collecting and using the personal data  not use the data in ways that have unjustified adverse effects on the
+Individuals concerned  be transparent about how the Association intends to use the data and give
+Individuals appropriate fair processing notices when collecting their personal data  handle people's personal data only in ways they would reasonably expect  make sure the Association does not do anything unlawful with the data
+
+ii. shall be obtained only for one or more of the purposes specified in the Act and shall not be processed in any manner incompatible with those purposes. This means that the Association must:
+
+ be clear from the outset about why the Association is collecting personal data and what it intends to do with it
+ comply with the Act's fair processing requirements ­ including the duty to give clear fair processing notices to Individuals when collecting their personal data
+ comply with what the Act says about notifying the Information Commissioner
+ ensure that if the Association wishes to use or disclose the personal data for any purpose that is additional to, or different from, the originally specified purpose, the new use of disclosure is fair.
+
+iii. shall be adequate, relevant and not excessive in relation to those purpose(s). This means that:
+
+ the Association holds personal data about an Individual that is sufficient for the purpose it is holding it for in relation to that Individual
+ the Association does not hold more information than needed for that purpose and has a minimum data set to describe this
+
+iv. shall be accurate and, where necessary, kept up to date. This means that the Association must:
+
+ take reasonable steps to ensure the accuracy of any personal data it obtains
+
+ ensure that the source of any personal data is clear
+
+ carefully consider any challenges to the accuracy of information  consider whether it is necessary to update the information.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 7 of 14
+
+v. should not be kept for longer than is necessary. This means that the Association should:
+ review the length of time it keeps personal data  consider the purpose or purposes it holds the information for in deciding
+whether (and for how long) to retain it  securely delete information that is no longer needed for this purpose or
+these purposes  update, archive or securely delete information if it goes out of date.
+vi. shall be processed in accordance with the rights of Individuals under the Act. This means that the Individual has:
+ a right of access to a copy of the information comprised in their personal data
+ a right to object to processing that is likely to cause or is causing damage or distress
+ a right to prevent processing for direct marketing  a right to object to decisions being taken by automated means  a right in certain circumstances to have inaccurate personal data rectified,
+blocked, erased or destroyed  a right to claim compensation for damages caused by breach of the Act.
+vii. shall be kept secure by the Data Controller and any Data Processor, who take appropriate technical and other measures to prevent unauthorised or unlawful processing or accidental loss or destruction of, or damage to, personal information. This means that the Association, and those organisations who process an Individuals data through contracted agreement with the Association, must:
+ design and organise security to fit the nature of the personal data it holds and the harm that may result from an information security breach
+ be clear about who in the organisation is responsible for ensuring information security
+ make sure it has the right physical and technical security, backed up by robust policies and procedures and reliable, well-trained staff and volunteers
+ be ready to respond to any breach of security swiftly and effectively.
+viii. shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of Individuals in relation to the processing of personal information. Of specific relevance to the Association:
+ the European Commission has decided that certain countries have an adequate level of protection for personal data. Currently, the following countries: Guernsey, Isle of Man, Jersey are considered as having adequate protection.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 8 of 14
+
+3. Application of criteria and controls
+The Association will ensure the appropriate actions are taken to comply with the Act and other relevant legislation through the application of criteria and controls. These would mean adhering to the eight principles by:
+ observing the conditions regarding the fair collection and use of information
+ meeting the legal obligations to specify the purposes for which information is used
+ collecting and processing appropriate information and only to the extent that it is needed to fulfil any operational needs or to comply with any legal requirements
+ ensuring the quality of information used  ensuring that the rights of people about whom information is held, can be
+fully exercised under the Act. These include: o the right to be informed that processing is being undertaken o the right of access to one's personal information o the right to prevent processing in certain circumstances o the right to correct, rectify, block or erase information which is regarded as wrong information.
+ taking appropriate technical and organisational security measures to safeguard personal information
+ ensuring that personal information is not transferred abroad without suitable safeguards
+ treating people justly and fairly whatever their age, religion, disability, gender, sexual orientation or ethnicity when dealing with requests for information
+ setting out clear procedures for responding to requests for information.
+The relevant policies, procedures and guidance relating to these criteria and controls have been listed in Section 1 of this policy, and hyperlinked to the relevant document.
+It should be noted that failure of staff and volunteers to adhere to this policy could lead to disciplinary action being taken in line with the following: Disciplinary Policy, Managing Concerns about a Volunteer or Managing Concerns about a Trustee procedure.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 9 of 14
+
+4. Data Collection
+The Association will ensure that data is collected within the boundaries defined within this policy. This applies to data that is collected in person (face to face or over the telephone), electronically or by completing a form. It applies to any location that is being used by staff, volunteers or contractors to deliver Association related business.
+When collecting data, the Association will ensure, wherever possible, that there is a fair processing notice in place and that the Individual:
+ clearly understands why the information is needed  understands what it will be used for and what the consequences are
+should the Individual decide not to give consent to processing (more relevant to sensitive health information)  understands who the data may be shared with and why  has the option to agree to sharing the data  grants explicit written or verbal consent to collect and share sensitive data (health related information) wherever possible  gives explicit consent to contact via email  is competent enough to give consent and has given so freely without any duress.
+The above points indicate that the Individual will have enough information for them to give Informed consent. Any concerns regarding competence should be referred to a health care professional.
+There are instances within the Association where implicit/implied consent is assumed for collecting data, for example information given when responding to an appeal. The Privacy Policy clearly explains this.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 10 of 14
+
+5. Data Storage
+Information and records relating to Individuals will be stored securely and will only be accessible to authorised staff and volunteers.
+Information will be stored for only as long as it is needed or required by statute and will be disposed of appropriately in line with the Retention, Archiving and Destruction of Information procedure.
+It is the Association's responsibility to ensure all personal and company data is nonrecoverable from any computer system previously used within the organisation which has been passed on/sold to a third party.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 11 of 14
+
+6. Data Access and Accuracy
+All Individuals have the right to access the information the Association holds about them. The Association will also take reasonable steps to ensure that this information is kept up to date by asking Individuals whether there have been any changes.
+All employees have the responsibility of ensuring information stored about an Individual is factual and not subjective.
+In addition, the Association will ensure that:
+ it has a Senior Information Risk Officer with specific responsibility for ensuring compliance with the Act
+ everyone processing personal information understands that they are contractually responsible for following good data protection practice
+ everyone processing personal information is appropriately trained to do so  everyone processing personal information is appropriately supervised  everyone processing personal information will report a suspected or actual
+breach of data management using the Data Protection Breach Reporting procedure  anybody wanting to make enquiries about handling personal information knows what to do  it deals promptly and courteously with any enquiries about handling personal information  it describes clearly how it handles personal information  it will regularly review and audit the ways it holds, manages and uses personal information  it regularly assesses and evaluates its methods and performance in relation to handling personal information  all staff are aware that a breach of the rules and procedures identified in this policy may lead to disciplinary action being taken against them.
+This policy will be updated as necessary to reflect best practice in data management, security and control and to ensure compliance with any changes or amendments in the law.
+
+Date of policy: Date of review:
+
+May 2017 April 2018 (or earlier if changes in law)
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 12 of 14
+
+7. Appendix A - Gaining Consent
+
+Under GDPR, a lawful basis needs to be identified before personal data can be processed. If there is no other lawful purpose identified, then consent must be sought.
+To be considered a lawful basis to process data one of the following must apply:
+ Processing is necessary for the performance of a contract with the Individual, or to take steps to enter a contract. This could be to fulfil an employment contract, or a contract to provide goods or services.
+ Processing is necessary to comply with a legal obligation
+ Processing is necessary to protect the vital interests of an Individual or another person
+ Processing is necessary to fulfil a task that is in the public interest or in the exercise of official authority vested in the Data Controller
+ Processing is necessary for the purposes of legitimate interests of the Association and those legitimate interests are not outweighed by possible harm to the Individuals rights and interests
+ Processing of data has consent from the Individual.
+What is valid consent?
+Consent must be:
+ Freely given: the Individual has choice and control on how their personal data may be used
+ Specific and informed: the Individual understands all the purposes for which their data may be used. If there are multiple purposes, consent must be sought for each
+ Unambiguous: the Individual knows what they have consented to, and that they have given their consent
+ A deliberate action by the Individual e.g. signing / verbal / electronic binary choice options.
+Consent may be implied, for example when completing a survey. The personal data provided may be used for the purposes stated in the survey. The data may not be used for any other purpose unless specific consent has been asked and an action has been taken to indicate it has been given.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 13 of 14
+
+Consent may provide a `soft opt-in' for further contact. For example details may be captured to provide a service and it would be reasonable to send details about similar services as long as there is the ability to opt-out every time there is contact. For charities, this may include information about their shop, however would not be permissible for campaigning or other direct marketing activities.
+Obtaining, recording and managing consent
+Consent must be clearly distinguishable from other matters, written in an accessible and intelligible form and in clear and plain language.
+It must be clear who has consented, when the consent was given, how it was given, what was consented to (it may be appropriate to note which version of the privacy notice was in use at the time) and when the Individual withdrew consent.
+Consent is likely to degrade over time. If there is still interaction with the Individual renewed consent will not be necessary. However if the processing or purposes the personal data is used for changes then the original consent may not be specific enough. A number of charities are using a guideline of renewing consent for telephone contact every 2 years.
+
+Data Protection Policy UNCONTROLLED COPY WHEN PRINTED
+
+Version: 3.0 Page 14 of 14
+
+

@@ -1,0 +1,300 @@
+Student Privacy Notice
+
+Contents
+Summary ................................................................................................................................................. 2 Summary of significant changes since last version........................................................................... 2 Policies superseded by this document .............................................................................................. 2
+Scope...................................................................................................................................................... 2 What this document covers ............................................................................................................... 2
+Related Documentation.......................................................................................................................... 2 The Open University Student Charter Principles .............................................................................. 3
+Policy ...................................................................................................................................................... 3 1. Who we are ............................................................................................................................. 3 2. What information do we collect about you and how do we collect it? .................................... 3 3. How do we use your personal information? ........................................................................... 4 4. Who do we share your information with? ............................................................................... 5 5. Do we transfer information outside the European Economic Area (EEA)? ........................... 6 6. How long do we keep your personal information for? ............................................................ 6 7. Students' use of personal data ............................................................................................... 6 8. Your rights............................................................................................................................... 7 9. Contact us ............................................................................................................................... 7
+Alternative format ................................................................................................................................... 7 Glossary ................................................................................................................................................. 8 Appendix 1: How do we use your personal data? ................................................................................. 9
+1. Activities relating to your contract with The Open University ................................................. 9 2. Activities relating to our public task of delivering Higher Education qualifications................. 9 3. Information we process in our legitimate interests ............................................................... 10 Appendix 2: Who do we share your personal data with? .................................................................... 12 1. Where we have a legal obligation to share data .................................................................. 12 2. Where we share data as part of our public task of offering Higher Education qualifications12 3. Where we share data as part of your contract to study with us ........................................... 13 4. Sharing under other legal bases........................................................................................... 13 5. Third party suppliers and service providers.......................................................................... 13
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+The Open University is incorporated by Royal Charter (RC 000391), an exempt charity in England & Wales and a charity registered in Scotland (SC 038302). The Open University is authorised and regulated by the Financial Conduct Authority in relation to its secondary activity of credit broking.
+
+Page 1 of 13
+
+Summary
+The Open University needs to collect and process personal data in order to provide services to students, manage its operations effectively, and meet legal requirements. This document sets out how we use your personal data.
+A summary document is available.
+Summary of significant changes since last version
+There are a number of significant changes from the previous major version of this policy, last updated in January 2016. These are:
+a) Change of policy name to Student Privacy Notice b) Addition of information required by the General Data Protection Regulation (GDPR): more
+detail on what we do with your personal data, the legal basis for processing, and how long we keep personal data for, etc.
+c) Inclusion of information about tutorial recording
+This version also contains minor amendments and clarifications made to the version published in Marsh 2018.
+This document will be updated from time to time in order to ensure compliance with data protection legislation.
+
+Policies superseded by this document This document replaces the Data Protection Policy, dated January 2016.
+
+Scope
+What this document covers
+This document applies to you if you have ever enrolled or registered to study with The Open University, including undergraduates, postgraduates, research students and apprentices.
+We collect additional information for some cohorts of students, and process it in different ways. These cohorts include social work and nursing students, apprentices, students in secure environments, and Young Applicants in Schools. Please see Study Privacy Notices for details.
+
+Related Documentation
+There is a summary of this document available in Essential Documents
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 2 of 13
+
+For more information and related privacy notices, see our Privacy and Cookies page.
+Our Learning analytics policy sets out how we use student data in an ethical way to shape the student support provided.
+The Policy on the retention of student data and records sets out the principles for how long we keep student data.
+The Conditions of Registration sets out the basis of the relationship between the student and The Open University.
+
+The Open University Student Charter Principles
+This policy aligns with the Open University Student Charter Principle 1: We treat each other with dignity and respect.
+Policy
+1. Who we are
+1.1 The Open University is the data controller in relation to the processing activities described below. This means that The Open University decides why and how your personal information is processed. Where this policy refers to "we", "our" or "us" below, unless it mentions otherwise, it is referring to The Open University.
+
+2. What information do we collect about you and how do we collect it?
+
+Information that you give to us:
+
+2.1 As soon as you contact us, we create a record in your name. To that record we add information that you give us when reserving, registering or enrolling and throughout your studies. We keep records of your participation in learning activities and your use of other services we offer, e.g. disability services and employability services.
+
+2.2 We hold general information about you, such as your name, address, modules and qualifications studied and fee payments, as well as data relating to examinations, assessments and course results. You may give us information about "special categories" of data, including your racial or ethnic origin, religious beliefs, physical or mental health, or sexual orientation. You might also give us information about your criminal convictions.
+
+2.3 It is likely that you will give us further personal information when you start to use some of our services, for example, our employability service. You will be given more information about what we do with your personal data when you start to use the service.
+
+Information that we automatically collect:
+
+2.4 We will automatically collect information about your participation in online learning and assessment activities, your use of module and related websites, and all forms of assessment activities (essays, iCMAs, exams, etc.) We will also add to your record any activities that you
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 3 of 13
+
+carry out on our website. This might include diagnostic quizzes you complete, or modules you add to your basket. If you use an Open University email address and other Microsoft Office 365 services, then we collect log data about your use of the service. We may automatically collect technical information when you browse our websites. Further information about this is given in our Privacy and Cookies Policy. We record telephone calls and monitor other communications between you and The Open University to make sure that we have carried out your instructions correctly and to help us improve our services through staff training. If you receive email marketing communications, we record if you open them.
+Information we receive from third parties:
+2.5 We may receive some information about you from third parties.
+We may contact the Higher Education Statistics Agency (HESA) or other educational institutions to confirm the qualifications you have obtained or to check whether you have been included in a previous HESA or Individual Learner Record (ILR) return.
+2.6 If your fees are paid via a loan through Open University Student Budget Accounts Limited (OUSBA), or funding from a UK funding authority or government agency, such as a loan or grant, we will receive basic information from the funding provider. If your fees are paid by another organisation, they may provide some information about you to us. Further information would be available to you in the relevant privacy notices and registration documents.
+2.7 If you are not currently studying, we may enhance our records with data received from third parties, in order to ensure we have up to date contact details for you, and in order to offer you more relevant communications. We will only send you marketing communications if your communications preferences allow this.
+
+3. How do we use your personal information?
+3.1 We collect and process a broad range of personal data about you in order to deliver our services and support you, to manage our operations effectively, and to meet our legal requirements.
+
+3.2 If you do not provide some of the information we need at registration then we may not be able to effectively provide administration or support services to enable you to succeed in your study.
+
+3.3 We use your "special categories" of data for activities including: equal opportunities monitoring, identifying if you need support (in conjunction with other learning analytics data), informing academic research, providing you with relevant opportunities, and ensuring that views of students with specific protected characteristics are represented. Information about any disabilities and special requirements you have will also be used to inform the provision of reasonable adjustments and other provisions for your study.
+
+3.4 You may submit additional "special category" information to us, for example medical evidence for funding, information about your religion relating to special circumstances for an examination, or information pertinent to an enquiry or complaint. We only use this information for the purpose for which it was provided.
+
+3.5 Detailed information on the purposes we use your information for is provided in Appendix 1.
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 4 of 13
+
+3.6 We are committed to the data protection principles of good practice for handling information. All personal information is held securely and we will only transfer data within The Open University on a `need-to-know' basis so that we can support our academic and other services to you.
+Managing unwanted communications: 3.7 We will contact you in connection with your studies or for administration or support purposes.
+We may also send you marketing information, or invite you to take part in research to improve our services. If you do not wish to receive these communications, you can change your communications preferences by using the information in Section 9.
+4. Who do we share your information with?
+4.1 We share data with a number of organisations for specific purposes. For example,
+· When you register as a student, we will share some information with the Open University Students Association (OU Students Association) as you automatically become a member.
+· We share data with other organisations where we have a legal or regulatory obligation to do this, for example with the Higher Education Statistics Agency (HESA), and with government departments. If you want to know more about how HESA uses your data, please see the HESA website.
+· We will also share your data so that you can be invited to participate in surveys commissioned by the Higher Education Funding Council for England (HEFCE), which may be carried out by contractors on their behalf. If you do not want to take part in the National Students Survey, please contact them via www.thestudentsurvey.com
+· We share data with organisations that provide funding, for example the Student Loans Company and the national funding authorities/ government bodies e.g. Student Finance England, sponsor organisations, and Open University Student Budget Accounts Limited (OUSBA).
+· We may disclose your information to our third-party service providers and agents for the purposes of providing services to us, or directly to you on our behalf. When we use third party service providers, we only disclose to them any personal information that is necessary for them to provide their service. We have a contract in place that requires them to keep your information secure and not to use it other than in accordance with our specific instructions.
+· If you are studying towards a qualification that leads to professional recognition we may share some information with the relevant professional body.
+More detailed information on who we share your personal information with is available in Appendix 2.
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 5 of 13
+
+Other ways we may share your personal information:
+4.2 We may transfer your personal information to a third party if The Open University ceases to exist and another organisation offers to continue your study. We may also transfer your personal information if we are under a duty to disclose or share it in order to comply with any legal obligation, to detect or report a crime, to enforce or apply the terms of our contracts or to protect the rights, property or safety of our enquirers, visitors and students. However, we will always aim to ensure that your privacy rights continue to be protected.
+
+5. Do we transfer information outside the European Economic Area (EEA)?
+5.1 Generally, information you provide to us is stored on our secure servers, or on our cloud based systems which are located within the EEA.
+5.2 However, there are times when we do need to store information outside the EEA. If we transfer your information outside the EEA, we will take steps to ensure that appropriate security measures are taken to protect your privacy rights as outlined in this policy. This would either be imposing contractual obligations on the recipient of your personal information, or ensuring that the recipients are subscribed to `international frameworks' that aim to ensure adequate protection. For example, we would ensure that a supplier based in the USA has signed up to "Privacy Shield".
+
+6. How long do we keep your personal information for?
+6.1 If we collect your personal information the length of time we keep it for is determined by a number of factors including our purpose for using the information and our legal obligations.
+6.2 We have a retention schedule for information and keep identifiable records only for as long as they have a legal or business purpose:
+1. We keep academic transcript data at least until student date of birth + 120 years, in order to provide references and verify your study with us.
+2. We keep some information relating to the module or qualification, and related queries and communications, until six years after you have completed the module or qualification, in order to inform our ongoing relationship with you, and in case it is necessary to establish, bring or defend legal claims.
+3. We destroy some information within three years, where it does not have a longer term impact, and is not required for business purposes. For example, we will destroy some data that is relevant to exams and assessment shortly after the result is decided, and we will only keep the result itself.
+See the Policy on the Retention of Student Data and Records for more details.
+
+7. Students' use of personal data
+7.1 Students are not usually expected to collect or use personal data as part of their Open University studies, but if you need to do so you must get the agreement of your tutor or supervisor that the processing is necessary, for example for your assignment or research.
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 6 of 13
+
+You must also immediately tell our Data Protection Officer, using the contact details in Section 9 of this document.
+7.2 If you do need to process personal data, The Open University will be the data controller for these activities as long as you have followed the advice in Section 7.1 above. Otherwise, you will be the data controller for the personal data you process, and will be fully responsible for it. See the Information Commissioner's Office website for more information.
+
+8. Your rights
+8.1. You have a number of rights in relation to your personal information. In order to exercise any of these rights, please contact us using the details in Section 9 of this document.
+8.2 You have the right to:
+· access the personal information that we hold about you · correct inaccuracies in the personal information that we hold about you · request that we stop sending you direct marketing communications. In certain circumstances, you have the right to · have your details removed from systems that we use to process your personal data · restrict the processing of your personal data in certain ways · obtain a copy of your personal data in a structured electronic data file · object to certain processing of your personal data by us If you are concerned about the way we have processed your personal information, you can complain to the Information Commissioner's Office (ICO). Please visit the ICO's website for further details.
+
+9. Contact us
+9.1 Please direct any queries about this policy or about the way we process your personal information to our Data Protection Officer using the contact details below.
+· Email: data-protection@open.ac.uk Telephone: +44(0)1908 653994 By post: The Data Protection Officer, PO Box 497, The Open University, Walton Hall, Milton Keynes MK7 6AT.
+You can update your contact preferences when you sign into the Open University website, by using any unsubscribe options available in communications we send you, or by contacting us.
+Alternative format
+If you require this document in an alternative format, please contact your Student Support Team.
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 7 of 13
+
+Glossary
+Personal data
+According to the General Data Protection Regulation, `personal data' means any information relating to an identified or identifiable natural person (`data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+Cookies
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone browser from a website's computer and is stored on your computer's or mobile phone's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, which the site can then access when you visit it again to track online traffic flows, for example. A website cannot access cookies sent by other websites.
+Data Controller
+A data controller determines the purposes for which and the manner in which any personal data are processed. In essence, this means that the data controller decides how and why personal data are processed.
+Privacy Shield
+Privacy Shield is a framework which provides companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union to the United States. US based organisations self-certify to the Department of Commerce and publicly commit to comply with the Framework's requirements, which is then enforceable under US law.
+Protected characteristics
+There are nine characteristics protected under the Equality Act 2010. They are: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.
+Special categories of data
+The General Data Protection Regulation sets out "special categories" of data which have to be given additional protection. These comprise your racial or ethnic origin, religious beliefs, political opinions, trade union membership, genetics, biometrics (where used for ID purposes) physical or mental health, sex life and sexual orientation. Information about criminal offences or criminal proceedings are treated similarly.
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 8 of 13
+
+Appendix 1: How do we use your personal data?
+1. Activities relating to your contract with The Open University
+The following data processing activities are necessary for the contract we have with you, as set out in your Registration Agreement and Conditions of Registration. They include:
+· Registering you as a student
+· Administering your fee payment
+· When you register, we use an automated process to indicate whether or not you will be eligible to receive government funding. You can ask us to review this decision.
+· Maintaining your student record
+· Administering your study, including your learning events and placements, access to systems, examinations and assessments, facilitating special circumstances for assessment and examinations, etc. We may contact you via SMS unless you opt out of this
+· Providing support services which are necessary for your study, e.g. IT helpdesk services, disability services, and Library resources and services
+· Managing queries, complaints, appeals and allegations of misconduct
+· Providing academic support. We may also identify if you require additional support or specific services and contact you to offer support. We provide targeted and specific support to student groups with shared characteristics and/or behaviours. (This is often called "profiling"). For more information see the Policy on Ethical use of Student Data for Learning Analytics
+· Ensuring a safe environment. If you give us any information about your criminal convictions, or restrictions you are subject to, we may use the information to restrict your access to services where required.
+
+2. Activities relating to our public task of delivering Higher Education qualifications
+Some of our data processing activities are necessary for our public task, as set out in our Charter and relevant legislation. These include:
+· Providing other support services and other facilities to you, for example careers support
+· Administering financial support, including medical evidence
+· Administering payments to students relating to refunds, awards, grants, donations or prizes
+· Providing statistical and management reports, for service improvement, forecasting and target setting. This includes predicting and reporting on student numbers. The data includes special categories of data for equal opportunity monitoring, to help us understand our student demographics and what factors may influence success.
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 9 of 13
+
+· Administering degree ceremonies and the publication of awards, marks and inclusion in pass lists.
+· Improving the study experience and the quality and delivery of teaching and learning. This includes educational research, scholarship and market research, and engaging students in quality enhancement activities. We may use depersonalised data to inform these activities and we will ask you for feedback when you complete learning activities. We may also ask you to take part in specific research activities, or engage outside research agencies to do so on our behalf. We may use data you have provided to us regarding your ethnic origin, disability or other special category data in order to identify groups for formal feedback and analyse responses.
+We may also contact you to find out if you are interested in taking part in other areas of research. If you do not want to be contacted to take part in any research activities, please let us know using the details given in Section 9.
+· Recording of study events, e.g. online tutorials and face to face tutorials.
+· Processing safeguarding concerns to ensure the safety and wellbeing of our students and others.
+
+3. Information we process in our legitimate interests
+We may use and process your personal information where it is necessary for us to pursue our legitimate interests for the following purposes:
+
+a) Communications and marketing purposes
+
+· To send you marketing communications about our modules, qualifications, or other services, or to show you targeted advertising on third party sites. You are able to opt out of receiving marketing communications by using the details in section 9. If you do not want to be shown targeted advertising messages from The Open University, some third party sites allow you to request not to see messages from specific advertisers on that site in the future.
+
+· To stay in touch with you after you graduate, via our Development Office. You will be contacted when you graduate with further details. Please see the Alumni and Supporters privacy policy for further details.
+
+· To analyse our student body to inform our marketing strategy and to enhance and personalise your customer experience
+
+· To verify the accuracy of data that we hold about you and create a better understanding of you as a customer. We may use your email address to identify people like you - "a lookalike audience" - who are users of social media sites and who may be interested in our services and our qualifications. These people would receive Open University adverts in, for example, their news feeds.
+
+· To obtain an overall view of visitor habits and volumes to our website, and to provide
+
+you with more useful and relevant adverts on our website and other websites. We use
+
+"cookies" and similar technologies to do this, in order to improve our websites, and to
+
+provide relevant advertising. For more detailed information on how we use cookies and
+
+how to switch them off on your device, see our Privacy and Cookies page. You will need
+
+Version number: 1.1
+
+Approved by: Data Protection Officer
+
+Effective from: 21 March 2018
+
+Date for review: September 2018
+
+Page 10 of 13
+
+to allow "per-session" cookies in order to access password-protected Open University websites. b) Internal activities · To prevent fraud and other criminal activities, for example fraud in relation to public funding · To audit our activities in order to ensure regulatory compliance · To monitor use of IT services and ensure network and information security · To test and maintain our systems and to ensure robust performance · To help us improve our services via staff training · Administration of The Open University's CCTV system, to provide a safe environment and facilitate the prevention and detection of crime. · To record concerns about people being drawn into terrorism (Prevent)
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 11 of 13
+
+Appendix 2: Who do we share your personal data with?
+1. Where we have a legal obligation to share data
+· We have an obligation to provide information about students to other organisations under Higher Education (HE) legislation. We are required to send some of the information we hold about registered students to HESA (Higher Education Statistics Agency). This information forms your HESA record. If you want to know more about how HESA uses the data, please see their privacy policy. We are also required to share statistical information with other English, Irish, Welsh and Scottish regulatory and government bodies under HE and other legislation
+Sharing information with funding bodies
+· If you are paying your fees via a part time tuition fee loan or a fee grant, information on your courses and fee liability is shared with the relevant funding body.
+· If you apply for maintenance funding and/or Disabled Students Allowance, information about your course is shared with the relevant national funding body to progress the award.
+· If you apply for discretionary financial support, we share information with the relevant national funding body.
+· These are legal obligations, governed by regulations made under the Teaching and Higher Education Act 1998: for England, Wales; Scotland, and Northern Ireland. Further information is available with the relevant funding application.
+
+2. Where we share data as part of our public task of offering Higher Education qualifications
+· When you register as a student, we will share some information with the OU Students Association as you automatically become a member. It is part of our public task to enable membership for all students, unless they wish to opt out of this. If you do not want to become a member, please contact the OU Students Association at PO Box 397, Walton Hall, Milton Keynes MK7 6BE, or via email at ousa@open.ac.uk.
+· Your contact details may be passed to survey contractors to carry out surveys that we need to carry out for statutory purposes, on behalf of HEFCE or HESA, such as the National Student Survey (NSS). The contractors will use your details only for that purpose and will then delete them. If you do not want to take part in the National Students Survey, please contact them via their www.thestudentsurvey.com/about.
+· If you complain about us, and escalate your request to the Office of the Independent Adjudicator (OIA), we will share details of your complaint with them.
+· We share Young Applicants in Schools Scheme (YASS) students' data with UCAS for longitudinal tracking.
+· We may ask you if you would be willing to take part in educational research carried out by other organisations.
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 12 of 13
+
+3. Where we share data as part of your contract to study with us
+· If you wish to open an account with Open University Student Budget Account Ltd (OUSBA) we will share some information with them when we refer you to them and whilst you continue to pay via this method You will need to inform OUSBA of any changes to your contact details in addition to advising The Open University directly.
+· If your fee or part of your fee is paid by sponsorship, information may be released to your sponsor organisation, including your name, Open University Personal Identifier, module details and module result. If we have a corporate contract with your employer, we may also share information about your participation in study activities and events.
+· If you are studying a qualification or programme that leads to professional recognition we may share some information with the relevant professional body.
+4. Sharing under other legal bases
+· When you graduate, if you consent to it, we will inform the OU Students Association that you are attending a specific ceremony, as they print t-shirts with graduate names on.
+· If you apply to the Open University Students' Educational Trust (OUSET) it is in our legitimate interest for us to pass information about you to the Trust if requested to do so.
+· We will provide academic references and confirmation of study to prospective employers and to your local authority or council, with your consent.
+· We will share information with the emergency services where there is an emergency situation such as illness or serious injury, where this is in someone's vital interest.
+· We will share information with the police and other agencies where necessary for the prevention and detection of crime, including under our "Prevent" (Counter-Terrorism) duty.
+5. Third party suppliers and service providers
+We use third party suppliers and service providers for a number of activities, from printing desk records and providing IT systems, to providing venues for learning events, and as agents for contacting international students and conducting market research. It is in our legitimate interest to use third party suppliers to maintain cost effective and efficient operations.
+When we use third party service providers, we only disclose to them any personal information that is necessary for them to provide their service. We have a contract in place that requires them to keep your information secure and not to use it other than in accordance with our specific instructions.
+
+Version number: 1.1 Effective from: 21 March 2018
+
+Approved by: Data Protection Officer Date for review: September 2018
+
+Page 13 of 13
+
+

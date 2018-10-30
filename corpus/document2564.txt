@@ -1,0 +1,472 @@
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+NOTE
+FACEBOOK'S PRIVACY POLICY AND ITS THIRD-PARTY PARTNERSHIPS: LUCRATIVITY AND LIABILITY
+Yasamine Hashemi*
+
+I.INTRODUCTION ...................................................................................................
+
+II.THE EVOLUTION OF FACEBOOK.COM ................................................................
+
+A. Humble Beginnings ...................................................................................
+
+B. Controversial partnerships with third-party websites...............................
+
+1.
+
+Public Search .....................................................................................
+
+2.
+
+Social Ads..........................................................................................
+
+3.
+
+Beacon ...............................................................................................
+
+C. Popular Uprisings.....................................................................................
+
+1.
+
+Users protest ......................................................................................
+
+2.
+
+Facebook responds ............................................................................
+
+D. Why is Facebook staying the course? .......................................................
+
+E. What's so offensive about these three new features? ................................
+
+III.CHALLENGING THE ADEQUACY OF FACEBOOK'S PRIVACY POLICY ................
+
+A. The Policy .................................................................................................
+
+B. Challenges brought against the policy......................................................
+
+IV.THE ROADBLOCKS: FACEBOOK'S TERMS OF USE AND PROTECTION
+
+OFFERED BY THE COMMUNICATIONS DECENCY ACT, 47 U.S.C. §
+
+230 .............................................................................................................
+
+A. The Facebook Terms of Use......................................................................
+
+1.
+
+The Terms..........................................................................................
+
+2.
+
+Challenges to the Terms ....................................................................
+
+B. The Communications Decency Act............................................................
+
+1.
+
+The Act ..............................................................................................
+
+2.
+
+Challenges to application of the Act..................................................
+
+V.CONCLUSION .....................................................................................................
+
+I. INTRODUCTION Googling people is so 2006.1 Why try to obtain information about a person
+* J.D. Candidate, Boston University School of Law, 2009; B.A. English and Economics, Stanford University, 2004.
+1 Ivor Tossell, Step aside, Facebook, your reign is almost over, THE GLOBE AND MAIL (Jan. 5, 2008), available at http://www.theglobeandmail.com/servlet/story/RTGAM. 20080104.wweb04/BNStory/Technology/home (noting that Facebook "handily won the
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+on a traditional search engine, which may only contain high school newspaper articles or athletic competition scores,2 when, in just a few seconds, you can find photos, messages from friends, a person's daily schedule, and more? Enter Facebook.com ("Facebook"), a social networking website that provides these social tools, and whose popularity has spread like wildfire across the internet.3
+Part of Facebook's popularity is related to its cost, or lack thereof. Facebook is a free website. Like many of its popular internet peers, Facebook depends on online advertisements for revenue.4 And as Google demonstrates, it does not take much more than online advertising to generate Wall Streetdefying profits.5
+In an attempt to enhance its ability to generate advertising profits, Facebook recently tweaked the traditional advertising model, generating widespread user protest in the process.6 Its offense? Instead of merely tracking user activity on its own website and delivering ads to each user relevant to their web activity, Facebook went two steps further: (1) it started delivering ads to a user's "friends," with the user's name, photos, and endorsements attached; and (2) it started tracking user activities on third-party websites, announcing these activities to the user's friends, and delivering ads relevant to those activities.7
+Although Facebook users may find its advertising scheme offensive, it may still be legal. In reaction to Facebook's new policy, users may ask courts to hold Facebook liable for any negative consequences resulting from its partnerships with third-party websites. This note will explore these issues. Part II will discuss Facebook's evolution and the nature of its users' concerns over its new advertising models. Parts III, IV, and V will investigate how Facebook's privacy policy and Terms of Use, as well as the Communications
+
+2007 Miss Internet Hoopla pageant," and "is still waiting for its successor."). 2 Id. 3 Cory Doctorow, How Your Creepy Ex-Co-Workers Will Kill Facebook, INFORMATION
+WEEK (Nov. 26, 2007), available at http://www.informationweek.com/news/ showArticle.jhtml?articleID=204203573.
+4 Louise Story & Brad Stone, Facebook Retreats on Online Tracking, N,Y. TIMES, (Nov. 30, 2007), available at http://www.nytimes.com/2007/11/30/technology/30face.html.
+5 See, e.g., John Shinal & Verne Kopytoff, Google finds success on first day of trading, S.F. CHRON., Aug. 20, 2004, at A1, available at http://www.sfgate.com/cgibin/article.cgi?file=/chronicle/archive/2004/08/20/MNGP58BME11.DTL; see also Andy Greenberg, When Google Grows Up, FORBES (Jan. 11, 2008) available at http://www.forbes.com/technology/enterprisetech/2008/01/11/google-carr-computing-techenter-cx_ag_0111computing.html.
+6 Story, supra note 4. 7 Posting of Leah Perlman to The Facebook Blog, http://blog.facebook.com /blog.php?post=6972252130 (Nov. 7, 2007, 12:46 a.m.).
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+Decency Act, 47 U.S.C. § 230, could play into potential legal challenges against Facebook's third-party partnerships on the grounds that members did not have proper notice of how Facebook would use their personal information. Ultimately, it is unlikely that courts will hold Facebook liable for events arising from third-party website partnerships.
+II. THE EVOLUTION OF FACEBOOK.COM
+
+A. Humble Beginnings
+Facebook was launched in 2004.8 Members can create their own personal profile ­ complete with a profile photo and public photo albums, videos, and notes. They can also designate "friends," who are other Facebook users, and join virtual "Groups" that are focused around common themes and interests.9 Members can also choose which parts of their profile they would like to make visible to other members.10 Facebook also contains a "news feed," which is located on a user's Facebook homepage immediately after they log into the site. This personal news feed functions much like a typical news feed does. The basic difference is that the "news" contained in the Facebook news feed consists of profile updates made by a user's friends.11 Typical news stories include updates to relationship status, changes to information that members list about themselves on their profiles, and new photos that members have posted to their albums.12
+Facebook was initially only available to users who had a valid email address from a handful of colleges and universities. The site essentially served as an online, extended version of paper "facebooks" that are distributed at many college campuses to incoming freshmen. In 2006, Facebook was opened to all members of the general public.13 Today, the only membership requirements are a valid email address and formal agreement to the website's Terms of Use and Privacy Policy.14
+
+8 Press Room, http://facebook.com/press.php (last visited Jan. 12, 2008). 9 Explore Facebook, http://www.facebook.com/help/new_user_guide.php?guide_section =explore_facebook (last visited Nov. 30, 2008). 10 Set Up a Profile, http://www.facebook.com/help/new_user_guide.php?guide_section= set_up_profile (last visited Nov. 30, 2008). 11 Explore Facebook, supra note 9. 12 Id. 13 Posting of Jon Warman to The Facebook Blog, http://blog.facebook.com/blog.php? post=2243932130 (Feb. 20, 2007, 10:48 p.m.). 14 Facebook Principles, http://facebook.com/policy.php (last visited Jan, 10, 2008); Terms of Use, http://facebook.com/terms.php (last visited Nov. 17, 2008).
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+B. Controversial partnerships with third-party websites
+In late 2007, Facebook announced three new features involving partnerships with third-party websites: Public Search, Social Ads, and Beacon.15
+1. Public Search
+When Facebook was initially opened, only members could search for other members.16 On September 5, 2007, Facebook announced that it had made limited public search listings available to people who are not logged into the Facebook website.17 These search listings expose members' names, profile pictures, the ability to send a message to a member, view his or her friends, and request to add that member as a friend.18 Facebook also announced that it will soon make these listings available on search engines such as Google, MSN Live, and Yahoo.19
+Facebook did not send any email notices to its users notifying them that their listings had become publicly available.20 Indeed, Facebook has announced through its blog that it does not have a policy of notifying users of changes to the site via email.21 Carolyn Abram, Facebook's "resident blogger," explained there are only four ways that Facebook sends information to users: through Home Page announcements, Product Stories and the What's New page, the Facebook Blog, and Pages and Updates.22 Home Page announcements are "big boxes" that appear at the top of a user's News Feed23 when that user logs-in to Facebook. Abram explained that Home Page announcements are used only for the announcements that Facebook wants to be sure its users are aware of.24 Product Stories and the What's New page appear as stories on users' News Feeds and are used to communicate "useful tips and fun information about Facebook."25 Finally, Pages and Updates appear in users' message inboxes, which they can access after logging­in to
+
+15 Perlman, supra note 7; Posting of Philip Fung to The Facebook Blog, http://blog.facebook.com/blog.php?post=2963412130 (Sept. 5, 2007, 3:57 a.m.).
+16 Fung, supra note 15. 17 Id. 18 Id. 19 Id. 20 See Posting of Carolyn Abram to The Facebook Blog, http://blog.facebook.com/blog.php?post=7830237130 (Dec. 18, 2007, 12:52 p.m.). 21 Id. 22 Id. 23 See infra Part II.C.i (discussing the development and function of the news feed). 24 Abram, supra note 20. 25 Id.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+the website.26 After the public search change, all users were automatically included in the
+public search listings, but users can opt-out of the public listings, after the fact, via Facebook's individualized privacy settings page.27 Although Facebook's privacy policy has not been amended to cover the implications of public searches, the most recent version of the policy, dated December 6, 2007, does state, "Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, Marketplace listings or other items, this information may become publicly available."28
+2. Social Ads
+On November 7, 2007, Facebook announced on its blog that it was introducing what it called "an entirely new advertising solution for Facebook" ­ Social Ads.29 Social ads display relevant advertisements related to actions that users have taken on the site.30 The announcement specified that the new Social Ads product would result in three main changes for Facebook users:(1) it would give users a way to connect with "products, businesses, bands, celebrities and more";(2) ads would become "more relevant and more meaningful" to users; and(3) users would have the options to share actions they take on third-party websites with their Facebook friends.31 Facebook assured users that advertisers never have access to who is seeing their ads, personal information about users, or the social actions that accompany their ads.32 This announcement was only published in the Facebook blog, though in accordance with Facebook policy, no announcements were sent to users' personal email addresses.33
+3. Beacon
+On November 7, 2007, Facebook also announced the introduction of its new "Beacon" product on the Facebook blog.34 Beacon tracks user actions on third-party websites that are partnered with Facebook ("Affiliate Websites")
+
+26 Id. 27 Facebook Principles, supra note 14. 28 Id. 29 Perlman, supra note 7. 30 Id. 31 Id. 32 Id. 33 Abram, supra note 20. 34 Perlman, supra note 7. The blog post describes Beacon but does not use its name. Beacon is described by name in the Facebook Principles. See Facebook Principles, supra note 14.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+and shares these actions with a user's friends through the News Feed in the form of news stories.35 The announcement assured users that Affiliate Websites will always notify users of any stories they want to send to the Facebook News Feed and that users will have two opportunities to opt out of the story: both on the Affiliate Website and on Facebook.36 As was the case with Social Ads, Facebook did not email the Beacon announcement to its users, nor did it take any other additional measures to notify its users of the new product.37
+C. Popular Uprisings
+
+1. Users protest
+Facebook's decision to make public search listings publicly available was its third step towards makings its members' information more readily available to those who may be interested. The development of Social Ads and Beacon can be viewed as the fourth step along this continuum. When the website launched its "News Feed" feature, it generated a great deal of controversy in the process. Users rushed to join Facebook Groups built to express dissatisfaction with the new feature.38
+Facebook's decision to open itself up to the general public ­ the second step in making its users' information more available ­ also generated abundant controversy, including protests from over 700,000 users.39 Many users expressed dissatisfaction with this decision, noting that Facebook was originally a website intended to allow students within the same college community to find each other.40 Some students felt uncomfortable with putting their personal information on other social networking websites that were open to the general public, but did not have the same feelings towards the original, college-only version of Facebook. These students felt that the
+
+35 Id. 36 Id. 37 Abram, supra note 20. 38 See Search Group, http://facebook.com/s.php?q=news%20feed&k=200000010 (last visited Nov. 24, 2008). A search for Groups that contain the keywords "news feed" yields over 500 results, and many of these groups have over 500 members each. Id. 39 See, e.g., News Feed Was The Least of our Worries - People Against an Open Facebook, http://facebook.com/group.php?gid=2210053630 (last visited Nov. 24, 2008). This Group, which hosts 2,710 members, features 179 posts from different members expressing their desire that Facebook remain closed to members of the general public who do not have ".edu" email addresses. ALSO Facebook Users Protest Online Tracking. Id. 40 Id. One user notes, "This MySpace copy cat can go to hell." MySpace.com, another social networking website, was open to the general public long before Facebook was. See http://www.myspace.com/. Id.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+campus-focused nature of Facebook made it safer and fundamentally different than other, more public social networking websites.41
+Facebook's decision to make public search listings available initially generated some user protest, but that protest quickly waned.42 This may be because creating a profile, which gives access to Facebook user information, requires so little effort. Because establishing membership is very easy, many members do not see a fundamental difference between opening Facebook up to public membership, and allowing nonmembers to search Facebook profiles.
+User responses to Social Ads and Beacon met much more criticism. These products generated a widespread media frenzy. Several public organizations, including the Center for Digital Democracy and the U.S. Public Interest Research Groups, filed complaints with the Federal Trade Commission.43 By November 30, 2007, over 50,000 Facebook users signed a petition started by MoveOn.org, a populist political group, objecting to Beacon and requesting the ability to opt-out of the program completely with no more than one click of a mouse, which the original version of Beacon did not allow for.44 Additionally, at least one Beacon affiliate, Overstock.com, decided to stop running the Beacon program on its site until it became an "opt-in," as opposed to "opt-
+
+41 See, e.g., News Feed Was The Least of our Worries ­ People Against an Open
+
+Facebook, Discussion Board, http://facebook.com/topic.php?uid=2210053630&topic=1636
+
+(last visited Nov. 24, 2008). One user writes, "I agree that it would be horrible if Facebook
+
+turned into just another Myspace. I mean, that's the whole reason why I don't have a
+
+Myspace profile ­ it's so . . . creepy." See also News Feed Was The Least of our Worries ­
+
+People
+
+Against
+
+an
+
+Open
+
+Facebook,
+
+Discussion
+
+Board,
+
+http://facebook.com/topic.php?uid=2210053630&topic=1629 (last visited Nov. 24, 2008).
+
+A user writes, "really, what is the point of facebook if it's open to the public? why not just
+
+be on myspace, then???" Another user also writes, "There was a reason that I left
+
+myspace.com, and that was because it was no longer "my space". . .it became a medium for
+
+people to spy on one another and to creep the rest of us out."
+
+42 See, e.g., Search Groups, http://facebook.com/s.php?q=%22public+search+listings
+
+%22&n=-1&k=200000010 (last visited Nov. 24, 2008). A Groups search for "public search
+
+listings" only yields one group dedicated to stopping Facebook from making profiles
+
+searchable on public search engines, and it only boasts four members. See also Sarah Elkins,
+
+A Social Network's Faux Pas? NEWSWEEK, Nov. 9, 2007, at 2, available at
+
+http://www.newsweek.com/id/69275. Elkins notes, "After speculation that Facebook would
+
+open membership to anyone with an e-mail address, users started a group called I WILL
+
+Leave Facebook If It Becomes Public. The site became accessible to users outside of
+
+professional and academic networks last fall. The group still has 28 members, all of whom
+
+have active profiles."
+
+43 Caroline McCarthy, Legally, are Facebook's Social ads Kosher?, CNET News, Nov.
+
+15, 2007, available at http://www.news.com/8301-13577_3-9817421-36.html; Story, supra
+
+note 4.
+
+44 Story, supra note 4, at 1.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+out," program.45 In particular, users protested because they either had difficulty finding opt-
+out boxes or were not aware that Beacon existed until, to their surprise, stories of their activities on third-party websites were published in News Feeds.46 Users were troubled that Facebook was now publishing information about their activities outside the Facebook website. Users usually only saw information about themselves on Facebook that they affirmatively chose to put on Facebook.47 Additionally, some Facebook users simply did not want to endorse commercial products.48
+2. Facebook responds
+Facebook initially shrugged-off user complaints about Social Ads and Beacon. Chamath Palihapitiya, a Facebook Vice President, said, "[w]henever we innovate and create great new experiences and new features, if they are not well understood at the outset, one thing we need to do is give people an opportunity to interact with them. . . . After a while, they fall in love with them."49 Palihapitiya noted that although many users initially disliked the News Feed feature when it was first released, users eventually grew to like it, and stated that Facebook would not add a universal opt-out feature to Beacon.50
+Facebook quickly changed its tune, though, after receiving many user complaints. Facebook eventually tweaked the Beacon product to accommodate some user concerns.51 On December 5, 2007, Facebook creator Mark Zuckerberg publicly apologized on the Facebook blog for "mistakes" that he felt were made in the development of Beacon. He explained that changes were made to the product as a result of user complaints.52 He also made clear that when Beacon was originally conceived, Facebook had a twofold goal in mind. First, it wanted the product to be "lightweight," that is, so that it wouldn't "get in people's way as they browsed the web." Second, it wanted the product to allow people to "share information across sites with their friends."53 Zuckerberg went on to explain that Facebook did not strike the right balance
+
+45 Story, supra note 4. 46 See, e.g., id. 47 Story, supra note 4. One Facebook user noted, "Just because I belong to Facebook, do I now have to be careful about everything else I do on the internet?" Id. 48 Id. 49 Id. 50 Id. 51 Posting of Mark Zuckerberg to The Facebook Blog, http://blog.facebook.com/blog.php?post=7584397130 (Dec. 5, 2007, 7:00 a.m.). 52 Id. 53 Id.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+between these two goals, and the resulting product erred too strongly on the "lightweight" side.54 Zuckerberg announced that Facebook changed Beacon into an opt-in system and was releasing a privacy control that would allow users to turn Beacon off completely.
+After Zuckerberg's announcement, the Washington Post noted that Facebook has yet to address "what is probably the biggest privacy concern with Beacon right now: [t]hat Beacon tracks all users in the affiliate external sites, including logged-off and former Facebook members and even nonFacebook members, and sends data back to Facebook without alerting users nor asking for their permission." 55 He also noted that "Beacon . . . reports back to Facebook in the case of logged-in Facebook users who declined having their actions broadcast to their friends."56 Zuckerberg did not address this issue in his announcement, but The Post reported that Facebook did confirm these findings after they were initially disclosed by a security researcher who discovered them in the course of independent tests he conducted on Beacon.57
+D. Why is Facebook staying the course?
+Facebook's implementation of Social Ads and Beacon have clearly hurt its goodwill and reputation with users,58 but it is easy to see why these products were conceived and implemented and why Facebook has resisted modifying them to accommodate user concerns. Although Facebook has been highly successful from a raw membership numbers point-of-view, turning its membership numbers into dollars has been a challenge - and it is dependent on advertising revenue for its profits.59 Beacon is merely a form of online tracking, which is used by other popular websites, particularly Google, AOL, and Microsoft, to track users' online activity and deliver ads relevant to that activity, thereby enhancing advertising revenue streams.60 And, according to Shawndra Hill, a professor of Operations and Information Management at the Wharton School of the University of Pennsylvania, "The more information you have on your consumers, the better. When marketing to millions, if not hundreds of millions, of customers, just a slight improvement in targeting translates into a lot of money. . . . [N]etworking-based marketing ­ the type
+
+54 Id. 55 Juan Carlos Perez & Nancy Gohring, Facebook partners quiet on Beacon fallout, WASH. POST (Dec. 11, 2007), available at http://www.washingtonpost.com/wpdyn/content/article/2007/12/11/AR2007121100723.html. 56 Id. 57 Id. 58 Tossell, supra note 1 (Tossell writes, "the debacle over its advertising program tarnished the goodwill that binds fickle Netizens"). 59 Story, supra note 4. 60 Id.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+that Facebook is pursuing ­ can be more effective because it finds customers who would otherwise be overlooked."61 Therefore, one can see the benefit of using a program like Beacon to increase Facebook's profitability.
+E. What's so offensive about these three new features?
+Although Facebook's decision to implement Public Search, Social Ads, and Beacon may make commercial sense, as discussed earlier in this Note, many users still consider these features offensive. As for Public Search, this new feature does appear to fundamentally change the nature of the website. Whereas initially, Facebook required individuals to create, at least nominally, a vested interest in the Facebook community, i.e. by creating their own Facebook profiles, before they could obtain information about other members, now, member information may be available to any member of the public.62 Even though Facebook limits the amount information in member profiles that is publicly available, a full name and picture alone may be an intrusion upon users' privacy.
+Furthermore, Facebook's announcement that it would make public listings available to users of search engines is a dramatically new and unprecedented development in the world of social networking websites. It may not be a decision that members felt they agreed to when they read and accepted the website's privacy policy.63 Although the privacy policy does state that any information a member discloses to Facebook may eventually become publicly available, the notion of "publicly available" in the pre-Public Search version of Facebook is substantially different from the notion of "publicly available" in the proposed, search engine-crawled version of Facebook. This idea, coupled with the fact that member profiles are automatically included in the public search listing (unless members manually opt-out of this feature) and that Facebook did not undertake extensive efforts to email members about the new public search feature,64 begs an important question. Should Facebook be required to do more to let members know what "publicly available" means and does their decision violate any laws?
+Although social networking websites are a relatively new internet development, as discussed earlier in this note, their popularity has skyrocketed. The number of members who could have claims against a website like Facebook for violations of its privacy policy and harm caused by third parties
+
+61 Knowledge @ Wharton, Who Owns You? Finding a Balance between Online Privacy and Targeted Advertising, http://knowledge.wharton.upenn.edu/article.cfm?articleid=1865 (last visited Dec. 12, 2007).
+62 Fung, supra note 15. 63 McCarthy, supra note 43 (discussing whether consent to Facebook's privacy policy is adequate when new features are added after that consent is given). 64 Abram, supra note 20.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+who obtained member information through Facebook public listings is considerable. Additionally, the implications of any law that regulates notification to website users about public distribution of their information could have ramifications for all websites, not just social networking sites.
+These issues are equally relevant to the new Social Ads and Beacon products. It is particularly troubling, and even unprecedented, that Beacon tracks logged-off Facebook members (including those who have opted-out of having Facebook include stories about their activities on affiliate websites in the News Feed), former members, and even non-members, without providing any notice.65 Although companies like Google also use online tracking to increase the relevancy of its ads, these companies do not use user identities information to endorse the ads, nor do they advertise any of their users' activities in any way.66 Other websites utilize user activity, but that activity is kept anonymous and, unlike Facebook's Social Ads, is not shared with other users.
+Other companies that engage in online tracking do not track their users' activities on third-party websites ­ and this represents the keydifference in how Beacon operates.67 Facebook member profiles and the information that was released to their news feeds originally included only information that they voluntarily chose to include on Facebook. What Beacon purports to do is take online information and activity that is arguably more private68 ­ namely, information that Facebook members have not actively chosen to broadcast ­ and announce it to a member's Facebook friends. As the Globe and Mail's Web Columnist Ivor Tossell writes:
+The lesson here is that even people who spend their days posting the gory details of their personal lives to their Web pages have private sides ­ activities that they don't put their names to. Facebook has taught us that the truly private aspects of online life are the things we do out in the open, on public websites, under the pretense of anonymity. While our Facebook pages sit there and look pretty on our behalf, our real selves sneak off and start asking Google about the medical conditions we're convinced we've just acquired. We hunt around shopping websites and peruse the literature on our quirkiest fixations. We search Facebook itself to stake out our crushes and arch-enemies. . . . Privacy isn't defined by
+
+65 Perez & Gohring, supra note 55. 66 Story, supra note 4; See also Elkins, supra note 42. A Facebook user explains, "Google ads are much less invasive, because they change all the time. But when it comes to using my identity or my friends' identity to hawk a product, that's crossing the line." 67 Story, supra note 4.
+One Facebook user notes, "Beacon cross the line to being Big Brother. . . . It's a very, very thin line."
+68 Tossell, supra note 1.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+the things we say about ourselves on profile pages; it's defined by the things we do online.69
+Offensive is one thing; illegal is another. So long as Public Search, Social Ads, and Beacon are merely offensive, the only recourse users have is to protest. Users may stop using Facebook's services in an effort to convince the company to modify or discard these products altogether. In the next three sections, of this note, I will explore possible legal challenges against Public Search, Social Ads, and Beacon. These potential claims are based on the ground that users did not formally agree to let Facebook use their personal information in an objectionable manner­ especially in the context of thirdparty partnerships.
+III. CHALLENGING THE ADEQUACY OF FACEBOOK'S PRIVACY POLICY
+Should Facebook users bring a legal challenge to Public Search, Social Ads, or Beacon, there are several avenues of attack. In this section, I will explore whether Facebook's privacy policy could be used to bring a cause of action. Users will claim that Facebook either violated its own privacy policy or that its policy provided inadequate notice of how Facebook would use and share the user's information or activities with Affiliate Websites or search engines.
+A. The Policy
+Facebook requires users to agree to its privacy policy and Terms of Use when they first register. Members must agree to these provisions when they initially create a member profile. Assent to the agreement is indicated by checking a box with a link to the privacy policy. The Facebook privacy policy states:
+You post User Content . . . on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.70
+The privacy policy also specifically notes that user information may be made
+
+69 Id. 70 Facebook Principles, supra note 14.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+public. It states:
+When you use Facebook, certain information you post or share with third parties (e.g., a friend or someone in your network), such as personal information, comments, messages, photos, videos, Marketplace listings or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, Marketplace listings or other items, this information may become publicly available.71
+These provisions clearly indicate that any information members provide may become "publicly available." The privacy policy also notes, "[y]our name, network names, and profile picture thumbnail will be available in search results across the Facebook network and those limited pieces of information may be made available to third party search engines."72
+Facebook amended its privacy policy on December 6, 2007, to include information about Beacon.73 It notes:
+Facebook Beacon is a means of sharing actions you have taken on third party sites, such as when you make a purchase or post a review, with your friends on Facebook. In order to provide you as a Facebook user with clear disclosure of the activity information being collected on third party sites and potentially shared with your friends on Facebook, we collect certain information from that site and present it to you after you have completed an action on that site. You have the choice to have Facebook discard that information, or to share it with your friends.74
+The policy also discloses that Beacon may track the activities of Facebook members who are not logged into Facebook as well as non-Facebook users:
+Like many other websites that interact with third party sites, we may receive some information even if you are logged out from Facebook, or that pertains to non-Facebook users, from those sites in conjunction with the technical operation of the system. In cases where Facebook receives information on users that are not logged in, or on non-Facebook users, we do not attempt to associate it with individual Facebook accounts and will discard it.75
+Although Facebook claims that it discards information gathered about non-
+
+71 Id. 72 Id. 73 Id. 74 Id. 75 Id.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+Facebook users, it does not share the fact that it is gathering this information from non-users, who may not even know that Facebook even exists.
+B. Challenges brought against the policy
+Facebook makes no representations in the policy other than that it is a forum that members use at their own risk. Therefore, Facebook's decision to make public listings available and to implement Beacon may not run afoul of a strict, technical interpretation of its agreement with users.
+Whether the privacy policy is even an "agreement" is speculative. Much of the case law in this area holds that users are bound to a website's privacy policy when they are required to "click" to indicate their acceptance of the policy before gaining admission to the site.76 Because Facebook requires its users to "click" to indicate acceptance of the site's privacy policy before they can become members of the site,77 it is likely that these holdings would uphold Facebook's privacy policy.
+Some courts may decide the agreement is not an enforceable contract at all. In Dyer v. Northwest Airlines Corporation, the United States District Court for the District of North Dakota held that a privacy policy posted on an airline's website did not constitute an enforceable contract.78 Specifically, the court held that a broad policy statement does not "generally give rise to a contract claim."79 This holding has been "criticized by commentators and disagreed with by courts" ­ weakening any challenge brought against the Facebook privacy policy on the ground that it is merely a "broad policy statement."80
+But if a court holds that Facebook's privacy policy is not a binding agreement, could a member still successfully argue that it is reasonable to expect more extensive guarantees of privacy than Facebook purports to provide? In The Fourth Amendment and Privacy Issues on the "New" Internet: Facebook.com and Myspace.com, one writer notes that Facebook users do not have a subjective expectation of privacy in their profiles, since the very purpose of creating a Facebook profile is to make information available to others.81 Even though the privacy policy may not be a binding agreement, it still seems odd for a Facebook member to expect notice before his or her information is made publicly available when all members are required to agree
+
+76 Allyson W. Haynes, Online Privacy Policies: Contracting Away Control Over Personal Information?, 111 PENN ST. L. REV. 587, 613-14 (2007).
+77 Facebook Principles, supra note 14. 78 Dyer v. Nw. Airlines Corps., 334 F. Supp. 2d 1196, 1200 (D.N.D. 2004). 79 Id. (citing Pratt v. Heartview Found., 512 N.W.2d 675, 677 (N.D. 1994); Martens v. Martens v. Minn. Min. & Mfg. Co., 616 N.W.2d 732, 740 (Minn. 2000)). 80 Haynes, supra note 76, at 616-17. 81 Mathew J. Hodge, The Fourth Amendment and Privacy Issues on the "New" Internet: Facebook.com and Myspace.com, 31 S. ILL. U. L.J. 95, 106-07 (2006).
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+to a privacy policy that specifically states that user information may be made publicly available. Barring more extensive statutory requirements, members do not seem able to bring any claims against Facebook rooted in an expectation of privacy in their personal profile, at least in the narrow Fourth Amendment context.
+But, leaving the Fourth Amendment aside, does the average Facebook user know what he or she is agreeing to in the first place and, if so, does it carry any legal implications? Carolyn McCarty of the New York Times notes that, in the context of Social Ads, "Facebook users technically do `consent' to participating in Social Ads when they sign up as `fans' of a brand. The gray area here is whether that consent is adequate."82 Although Facebook contends the consent is adequate, not everyone agrees.83 Intellectual property attorney Brian Murphy explained, "[o]ne of the issues will be whether the consent was obtained under circumstances where people understand what they're agreeing to. . . . How many times have you clicked through `I consent' licenses on software and Web sites? I write those for a living, and I don't read them."84 Alissa Cooper, a policy analyst for the Center for Democracy & Technology, also notes, "[m]ost people have no idea how much of their personal information is being collected and stored."85 Indeed, a study conducted by the Annenberg Public Policy Center found that 59% of respondents believed that if a company has a privacy policy, then this means that this company will not share information with third parties.86 However, even a quick skimming of Facebook's privacy policy clearly indicates that this is not an accurate assumption.87 According to Facebook, less than a quarter of its members activate any of the privacy safeguards offered.88 The recent public uproar against Public Search, Social Ads, and Beacon may be more result due to the fact that over three-quarters of its members do not know these safeguards exist, rather than because over three-quarters of its members may actively choose not to activate these safeguards.89
+
+82 McCarthy, supra note 43. 83 Id. 84 Id. 85 Andrew D. Smith, Companies harvesting personal information from web activity, THE DALLAS MORNING NEWS (Dec. 8, 2007), available at http://www.dallasnews.com/ sharedcontent/dws/bus/stories/120907dnbusprivacy.1c47951.html. 86 Knowledge @ Wharton, supra note 61. 87 Facebook principles, supra note 14. 88 Smith, supra note 85. 89 See, e.g., Haynes, supra note 76, at 611. Haynes notes, One survey found that 75% of consumers believed that just because a site has a privacy policy, it is not allowed to sell to others the personal information customers disclosed to it. More recently, 57% believed that the mere presence of a privacy policy meant
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+The problem, from a disgruntled Facebook user's point of view, is not that the user is unaware of the intricate details of Facebook's privacy policy, but rather that Facebook may not be required by law to take sufficient efforts to adequately notify its users of these details.90 The United States does not have a comprehensive privacy law framework.91 One state statute, the California Online Privacy Protection Act, does affect Facebook. The California Act applies to any company with a website visited by California residents.92 Since Facebook is available nationwide, it is subject to this law.
+All the California law requires, however, is that companies post privacy policies on their websites that notify their users about "the kinds of information collected from them, how this information is used, and to whom it is disclosed, among other things."93 It would not require Facebook to email former users to notify them that they are being tracked by Beacon, despite the fact that they no longer have an active Facebook account. Nor would it require Facebook to email a user who may have missed the announcements about Public Search, Social Ads, or Beacon because they did not happen to log-in the day these announcements were featured on their home page News Feeds.
+This suggests that even a Facebook user who happened to be more diligent than the average member ­ the average member being one who merely clicksthru and agrees to Facebook's privacy policy without a detailed reading of it ­ may not have legal recourse if that privacy policy changes. This is true at least as long as that user's personal information is not being used in a manner that exceeds Facebook's stated reason for collecting it.94 Marc Rotenberg, executive director of the Electronic Privacy Information Center, believes this
+
+that the website could not share consumers' personal information with other websites or companies. In fact, a survey in 2000 found that 83% of website privacy policies allow the site to share personal information with third parties. Consumer misapprehension about the effect of privacy policies is not surprising considering the evidence that few ever read the policies, and even if they did, might not understand the data practices being disclosed. 90 The Metropolitan Corporate Counsel, Privacy and Data Security, Significant Compliance Issues, http://www.metrocorpcounsel.com/current.php?artType=view&EntryNo =7738 (last visited Jan. 10, 2008); Haynes, supra note 75, at 597-98. 91 Id. 92 Id.; California Online Privacy Protection Act, CAL. BUS. & PROF. CODE § 22575 (2004). 93 The Metropolitan Corporate Counsel, supra note 90; CAL. BUS. & PROF. CODE § 22575 (2004). 94 Smith, supra note 85; see also Haynes, supra note 75, at 588. Haynes writes, "If the website complies with its own promises, there is little else to prevent the site from doing with the information whatever it wants - sharing, selling or otherwise making use of the information - besides the website company's own interest in attracting and maintaining customers."
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+may be the dividing line for Facebook when it comes down to a court's decision of whether Facebook is complying with its own privacy policy, and when it may be liable for its actions.95
+Non-Facebook users, whose activities on Affiliate Websites are also tracked and sent to Facebook. Even if Facebook discards information it receives about these users via Affiliate Websites, should it still be required to notify its users that it is tracking them in the first place? Because these users may have never assented to Facebook's privacy policy, they cannot be said to be bound by it. Furthermore, non-users have never created Facebook profiles, so, unlike Facebook users, it also cannot be said that they lack a subjective expectation of privacy on the Facebook website (should a Fourth Amendment-based approach take hold). It would be impossible, however, for Facebook to identify all the potential individuals who will use Affiliate Websites and thereby tracked by Beacon. And there is no law requiring Facebook to do so. It seems more appropriate for the Affiliate Websites themselves to notify their own users of recent partnerships with Facebook and its Beacon product.
+It is also important to note that, in keeping with the United States' current system of regulating online privacy policies and the "focus on disclosure rather than substance,"96 "most enforcement with respect to the treatment of personal information has been in the form of [Federal Trade Commission (`FTC')] enforcement actions brought against website companies who violated the terms of their own privacy policies," as opposed to showdowns in a courtroom.97 The FTC has brought enforcement actions against companies for failures to adequately protect individual online personal information, in violation of representations that the companies made in their online privacy policies that the information would be treated securely and safely.98 Such failures amount to violations of Section 5 of the FTC Act, which prohibits unfair or deceptive acts or practices.99 This suggests that where a company's privacy policy is sufficiently explicit or broad-based as to provide notice of a challenged activity, that company would not be subject to FTC investigation.
+Thus, a successful challenge to Facebook's privacy policy based on Section 5 of the FTC act would have to show that members challenging Facebook's use of their personal information could not glean from Facebook's privacy that their personal information would be used in such a way. Because of this, it would be an easier case to mount for the original, opt-out-only version of Beacon and for the Social Ads product than for the modified, opt-in version of Beacon or Public Search. As discussed earlier, the original version of Beacon
+
+95 Smith, supra note 85. 96 Haynes, supra note 76, at 603. 97 Id. 98 Id. at 604. 99 Federal Trade Commission Act, 15 U.S.C.A. §45(a)(1)-(2) (1994).
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+was so unique and unprecedented that it is unlikely that members could have conceived that their activity on third-party websites would be tracked by Facebook and then subsequently published. As for Social Ads, it is possible that users who endorsed certain products involved in the Social Ads program did not realize that their pictures and names would be tagged to advertisements of these products.
+Finally, an individual could bring a challenge against Facebook's privacy policy on the grounds that it is unconscionable.100 This strategy is discussed in detail below as it could also apply to challenges to Facebook's Terms of Use specifically, its arbitration clause.
+IV. THE ROADBLOCKS: FACEBOOK'S TERMS OF USE AND PROTECTION OFFERED BY THE COMMUNICATIONS DECENCY ACT, 47 U.S.C. § 230
+Regardless of whether Facebook is in breach of any privacy agreements with its members, the company's Terms of Use and the Communications Decency Act may offer the company protection against legal challenges brought by a member. This section will explore whether the Terms of Use or this Act offers Facebook protection against liability.
+A. The Facebook Terms of Use
+
+1. The Terms
+An individual wishing to gain membership to Facebook must first agree to the privacy policy and to the website's Terms of Use, which contains an arbitration clause.101 These documents also contain provisions regarding changes made to the policy by Facebook.102 The privacy policy reads:
+Your use of Facebook, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. . . . If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. . . . Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+The arbitration clause reads:
+
+100 Haynes, supra note 76, at 618. 101 Facebook principles, supra note 14; Terms of Use, supra note 14. 102 Facebook principles, supra note 14.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+You and the Company agree that, except as may otherwise be provided in regard to specific Services on the Site in any specific terms applicable to those Services, the sole and exclusive forum and remedy for any and all disputes and claims relating in any way to or arising out of these Terms of Use, the Site and/or the Service (including your visit to or use of the Site and/or Service) shall be final and binding arbitration, except that: (a) to the extent that either of us has in any manner infringed upon or violated or threatened to infringe upon or violate the other party's patent, copyright, trademark or trade secret rights, or you have otherwise violated any of the user conduct rules set forth above or in the Code of Conduct then the parties acknowledge that arbitration is not an adequate remedy at law and that injunctive or other appropriate relief may be sought; and (b) no disputes or claims relating to any transactions you enter into with a third party through the Facebook Marketplace may be arbitrated.103
+Challenges to Facebook's privacy policy and those brought under state right of publicity laws are not listed as exceptions to this arbitration clause.104
+2. Challenges to the Terms
+A Facebook member could bring a challenge against both the company's privacy policy, as mentioned above, and its Terms of Use on the ground that they are unconscionable.105 The doctrine of unconscionability, which is included in both the Uniform Commercial Code and Restatement (Second) of Contracts, can be used to invalidate unfair contract terms.106
+In order to successfully show that a contract is unconscionable, the challenger must usually show, depending on the jurisdiction, that it is both procedurally unconscionable ­ meaning that the process by which the parties entered into the contract was unconscionable; and substantively unconscionable ­ meaning that the contract terms themselves are one-sided or unfair.107 Factors that may lead a court to find procedural unconscionability include "unequal bargaining positions, undue length, fine print, confusing language, and misleading terms," or the fact that a contract is a standard form agreement, or contract of adhesion.108 A court may make a finding of substantive unconscionability where a contract contains an arbitration clause
+
+103 Terms of Use, supra note 14. 104 Id. Such exceptions do not appear anywhere in the Terms of Use. 105 Haynes, supra note 76, at 618. 106 Id. at 619; U.C.C § 2-302 (2004); RESTATEMENT (SECOND) OF CONTRACTS § 208 (2002). 107 Haynes, supra note 76, at 619-20. 108 Id. at 620 (citing Williams v. Walker-Thomas Furniture Co., 350 F.2d 445 (D.C. Cir. 1965); Comb v. Paypal, Inc., 218 F. Supp. 2d 1165, 1172 (N.D. Cal. 2002)).
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+whose language is "so one-sided as to render it an unenforceable illusory promise."109 A contract term may fit this standard if it is subject to change at any time, without notice, and in the company's sole discretion.110
+Facebook's privacy policy and Terms of Use may fit the requirements for both procedural and substantive unconscionability. They are clearly standard form agreement. And, as discussed earlier in this Note, there is evidence that most Facebook members do not read these documents in the first place. This could support an argument that they are unduly long and confusing, or that there is no possibility that they could bargain with Facebook to change the language into terms that are more member-friendly. This would support a finding of procedural unconscionability. Furthermore, the privacy policy clearly states that Facebook reserves the right to change both documents at any time, and that it may only post notice of these changes on the privacy policy or Terms of Use themselves.111 A challenger could try to argue that posting notice of an amendment on the changed document itself is hardly sufficient. Therefore, the challenger could argue that the arbitration clause should not apply. Once such challenge is brought, a court may also make a finding that the entire privacy policy is invalid, thereby allowing the challenger to prevail on the argument that he or she did not have sufficient notice of how his or her personal information would be used by Facebook's Public Search, Social Ads, or Beacon.
+B. The Communications Decency Act
+
+1. The Act
+The Communications Decency Act states "[n]o provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.112 The term "interactive computer service" is defined as "any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the Internet."113 An "information content provider" is defined as "any person or entity that is responsible, in whole or in part, for the creation or development of information provided through the Internet or any
+
+109 Id. at 621 (citing Defontes v. Dell Computers Corp, No. C.A. PC 03-2636, 2004 WL 253560 (R.I. Super. Jan. 29, 2004).
+110 Defontes, 2004 WL 253560 at 12. 111 Facebook Principles, supra note 14. 112 Communications Decency Act 47 U.S.C. § 230(c)(1) (1998). 113 47 U.S.C. § 230(f)(2) (1998).
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+other interactive computer service."114 Facebook is properly defined as an interactive computer service., and any Facebook member may be an information content provider. Therefore, Facebook is subject to the requirements of--and immunities provided by--the Communications Decency Act.115
+The Communications Decency Act was enacted to "ensure that web site operators and other interactive computer services would not be crippled by lawsuits arising out of third-party communications."116 The Act gives interactive computer services immunity in an effort to further this goal.117 In Doe v. MySpace, Inc., the U.S. District Court for the Western District of Texas, citing the Ninth and Fourth Circuits, noted that the Communications Decency Act "encourages . . . `interactive computer services' to create forums for people to exchange their thoughts and ideas by protecting web sites and interactive computer services from potential liability for each message republished by their services."118 The court in Doe held that the Communications Decency Act gave MySpace, Inc. immunity against claims of negligence by a plaintiff and information content provider who was sexually assaulted by another information content provider.119
+The Fourth Circuit came to a similar conclusion in Zeran v. America Online, Inc., a case in which an information content provider sued America Online, Inc. for its failure to remove a false advertisement that directed interested buyers to call the plaintiff to order t-shirts supporting the 1995 Oklahoma City bombing.120 America Online, Inc. failed to remove the advertisement after the plaintiff notified the company that it had received death threats in regard to the
+
+114 47 U.S.C. § 230(f)(3) (1998). 115 See Doe v. MySpace, Inc., 474 F. Supp. 2d 843, 846-47 (W.D. Tex. 2007) (holding that MySpace.com, a social networking website that functions nearly identically to Facebook, is an interactive computer service, and that the plaintiff, a MySpace user, was an information content provider). 116 Id. at 847. See also Dimeo v. Max, 433 F. Supp. 2d 523, 528 (E.D. Pa. 2006) ("The provision `precludes courts from entertaining claims that would place a computer service provider in a publisher's role,' and therefore bars `lawsuits seeking to hold a service provider liable for its exercise of a publisher's traditional editorial functions-such as deciding whether to publish, withdraw, postpone, or alter content.'") (quoting Green v. America Online, 318 F.3d 465, 471 (3d Cir. 2003) (quoting Zeran v. America Online, Inc., 129 F.3d 327, 330 (4th Cir. 1997))). 117 Doe, 474 F. Supp. 2d at 847. 118 Id. (citing Carafano v. Metrosplash.com., Inc., 339 F.3d 1119, 1122-24 (9th Cir. 2003)); Zeran, 129 F.3d at 330-31. 119 Doe, 474 F. Supp. 2d at 849-850. 120 Zeran, 129 F.3d at 329.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+advertisements and demanded its removal.121 The Fourth Circuit held that the Communications Decency Act gives interactive computer services immunity against tort claims, even after information content providers notify the services of defamation or threats, "because the insupportable legal burden imposed by potential tort liability would undermine the CDA's goal of promoting speech on the Internet."122
+The Ninth Circuit is also in agreement. In Carafano v. Metrosplash.com, Inc., it held that the Communications Decency Act granted immunity to Matchmaker.com, an interactive computer service, where the relevant published content was willingly provided by a third party information content provider.123 The court explained:
+The specter of tort liability in an area of such prolific speech would have an obvious chilling effect. It would be impossible for service providers to screen each of their millions of postings for possible problems. Faced with potential liability for each message republished by their services, interactive computer service providers might choose to severely restrict the number and type of messages posted. Congress considered the weight of the speech interests implicated and chose to immunize service providers to avoid any such restrictive effect.124
+The court denied the plaintiff's claim of negligence in an effort to uphold this public policy.125
+2. Challenges to application of the Act
+Given these holdings and their emphasis on congressional intent to promote free speech on the Internet, it appears that Facebook would also be granted immunity under the Communications Decency Act in the event that a member brought a claim against Facebook originating from information that the member posted to Facebook, which Facebook in turn made available through Public Search or Social Ads. Facebook may not, therefore, need to undertake any action to shield itself against liability in this context.
+As for Beacon, the same analysis may not apply. Since Beacon functions by tracking an individual's activities on third party sites, it is necessary to consider whether an individual who is tracked by Beacon can be properly considered an information content provider. Under a strict interpretation of the definition of "information content provider," the answer may be yes: as discussed above, an information content provider is "any person or entity that
+
+121 Id. 122 Doe, 474 F. Supp. 2d at 848 (citing Zeran, 129 F.3d at 330). 123 Carafano, 339 F.3d at 1124. 124 Id. at 1124 (quoting Zeran, 129 F.3d at 330-31). 125 Carafano, 339 F.3d at 1125.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+B.U. J. SCI. & TECH. L.
+
+[Vol. 15
+
+is responsible, in whole or in part, for the creation or development of information provided through the Internet or any other interactive computer service."126 Such voluntary activities on third party websites results in the "development" of information, and that "information" is provided through the "Internet."
+This interpretation, however, does not seem to be in keeping with the spirit of the Communications Decency Act. When a Facebook user who opts-in to Beacon visits a third-party Affiliate Website, she is not actively providing information that she wants Facebook to announce to her community of Facebook friends. Such activity is fundamentally different than information a Facebook user chooses to include on his or her personal profile. In fact, such a Facebook user may not even be aware that a website she visits is an Affiliate Website, and that activities conducted on that website may be included in the Facebook News Feed.
+This interpretation of how the Communications Decency Act applies to Beacon suggests that those Facebook users who decided to opt-in to Beacon must continually keep themselves abreast of Facebook's most recent list of Affiliate Websites to make sure they are comfortable with having their activities on those websites tracked and published by Facebook. Furthermore, Facebook does not appear to be endeavoring to notify its users of new Affiliate Websites that have joined the Beacon program, nor does there appear to be a list of all current Affiliate Websites available anywhere on the Facebook website. Of course this would not be an issue so long as the notices that appear when individuals conduct activities on Affiliate Websites notify them that these activities may appear on the News Feed and give them an opportunity to opt-out; but the issue some users have with Beacon is that they do not see these notices in the first place.127
+Courts have yet to be confronted with such a scenario, and given that Facebook has converted Beacon from an opt-out program to an opt-in program, the Communications Decency Act may shield Facebook against liability in all cases where the individual challenging Facebook's actions voluntarily opted-in to Beacon, and a box notifying the individual that the Affiliate Website was part of the Beacon program and providing an opt-out option was also made available on the Affiliate Website itself.
+
+V. CONCLUSION
+Even if Facebook does not need to worry about liability for its Public Search, Social Ads, and Beacon products, it still needs to worry about profitability. If courts decide that Facebook's privacy policy is sufficient and
+
+126 47 U.S.C. § 230(f)(3) (1998). 127 Story, supra note 4.
+
+THIS VERSION DOES NOT CONTAIN PARAGRAPH/PAGE REFERENCES. PLEASE CONSULT THE PRINT OR ONLINE DATABASE VERSIONS FOR PROPER CITATION INFORMATION.
+
+2009]
+
+FACEBOOK'S PRIVACY POLICY
+
+valid and it is acting in accordance with this policy, users who dislike how Facebook handles their information and shares it with third-parties will have no recourse, apart from petitioning Facebook directly to make the changes they would like to see or terminating their accounts. And if those users decide that what they want is a social-networking website that allows them to promote a self-created image, rather than a social networking website with built-in paparazzi-like features, Facebook may soon find that its third-party websites will not be so lucrative after all.
+
+

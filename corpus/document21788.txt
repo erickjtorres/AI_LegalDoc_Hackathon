@@ -1,0 +1,128 @@
+Kinergy's Privacy Notice
+
+·
+
+Who we are:
+
+We are Kinergy of Mary Carpenter House, Kingswood Foundation Estate, Kingswood, Bristol, BS 15 8DB. You can contact us at this address by post or by email at contact@kinergy.org.uk.
+
+·
+
+Amendments of this Privacy Statement:
+
+This Privacy Notice may change from time to time. These changes will not reduce your rights or the level of protection we apply to your personal data. Any changes we may make to our Privacy Notice will be posted on our website.
+
+·
+
+What we mean when we say "your personal data":
+
+"Your personal data" means any information about you which is personally identifiable, including, without limitation, your name, address, date of birth, telephone number, email address, other contact details, and other information which may allow you to be personally identified.
+
+·
+
+Why we process your personal data and the lawful basis for
+
+processing this data?
+
+We process personal data:
+
+·
+
+in order to provide you, the client, with our professional counselling
+
+services (`the service") .The legal basis for the processing of this data is that it is
+
+necessary in order to protect the vital interests of you or of another natural person.
+
+·
+
+in order to make backups of that data in case of emergencies and for
+
+disaster recovery purposes. The legal basis for the processing of this data is the
+
+legitimate interests in managing our charity.
+
+·
+
+to sign you up to our newsletter at your request. The legal basis for the
+
+processing of this data is explicit consent.
+
+There may also be limited circumstances where the legal basis for processing is your consent (where we have sought it and you have provided it to us), in which case you can withdraw your consent at any time.
+
+Where we process special categories of data relating to you, e.g. health data that we may process in connection with the service, the legal basis for processing will be the derogations in Article 9.2 (h) and 9.2 (i) of the General Data Protection Regulation. Please see footnote for more information.
+
+We will only process information concerning criminal offences, when you, the client, have volunteered/disclosed this information to us and you consent to us processing it.
+
+·
+
+Who we share your personal data with?
+
+We may share parts of your personal data with certain third parties, to include:
+
+· people you have authorised to act on your behalf e.g. your G.P. , a family member etc.
+· emergency services or other agencies, where there appears to be a serious risk of harm to you, e.g. a threatened suicide, or a concern of danger to a minor or other third party
+· judiciary authorities, if we are subpoenaed to share information, by the courts.
+
+We may also send you emails through our email service provider. The email service provider may only process this data for the purpose of providing us with their services, and no other purpose.
+
+·
+
+What if you choose not to provide your personal data?
+
+We will only request your personal data where it is necessary to carry out a particular function. You are under no obligation to provide us with this personal data, but this may limit our ability to help where certain information is needed to undertake a particular activity.
+
+We may anonymise (delete or de-personalise) your personal data, so that we can use it in a way that does not personally identify you, so as to support the aims, objectives or activities of Kinergy. For example, we may use your case (but remove any personal information) when compiling a case study for funding purposes etc. Anonymisation means that you cannot be identified from the data either by itself or when combined with any other data we hold, therefore that data will not be subject to this notice or Data Protection Law.
+
+·
+
+How long do we hold your personal data for?
+
+We will retain personal data for a minimum of seven years from the date of your last contact with us. This retention period will be longer in the case of minors i.e. seven years after they reach adulthood.
+
+·
+
+Where is your data processed?
+
+Your personal data is stored and processed principally within the UK. We may use systems like MailChimp to send you updates and newsletters. MailChimp is based in the US and therefore some limited information (your name and email address) may be transferred to Mailchimp (and therefore to the US) for the purposes of using that system. Mailchimp is signed up to the US EU Data Privacy Shield and we believe that there is no material risk associated with transferring this limited information outside of the EU.
+
+All hard-copy documents containing personal data are stored and locked in a filing cabinet in line with British Association for Counselling and Psychotherapy (BACP) guidelines and only those who need to use this data have access to it.
+All other forms of data will be held securely and in confidence at all times. We will take all reasonable steps to protect it from unauthorised disclosure to, or access by, a third party.
+
+We do not collect any personal data about you on our website, apart from information which you volunteer. Any information which you provide in this way is used only in line with the purpose for which you provided it.
+
+·
+
+Your rights relating to personal data
+
+You have the following rights, in certain circumstances and subject to certain exemptions, in relation to your personal data:
+· right to access the data - you have the right to request a copy of the personal data that we hold about you, together with other information about our processing of that personal data.
+· right to rectification- you have the right to request that any inaccurate data that is held about you is corrected, or if we have incomplete information you may request that we update the information so that it is complete.
+· right to erasure - you have the right to request us to delete personal data that we hold about you. This is sometimes referred to as the right to be forgotten.
+· right to restriction of processing or to object to processing - you have the right to request that we no longer process your personal data for particular purposes, or to object to our processing of your personal data for particular purposes.
+· right to data portability - you have the right to request us to provide you, or a third party, with a copy of your personal data in a structured, commonly used machine readable format.
+In order to exercise any of the rights above, please contact us at the contact details at the start of this privacy notice.
+
+If we are processing personal data based on your consent, you may withdraw that consent at any time. This does not affect the lawfulness of processing which took place prior to its withdrawal.
+
+If you are unhappy with how we process personal data, we ask you to contact us so that we can rectify the situation.
+
+You may lodge a complaint with a supervisory authority. The supervisory authority is the Information Commissioner's Office.
+
+·
+
+Automated decision-making and profiling
+
+We do not use any personal data for the purpose of automated decision-making or profiling.
+
+Footnote on the Legal Basis for Processing Personal Data:
+
+It is not possible to undertake the services without collecting and processing personal data and data concerning health. The legal basis for processing of data by us is provided by the following articles in the EU General Data Protection Regulation: Article 6.1(d) and Article 9.2(h) and 9.2(i).
+Article 6.1(d) in relation to the lawfulness of processing, states: `processing is necessary in order to protect the vital interests of the data subject or of another natural person'.
+Article 9.2(h) in relation to the processing of special categories of personal data, states: `processing is necessary for the purposes of preventive or occupational medicine, for the assessment of the working capacity of the employee, medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services on the basis of Union or Member State law or pursuant to contract with a health professional and subject to the conditions and safeguards referred to in paragraph 3';
+Paragraph 3 relates to the processing of data concerning health by practitioners subject to professional confidentiality under the regulation of the BACP.
+Article 9.2(i) relates to processing necessary for reasons of public health.
+Article 6 and Article 9 need to work in conjunction with one another. So for instance we will rely upon a combination of Article 6 to process non sensitive data and Article 9 conditions to process special categories of data.
+The processing of personal data in general is necessary in order for us to protect the vital interests of our clients and for the provision of health/social care services.
+
+

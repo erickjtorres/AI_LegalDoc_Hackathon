@@ -1,0 +1,24 @@
+Data Privacy
+Our commitment to provide a secure, data-drive user experience
+Our Commitment to Privacy
+We know you're placing your trust in our company to maintain and use student data in a secure and responsible manner. Consequently, we take substantial measures to safeguard and secure the data under our control - for example, by protecting it from unauthorized access, unintended use, harmful alteration, unlawful destruction, or accidental loss - in close accordance with FERPA, industry best practices, and other applicable laws and guidelines. At Handshake, your satisfaction with our privacy and security practices is paramount. You can read the latest version of our privacy disclosures here.
+How Handshake Uses Student Data
+Every student is unique, so Handshake's powerful recommendation system uses student profile information, career interests, and application activity to automatically build and deliver the most relevant, personalized, and unique suggestions for each of your students - and the most important insights for universities.
+Our algorithm powers this personalization engine with what we learn from students' behaviors increasing student engagement with career services offices, improving student understanding of individual opportunities, and making it easier for students to find great jobs and build meaningful careers.
+Student data that would allow the identification of an individual student is never shared outside your team, and is only accessed with the user's permission - which means your students are always in control of their data. We work hard to ensure that the only non-Handshake entities that have access to our data - for example, our hosting or analytics providers - are under confidentiality obligations and only use that data to help us provide great services to you.
+
+Frequently Asked Questions
+Who owns the student data in Handshake?
+Before students log into Handshake, the University retains full ownership of all data that has been created and imported into the system, including a student's profile data. When a student logs into Handshake and agrees to the Terms of Service, the student claims that profile as his or her own.
+The student also gives Handshake their individual, specific, informed consent to use his or her data to power the application experience in accordance with Handshake's data privacy policy. The University always retains full ownership of its own operational data, including counseling notes, label information, career fairs, and other on-campus interactions.
+What is Handshake's privacy policy?
+We would encourage you to review the complete Handshake privacy policy at https://joinhandshake.com/ privacy-policy/. This privacy policy covers all aspects of data use, including Handshake's permission to a student's data. Without permission, Handshake cannot use any individual student data in any of our relevancy or personalization engines. In fact, most segments of the services we provide are disabled for such "unclaimed accounts."
+Does Handshake sell any student data?
+NO! Handshake does not, and will not, ever sell any individual student data or any personally identifiable student information. We do use aggregated and anonymized student data to improve our products and services so we can provide more valuable tools and resources to each university, employer and student who relies on our application.
+We may also produce aggregate reports for users, universities and employers that don't identify any specific individuals. We would encourage you to learn more by reviewing our privacy policy. Of course, Handshake also complies with all government best practices for the de-identification of student data.
+Who has vetted these policies?
+More than 150 leading institutions have vetted our contract and data use policies. Each institution has approved our commitment to data privacy and the laws that govern data contained within Handshake.
+What about FERPA?
+From the start, we've structured our software and our business practices to comply with FERPA and its implementing regulations - this is part of why we get students' specific consent to use data they input or claim as a part of the application. All of our agreements, policies, processes, and terms have been carefully vetted against every aspect of the latest version of FERPA, and our legal team includes dedicated FERPA experts who ensure our system complies with - or exceeds - the highest standards and practices set forth by the law. Every Handshake employee gets trained on FERPA, data privacy, and system security when they start at the company, and regularly re-trained throughout their tenure with Handshake.
+
+
