@@ -1,0 +1,10 @@
+data,0.155361
+
+information,0.195327
+
+may,0.204461
+
+personal,0.267402
+
+privacy,0.177449
+
