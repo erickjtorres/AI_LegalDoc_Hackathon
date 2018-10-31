@@ -6,3 +6,4 @@
 * numpy
 * spacy (and english model)
 * nltk
+* textstat

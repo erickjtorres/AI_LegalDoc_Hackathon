@@ -97,23 +97,24 @@ def phrase_matcher(docs, lst_words, keyword=['personal data']):
     """Checks if a list of words relating to a keyword(s) are in a corpus and returns a dictionary
     with document ID as keys and a binary number as a value"""
     dict_ = {}
-    matcher = PhraseMatcher(nlp.vocab)
-    #keywords in this case is personal data
-    terminology_list = keyword
-    patterns = [nlp(text) for text in terminology_list]
-    matcher.add('TerminologyList',  *patterns)
+    pm = PhraseMatcher(nlp.vocab)
+    similar_wrds = find_similar(lst_words)
+
+    def found_match(matcher, doc, i, matches):
+        #looks at data because personal is not important in this case its an "amod" of data
+        if len(matches) > 0 and sent[matches[0][1]+1].head.text in similar_wrds:
+            dict_[iD] = 1
+    # terminology_list = keyword
+    patterns = [nlp('personal data')]
+    pm.add('TerminologyList', found_match, *patterns)
     for iD in docs:
         texts = nlp(docs[iD])
         for sent in texts.sents:
-            sent = sents.as_doc()
-            matches = matcher(sent)
-            #looks at data because personal is not important in this case its an "amod" of data
-            if len(matches) > 0 and sent[matches[0][1]+1].head.text in lst_words and (iD not in dict_ or dict_[iD] == 0):
-                dict_[iD] = 1
-            elif iD in dict_:
-                dict_[iD] = dict_[iD]
-            else:
+            if iD not in dict_:
                 dict_[iD] = 0
+            sent = sent.as_doc()
+            match = pm(sent)
+
     return dict_
 
 #helper function for find_associated
@@ -128,7 +129,7 @@ def find_associated(word, docs):
     associated = []
     matcher = PhraseMatcher(nlp.vocab)
     # terminology_list = []
-    patterns = nlp(word)
+    patterns = [nlp(word)]
     matcher.add('TerminologyList',*patterns)
 
     for iD in docs:
