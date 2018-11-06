@@ -36,7 +36,7 @@ def to_csv(docs, labels):
     with open('newcsv.csv', 'w', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(['iD', 'minor', 'geo-location', 'contact_email',
-                    'vendors', 'sell_personal', 'share_personal', 'Cookies', 'fog_index', 'avg_sentence_length',
+                    'vendors', 'sell_personal', 'share_personal', 'cookies', 'fog_index', 'avg_sentence_length',
                     'flesch_reading_ease', 'dale_chall_readability_score', 'Score'])
         for iD in docs:
             writer.writerow([iD, minor[iD], geo_location[iD], contact_email[iD], vendors[iD],
