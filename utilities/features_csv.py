@@ -2,15 +2,16 @@ import csv
 from utilities.feature_engineering import *
 # from utilities.feature_engineering import *
 
-def to_csv(docs, labels):
+def to_csv(docs, labels, csv_name):
     contact_email = find_emails(docs)
     minor = find_words(docs, 'minor')
     geo_location = find_words(docs, 'geo-location')
     vendors = find_words(docs, 'vendors')
     print('----Done Finding Words!----')
 
-    sell_words = ['sell', 'selling', 'sold', 'sale']
-    share_words = ['share','sharing', 'disclosing', 'discloses']
+    sell_words = ['sell', 'selling', 'sold', 'sale', 'furnishing', 'consent']
+    share_words = ['share','sharing', 'disclosing', 'discloses', 'public', 'provide','disclosure','transferred', 
+                    'disclose','disclosed','shares', 'shared', 'providing', 'transmitting', 'transmitted']
     # not_words = ['not', 'wouldn\'t', 'no', 'don\'t']
     sell_personal = phrase_matcher(docs, sell_words)
     share_personal = phrase_matcher(docs, share_words)
@@ -33,7 +34,7 @@ def to_csv(docs, labels):
     print('----Done Readability!----')
 
     #creating the csv file
-    with open('newcsv.csv', 'w', newline='') as f:
+    with open(csv_name + '.csv', 'w', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(['iD', 'minor', 'geo-location', 'contact_email',
                     'vendors', 'sell_personal', 'share_personal', 'cookies', 'fog_index', 'avg_sentence_length',

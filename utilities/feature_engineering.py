@@ -7,7 +7,6 @@ from nltk.corpus import wordnet
 from spacy.matcher import PhraseMatcher
 from utilities.readability import *
 
-
 nlp = spacy.load('en')
 #To-Do:
 #Add or remove stemming? --> perhaps words can appear in different plurals and forms
@@ -16,29 +15,32 @@ nlp = spacy.load('en')
 def find_words(docs, word):
     """finds if a word exists in the corpus and returns a
     dictionary with the id of the document as the key and a binary number as the value"""
-    dict = {}
-    regular = re.compile(r"\b" + re.escape(word) + r"\b", re.IGNORECASE)
-    #regular2 = re.compile(r'\bminors\b', re.IGNORECASE) --> add plurals or multiple words later
-    for iD in docs:
-        if (re.search(regular, docs[iD])):
-            dict[iD] = 1
-        else:
-            dict[iD] = 0
-    return dict
+    dict_ = {}
+    set_wrds = find_similar([word])
+    for word in set_wrds:
+        regular = re.compile(r"\b" + re.escape(word) + r"\b", re.IGNORECASE)
+        #regular2 = re.compile(r'\bminors\b', re.IGNORECASE) --> add plurals or multiple words later
+        for iD in docs:
+            if iD not in dict_ or (iD in dict_ and dict_[iD] == 0):
+                if (re.search(regular, docs[iD])):
+                    dict_[iD] = 1
+                else:
+                    dict_[iD] = 0
+    return dict_
 
 #perhaps the email isnt even the contact?
 def find_emails(docs):
     """finds if an email exists in the corpus and returns a
     dictionary with the id of the document as the key and a binary number as the value"""
-    dict = {}
+    dict_ = {}
     #this regular expression may need work
     regular = re.compile(r'[\w\.-]+@[\w\.-]+')
     for iD in docs:
         if (re.search(regular, docs[iD])):
-            dict[iD] = 1
+            dict_[iD] = 1
         else:
-            dict[iD] = 0
-    return dict
+            dict_[iD] = 0
+    return dict_
 
 #this function needs work! --> sometimes does not return the original word
 def find_similar(lst_words):
