@@ -10,8 +10,7 @@ def to_csv(docs, labels, csv_name):
     print('----Done Finding Words!----')
 
     sell_words = ['sell', 'selling', 'sold', 'sale', 'furnishing', 'consent']
-    share_words = ['share','sharing', 'disclosing', 'discloses', 'public', 'provide','disclosure','transferred', 
-                    'disclose','disclosed','shares', 'shared', 'providing', 'transmitting', 'transmitted']
+    share_words = ['share','sharing', 'disclosing', 'discloses', 'public', 'provide']
     # not_words = ['not', 'wouldn\'t', 'no', 'don\'t']
     sell_personal = phrase_matcher(docs, sell_words)
     share_personal = phrase_matcher(docs, share_words)
